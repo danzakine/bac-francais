@@ -1,0 +1,931 @@
+{
+ "id": "pere-goriot",
+ "accroche": "Un père qui se ruine pour ses filles, un étudiant pauvre qui veut conquérir Paris : Balzac dévoile la loi de l'argent.",
+ "identite": {
+  "auteur": "Honoré de Balzac (1799-1850) connaît d’abord des débuts difficiles : romans de jeunesse publiés sous pseudonyme, puis faillite d’une imprimerie qui le laisse endetté pour longtemps. Il travaille alors avec acharnement, souvent la nuit, en publiant roman sur roman. Avec Le Père Goriot (1835), il fait revenir de façon systématique des personnages d’un roman à l’autre (Rastignac, Vautrin, Bianchon). De là naît le projet de La Comédie humaine, immense ensemble de romans et de nouvelles qui veut peindre toute la société française de son temps. Dans l’Avant-propos de 1842, il explique qu’il veut être l’historien des mœurs, en se présentant plutôt comme le secrétaire qui enregistre ce que la société française lui dicte.",
+  "contexte": "L’action commence en 1819, sous la Restauration : après la chute de Napoléon, la monarchie est rétablie (Louis XVIII). L’ancienne noblesse (la vicomtesse de Beauséant) côtoie une bourgeoisie enrichie par le commerce et la banque (le banquier Nucingen, le père de Victorine Taillefer). L’argent devient la vraie puissance sociale. Pour un jeune homme pauvre comme Rastignac, les carrières militaires de l’Empire sont fermées : il faut trouver d’autres moyens de « parvenir ». Goriot, lui, a commencé sa fortune pendant la Révolution en vendant des farines très cher lors d’une disette, selon ce que raconte la duchesse de Langeais. Paris, capitale des ambitions, oppose le Quartier latin misérable (la pension Vauquer) aux beaux quartiers : le faubourg Saint-Germain de la vieille noblesse et la Chaussée-d’Antin des banquiers.",
+  "mouvement": "Le Père Goriot est un roman réaliste, l’un des textes fondateurs du genre en France. Balzac veut représenter la société de son temps avec exactitude : lieux réels (la rue Neuve-Sainte-Geneviève, le Père-Lachaise), descriptions minutieuses, personnages typiques (l’ambitieux, le père, le criminel, le banquier), rôle déterminant de l’argent et du milieu. Il l’affirme dès la première page : « All is true ». Mais ce réalisme garde une dimension romantique : personnages hors normes (Vautrin, révolté contre la société), passions extrêmes (l’amour paternel de Goriot), images grandioses (Goriot comparé au Christ, Paris comparé à un océan). C’est aussi un roman d’apprentissage : on suit la formation d’un jeune homme qui découvre le monde.",
+  "circonstances": "Balzac écrit Le Père Goriot en 1834 ; la dernière ligne du texte porte la mention « Saché, septembre 1834 » (Saché est le château de Touraine où il séjournait chez des amis). Le roman paraît d’abord en feuilleton dans la Revue de Paris, de la fin de 1834 au début de 1835, puis en volume en 1835. L’édition originale est divisée en quatre parties titrées (« Une pension bourgeoise », « L’entrée dans le monde », « Trompe-la-mort », « La mort du père ») ; les éditions ultérieures suppriment ce découpage. Le succès est immédiat. Le roman est dédié à Geoffroy Saint-Hilaire, le naturaliste dont Balzac admire la théorie de l’unité du monde vivant.",
+  "carriere": "Le Père Goriot est un tournant dans la carrière de Balzac. Le personnage de Rastignac existait déjà (il apparaît dans La Peau de chagrin, 1831), mais c’est avec ce roman que Balzac fait du retour des personnages un principe : Rastignac, Vautrin, Bianchon, les Nucingen reviendront dans de nombreuses œuvres. Vautrin réapparaît notamment dans Illusions perdues et Splendeurs et misères des courtisanes. Le roman est ensuite intégré à La Comédie humaine, dont le titre d’ensemble et l’Avant-propos datent de 1842. Il reste aujourd’hui l’un des romans les plus lus de Balzac."
+ },
+ "resumeCourt": "En 1819, dans une sordide pension parisienne tenue par Mme Vauquer, vivent des personnages très différents : le vieux père Goriot, ancien fabricant de vermicelles, moqué de tous ; Vautrin, un homme mystérieux et inquiétant ; et Eugène de Rastignac, jeune noble pauvre venu d'Angoulême étudier le droit. Ébloui par le luxe des salons, Rastignac veut réussir dans le monde. Il découvre que Goriot s'est ruiné pour ses deux filles, Anastasie de Restaud et Delphine de Nucingen, mariées dans la haute société et qui ont honte de lui. Sa cousine, Mme de Beauséant, puis Vautrin lui donnent chacun une leçon de cynisme sur les moyens de « parvenir ». Rastignac devient l'amant de Delphine, refuse le crime que lui propose Vautrin, qui est finalement arrêté : c'est un forçat évadé. Épuisé par les exigences de ses filles, Goriot meurt abandonné ; seuls Rastignac et un étudiant en médecine l'accompagnent au cimetière. Du haut du Père-Lachaise, Rastignac lance à Paris son défi : « À nous deux maintenant ! »",
+ "resume": [
+  {
+   "titre": "Partie I : la pension Vauquer et ses pensionnaires",
+   "texte": "Le roman s'ouvre sur une longue description de la pension bourgeoise de Mme Vauquer, rue Neuve-Sainte-Geneviève, dans un quartier triste de Paris. Tout y respire la misère : l'odeur « de pension », les meubles usés, la nourriture médiocre. Balzac présente ensuite les pensionnaires : la jeune Victorine Taillefer, déshéritée par son père banquier, et Mme Couture ; le vieux Poiret et Mlle Michonneau ; Vautrin, quadragénaire jovial et puissant ; l'étudiant Rastignac ; et le père Goriot, devenu la tête de Turc de la pension depuis qu'il s'appauvrit d'année en année."
+  },
+  {
+   "titre": "Partie I : les débuts de Rastignac dans le monde",
+   "texte": "Grâce à sa cousine, la vicomtesse de Beauséant, Rastignac est reçu dans un grand bal où il est fasciné par la comtesse Anastasie de Restaud. Mais en lui rendant visite, il commet une gaffe : il prononce le nom du père Goriot, qu'il a vu sortir de chez elle. On ne le reçoit plus. Mme de Beauséant lui révèle le secret : Anastasie et sa sœur Delphine, baronne de Nucingen, sont les filles de Goriot, et elles ont fermé leur porte à ce père devenu gênant."
+  },
+  {
+   "titre": "Partie I : le secret du père Goriot",
+   "texte": "Ancien vermicellier enrichi pendant la Révolution, Goriot a donné presque toute sa fortune en dot à ses filles pour qu’elles fassent de beaux mariages. Depuis, il vend peu à peu ce qui lui reste pour payer leurs dettes : Rastignac le surprend la nuit en train de tordre un plat et une soupière en vermeil pour les convertir en lingots. Mme de Beauséant, elle-même sur le point d’être abandonnée par son amant, enseigne à Rastignac la loi du monde : « Frappez sans pitié, vous serez craint. »"
+  },
+  {
+   "titre": "Partie II : le discours de Vautrin",
+   "texte": "Rastignac demande de l’argent à sa mère et à ses sœurs, qui se privent pour lui envoyer quinze cents francs. Vautrin, qui a deviné son ambition, lui fait un long discours : à Paris, on ne réussit pas par le travail mais « par l’éclat du génie ou par l’adresse de la corruption ». Il lui propose un marché : épouser Victorine Taillefer, dont il fera tuer le frère en duel pour qu’elle hérite de la fortune paternelle, contre une commission. Rastignac refuse, troublé : « vous me ferez douter de moi-même »."
+  },
+  {
+   "titre": "Parties II-III : Rastignac et Delphine",
+   "texte": "Rastignac se rapproche de Delphine de Nucingen, délaissée par son mari, un riche banquier, et par son amant. À sa demande, il joue cent francs à la roulette et rapporte sept mille deux cents francs. Le père Goriot, ravi de voir sa fille aimée, devient le complice de leur liaison et fait meubler pour eux un appartement rue d’Artois, où il espère vivre près d’elle."
+  },
+  {
+   "titre": "Partie III : la chute de Vautrin",
+   "texte": "Vautrin met son plan à exécution : le frère de Victorine doit être tué en duel par le colonel Franchessini. Rastignac veut prévenir la famille, mais Vautrin l’endort avec un vin drogué. Pendant ce temps, la police a acheté la complicité de Mlle Michonneau, chargée de faire boire à Vautrin une drogue pour vérifier qu’il porte sur l’épaule la marque des forçats. Vautrin est en réalité Jacques Collin, dit Trompe-la-Mort, forçat évadé du bagne de Toulon : il est arrêté devant tous les pensionnaires, le jour même où l’on apprend la mort du jeune Taillefer."
+  },
+  {
+   "titre": "Partie IV : la ruine de Goriot",
+   "texte": "Les deux filles viennent tour à tour réclamer de l'argent à leur père : Delphine découvre que son mari a bloqué sa fortune ; Anastasie a vendu les diamants de la famille Restaud pour payer les dettes de son amant, Maxime de Trailles. Elles se disputent violemment devant leur père, qui s'effondre, frappé d'une attaque. Le même soir, Mme de Beauséant donne son dernier bal avant de quitter Paris pour toujours, et Delphine s'y rend malgré l'état de son père."
+  },
+  {
+   "titre": "Partie IV : l’agonie et la mort de Goriot",
+   "texte": "Soigné par Rastignac et son ami l’étudiant en médecine Bianchon, Goriot agonise en réclamant ses filles, qui ne viennent pas. Dans un long délire, il passe de la colère à l’adoration, reconnaît qu’elles ne l’aiment pas, puis les excuse. Dans un dernier sursaut, il saisit par les cheveux les têtes des deux étudiants en croyant tenir ses filles (« Ah ! mes anges ! »), puis perd conscience. Anastasie arrive trop tard : son père ne la reconnaît plus, et il meurt peu après."
+  },
+  {
+   "titre": "Partie IV : l’enterrement et le défi",
+   "texte": "Les filles n’envoient au cimetière du Père-Lachaise que les voitures armoriées de leurs maris, « mais vides ». Rastignac, qui a payé avec Bianchon un enterrement de pauvre, suit le convoi avec Christophe, le domestique de la pension ; il doit même lui emprunter vingt sous pour les fossoyeurs. Il verse sur la tombe sa « dernière larme de jeune homme ». Il regarde Paris, où vit « ce beau monde » qu’il veut conquérir, et lance : « À nous deux maintenant ! » Puis il va dîner chez Mme de Nucingen."
+  }
+ ],
+ "structure": "Le roman a d’abord été publié en quatre parties titrées (« Une pension bourgeoise », « L’entrée dans le monde », « Trompe-la-mort », « La mort du père »), découpage que reprend le texte intégral du site ; l’édition définitive le supprime. La progression est très nette. Une longue exposition (la description de la pension et de ses habitants) installe le décor et les mystères. L’action suit ensuite trois fils qui se croisent : l’histoire de Goriot (le secret de ses filles, sa ruine, sa mort), celle de Vautrin (la tentation, puis l’arrestation) et celle de Rastignac, qui fait le lien entre tous les milieux. Le roman circule entre deux mondes opposés : la pension misérable du Quartier latin et les salons luxueux du faubourg Saint-Germain et de la Chaussée-d’Antin. Le dénouement rapproche la chute de Vautrin, le départ de Mme de Beauséant et la mort de Goriot : Rastignac, privé de ses trois « maîtres », se retrouve seul face à Paris. La fin est ouverte : le défi final annonce la suite de son parcours dans La Comédie humaine.",
+ "personnages": [
+  {
+   "nom": "Eugène de Rastignac",
+   "role": "Jeune noble pauvre d'Angoulême, venu à Paris faire son droit. Ambitieux, sensible, il hésite entre la morale apprise en famille et les leçons cyniques du monde. Le roman raconte son éducation : il perd ses illusions et finit par défier Paris. Il reparaîtra dans La Comédie humaine en homme riche et puissant.",
+   "relations": "Neveu par alliance et protégé de Mme de Beauséant ; voisin et confident de Goriot ; cible de Vautrin, qui veut en faire son complice ; amant de Delphine ; ami de Bianchon. Sa famille (mère, sœurs) se sacrifie pour lui."
+  },
+  {
+   "nom": "Le père Goriot",
+   "role": "Ancien vermicellier enrichi, il a tout sacrifié à ses deux filles. Moqué à la pension, il incarne la passion paternelle poussée jusqu’à l’aveuglement et à l’autodestruction. Le narrateur le désigne comme un « Christ de la paternité » : il est la victime d’une société où l’argent a remplacé les liens du cœur.",
+   "relations": "Père d’Anastasie et de Delphine, qu’il idolâtre ; tête de Turc des pensionnaires ; Rastignac devient pour lui une sorte de fils, puisqu’il aime Delphine."
+  },
+  {
+   "nom": "Vautrin (Jacques Collin, dit Trompe-la-Mort)",
+   "role": "Pensionnaire jovial et inquiétant, il est en réalité un forçat évadé. Il démasque l'hypocrisie sociale avec lucidité et propose à Rastignac un pacte criminel. Figure du tentateur, presque diabolique, il est aussi un révolté contre la société.",
+   "relations": "Tentateur de Rastignac ; manipule le destin de Victorine Taillefer ; trahi par Mlle Michonneau et Poiret, qui le livrent à la police."
+  },
+  {
+   "nom": "Anastasie de Restaud",
+   "role": "Fille aînée de Goriot, mariée à un comte. Passionnée par son amant Maxime de Trailles, elle se ruine et ruine son père pour lui.",
+   "relations": "Fille aînée de Goriot, épouse du comte de Restaud, maîtresse de Maxime de Trailles ; rivale de sa sœur Delphine."
+  },
+  {
+   "nom": "Delphine de Nucingen",
+   "role": "Fille cadette de Goriot, mariée à un banquier alsacien qui contrôle sa fortune. Elle devient la maîtresse de Rastignac. Plus tendre que sa sœur, elle sacrifie pourtant son père à sa vie mondaine.",
+   "relations": "Fille cadette de Goriot, épouse du baron de Nucingen, maîtresse de Rastignac ; jalouse de sa sœur, mieux reçue qu’elle dans le monde des banquiers mais pas dans le faubourg Saint-Germain."
+  },
+  {
+   "nom": "La vicomtesse de Beauséant",
+   "role": "Cousine de Rastignac, grande dame du faubourg Saint-Germain. Elle lui ouvre les portes du monde et lui en dévoile les règles cruelles. Abandonnée par le marquis d'Ajuda-Pinto, elle quitte Paris avec dignité après un dernier bal.",
+   "relations": "Parente de Rastignac (il la présente comme « une cousine à moi »), qui le reçoit grâce aux souvenirs de sa tante, Mme de Marcillac ; elle l’introduit dans le monde ; elle est abandonnée par le marquis d’Ajuda-Pinto."
+  },
+  {
+   "nom": "Madame Vauquer",
+   "role": "Veuve avare qui tient la pension. Balzac fait d’elle l’image même de son établissement : « toute sa personne explique la pension, comme la pension implique la personne ».",
+   "relations": "Logeuse de tous les pensionnaires ; elle rêve d’abord d’épouser Goriot quand il paraît riche, puis le méprise quand il s’appauvrit."
+  },
+  {
+   "nom": "Horace Bianchon",
+   "role": "Étudiant en médecine, ami de Rastignac. Généreux et honnête, il soigne Goriot jusqu'au bout et paie avec Rastignac son enterrement.",
+   "relations": "Ami de Rastignac, qui prend ses repas à la pension ; soigne Goriot avec lui et l’aide à payer l’enterrement."
+  },
+  {
+   "nom": "Victorine Taillefer, Mlle Michonneau, Poiret",
+   "role": "Pensionnaires secondaires : Victorine est la jeune fille déshéritée que Vautrin veut faire épouser à Rastignac ; Mlle Michonneau et Poiret, êtres mesquins, livrent Vautrin à la police pour de l'argent.",
+   "relations": "Victorine, déshéritée par son père, est protégée par Mme Couture ; Mlle Michonneau et Poiret forment un couple de vieux pensionnaires qui trahissent Vautrin."
+  }
+ ],
+ "evolution": "Rastignac est le personnage qui évolue le plus. Étudiant pauvre et sincère au début, il commet une gaffe chez Mme de Restaud, puis apprend les règles du monde grâce à Mme de Beauséant et aux discours de Vautrin. Il hésite longtemps : il accepte l’argent de sa famille et la liaison avec Delphine, mais refuse le crime. La mort de Goriot achève son éducation : il verse sa « dernière larme de jeune homme » et choisit la lutte (« À nous deux maintenant ! »). Goriot, lui, ne change pas de passion, mais il passe de l’aveuglement à une lucidité tardive pendant son agonie, avant de retomber dans l’illusion à son dernier souffle (« il se trompait encore », dit le narrateur). Vautrin passe du statut de pensionnaire jovial à celui de forçat démasqué ; Mme de Beauséant, de reine des salons à femme abandonnée qui quitte Paris. Les situations évoluent toutes vers la chute, ce qui donne au roman sa couleur tragique.",
+ "themes": [
+  {
+   "titre": "L'ambition et l'apprentissage",
+   "texte": "Rastignac arrive à Paris avec des principes et des illusions. Il reçoit trois leçons : celle de Mme de Beauséant (« Frappez sans pitié, vous serez craint »), celle de Vautrin (« Il n’y a pas de principes, il n’y a que des événements ») et celle, muette, de la mort de Goriot. Le roman est un roman d’apprentissage : le héros perd son innocence et verse sur la tombe sa « dernière larme de jeune homme »."
+  },
+  {
+   "titre": "L'argent, nouveau maître de la société",
+   "texte": "Tout se mesure en francs : la pension coûte plus ou moins cher selon l’étage, Goriot est respecté tant qu’il est riche puis méprisé, ses filles ne viennent le voir que pour obtenir de l’argent. Vautrin résume : « Le secret des grandes fortunes sans cause apparente est un crime oublié, parce qu’il a été proprement fait. » Même la religion a un prix : à l’enterrement, les prêtres donnent « tout ce qu’on peut avoir pour soixante-dix francs », et le service dure vingt minutes."
+  },
+  {
+   "titre": "La paternité sacrifiée",
+   "texte": "Goriot aime ses filles d’un amour absolu qui le détruit. Le narrateur le compare au Christ (« ce Christ de la paternité ») : il donne tout, jusqu’à sa vie. Mais ses filles, qu’il a gâtées, l’abandonnent. Dans son agonie, il reconnaît : « Mes filles, c’était mon vice à moi », et proclame que « La patrie périra si les pères sont foulés aux pieds ». Le roman montre une société qui détruit les liens familiaux."
+  },
+  {
+   "titre": "Paris, ville-monde et ville-jungle",
+   "texte": "Paris est à la fois un lieu de rêve et un champ de bataille. Le narrateur le compare à « un véritable océan » dont on ne connaîtra jamais la profondeur. Vautrin affirme que les jeunes ambitieux doivent se manger les uns les autres « comme des araignées dans un pot ». Le roman oppose le Quartier latin, misérable, et les beaux quartiers, lieux du pouvoir, entre « la colonne de la place Vendôme et le dôme des Invalides » que Rastignac contemple à la fin."
+  },
+  {
+   "titre": "Le Mal et la corruption",
+   "texte": "Vautrin incarne une figure du tentateur qui démasque l’hypocrisie : selon lui, les gens du monde commettent des crimes légaux, plus lâches que les siens. Après les drames, Rastignac voit le monde « comme un océan de boue » et pense que « Vautrin est plus grand » que les gens honnêtes en apparence. Balzac montre une société où la frontière entre honnêtes gens et criminels est floue."
+  },
+  {
+   "titre": "Le réalisme : décrire pour expliquer",
+   "texte": "Les descriptions de Balzac ne sont pas des ornements : elles expliquent les personnages. La pension sent « le renfermé, le moisi, le rance », et Mme Vauquer lui ressemble tant que « toute sa personne explique la pension, comme la pension implique la personne ». Le milieu façonne les êtres, idée que Balzac développera dans l’Avant-propos de La Comédie humaine en comparant les types sociaux aux espèces animales."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment réussir dans une société où l’argent a remplacé l’honneur et les sentiments ?",
+   "Peut-on rester honnête en entrant dans le monde ? (le dilemme de Rastignac entre la Famille, le Monde et Vautrin)",
+   "Que devient l’amour paternel quand il se transforme en passion aveugle et en commerce ?",
+   "Comment un roman peut-il donner l’impression du vrai tout en grandissant ses personnages jusqu’au mythe ?"
+  ],
+  "intentions": "Balzac affirme lui-même, dès la première page, que son récit n’est pas une invention : « ce drame n’est ni une fiction ni un roman. All is true » (partie I). Il interpelle un lecteur insensible qui lit « d’une main blanche » au fond d’un fauteuil, pour le forcer à reconnaître la vérité de cette histoire « chez soi, dans son cœur peut-être ». Plus tard, dans l’Avant-propos de La Comédie humaine (1842), il expliquera qu’il veut décrire la société comme un naturaliste décrit les espèces animales : ce texte, postérieur au roman, éclaire après coup son projet. La dédicace à Geoffroy Saint-Hilaire, figurant dans le texte du site, va dans le même sens.",
+  "procedes": [
+   {
+    "nom": "La description explicative",
+    "explication": "La description du décor explique le caractère des personnages : objets usés, odeurs, couleurs révèlent la misère morale et sociale.",
+    "exemple": "L’« odeur de pension » : « Elle sent le renfermé, le moisi, le rance » (partie I) ; Mme Vauquer, en harmonie avec la salle à manger où « suinte le malheur »."
+   },
+   {
+    "nom": "Le narrateur omniscient et commentateur",
+    "explication": "Le narrateur sait tout, interpelle le lecteur et formule des vérités générales sur la société parisienne.",
+    "exemple": "« Mais Paris est un véritable océan. Jetez-y la sonde, vous n’en connaîtrez jamais la profondeur. » (partie I)"
+   },
+   {
+    "nom": "Les maximes et le présent de vérité générale",
+    "explication": "Mme de Beauséant et Vautrin parlent par sentences frappantes qui réduisent la société à des lois cyniques.",
+    "exemple": "« Frappez sans pitié, vous serez craint » (partie I) ; « Il n’y a pas de principes, il n’y a que des événements » (partie II)."
+   },
+   {
+    "nom": "Les comparaisons et métaphores animales",
+    "explication": "Elles ramènent la vie sociale à une lutte pour la survie, comme dans la nature.",
+    "exemple": "Les ambitieux doivent se manger « comme des araignées dans un pot » ; Mme Vauquer est « dodue comme un rat d’église » ; Paris est une « ruche bourdonnante »."
+   },
+   {
+    "nom": "L’hyperbole et l’image religieuse",
+    "explication": "Balzac grandit son personnage jusqu’au mythe : le père sacrifié devient une figure christique.",
+    "exemple": "« Pour bien peindre la physionomie de ce Christ de la paternité » (partie III)."
+   },
+   {
+    "nom": "Le discours direct pathétique",
+    "explication": "L’agonie de Goriot est rendue par un long monologue haché, plein d’exclamations, qui fait entendre la douleur et le délire.",
+    "exemple": "« Envoyez-les chercher par la gendarmerie, de force ! » ; « La patrie périra si les pères sont foulés aux pieds. » (partie IV)"
+   }
+  ],
+  "style": "Le style de Balzac est abondant : longues phrases, énumérations (le mobilier « vieux, crevassé, pourri, tremblant, rongé, manchot, borgne, invalide, expirant »), précision des chiffres et des objets. Le narrateur intervient sans cesse pour expliquer et généraliser. Les dialogues sont vivants et marqués socialement : la langue familière et gouailleuse de Vautrin, les plaisanteries des pensionnaires qui ajoutent « rama » à tous les mots (« santérama », « froitorama »). Les images (océan, boue, ruche, Christ) donnent une dimension épique et symbolique au récit.",
+  "registres": [
+   {
+    "nom": "Réaliste",
+    "explication": "Description minutieuse des lieux, des objets et de l’argent (prix de la pension, dots, dettes, sommes gagnées à la roulette)."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "L’agonie et l’enterrement de Goriot cherchent à émouvoir : père abandonné, voitures « mais vides », « dernière larme de jeune homme »."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Portraits caricaturaux des pensionnaires (Mme Vauquer, Poiret, Mlle Michonneau) et critique d’un monde où tout s’achète."
+   },
+   {
+    "nom": "Épique et tragique",
+    "explication": "Vautrin, figure de révolté presque démoniaque ; Goriot, victime d’une passion fatale ; le défi final lancé à toute une ville."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le roman est une critique d’une société dominée par l’argent : les liens familiaux y sont détruits par les intérêts financiers.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Goriot est souvent rapproché du roi Lear de Shakespeare, autre père abandonné par ses filles ; le rapprochement est classique, mais Balzac ne le revendique pas dans le roman.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le défi final est-il un choix de la corruption (Rastignac part dîner chez Delphine, femme du banquier) ou l’énergie d’un jeune homme qui veut dominer la société sans crime ? La fin ouverte laisse le lecteur juger.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Vautrin peut se lire comme une figure du diable tentateur, mais aussi comme un porte-parole lucide de la vérité sociale que le narrateur partage en partie.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Rastignac voit la société comme partagée entre trois voies : « l’Obéissance, la Lutte et la Révolte ; la Famille, le Monde et Vautrin » (partie IV). Le roman est construit autour de ce choix.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Le Père Goriot illustre les principes du réalisme : ancrage historique précis (1819, la Restauration), lieux réels, importance de l’argent et du milieu, personnages-types. Il annonce le roman réaliste et naturaliste de la seconde moitié du siècle (Flaubert, Maupassant, Zola), qui reprendra le motif du jeune ambitieux à la conquête de Paris. Mais il reste marqué par le romantisme de son époque (années 1830) : goût des passions extrêmes, des personnages hors normes et des effets de mélodrame (le vin drogué, l’arrestation spectaculaire, l’agonie)."
+ },
+ "citations": [
+  {
+   "texte": "Ah ! sachez-le : ce drame n’est ni une fiction ni un roman. All is true",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I, « Une pension bourgeoise » (première page)",
+   "situation": "Avant même de décrire la pension, le narrateur s’adresse au lecteur, qu’il imagine confortablement installé et indifférent.",
+   "sens": "Le narrateur affirme que l’histoire est vraie (« All is true », « tout est vrai » en anglais) et que chacun peut la reconnaître autour de soi.",
+   "procedes": "Apostrophe au lecteur, impératif, négation (« ni… ni »), formule anglaise frappante.",
+   "demontre": "Le pacte de lecture réaliste : le roman prétend dire la vérité de la société.",
+   "usage": "Indispensable pour une dissertation sur le réalisme ou pour présenter l’incipit à l’oral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale",
+    "note": "Ponctuation de l’édition du site (pas de virgule avant « ni un roman »)."
+   }
+  },
+  {
+   "texte": "Elle sent le renfermé, le moisi, le rance",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I, « Une pension bourgeoise » (description du salon de la pension)",
+   "situation": "Description de la première pièce de la pension et de « l’odeur de pension ».",
+   "sens": "L’odeur de la pension est celle de la misère et de la négligence.",
+   "procedes": "Rythme ternaire, vocabulaire des sensations olfactives, gradation péjorative.",
+   "demontre": "La description réaliste fait percevoir physiquement un milieu social.",
+   "usage": "Exemple type de description réaliste et sensorielle.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "toute sa personne explique la pension, comme la pension implique la personne",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I, « Une pension bourgeoise » (portrait de Mme Vauquer)",
+   "situation": "Portrait de Mme Vauquer entrant dans la salle à manger, précédée de son chat.",
+   "sens": "La logeuse et sa pension se ressemblent : l’une explique l’autre.",
+   "procedes": "Chiasme (personne / pension // pension / personne), parallélisme.",
+   "demontre": "Le principe balzacien selon lequel le milieu façonne l’individu.",
+   "usage": "Pour la dissertation sur le réalisme et pour tout commentaire de portrait.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale",
+    "note": "La fiche v1 citait « implique sa personne » : le texte porte « implique la personne »."
+   }
+  },
+  {
+   "texte": "Mais Paris est un véritable océan. Jetez-y la sonde, vous n’en connaîtrez jamais la profondeur.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I, « Une pension bourgeoise » (présentation des pensionnaires)",
+   "situation": "Après le portrait de Poiret, le narrateur évoque les figures inconnues que cache la capitale.",
+   "sens": "Paris est immense et mystérieux ; il reste toujours des vies à découvrir.",
+   "procedes": "Métaphore filée de l’océan, impératif adressé au lecteur, présent de vérité générale.",
+   "demontre": "L’ambition du romancier d’explorer toute la société parisienne.",
+   "usage": "Pour parler de Paris comme personnage du roman ou du projet de La Comédie humaine.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Frappez sans pitié, vous serez craint.",
+   "locuteur": "Mme de Beauséant",
+   "reference": "Partie I, « Une pension bourgeoise » (leçon de Mme de Beauséant à Rastignac)",
+   "situation": "Blessée par l’abandon de son amant, Mme de Beauséant explique à son jeune cousin les règles du monde.",
+   "sens": "Pour réussir, il faut être dur et calculateur ; la sensibilité est une faiblesse.",
+   "procedes": "Maxime, impératif, parallélisme cause-conséquence, asyndète.",
+   "demontre": "La première leçon de cynisme reçue par Rastignac, venue de la haute société elle-même.",
+   "usage": "Pour l’apprentissage de Rastignac et la critique de la société.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Parvenir ! parvenir à tout prix.",
+   "locuteur": "Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » (discours de Vautrin)",
+   "situation": "Vautrin explique à Rastignac qu’il a lu son ambition sur son front après ses visites chez les grandes dames.",
+   "sens": "Le désir de Rastignac est de réussir socialement, quel qu’en soit le prix moral.",
+   "procedes": "Phrase nominale, répétition, exclamation.",
+   "demontre": "L’ambition comme moteur du héros et du roman.",
+   "usage": "Pour définir le personnage de Rastignac et le thème de l’ambition.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Il faut vous manger les uns les autres comme des araignées dans un pot",
+   "locuteur": "Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » (discours de Vautrin)",
+   "situation": "Vautrin chiffre la concurrence : cinquante mille jeunes gens veulent faire fortune.",
+   "sens": "La société est une lutte sans merci où chacun doit éliminer les autres.",
+   "procedes": "Comparaison animale, vocabulaire de la dévoration.",
+   "demontre": "La vision de la société comme jungle, où la loi du plus fort remplace la morale.",
+   "usage": "Pour une analyse de la vision sociale du roman.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Savez-vous comment on fait son chemin ici ? Par l’éclat du génie ou par l’adresse de la corruption.",
+   "locuteur": "Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » (discours de Vautrin)",
+   "situation": "Suite immédiate du discours de Vautrin sur la concurrence parisienne.",
+   "sens": "Il n’y a que deux moyens de réussir : le génie, rare, ou la corruption, accessible à tous.",
+   "procedes": "Question rhétorique, alternative, parallélisme (« l’éclat du génie » / « l’adresse de la corruption »).",
+   "demontre": "Le cœur de la tentation : le travail honnête est exclu des voies de réussite.",
+   "usage": "Pour le commentaire du discours de Vautrin.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Il n’y a pas de principes, il n’y a que des événements",
+   "locuteur": "Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » (discours de Vautrin)",
+   "situation": "Vautrin justifie l’absence de morale de l’« homme supérieur ».",
+   "sens": "La morale fixe n’existe pas ; seul compte l’art de s’adapter aux circonstances.",
+   "procedes": "Maxime, parallélisme, négation restrictive.",
+   "demontre": "Le relativisme moral que Vautrin cherche à transmettre.",
+   "usage": "Pour opposer Vautrin à la morale familiale de Rastignac.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Le secret des grandes fortunes sans cause apparente est un crime oublié, parce qu’il a été proprement fait.",
+   "locuteur": "Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » (fin du discours de Vautrin)",
+   "situation": "Dernier argument de Vautrin avant que Rastignac ne l’interrompe.",
+   "sens": "Les fortunes respectables cachent souvent des crimes restés impunis.",
+   "procedes": "Maxime au présent de vérité générale, ironie de l’adverbe « proprement ».",
+   "demontre": "La dénonciation de l’hypocrisie sociale : criminels et gens riches se ressemblent.",
+   "usage": "Pour le thème de l’argent et de la corruption.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Pour bien peindre la physionomie de ce Christ de la paternité",
+   "locuteur": "Le narrateur",
+   "reference": "Partie III, « Trompe-la-mort » (Goriot étreignant Delphine)",
+   "situation": "Goriot, fou de joie, serre Delphine si fort qu’il lui fait mal ; le narrateur commente son visage.",
+   "sens": "La souffrance de Goriot ressemble à la Passion du Christ.",
+   "procedes": "Métaphore religieuse, référence à la peinture (« les princes de la palette »).",
+   "demontre": "Balzac transforme un vieux vermicellier en figure sacrée du sacrifice : réalisme et mythe se mêlent.",
+   "usage": "Pour montrer la dimension épique ou romantique du réalisme balzacien.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale",
+    "note": "Le site porte « paternité » sans majuscule ; d’autres éditions écrivent « Paternité »."
+   }
+  },
+  {
+   "texte": "Il voyait le monde comme un océan de boue dans lequel un homme se plongeait jusqu’au cou, s’il y trempait le pied.",
+   "locuteur": "Le narrateur (pensées de Rastignac)",
+   "reference": "Partie IV, « La mort du père »",
+   "situation": "Rastignac vient de voir Delphine préférer le bal de Mme de Beauséant à son père mourant.",
+   "sens": "Le monde est une corruption qui engloutit celui qui y entre, même un peu.",
+   "procedes": "Comparaison, métaphore de la boue, hyperbole.",
+   "demontre": "La perte des illusions de Rastignac.",
+   "usage": "Pour l’apprentissage du héros et la vision morale du roman.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "Mes filles, c’était mon vice à moi",
+   "locuteur": "Goriot",
+   "reference": "Partie IV, « La mort du père » (agonie de Goriot)",
+   "situation": "Délire de Goriot mourant, qui comprend que ses filles l’ont exploité.",
+   "sens": "Goriot reconnaît que son amour paternel était une passion excessive, comparable à celle du joueur.",
+   "procedes": "Métaphore du « vice », tournure emphatique (« à moi »).",
+   "demontre": "La lucidité tardive du père et l’ambiguïté de son amour.",
+   "usage": "Pour la paternité comme passion destructrice.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "La patrie périra si les pères sont foulés aux pieds.",
+   "locuteur": "Goriot",
+   "reference": "Partie IV, « La mort du père » (agonie de Goriot)",
+   "situation": "Goriot réclame qu’on aille chercher ses filles de force.",
+   "sens": "Le mépris des pères menace toute la société.",
+   "procedes": "Hyperbole, futur prophétique, élargissement du drame privé à la nation.",
+   "demontre": "Le drame d’un père devient une critique de la société entière.",
+   "usage": "Pour le commentaire de l’agonie et le thème de la famille.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "il regarda la tombe et y ensevelit sa dernière larme de jeune homme",
+   "locuteur": "Le narrateur",
+   "reference": "Partie IV, « La mort du père » (dernière page)",
+   "situation": "Seul au Père-Lachaise après l’enterrement, Rastignac pleure Goriot.",
+   "sens": "Rastignac enterre en même temps Goriot et sa propre innocence.",
+   "procedes": "Métaphore (« ensevelit » une larme), symbolique du crépuscule.",
+   "demontre": "La fin de l’apprentissage : le jeune homme devient un homme décidé.",
+   "usage": "Pour l’excipit et le roman d’apprentissage.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale"
+   }
+  },
+  {
+   "texte": "À nous deux maintenant !",
+   "locuteur": "Rastignac",
+   "reference": "Partie IV, « La mort du père » (dernière page)",
+   "situation": "Du haut du cimetière, Rastignac contemple le Paris des beaux quartiers.",
+   "sens": "Rastignac défie la société parisienne qu’il veut conquérir.",
+   "procedes": "Exclamation, discours direct, adverbe de temps marquant une rupture.",
+   "demontre": "La fin ouverte du roman et l’entrée du héros dans le combat social.",
+   "usage": "Citation incontournable pour l’oral et la dissertation sur le personnage.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Le Père Goriot, éd. Calmann-Lévy, 1910 (Wikisource), découpage en quatre parties de l’édition originale",
+    "note": "Graphie du site : « À » accentué (la fiche v1 écrivait « A »)."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "L'ambition et la conquête de Paris : naissance du roman d'apprentissage",
+  "explication": "Aucune liste d’œuvres n’est imposée au programme national de seconde : le parcours présenté ici est un parcours pédagogique proposé par cette fiche, et votre professeur a pu en choisir un autre. Il s’inscrit dans l’objet d’étude « Le roman et le récit du XVIIIe au XXIe siècle », qui invite à étudier la construction d’un personnage et son rapport au monde. Le Père Goriot est un modèle du roman d’apprentissage au XIXe siècle : un jeune homme venu de province découvre Paris, ses tentations et ses règles cachées. Le lecteur suit son évolution, de l’étudiant naïf qui commet une gaffe chez Mme de Restaud au jeune homme qui défie la ville du haut du cimetière.\n\nCe parcours permet d’étudier la manière dont Balzac construit le personnage par ses rencontres. Chaque « maître » représente une voie possible : Mme de Beauséant (la réussite par le calcul et les femmes), Vautrin (la réussite par le crime), Goriot et Bianchon (le sentiment et l’honnêteté, qui semblent condamnés). Rastignac doit choisir, et la fin laisse la question ouverte.\n\nEnfin, le roman montre l’importance du cadre réaliste : Paris n’est pas un simple décor mais une force qui transforme les personnages. Le motif du jeune ambitieux qui veut conquérir Paris traverse ensuite le roman du XIXe siècle, chez Stendhal, Flaubert, Maupassant ou Zola.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Rouge et le Noir (1830)",
+    "auteur": "Stendhal",
+    "interet": "Julien Sorel, fils de charpentier, veut s'élever socialement par l'hypocrisie et la séduction : un autre jeune ambitieux de la Restauration, à comparer avec Rastignac."
+   },
+   {
+    "titre": "Avant-propos de La Comédie humaine (1842)",
+    "auteur": "Honoré de Balzac",
+    "interet": "Balzac y explique son projet (texte de 1842, postérieur au roman) : peindre la société en comparant les types humains aux espèces animales décrites par les naturalistes. Utile pour comprendre le réalisme du Père Goriot."
+   },
+   {
+    "titre": "Bel-Ami (1885)",
+    "auteur": "Guy de Maupassant",
+    "interet": "Georges Duroy conquiert Paris par le journalisme et les femmes, sans aucun scrupule : un Rastignac de la fin du siècle, plus cynique encore."
+   },
+   {
+    "titre": "La Curée (1871)",
+    "auteur": "Émile Zola",
+    "interet": "Sous le Second Empire, Aristide Saccard bâtit sa fortune sur la spéculation immobilière : l'argent et l'ambition parisienne vus par le naturalisme."
+   },
+   {
+    "titre": "Le Roi Lear (vers 1606)",
+    "auteur": "William Shakespeare",
+    "interet": "Un vieux roi partage son royaume entre ses filles, qui l'abandonnent : la tragédie de la paternité trahie, souvent rapprochée du destin de Goriot."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le roman raconte l’éducation d’un jeune homme : Rastignac perd ses illusions au contact de Paris.",
+   "L’argent est la loi de la société de la Restauration : il détruit la famille et corrompt la morale.",
+   "Goriot est un père sublime et aveugle : son amour est à la fois sacrifice et « vice ».",
+   "Vautrin révèle la vérité cachée du monde : honnêtes gens et criminels ne diffèrent que par l’hypocrisie.",
+   "La description réaliste explique les personnages par leur milieu.",
+   "Le réalisme de Balzac est grandi par des images épiques et religieuses."
+  ],
+  "axes": [
+   "Un roman d’apprentissage : les trois leçons de Rastignac (Beauséant, Vautrin, Goriot).",
+   "Une peinture réaliste de la société : lieux, argent, milieux sociaux opposés.",
+   "La tragédie de la paternité : grandeur et aveuglement de Goriot.",
+   "Une vision noire et épique du monde : Paris océan, jungle et « océan de boue »."
+  ],
+  "problematiques": [
+   "Comment Balzac fait-il de l’histoire d’un étudiant pauvre le récit d’une éducation à la dureté du monde ?",
+   "En quoi Le Père Goriot est-il à la fois un roman réaliste et un roman aux dimensions mythiques ?",
+   "Comment l’argent transforme-t-il les relations humaines dans Le Père Goriot ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "La description de la pension Vauquer et de son « odeur de pension » (partie I).",
+    "utilisation": "Montrer que la description réaliste explique un milieu et annonce la misère morale."
+   },
+   {
+    "exemple": "La gaffe de Rastignac chez Mme de Restaud, où il prononce le nom de Goriot (partie I).",
+    "utilisation": "Illustrer la naïveté initiale du héros et la honte des filles envers leur père."
+   },
+   {
+    "exemple": "Goriot tordant de nuit son plat et sa soupière en vermeil pour en faire des lingots (partie I).",
+    "utilisation": "Montrer le sacrifice matériel du père, vu d’abord comme un mystère par Rastignac."
+   },
+   {
+    "exemple": "Le discours de Vautrin dans le jardin de la pension (partie II).",
+    "utilisation": "Analyser la tentation, la vision cynique de la société et l’hésitation de Rastignac."
+   },
+   {
+    "exemple": "L’arrestation de Vautrin, trahi par Mlle Michonneau (partie III).",
+    "utilisation": "Montrer que la trahison est elle aussi une affaire d’argent, même chez les « honnêtes gens »."
+   },
+   {
+    "exemple": "L’enterrement : les voitures armoriées « mais vides » et les vingt sous empruntés à Christophe (partie IV).",
+    "utilisation": "Montrer l’ingratitude des filles et la cruauté sociale par des détails concrets."
+   }
+  ],
+  "liens": "Les thèmes se tiennent par les personnages : Rastignac relie la pension (Goriot, Vautrin) et les salons (Beauséant, Delphine). L’argent relie toutes les intrigues (dots de Goriot, dettes d’Anastasie, plan de Vautrin, prime offerte à Mlle Michonneau). Les procédés servent ces thèmes : la description explique le milieu, les maximes résument la loi du monde, les images religieuses grandissent Goriot et les images de boue ou d’animaux dégradent la société.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Partie I : description de la salle à manger et portrait de Mme Vauquer (jusqu’à « toute sa personne explique la pension, comme la pension implique la personne »).",
+    "pistes": "Une description qui fait sentir la misère (énumérations, sensations) ; un portrait caricatural et animalisé ; l’harmonie entre la femme et son décor, principe du réalisme balzacien."
+   },
+   {
+    "passage": "Partie II : discours de Vautrin à Rastignac (de « Voilà le carrefour de la vie » à « vous me ferez douter de moi-même »).",
+    "pistes": "Un manipulateur qui lit dans l’âme de sa victime ; une vision de la société comme guerre (chiffres, comparaisons animales et militaires) ; un cynisme érigé en morale et la résistance fragile de Rastignac."
+   },
+   {
+    "passage": "Partie IV : dernière page, de l’enterrement à « Rastignac alla dîner chez madame de Nucingen ».",
+    "pistes": "Un enterrement de pauvre qui dénonce l’ingratitude ; la fin de l’innocence (« dernière larme de jeune homme ») ; un défi ambigu, entre énergie conquérante et entrée dans la corruption."
+   }
+  ],
+  "erreurs": [
+   "Croire que Balzac approuve Vautrin parce qu’il lui donne de longs discours lucides : le roman le montre aussi en criminel qui manipule et fait tuer.",
+   "Faire de Goriot un simple saint : le narrateur et Goriot lui-même parlent d’une passion aveugle, d’un « vice », qui a aussi gâté ses filles.",
+   "Dire que Rastignac accepte le pacte de Vautrin : il refuse le crime, même s’il accepte d’autres compromis.",
+   "Confondre les deux filles : Anastasie (comtesse de Restaud, amante de Maxime de Trailles) et Delphine (baronne de Nucingen, amante de Rastignac).",
+   "Lire le défi final comme une victoire morale : il est ambigu, car le « premier acte » de Rastignac est d’aller dîner chez la femme du banquier.",
+   "Affirmer que Le Père Goriot est le premier roman où paraît Rastignac : il figurait déjà dans La Peau de chagrin (1831)."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Rastignac est-il un héros admirable ?",
+   "analyse": "Le mot « héros » a deux sens : le personnage principal d'un récit, et un être exceptionnel par son courage ou sa vertu. « Admirable » renvoie au jugement moral et à l'émotion du lecteur. Il faut donc se demander si Rastignac mérite notre admiration, ou seulement notre intérêt, voire notre méfiance.",
+   "problematique": "Rastignac, héros d'un roman d'apprentissage, suscite-t-il l'admiration du lecteur, ou Balzac en fait-il le portrait d'un ambitieux en train de se corrompre ?",
+   "plan": [
+    {
+     "titre": "I. Un jeune homme qui garde des qualités admirables",
+     "arguments": [
+      "A. La sensibilité et la générosité : il est le seul, avec Bianchon, à soigner Goriot et à payer son enterrement.",
+      "B. Il refuse le crime proposé par Vautrin et cherche même à prévenir le jeune Taillefer.",
+      "C. Son énergie et son courage : le jeune provincial pauvre ose se mesurer à Paris."
+     ]
+    },
+    {
+     "titre": "II. Un ambitieux qui accepte peu à peu les règles du monde",
+     "arguments": [
+      "A. Il exploite les sacrifices de sa mère et de ses sœurs pour paraître dans le monde.",
+      "B. Il suit les conseils cyniques de Mme de Beauséant et devient l'amant de Delphine par calcul autant que par sentiment.",
+      "C. La fin le montre décidé à conquérir Paris : il va dîner chez Mme de Nucingen le soir même de l'enterrement."
+     ]
+    },
+    {
+     "titre": "III. Un personnage complexe qui fait réfléchir le lecteur",
+     "arguments": [
+      "A. Rastignac est un personnage-témoin : à travers ses yeux, le lecteur découvre la société (pension, salons, prison morale).",
+      "B. Il est à la croisée des chemins : son hésitation entre morale et réussite rend le roman vivant et le rend humain.",
+      "C. Balzac ne le juge pas : il montre comment la société transforme un jeune homme, ce qui fait la force du réalisme."
+     ]
+    }
+   ],
+   "introduction": "Au XIXe siècle, le roman s'intéresse aux jeunes gens qui veulent réussir : on parlera plus tard d’« arrivistes ». Dans Le Père Goriot (1835), Balzac suit Eugène de Rastignac, étudiant pauvre d'Angoulême, qui découvre à Paris le luxe des salons et la misère de la pension Vauquer. Entre la leçon cynique de sa cousine, la tentation criminelle de Vautrin et l'agonie du père Goriot, il doit faire des choix. Rastignac est-il pour autant un héros admirable ? Nous nous demanderons s'il suscite l'admiration du lecteur ou si Balzac fait le portrait d'un ambitieux en train de se corrompre. Nous verrons d'abord qu'il garde des qualités admirables, puis qu'il accepte peu à peu les règles du monde, avant de montrer qu'il s'agit d'un personnage complexe qui fait réfléchir le lecteur.",
+   "conclusion": "Rastignac n'est ni un modèle de vertu ni un simple arriviste. Généreux envers Goriot, il refuse le crime ; mais il apprend aussi à calculer et choisit, à la fin, de se lancer dans la conquête de Paris. C'est justement cette ambiguïté qui le rend intéressant : il nous montre comment un jeune homme perd ses illusions dans une société dominée par l'argent. Plus qu'un héros admirable, il est un héros révélateur. Maupassant ira plus loin avec Georges Duroy dans Bel-Ami, ambitieux sans aucun scrupule, qui pousse jusqu'au bout la logique que Rastignac commence à accepter."
+  },
+  {
+   "sujet": "Un roman réaliste n'est-il qu'une copie fidèle de la réalité ?",
+   "analyse": "Le roman réaliste prétend représenter le monde tel qu'il est. Le mot « copie » suggère une reproduction passive, sans choix ni imagination ; « ne... que » invite à nuancer. Il faut montrer que Le Père Goriot imite la réalité, mais qu'il la sélectionne, l'organise et l'interprète.",
+   "problematique": "Le Père Goriot se contente-t-il de reproduire la réalité de son temps, ou la transforme-t-il pour mieux la faire comprendre ?",
+   "plan": [
+    {
+     "titre": "I. Un roman qui veut donner l'illusion du vrai",
+     "arguments": [
+      "A. L'affirmation de vérité : « All is true » ; une date précise (1819) et des lieux réels de Paris.",
+      "B. Des descriptions minutieuses : la pension Vauquer, ses objets et ses odeurs.",
+      "C. Le rôle concret de l'argent : sommes précises, dots, dettes, prix de la pension et de l'enterrement."
+     ]
+    },
+    {
+     "titre": "II. Une réalité choisie et organisée par le romancier",
+     "arguments": [
+      "A. Des personnages-types qui représentent des groupes sociaux : le père, l'ambitieux, le banquier, la grande dame.",
+      "B. Une construction dramatique : les morts, l'arrestation et le départ de Mme de Beauséant coïncident à la fin.",
+      "C. Un narrateur qui commente et explique (« toute sa personne explique la pension, comme la pension implique la personne ») : la description sert une démonstration."
+     ]
+    },
+    {
+     "titre": "III. Une vision personnelle, parfois épique et romantique",
+     "arguments": [
+      "A. Des personnages grandis par l'imagination : Goriot « Christ de la Paternité », Vautrin presque diabolique.",
+      "B. Des images puissantes : Paris « véritable océan », le monde « océan de boue », la « ruche bourdonnante ».",
+      "C. Une critique morale de la société dominée par l'argent : le roman juge autant qu'il montre."
+     ]
+    }
+   ],
+   "introduction": "Les romanciers réalistes du XIXe siècle veulent représenter la société telle qu’elle est ; Stendhal comparait déjà le roman à un miroir que l’on promène le long d’un chemin. Balzac ouvre ainsi Le Père Goriot (1835) en affirmant : « All is true ». L’histoire de ce vieux père ruiné par ses filles, dans le Paris de 1819, semble prise sur le vif. Mais un roman réaliste n’est-il qu’une copie fidèle de la réalité ? Nous nous demanderons si Le Père Goriot se contente de reproduire la réalité de son temps ou s’il la transforme pour mieux la faire comprendre. Nous verrons d’abord que le roman cherche à donner l’illusion du vrai, puis que cette réalité est choisie et organisée par le romancier, avant de montrer qu’elle est enfin transfigurée par une vision personnelle.",
+   "conclusion": "Le Père Goriot donne bien l’illusion de la réalité : dates, lieux, objets et chiffres ancrent le récit dans le Paris de la Restauration. Mais Balzac ne copie pas : il choisit des personnages-types, construit une intrigue rigoureuse et commente pour expliquer. Il transfigure même le réel par des images grandioses qui font de Goriot un martyr et de Paris un océan. Le réalisme est donc moins une copie qu’une interprétation. Maupassant le dira plus tard dans la préface de Pierre et Jean : le romancier réaliste ne reproduit pas le vrai, il cherche à en donner l’illusion la plus complète possible."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Père Goriot, publié en 1835 par Balzac, est un roman réaliste qui se déroule en 1819 dans une pension misérable de Paris. On y suit Eugène de Rastignac, étudiant pauvre venu d’Angoulême, qui découvre à la fois le luxe des salons et la tragédie du père Goriot, un ancien vermicellier ruiné par l’amour de ses deux filles, qui ont honte de lui. Entre les leçons cyniques de sa cousine Mme de Beauséant et la tentation criminelle de Vautrin, un forçat évadé, Rastignac fait l’apprentissage d’une société dominée par l’argent. Le roman se clôt sur l’enterrement solitaire de Goriot et sur le défi du jeune homme : « À nous deux maintenant ! ». C’est aussi le roman où Balzac fait du retour des personnages le principe de La Comédie humaine.",
+  "essentiels": [
+   "Date et cadre : publié en 1835, action en 1819 sous la Restauration, pension Vauquer au Quartier latin.",
+   "Trois personnages clés : Goriot (le père sacrifié), Rastignac (l’ambitieux en formation), Vautrin (le tentateur).",
+   "Trois leçons pour Rastignac : Mme de Beauséant, Vautrin, la mort de Goriot.",
+   "Thèmes : argent, ambition, paternité, Paris, corruption.",
+   "Procédés : description explicative, narrateur omniscient, maximes, images épiques.",
+   "Mouvement : réalisme marqué de romantisme ; roman d’apprentissage."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi le roman s’intitule-t-il Le Père Goriot alors que Rastignac est très présent ?",
+    "reponse": "Goriot est le centre tragique du roman : son secret, sa ruine et sa mort structurent l’intrigue, de la première partie à la dernière (« La mort du père »). Mais Rastignac est le regard qui découvre cette tragédie. Le titre met en avant la victime, alors que le héros en formation est le témoin : c’est en voyant mourir Goriot que Rastignac achève son éducation et verse sa « dernière larme de jeune homme »."
+   },
+   {
+    "question": "En quoi la description de la pension Vauquer est-elle réaliste ?",
+    "reponse": "Elle est précise et concrète : localisation exacte rue Neuve-Sainte-Geneviève, inventaire des objets, sensations (« Elle sent le renfermé, le moisi, le rance »). Mais elle ne sert pas seulement à décorer : elle explique les êtres, puisque « toute sa personne explique la pension, comme la pension implique la personne ». Le milieu révèle la pauvreté et la médiocrité morale de ceux qui y vivent."
+   },
+   {
+    "question": "Que propose Vautrin à Rastignac et comment réagit le jeune homme ?",
+    "reponse": "Vautrin lui propose de séduire Victorine Taillefer, dont il fera tuer le frère en duel pour qu’elle hérite, contre une commission. Il appuie ce plan sur une vision cynique : « Il n’y a pas de principes, il n’y a que des événements ». Rastignac refuse (« vous me ferez douter de moi-même »), mais il est troublé, et il ne parvient pas à empêcher le duel. Cela montre qu’il garde une conscience morale, tout en étant déjà attiré par la réussite."
+   },
+   {
+    "question": "Goriot est-il seulement une victime ?",
+    "reponse": "Il est victime de ses filles et d’une société de l’argent, et le narrateur l’élève jusqu’au « Christ de la paternité ». Mais il est aussi responsable : il a gâté ses filles et reconnaît lui-même dans son agonie : « Mes filles, c’était mon vice à moi ». Son amour est une passion qui aveugle, et le narrateur souligne qu’au dernier soupir « il se trompait encore »."
+   },
+   {
+    "question": "Comment interprétez-vous la dernière phrase du roman ?",
+    "reponse": "Après son défi (« À nous deux maintenant ! »), Rastignac va dîner chez Mme de Nucingen : c’est le « premier acte » de sa lutte. La fin est ambiguë. On peut y voir l’énergie d’un jeune homme qui refuse de se laisser écraser, mais aussi le choix de la société des banquiers, celle-là même qui a laissé mourir Goriot. Balzac laisse le lecteur juger, et la suite de La Comédie humaine montrera Rastignac devenu riche et puissant."
+   },
+   {
+    "question": "Le Père Goriot est-il un roman purement réaliste ?",
+    "reponse": "Il est réaliste par son ancrage (1819, Paris, l’argent) et ses descriptions. Mais il garde des traits romantiques : passions extrêmes, figure presque démoniaque de Vautrin, scènes de mélodrame (le vin drogué, l’arrestation), images grandioses comme Paris « véritable océan » ou la « ruche bourdonnante ». Ce mélange donne au roman sa force."
+   }
+  ],
+  "liens": "Avec le parcours proposé (l’ambition et la conquête de Paris), Le Père Goriot sert de modèle : on peut le rapprocher de Julien Sorel dans Le Rouge et le Noir de Stendhal et de Georges Duroy dans Bel-Ami de Maupassant, qui pousse le cynisme plus loin. Pour l’objet d’étude « Le roman et le récit du XVIIIe au XXIe siècle », il illustre la construction d’un personnage par ses rencontres et la naissance du roman réaliste. On peut aussi le comparer au Roi Lear de Shakespeare pour la figure du père abandonné.",
+  "reflexion": [
+   {
+    "question": "Auriez-vous agi comme Rastignac face à la proposition de Vautrin ?",
+    "pistes": "Distinguer la tentation de l’argent facile et le refus du crime ; réfléchir à la pression sociale ; se demander si la réussite peut être honnête dans la société décrite."
+   },
+   {
+    "question": "Le portrait que Balzac fait de la société vous paraît-il encore actuel ?",
+    "pistes": "Le rôle de l’argent, la quête de réussite rapide, l’importance des réseaux et des apparences ; mais aussi les différences (place des femmes, mariage arrangé, poids de la naissance)."
+   },
+   {
+    "question": "Peut-on trop aimer quelqu’un ?",
+    "pistes": "L’exemple de Goriot : amour qui se transforme en dépendance et en complaisance ; distinguer l’amour généreux et l’amour qui empêche l’autre de grandir."
+   },
+   {
+    "question": "Le personnage de Vautrin vous paraît-il plus fascinant qu’inquiétant ?",
+    "pistes": "Sa lucidité et son énergie séduisent ; mais il manipule et fait tuer. Réfléchir à la séduction des « méchants » en littérature."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "La description de la pension Vauquer",
+   "reference": "Partie I, « Une pension bourgeoise » : le salon, la salle à manger et l’entrée de Mme Vauquer",
+   "enjeu": "Comment la description réaliste de la pension annonce-t-elle l'univers du roman et le destin de ses personnages ?",
+   "mouvements": [
+    "Mouvement 1 : le salon, première pièce — inventaire précis des objets (papier peint de Télémaque, pendule « du plus mauvais goût »), puis la célèbre « odeur de pension » : rythme ternaire (« le renfermé, le moisi, le rance »), sensations multiples.",
+    "Mouvement 2 : la salle à manger, encore pire — accumulation d’objets abîmés, énumération d’adjectifs dégradants (« vieux, crevassé, pourri, tremblant… »), personnification du mobilier ; jugement du narrateur : « la misère sans poésie ».",
+    "Mouvement 3 : l’apparition de Mme Vauquer — le chat la précède, portrait caricatural (nez « à bec de perroquet », « dodue comme un rat d’église »), harmonie entre la femme et la salle : « toute sa personne explique la pension, comme la pension implique la personne »."
+   ]
+  },
+  {
+   "titre": "Le discours de Vautrin",
+   "reference": "Partie II, « L’entrée dans le monde » : Vautrin s’adresse à Rastignac dans le jardin de la pension",
+   "enjeu": "Comment Vautrin cherche-t-il à corrompre Rastignac en lui révélant la vérité cachée de la société ?",
+   "mouvements": [
+    "Mouvement 1 : Vautrin lit dans l'âme de Rastignac — il a deviné le mot « Parvenir ! » écrit sur son front, rappelle les sacrifices de ses sœurs : il montre qu'il sait tout, pour dominer.",
+    "Mouvement 2 : la société comme champ de bataille — chiffres (« cinquante mille jeunes gens »), comparaison des « araignées dans un pot », alternative « par l'éclat du génie ou par l'adresse de la corruption », comparaisons guerrières (« comme un boulet de canon ») et médicales (« comme une peste »).",
+    "Mouvement 3 : le cynisme érigé en morale — maximes au présent de vérité générale (« Il n’y a pas de principes, il n’y a que des événements »), assimilation des fortunes honnêtes à des crimes ; Rastignac résiste à peine : « vous me ferez douter de moi-même »."
+   ]
+  },
+  {
+   "titre": "La mort de Goriot",
+   "reference": "Partie IV, « La mort du père » : agonie de Goriot, veillé par Rastignac et Bianchon",
+   "enjeu": "Comment le délire de Goriot mourant révèle-t-il à la fois la grandeur et l'échec de son amour paternel ?",
+   "mouvements": [
+    "Mouvement 1 : la lucidité douloureuse — Goriot comprend qu'il a été rejeté (« j'étais de trop sur terre ») ; prière à Dieu, gradation des souffrances (« vieilli, changé, tué, blanchi »).",
+    "Mouvement 2 : l'aveu de la passion — comparaison du joueur, métaphore du « vice » ; il comprend que ses filles avaient honte de lui ; parenthèse qui rappelle la douleur physique.",
+    "Mouvement 3 : la révolte délirante — exclamations, impératif (« Envoyez-les chercher par la gendarmerie »), élargissement à la société entière (« La patrie périra si les pères sont foulés aux pieds ») : le drame d’un père devient une critique de toute la société."
+   ]
+  },
+  {
+   "titre": "L’excipit : « À nous deux maintenant ! »",
+   "reference": "Partie IV, « La mort du père » : dernière page, l’enterrement au Père-Lachaise",
+   "enjeu": "Comment la scène finale transforme-t-elle un enterrement misérable en scène de naissance d'un ambitieux ?",
+   "mouvements": [
+    "Mouvement 1 : un enterrement de pauvre — le clergé donne « tout ce qu’on peut avoir pour soixante-dix francs », le service dure vingt minutes, les voitures armoriées des gendres arrivent « mais vides » : la cruauté sociale est montrée par des détails concrets.",
+    "Mouvement 2 : la dernière larme — Rastignac doit emprunter vingt sous à Christophe ; il ensevelit sa « dernière larme de jeune homme » : métaphore de la fin de l'innocence, au crépuscule.",
+    "Mouvement 3 : le défi à Paris — regard de haut sur la ville, métaphore de la « ruche bourdonnante » dont il veut « pomper le miel », paroles « grandioses » au discours direct ; dernière phrase : il va dîner chez Mme de Nucingen, ce qui montre son choix."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Le Père Goriot (1835) est un roman réaliste de Balzac ; l’action commence en 1819, sous la Restauration.",
+   "Trois personnages principaux : Goriot (le père sacrifié), Rastignac (le jeune ambitieux), Vautrin (le tentateur, forçat évadé).",
+   "C’est un roman d’apprentissage : Rastignac perd ses illusions et finit par défier Paris (« À nous deux maintenant ! »).",
+   "L’argent domine toute la société : il détruit les liens familiaux et corrompt la morale.",
+   "La description réaliste explique les personnages : « toute sa personne explique la pension, comme la pension implique la personne ».",
+   "Balzac fait de ce roman le point de départ du retour systématique des personnages dans La Comédie humaine.",
+   "Le réalisme balzacien garde une dimension romantique et épique (Goriot « Christ de la paternité », Paris « véritable océan »).",
+   "La fin est ouverte : le défi de Rastignac est à la fois énergie et entrée dans le monde corrompu."
+  ],
+  "citations": [
+   0,
+   2,
+   4,
+   7,
+   8,
+   10,
+   12,
+   14,
+   15
+  ],
+  "pieges": [
+   "Ne pas confondre Anastasie de Restaud et Delphine de Nucingen.",
+   "Rastignac refuse le crime proposé par Vautrin : ne pas dire qu’il l’accepte.",
+   "Le roman n’est pas le premier où paraît Rastignac (La Peau de chagrin, 1831), mais celui où le retour des personnages devient un principe.",
+   "À l’enterrement, ce sont Rastignac et Christophe qui suivent le convoi ; les filles n’envoient que des voitures vides.",
+   "Vautrin est un forçat évadé (Jacques Collin, dit Trompe-la-Mort), pas un policier."
+  ],
+  "synthese": "Le Père Goriot (1835) raconte, dans le Paris de 1819, l’éducation de Rastignac, jeune noble pauvre, au contact de trois maîtres : Mme de Beauséant, qui lui enseigne le calcul, Vautrin, qui lui propose le crime, et Goriot, père ruiné et abandonné par ses filles. Balzac y peint une société où l’argent règne, par des descriptions qui expliquent les êtres et par des images qui grandissent les personnages jusqu’au mythe. La mort de Goriot achève l’apprentissage du héros, qui enterre sa « dernière larme de jeune homme » et lance à Paris : « À nous deux maintenant ! ». Roman réaliste aux accents romantiques, il fonde le retour des personnages de La Comédie humaine."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Réalisme",
+   "definition": "Mouvement littéraire du XIXe siècle qui veut représenter fidèlement la réalité sociale (lieux, argent, milieux). Ex. : la pension Vauquer décrite dans ses moindres détails."
+  },
+  {
+   "terme": "Roman d'apprentissage",
+   "definition": "Roman qui raconte la formation d'un jeune héros au contact du monde, jusqu'à la perte de ses illusions. Ex. : le parcours de Rastignac."
+  },
+  {
+   "terme": "Incipit",
+   "definition": "Début d’un roman, qui présente le cadre, les personnages et le pacte de lecture. Ex. : l’affirmation « All is true » et la description de la pension."
+  },
+  {
+   "terme": "Excipit",
+   "definition": "Fin d'un roman. Ex. : le défi de Rastignac au Père-Lachaise, fin ouverte."
+  },
+  {
+   "terme": "Retour des personnages",
+   "definition": "Procédé de Balzac : les mêmes personnages réapparaissent d’un roman à l’autre de La Comédie humaine (Rastignac, Vautrin, Bianchon), ce qui crée un monde cohérent. Le Père Goriot en fait un principe."
+  },
+  {
+   "terme": "Personnage-type",
+   "definition": "Personnage qui représente une catégorie sociale ou morale. Ex. : Goriot, le père sacrifié ; Vautrin, le criminel révolté ; Nucingen, le banquier."
+  },
+  {
+   "terme": "Chiasme",
+   "definition": "Figure de style qui croise des éléments selon le schéma AB/BA. Ex. : « toute sa personne explique la pension, comme la pension implique la personne »."
+  },
+  {
+   "terme": "Narrateur omniscient",
+   "definition": "Narrateur qui sait tout de ses personnages (pensées, passé) et commente l'action. Ex. : le narrateur balzacien qui interpelle le lecteur et explique les mœurs parisiennes."
+  },
+  {
+   "terme": "Maxime",
+   "definition": "Phrase courte au présent de vérité générale qui exprime une règle de conduite. Ex. : « Frappez sans pitié, vous serez craint. »"
+  },
+  {
+   "terme": "Métaphore filée",
+   "definition": "Image développée sur plusieurs termes. Ex. : Paris comparé à un océan qu'on explore à la sonde, avec ses perles et ses monstres."
+  },
+  {
+   "terme": "Restauration",
+   "definition": "Période (1814-1830) où la monarchie des Bourbons est rétablie après Napoléon (Louis XVIII, puis Charles X). Le Père Goriot commence en 1819."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "En quelle année se déroule l'action du Père Goriot ?",
+   "choix": [
+    "1789",
+    "1819",
+    "1848",
+    "1870"
+   ],
+   "reponse": 1,
+   "explication": "L'action commence en 1819, sous la Restauration."
+  },
+  {
+   "question": "Quel était le métier de Goriot avant sa retraite ?",
+   "choix": [
+    "Banquier",
+    "Notaire",
+    "Vermicellier",
+    "Médecin"
+   ],
+   "reponse": 2,
+   "explication": "Il fabriquait et vendait des vermicelles et des pâtes ; il s’est enrichi pendant la Révolution."
+  },
+  {
+   "question": "D'où vient Rastignac ?",
+   "choix": [
+    "D'Angoulême",
+    "De Lyon",
+    "De Rouen",
+    "De Marseille"
+   ],
+   "reponse": 0,
+   "explication": "Rastignac est un jeune noble pauvre venu d'Angoulême étudier le droit à Paris."
+  },
+  {
+   "question": "Qui est réellement Vautrin ?",
+   "choix": [
+    "Un policier",
+    "Un ancien prêtre",
+    "Le père de Victorine",
+    "Un forçat évadé surnommé Trompe-la-Mort"
+   ],
+   "reponse": 3,
+   "explication": "Vautrin est Jacques Collin, dit Trompe-la-Mort, forçat évadé du bagne de Toulon, arrêté à la pension (partie III)."
+  },
+  {
+   "question": "Que propose Vautrin à Rastignac ?",
+   "choix": [
+    "De devenir son associé à la Bourse",
+    "D'épouser Victorine après avoir fait tuer son frère",
+    "De voler les diamants d'Anastasie",
+    "De quitter Paris"
+   ],
+   "reponse": 1,
+   "explication": "Vautrin veut faire tuer en duel le frère de Victorine pour qu'elle hérite, puis la marier à Rastignac contre une commission."
+  },
+  {
+   "question": "Qui assiste à l'enterrement de Goriot ?",
+   "choix": [
+    "Ses deux filles",
+    "Ses deux gendres",
+    "Rastignac et Christophe, le domestique",
+    "Mme de Beauséant"
+   ],
+   "reponse": 2,
+   "explication": "Les filles n’envoient que les voitures armoriées de leurs maris, « mais vides » ; Rastignac et Christophe, le domestique de la pension, suivent le convoi."
+  },
+  {
+   "question": "Quelle est la dernière réplique célèbre de Rastignac ?",
+   "choix": [
+    "« Tout est perdu ! »",
+    "« Je retourne à Angoulême. »",
+    "« Paris m’appartient ! »",
+    "« À nous deux maintenant ! »"
+   ],
+   "reponse": 3,
+   "explication": "Du haut du Père-Lachaise, il défie Paris, puis va dîner chez Mme de Nucingen."
+  },
+  {
+   "question": "Quel procédé Balzac systématise-t-il à partir de ce roman ?",
+   "choix": [
+    "Le retour des personnages",
+    "Le monologue intérieur",
+    "Le roman par lettres",
+    "Le récit à la première personne"
+   ],
+   "reponse": 0,
+   "explication": "Rastignac (déjà présent dans La Peau de chagrin), Vautrin ou Bianchon reviennent dans d’autres romans de La Comédie humaine : Le Père Goriot fait de ce retour un principe."
+  },
+  {
+   "question": "Quelle figure de style trouve-t-on dans « toute sa personne explique la pension, comme la pension implique la personne » ?",
+   "choix": [
+    "Une anaphore",
+    "Un chiasme",
+    "Une litote",
+    "Une prosopopée"
+   ],
+   "reponse": 1,
+   "explication": "Les termes se croisent selon le schéma AB/BA (personne / pension // pension / personne) : la femme et son milieu s’expliquent l’un l’autre."
+  },
+  {
+   "question": "Quelle leçon Mme de Beauséant donne-t-elle à Rastignac ?",
+   "choix": [
+    "« Frappez sans pitié, vous serez craint. »",
+    "« Travaillez et soyez patient. »",
+    "« Retournez auprès de votre mère. »",
+    "« Méfiez-vous de Vautrin. »"
+   ],
+   "reponse": 0,
+   "explication": "Blessée par l’abandon de son amant, elle enseigne à Rastignac la dureté nécessaire pour réussir dans le monde (partie I)."
+  },
+  {
+   "question": "À quoi le narrateur compare-t-il Goriot lorsqu’il étreint Delphine ?",
+   "choix": [
+    "À un roi détrôné",
+    "À un « Christ de la paternité »",
+    "À un joueur ruiné",
+    "À un vieux lion"
+   ],
+   "reponse": 1,
+   "explication": "La comparaison religieuse fait de Goriot un martyr de l’amour paternel (partie III)."
+  },
+  {
+   "question": "Qui livre Vautrin à la police ?",
+   "choix": [
+    "Rastignac",
+    "Mme Vauquer",
+    "Mlle Michonneau, aidée de Poiret",
+    "Bianchon"
+   ],
+   "reponse": 2,
+   "explication": "Payée par la police, Mlle Michonneau lui fait boire une drogue pour vérifier qu’il porte la marque des forçats."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte intégral du site (Wikisource, « Le Père Goriot (1910) »), utilisé pour vérifier toutes les citations",
+   "url": "https://fr.wikisource.org/wiki/Le_P%C3%A8re_Goriot_(1910)"
+  },
+  {
+   "titre": "Recherche sur l’Avant-propos de La Comédie humaine (extraits, document pédagogique ; non exploitable, citations reformulées)",
+   "url": "https://www.lyceedadultes.fr/sitepedagogique/documents/francais/francais1S/46_extraits_de_l_Avant-propos_de_la_Comedie_humaine.pdf"
+  }
+ ],
+ "aVerifier": [
+  "Dates exactes de la prépublication dans la Revue de Paris (fin 1834 – début 1835) et de la mise en vente du volume en 1835.",
+  "Date d’ajout de la dédicace à Geoffroy Saint-Hilaire (présente dans l’édition de 1910, probablement absente de l’édition originale).",
+  "Formulations de Balzac (Avant-propos), de Stendhal (le miroir) et de Maupassant (préface de Pierre et Jean) : non vérifiées en ligne, donc reformulées sans guillemets."
+ ]
+}

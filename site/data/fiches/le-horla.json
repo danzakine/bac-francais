@@ -1,0 +1,933 @@
+{
+ "id": "le-horla",
+ "accroche": "Une carafe vidée la nuit, une rose cueillie par une main invisible, un miroir vide : et si un être nous remplaçait déjà ?",
+ "identite": {
+  "auteur": "Guy de Maupassant (1850-1893), né en Normandie, est le disciple de Flaubert, ami de sa famille, qui l'a guidé dans ses débuts d'écrivain. Il est l'un des grands maîtres de la nouvelle en France : on lui attribue environ trois cents récits courts, réalistes (Boule de suif, La Parure) ou fantastiques (La Main, Qui sait ?), ainsi que six romans (Une vie, Bel-Ami, Pierre et Jean…). Il connaît très bien la région de Rouen et la Seine, où se déroule Le Horla. Atteint de la syphilis depuis sa jeunesse, il souffre de migraines, de troubles de la vue et d'angoisses. Au début de 1892, il tente de se suicider ; il est interné à Paris dans la clinique du docteur Blanche, où il meurt en 1893. Attention : la nouvelle a été écrite des années avant cette crise ; on ne peut pas la lire comme le simple journal de sa propre folie.",
+  "contexte": "Les années 1880 sont marquées par une grande curiosité pour les maladies nerveuses et les phénomènes de l'esprit. À la Salpêtrière, le médecin Charcot étudie l'hystérie et pratique l'hypnose lors de leçons publiques ; à Nancy, d'autres médecins étudient la suggestion. La nouvelle mentionne d'ailleurs les médecins de l'école de Nancy, des savants anglais et Mesmer, théoricien du magnétisme au XVIIIe siècle. C'est aussi l'époque du positivisme et des grandes découvertes scientifiques, notamment les microbes étudiés par Pasteur : on sait désormais que des êtres invisibles à l'œil nu agissent sur nous. Ce contexte rend plausible, pour un lecteur de 1887, l'idée d'un être invisible qui boit, agit et domine une volonté.",
+  "mouvement": "Le Horla est une nouvelle fantastique. Le fantastique, très en vogue au XIXe siècle (Hoffmann, Poe traduit par Baudelaire, Gautier, Mérimée), fait surgir un événement apparemment surnaturel dans un cadre réaliste et quotidien. Le lecteur, comme le personnage, hésite entre une explication rationnelle (la folie, l'hallucination, la maladie) et une explication surnaturelle (un être invisible existe vraiment). Maupassant, venu du réalisme et du naturalisme (il participe en 1880 aux Soirées de Médan avec Boule de suif), installe ce doute dans un décor très précis : la Seine, Rouen, le mont Saint-Michel, Paris. Son fantastique est surtout intérieur : la peur naît de l'esprit du narrateur, et le récit ne tranche jamais. La forme du journal intime renforce cette incertitude, car nous ne voyons les faits qu'à travers le regard d'un homme qui doute lui-même de sa raison.",
+  "circonstances": "Le Horla existe en deux versions. La première paraît le 26 octobre 1886 dans le quotidien Gil Blas : dans une maison de santé, un aliéniste, le docteur Marrande, présente à des confrères et à des savants un patient qui raconte lui-même son histoire. La seconde version, celle qu'on étudie, est publiée en mai 1887 chez l'éditeur Paul Ollendorff : elle ouvre un recueil de nouvelles qui porte son titre. Maupassant y abandonne le récit encadré par des médecins au profit d'un journal intime sans destinataire, qui s'arrête sur la décision du suicide : plus aucun regard extérieur ne vient confirmer ou démentir le narrateur. Un texte antérieur, Lettre d'un fou (Gil Blas, 1885, signé du pseudonyme Maufrigneuse), contenait déjà l'idée d'un homme qui ne se voit plus dans son miroir.",
+  "carriere": "Le Horla appartient à la période la plus féconde de Maupassant (1880-1890), où il publie chaque année recueils de nouvelles et romans : Bel-Ami paraît en 1885, Mont-Oriol en 1887, Pierre et Jean au début de 1888. La nouvelle prolonge une veine fantastique présente dès ses premiers récits (La Main, Apparition, Lui ?) et qui se poursuit ensuite (Qui sait ?, 1890). Par sa réécriture de 1886 à 1887, elle montre un écrivain qui travaille la forme pour rendre le doute plus fort. C'est aujourd'hui son récit fantastique le plus célèbre."
+ },
+ "resumeCourt": "Le Horla (version de 1887) est le journal intime d'un homme aisé qui vit dans sa maison au bord de la Seine, près de Rouen. Le 8 mai, heureux, il salue un beau trois-mâts brésilien qui passe devant chez lui. Bientôt, il souffre de fièvre, d'angoisses et de cauchemars : chaque nuit, quelqu'un semble s'agenouiller sur sa poitrine pour l'étrangler. Il découvre que l'eau et le lait de sa carafe sont bus pendant son sommeil, puis voit une rose cueillie par une main invisible : un être invisible vit chez lui. Cet être, qu'il nomme le Horla, prend peu à peu possession de sa volonté. Après avoir constaté que le corps invisible du Horla cache son reflet dans son miroir, le narrateur l'enferme dans sa chambre et met le feu à sa maison, oubliant ses domestiques qui périssent dans l'incendie. Mais il doute que l'être soit mort, et conclut qu'il ne lui reste plus qu'à se tuer.",
+ "resume": [
+  {
+   "titre": "8 mai : le bonheur et le navire brésilien",
+   "texte": "Le narrateur exprime son bonheur de vivre dans la maison de ses ancêtres, au bord de la Seine, face à Rouen. Il regarde passer les bateaux et salue, sans savoir pourquoi, un superbe trois-mâts brésilien, tout blanc. Ce détail anodin prendra tout son sens à la fin."
+  },
+  {
+   "titre": "12 mai - 3 juin : un mal mystérieux",
+   "texte": "Le narrateur se sent fiévreux et triste sans raison. Il s'interroge sur les influences invisibles qui nous entourent et sur la faiblesse de nos sens. Son médecin lui prescrit des douches et du bromure de potassium, sans effet. Chaque soir, il redoute de dormir : un cauchemar le hante, où quelqu'un s'agenouille sur sa poitrine et serre son cou. Dans la forêt de Roumare, il se sent suivi. Il décide de partir en voyage."
+  },
+  {
+   "titre": "2 juillet : le mont Saint-Michel",
+   "texte": "Guéri en apparence, il visite le mont Saint-Michel. Un moine lui raconte des légendes et lui fait remarquer que nous ne voyons pas la plus grande partie de ce qui existe : le vent, la plus grande force de la nature, est invisible et pourtant bien réel. À son retour (3 juillet), son cocher Jean souffre du même mal que lui."
+  },
+  {
+   "titre": "3 - 10 juillet : la carafe vidée",
+   "texte": "De retour chez lui, le mal recommence. Une nuit, il découvre que sa carafe, pleine au coucher, est vide. Se croyant somnambule, il fait des expériences : il dispose de l'eau, du lait, du vin, du pain et des fraises, puis entoure les carafes de mousseline et se frotte les lèvres de mine de plomb. Seuls l'eau et le lait disparaissent, sans qu'il ait bougé : il ne peut pas être le coupable. Il part pour Paris."
+  },
+  {
+   "titre": "12 - 21 juillet : Paris et l'expérience d'hypnose",
+   "texte": "À Paris, il se rassure et se moque de ses terreurs : la solitude, pense-t-il, peuple le vide de fantômes. Chez sa cousine, Mme Sablé, le docteur Parent, qui s'intéresse aux maladies nerveuses, l'hypnotise devant lui. Le lendemain matin, sous l'effet de la suggestion, elle vient lui demander cinq mille francs, sans comprendre pourquoi. Le narrateur, d'abord incrédule, est ébranlé : une volonté peut en dominer une autre."
+  },
+  {
+   "titre": "30 juillet - 6 août : la rose cueillie",
+   "texte": "Revenu chez lui, il connaît quelques jours calmes. Mais ses domestiques se plaignent de verres cassés. Le 6 août, en plein soleil, il voit la tige d'une rose se plier et se casser, et la fleur s'élever dans l'air comme portée par une main invisible. Il en est désormais certain : un être invisible vit sous son toit."
+  },
+  {
+   "titre": "7 - 15 août : la possession",
+   "texte": "Le narrateur se demande s'il n'est pas un « halluciné raisonnant », puis sent sa volonté lui échapper : il écrit le 14 août que quelqu'un « possède mon âme et la gouverne ». Il veut partir et ne le peut pas ; il est obligé d'aller cueillir et manger des fraises. Il comprend que sa cousine était dominée de la même manière."
+  },
+  {
+   "titre": "16 - 19 août : le nom du Horla",
+   "texte": "Échappé quelques heures, il emprunte à la bibliothèque de Rouen le traité du docteur Hermann Herestauss sur les êtres invisibles. La nuit, il voit les pages de son livre se tourner toutes seules. Le 19 août, il lit dans la Revue du Monde Scientifique qu'une épidémie de folie frappe la province de San-Paulo, au Brésil : les habitants se disent possédés par des êtres invisibles qui boivent de l'eau et du lait. Il comprend que l'Être est venu sur le trois-mâts brésilien du 8 mai. Il entend son nom : le Horla. Il le voit comme le nouveau maître du monde, qui fera de l'homme sa chose."
+  },
+  {
+   "titre": "19 août (seconde entrée) : le miroir",
+   "texte": "Pour piéger l'être, le narrateur fait semblant d'écrire, une haute armoire à glace derrière lui. Sentant le Horla lire par-dessus son épaule, il se retourne brusquement : il ne se voit pas dans le miroir. Le corps invisible de l'être cache son reflet, qui réapparaît peu à peu, comme à la fin d'une éclipse."
+  },
+  {
+   "titre": "20 août - 10 septembre : l'incendie et la fin",
+   "texte": "Le narrateur fait poser par un serrurier des persiennes et une porte de fer à sa chambre. Le 9 septembre, il y enferme le Horla, met le feu à la maison et se cache dans le jardin. Il entend alors les cris de ses domestiques, qu'il avait oubliés et qui brûlent vivants. Réfugié dans un hôtel de Rouen, il doute que le Horla soit mort : un être invisible ne craint peut-être pas les moyens qui nous tuent. Il conclut, dans la dernière phrase, qu'il va falloir qu'il se tue lui-même."
+  }
+ ],
+ "structure": "La nouvelle prend la forme d'un journal intime, composé d'entrées datées du 8 mai au 10 septembre (l'année n'est pas précisée). Cette forme crée une progression régulière de l'angoisse et donne l'impression d'un témoignage authentique, écrit au jour le jour. On distingue plusieurs étapes : le bonheur initial (8 mai) ; les premiers malaises physiques et nocturnes (mai-juin) ; les tentatives de guérison par le voyage et les premières preuves (la carafe, juillet) ; le séjour parisien et l'hypnose qui rendent possible l'idée d'une domination ; les preuves irréfutables et la possession (août) ; la nomination du Horla et la scène du miroir (19 août) ; enfin la lutte, l'incendie et la décision du suicide (10 septembre). Les entrées s'allongent ou se réduisent à une ligne selon l'état du narrateur, et la ponctuation (points de suspension, exclamations) devient de plus en plus désordonnée. Le site découpe le texte en cinq parties pour la lecture (du 8 mai au 3 juin ; du 2 au 14 juillet ; du 16 au 30 juillet ; du 2 au 18 août ; du 19 août au 10 septembre) : ce découpage n'est pas de Maupassant. On remarque que la date du 19 août revient deux fois : la révélation du nom, puis la scène du miroir.",
+ "personnages": [
+  {
+   "nom": "Le narrateur",
+   "role": "Homme aisé, cultivé, rationnel, qui vit seul avec ses domestiques dans la maison familiale près de Rouen. Il n'a pas de nom : il écrit son journal. D'abord heureux et sceptique, il devient anxieux, puis obsédé, enfin meurtrier involontaire et suicidaire. Il est à la fois témoin, victime et peut-être fou : c'est un narrateur dont on ne sait s'il faut le croire.",
+   "relations": "Il vit seul avec ses domestiques (cocher, valet de chambre, cuisinière, lingère) ; il n'a pour proches qu'une cousine, Mme Sablé. Face au Horla, il passe du statut de victime à celui de chasseur, puis de meurtrier."
+  },
+  {
+   "nom": "Le Horla",
+   "role": "Être invisible qui boit de l'eau et du lait, cueille une rose, tourne les pages d'un livre et domine la volonté du narrateur. Le narrateur croit qu'il est arrivé du Brésil sur le trois-mâts du 8 mai. Son nom est une invention de Maupassant ; on y entend souvent hors et là (un être à la fois étranger et présent), mais ce n'est qu'une hypothèse de lecture. Le narrateur voit en lui le successeur de l'homme, « le nouveau maître ».",
+   "relations": "Il est le maître invisible du narrateur, qui devient son « spectateur esclave » ; le narrateur le compare au cheval et au bœuf que l'homme a domestiqués. On peut aussi le lire comme un double du narrateur."
+  },
+  {
+   "nom": "Le moine du mont Saint-Michel",
+   "role": "Il raconte des légendes au narrateur et lui rappelle que nous ne voyons pas tout ce qui existe : le vent, invisible, est pourtant la plus grande force de la nature. Ses paroles reviennent plus tard comme une preuve.",
+   "relations": "Simple interlocuteur de voyage ; ses paroles sur le vent sont citées de nouveau par le narrateur le 19 août, comme une preuve."
+  },
+  {
+   "nom": "Le docteur Parent",
+   "role": "Médecin spécialiste des maladies nerveuses, il pratique l'hypnose et la suggestion. Son expérience sur Mme Sablé montre qu'une volonté peut en dominer une autre : elle prépare l'idée de la possession.",
+   "relations": "Mari d'une des jeunes femmes présentes chez Mme Sablé ; il fait de la cousine son sujet d'expérience. Pour le narrateur, il devient ensuite l'un des savants qui ont « joué » imprudemment avec la puissance du Horla."
+  },
+  {
+   "nom": "Mme Sablé",
+   "role": "Cousine du narrateur, hypnotisée par le docteur Parent. Sous suggestion, elle vient demander cinq mille francs sans savoir pourquoi : elle est la première « possédée » du récit.",
+   "relations": "Cousine du narrateur, qu'il connaît « comme une soeur » depuis l'enfance : c'est pourquoi il ne peut douter de sa bonne foi. Son cas sert de modèle pour comprendre sa propre possession (15 août)."
+  },
+  {
+   "nom": "Les domestiques",
+   "role": "Présents à l'arrière-plan, ils se plaignent des objets cassés et finissent brûlés dans l'incendie que le narrateur a allumé sans penser à eux : ils sont les victimes de sa folie, ou du Horla.",
+   "relations": "Le cocher Jean souffre du même mal que son maître (3 juillet) ; les autres s'accusent mutuellement des verres cassés (4 août). Le narrateur les oublie complètement au moment de l'incendie."
+  }
+ ],
+ "evolution": "Le narrateur suit une trajectoire descendante très nette. Au 8 mai, il est enraciné, heureux, ouvert au monde. En mai-juin, le mal reste physique et nocturne : fièvre, cauchemars, peur du sommeil. En juillet, il devient un expérimentateur méthodique (la carafe, la mousseline, la mine de plomb) puis, à Paris, un sceptique qui se moque de ses terreurs. L'expérience d'hypnose renverse ce scepticisme. En août, les preuves (la rose) le convainquent, puis il perd sa volonté : il n'est plus qu'un « spectateur esclave ». Après la révélation du nom, il devient chasseur : il veut tuer le Horla, le piège et incendie sa maison, au prix de la vie de ses domestiques. La dernière phrase retourne la violence contre lui-même. L'écriture suit cette évolution : longues phrases descriptives au début, puis exclamations, questions et points de suspension de plus en plus nombreux.",
+ "themes": [
+  {
+   "titre": "La folie ou le surnaturel : l'hésitation fantastique",
+   "texte": "Le narrateur ne cesse de se demander s'il est fou : « Ai-je perdu la raison ? » (5 juillet), « Je deviens fou » (6 juillet), puis « Cette fois, je ne suis pas fou » (6 août). Le 7 août, il se décrit même comme un « halluciné raisonnant ». Le lecteur hésite avec lui : les preuves (carafe, rose, miroir) n'ont qu'un seul témoin, mais l'expérience d'hypnose et l'article sur San-Paulo semblent confirmer l'existence d'êtres capables de dominer une volonté. Le récit ne donne jamais la réponse, et c'est cette incertitude qui définit le fantastique."
+  },
+  {
+   "titre": "L'invisible et les limites de nos sens",
+   "texte": "Dès le 12 mai, le narrateur s'interroge : « Comme il est profond, ce mystère de l'Invisible ! » Nos yeux ne voient ni le trop petit ni le trop loin, nos oreilles nous trompent. Le moine du mont Saint-Michel rappelle que le vent existe bien qu'on ne le voie pas. Le Horla est un être que nos sens imparfaits ne peuvent percevoir, comme le montre la scène du miroir."
+  },
+  {
+   "titre": "La perte de la volonté et la possession",
+   "texte": "Le narrateur se sent peu à peu dépossédé de lui-même : « Je suis perdu ! Quelqu'un possède mon âme et la gouverne ! » (14 août). Il est forcé de manger des fraises, ne peut quitter sa maison. L'expérience d'hypnose sur Mme Sablé sert de modèle scientifique à cette domination. La nouvelle traduit une peur moderne : ne plus être maître de soi."
+  },
+  {
+   "titre": "La peur et la solitude",
+   "texte": "La peur grandit avec la solitude : le narrateur vit seul, n'a personne à qui parler, et se le dit lui-même à Paris : « Quand nous sommes seuls longtemps, nous peuplons le vide de fantômes » (12 juillet). La nuit, le sommeil, la chambre fermée à clé deviennent des lieux d'angoisse."
+  },
+  {
+   "titre": "La fin du règne de l'homme",
+   "texte": "Le 19 août, le narrateur imagine que le Horla est une espèce supérieure venue succéder à l'homme : « Le règne de l'homme est fini. » L'homme deviendra pour lui ce que le cheval et le bœuf sont pour nous. Cette vision, proche de la science-fiction, exprime une angoisse sur la place fragile de l'être humain dans l'univers."
+  },
+  {
+   "titre": "Le double et l'identité",
+   "texte": "Le Horla boit, lit, agit à la place du narrateur ; dans la scène du miroir, il prend littéralement la place de son reflet. On peut y voir un double, une part inconnue du narrateur lui-même (« deux êtres en nous », écrit-il le 5 juillet). La fin, où il pense devoir se tuer pour tuer le Horla, suggère que l'ennemi est en lui."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Le narrateur est-il fou, ou un être invisible existe-t-il vraiment ? La nouvelle maintient les deux lectures jusqu'à la dernière ligne.",
+   "Que peut connaître l'homme avec ses « sens misérables » ? La nouvelle interroge les limites de la perception et de la science.",
+   "Qu'est-ce qu'être maître de soi ? La possession par le Horla et l'hypnose de Mme Sablé posent la question de la volonté et de la liberté.",
+   "L'homme est-il le sommet de la création ? La vision d'une espèce nouvelle qui succéderait à l'homme renverse l'orgueil humain."
+  ],
+  "intentions": "Maupassant n'a pas laissé de préface au Horla, et ses intentions précises restent difficiles à établir. On sait en revanche qu'il a réfléchi au fantastique dans une chronique intitulée Le Fantastique, publiée dans Le Gaulois en 1883 : il y constate que la croyance au surnaturel recule à mesure que progresse la science, ce qui oblige l'écrivain moderne à faire naître la peur autrement, par le doute plutôt que par les apparitions spectaculaires. La réécriture de 1887 va dans ce sens : en supprimant le cadre des médecins de la version de 1886, Maupassant enferme le lecteur dans le seul point de vue du narrateur. Ce rapprochement entre la chronique et la nouvelle est une interprétation, non une déclaration de l'auteur sur Le Horla.",
+  "procedes": [
+   {
+    "nom": "Le journal intime daté",
+    "explication": "Les entrées datées donnent l'impression d'un document authentique écrit au jour le jour, sans recul ; leur longueur varie selon l'état du narrateur. Le lecteur ne sait jamais rien de plus que lui.",
+    "exemple": "Les entrées minuscules du 9 au 11 août (« Rien, mais j'ai peur. ») contrastent avec les longues entrées du 16 juillet ou du 19 août."
+   },
+   {
+    "nom": "La démarche expérimentale",
+    "explication": "Le narrateur raisonne comme un savant : il fait des hypothèses, les teste et les élimine. Le surnaturel paraît ainsi prouvé par une méthode rationnelle, ce qui le rend plus inquiétant.",
+    "exemple": "Le 10 juillet : vin, lait, eau, pain et fraises ; carafes enveloppées de mousseline, lèvres frottées de mine de plomb ; seuls l'eau et le lait disparaissent."
+   },
+   {
+    "nom": "La modalisation et les comparaisons hypothétiques",
+    "explication": "Les tournures comme si, il me sembla, on dirait présentent l'événement sans l'affirmer : le doute est inscrit dans la phrase même.",
+    "exemple": "La rose, le 6 août : la tige se plie « comme si une main invisible l'eût tordue » ; le 17 août, une page se soulève « comme si un doigt l'eût feuilletée »."
+   },
+   {
+    "nom": "La ponctuation de l'émotion",
+    "explication": "Exclamations, questions sans réponse et points de suspension traduisent la panique et le désordre de la pensée ; l'écriture semble se défaire avec la raison.",
+    "exemple": "« Cette fois, je ne suis pas fou. J'ai vu... j'ai vu... j'ai vu!... » (6 août) ; le nom du Horla qui surgit en fragments le 19 août."
+   },
+   {
+    "nom": "Le jeu des échos et de l'annonce",
+    "explication": "Des détails anodins du début prennent sens plus tard, ce qui donne au récit une logique inquiétante et fait relire le texte autrement.",
+    "exemple": "Le trois-mâts brésilien salué le 8 mai revient le 19 août ; les paroles du moine sur le vent (2 juillet) sont recopiées par le narrateur le 19 août."
+   },
+   {
+    "nom": "La gradation",
+    "explication": "L'angoisse progresse par paliers, à l'échelle de la nouvelle comme à celle de la phrase.",
+    "exemple": "Le cauchemar du 25 mai : quelqu'un « s'approche de moi, me regarde, me palpe, monte sur mon lit, s'agenouille sur ma poitrine »."
+   }
+  ],
+  "style": "Le style de Maupassant est d'abord clair, précis et sensoriel, celui d'un réaliste : le 8 mai décrit la Seine, Rouen « aux toits bleus », les cloches, les navires avec une grande exactitude. Cette précision sert de garantie : le narrateur est un observateur fiable. Peu à peu, la phrase se fragmente : répétitions (« j'ai vu »), anaphores, interjections, questions sans réponse, points de suspension. Les passages de réflexion (12 mai, 7 août, 19 août) prennent au contraire une ampleur oratoire, avec de longues énumérations et des questions rhétoriques. Le vocabulaire mêle le lexique médical de l'époque (bromure, hypnotisme, suggestion, physiologistes) et le lexique religieux ou légendaire (âme, possédé, esprits, vampires), ce qui maintient l'hésitation entre science et surnaturel.",
+  "registres": [
+   {
+    "nom": "Fantastique",
+    "explication": "Registre dominant : un phénomène inexplicable (la carafe vidée, la rose, le miroir) surgit dans un quotidien réaliste et provoque l'hésitation du narrateur et du lecteur."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "La souffrance du narrateur appelle la pitié : supplications du 14 août (« Pardon! Pitié! Grâce! »), solitude, sentiment d'être perdu."
+   },
+   {
+    "nom": "Tragique",
+    "explication": "Le narrateur se sent écrasé par une force supérieure à laquelle il ne peut échapper ; la fin le conduit à la décision du suicide."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "Au début (8 mai), le narrateur exprime son amour de sa terre et de sa maison ; le 17 août, il rêve devant les étoiles aux habitants d'autres mondes."
+   },
+   {
+    "nom": "Épique",
+    "explication": "L'incendie du 9 septembre est décrit avec des images grandioses : « bûcher horrible et magnifique », « volcan de flammes »."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le narrateur est le seul témoin de tous les phénomènes ; aucun autre personnage ne voit le Horla. Le texte laisse donc ouvertes deux lectures, la folie et le surnaturel.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Lecture psychologique : le Horla serait la projection d'une maladie mentale (dédoublement, hallucinations). Le narrateur lui-même propose cette explication (« halluciné raisonnant », 7 août) avant de la rejeter.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Lecture biographique : on a souvent rapproché la nouvelle des angoisses et de la maladie de Maupassant. Mais Le Horla est écrit plusieurs années avant sa crise de 1892, et l'auteur maîtrise parfaitement son récit ; il faut éviter de confondre l'auteur et le narrateur.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Lecture proche de la science-fiction : le Horla, espèce nouvelle arrivée d'Amérique du Sud et supérieure à l'homme, annoncerait les récits d'invasion du XXe siècle. Cette lecture s'appuie sur l'entrée du 19 août (« Le règne de l'homme est fini »).",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le nom Horla est une invention de Maupassant ; on y entend souvent hors et là, ou le normand horsain (l'étranger). Aucune explication de l'auteur ne permet de trancher.",
+    "nature": "debat"
+   }
+  ],
+  "liens": "Le Horla montre comment le fantastique du XIXe siècle se nourrit du réalisme : décor précis et vérifiable (la Seine, Rouen, le mont Saint-Michel, Bougival, la Grenouillière), personnages ordinaires, détails matériels (carafe, mine de plomb, persiennes de fer). Il se nourrit aussi de la science de son temps : hypnose, suggestion, école de Nancy, Mesmer, localisations cérébrales évoquées le 7 août. Plutôt que d'opposer science et surnaturel, la nouvelle utilise la science pour rendre le surnaturel possible : si le magnétisme permet à un homme de dominer une volonté, pourquoi un être invisible ne le pourrait-il pas ? Elle s'inscrit enfin dans une lignée européenne de récits fantastiques à la première personne (Hoffmann, Poe)."
+ },
+ "citations": [
+  {
+   "texte": "Quelle journée admirable!",
+   "locuteur": "Le narrateur",
+   "reference": "8 mai (première phrase)",
+   "situation": "Première phrase du journal : le narrateur a passé la matinée étendu sur l'herbe devant sa maison.",
+   "sens": "Le narrateur est heureux et en harmonie avec le monde.",
+   "procedes": "Phrase exclamative, registre lyrique, adjectif mélioratif.",
+   "demontre": "Le bonheur initial sert de point de départ à la descente dans l'angoisse : le contraste rend la suite plus frappante.",
+   "usage": "Pour l'incipit et pour montrer la progression du récit (comparer avec la dernière phrase).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Je le saluai, je ne sais pourquoi, tant ce navire me fit plaisir à voir.",
+   "locuteur": "Le narrateur",
+   "reference": "8 mai",
+   "situation": "Le narrateur regarde défiler des navires sur la Seine et remarque un trois-mâts brésilien tout blanc.",
+   "sens": "Il salue un navire sans savoir pourquoi, par simple plaisir.",
+   "procedes": "Incise « je ne sais pourquoi » qui introduit un premier mystère ; détail apparemment anodin.",
+   "demontre": "Le récit sème des indices : le 19 août, ce navire sera présenté comme le moyen d'arrivée du Horla. Le salut ressemble après coup à une invitation involontaire.",
+   "usage": "Pour analyser la construction de la nouvelle (échos, annonce de la fin).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Comme il est profond, ce mystère de l'Invisible!",
+   "locuteur": "Le narrateur",
+   "reference": "12 mai",
+   "situation": "Le narrateur, fiévreux et triste sans raison, réfléchit aux influences invisibles qui agissent sur nous.",
+   "sens": "Il existe autour de nous un monde invisible que nous ne comprenons pas.",
+   "procedes": "Exclamation, majuscule qui personnifie « l'Invisible », détachement de « ce mystère ».",
+   "demontre": "Le thème central de la nouvelle est posé dès le début : la faiblesse de nos sens.",
+   "usage": "Pour le thème de l'invisible et pour une dissertation sur le fantastique qui fait réfléchir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Est-ce que nous voyons la cent-millième partie de ce qui existe?",
+   "locuteur": "Le moine du mont Saint-Michel (cité de nouveau par le narrateur le 19 août)",
+   "reference": "2 juillet",
+   "situation": "Au sommet du mont Saint-Michel, le narrateur demande au moine comment des êtres inconnus pourraient exister sans qu'on les ait vus.",
+   "sens": "Nous ne percevons qu'une infime partie du réel.",
+   "procedes": "Question rhétorique, hyperbole chiffrée ; elle introduit l'exemple du vent, invisible mais réel.",
+   "demontre": "L'existence d'un être invisible devient pensable : l'argument rationnel du moine prépare le surnaturel.",
+   "usage": "Pour montrer comment Maupassant rend le surnaturel vraisemblable ; utile à l'oral (personnage secondaire).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Quand nous sommes seuls longtemps, nous peuplons le vide de fantômes.",
+   "locuteur": "Le narrateur",
+   "reference": "12 juillet",
+   "situation": "À Paris, guéri par la foule et le théâtre, le narrateur se moque de ses terreurs passées.",
+   "sens": "La solitude fait naître des hallucinations.",
+   "procedes": "Phrase au présent de vérité générale, pronom « nous » qui généralise, métaphore du vide peuplé de fantômes.",
+   "demontre": "Le narrateur fournit lui-même l'explication rationnelle : la nouvelle garde ouvertes les deux lectures.",
+   "usage": "Pour l'hésitation fantastique et pour le thème de la solitude.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Cette fois, je ne suis pas fou. J'ai vu... j'ai vu... j'ai vu!...",
+   "locuteur": "Le narrateur",
+   "reference": "6 août",
+   "situation": "Début de l'entrée où le narrateur raconte avoir vu une rose cueillie par une main invisible.",
+   "sens": "Il affirme avoir vu quelque chose d'indiscutable.",
+   "procedes": "Négation catégorique, répétition ternaire de « j'ai vu », points de suspension et exclamation.",
+   "demontre": "Le narrateur affirme sa raison au moment où son écriture se désorganise : le lecteur a des raisons de douter de lui.",
+   "usage": "Pour analyser le narrateur peu fiable et la ponctuation de l'émotion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Je ne serais donc, en somme, qu'un halluciné raisonnant.",
+   "locuteur": "Le narrateur",
+   "reference": "7 août",
+   "situation": "Au lendemain de la rose, le narrateur se demande s'il est fou et compare son cas à celui des fous qui restent lucides sur tout sauf sur un point.",
+   "sens": "Il envisage d'être un homme raisonnable victime d'hallucinations.",
+   "procedes": "Conditionnel (« serais ») qui marque l'hypothèse ; expression paradoxale « halluciné raisonnant ».",
+   "demontre": "Le narrateur formule lui-même l'hypothèse de la folie avec un vocabulaire scientifique : c'est le cœur de l'hésitation fantastique.",
+   "usage": "Excellente citation pour la dissertation sur la fiabilité du narrateur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Je ne peux plus vouloir; mais quelqu'un veut pour moi; et j'obéis.",
+   "locuteur": "Le narrateur",
+   "reference": "13 août",
+   "situation": "Le narrateur constate qu'il n'a plus la force de quitter sa maison.",
+   "sens": "Sa volonté lui a été retirée par quelqu'un d'autre.",
+   "procedes": "Phrases brèves juxtaposées, opposition « je ne peux plus vouloir » / « quelqu'un veut pour moi », pronom indéfini « quelqu'un ».",
+   "demontre": "La possession est d'abord la perte de la liberté : le narrateur devient l'instrument d'une autre volonté.",
+   "usage": "Pour le thème de la volonté et de la possession, à rapprocher de l'hypnose de Mme Sablé.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Je suis perdu! Quelqu'un possède mon âme et la gouverne!",
+   "locuteur": "Le narrateur",
+   "reference": "14 août",
+   "situation": "Le narrateur, cloué dans son fauteuil, est forcé d'aller cueillir et manger des fraises.",
+   "sens": "Un être s'est emparé de son âme et la dirige.",
+   "procedes": "Exclamations, vocabulaire de la possession et du pouvoir (« possède », « gouverne »).",
+   "demontre": "La perte de soi est totale : le narrateur se dit ensuite « spectateur esclave » de ses propres actes.",
+   "usage": "Pour le thème de la possession ; pour une dissertation sur les angoisses modernes.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "A présent, je sais, je devine. Le règne de l'homme est fini.",
+   "locuteur": "Le narrateur",
+   "reference": "19 août (première entrée)",
+   "situation": "Après avoir lu l'article sur l'épidémie de folie de San-Paulo, le narrateur relie le Horla au trois-mâts brésilien.",
+   "sens": "L'homme n'est plus le maître du monde : une espèce nouvelle lui succède.",
+   "procedes": "Phrases brèves, gradation « je sais, je devine », phrase sentencieuse au présent.",
+   "demontre": "Le récit passe de l'angoisse personnelle à une vision apocalyptique de l'humanité.",
+   "usage": "Pour une lecture proche de la science-fiction et pour montrer que le fantastique fait réfléchir sur la place de l'homme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "le... Horla... J'ai entendu... le Horla... c'est lui... le Horla... il est venu!...",
+   "locuteur": "Le narrateur",
+   "reference": "19 août (première entrée)",
+   "situation": "Le narrateur sent que l'être lui crie son nom et cherche à l'entendre.",
+   "sens": "Il découvre le nom de l'être invisible.",
+   "procedes": "Points de suspension, répétition du nom, phrase hachée comme une dictée.",
+   "demontre": "Le nom surgit comme imposé de l'extérieur : nommer l'invisible lui donne une existence, sans l'expliquer.",
+   "usage": "Pour l'oral (question sur le titre) et pour la ponctuation de l'angoisse.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "mais le Horla va faire de l'homme ce que nous avons fait du cheval et du boeuf: sa chose, son serviteur et sa nourriture",
+   "locuteur": "Le narrateur",
+   "reference": "19 août (première entrée)",
+   "situation": "Le narrateur énumère les espèces qui en ont dominé d'autres (vautour, loup, lion, homme) et place le Horla au sommet.",
+   "sens": "Le Horla traitera l'homme comme l'homme traite les animaux domestiques.",
+   "procedes": "Comparaison, rythme ternaire (« sa chose, son serviteur et sa nourriture »), renversement de point de vue.",
+   "demontre": "La nouvelle renverse l'orgueil humain : l'homme devient l'animal d'une espèce supérieure.",
+   "usage": "Pour le thème de la fin du règne de l'homme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775",
+    "note": "Orthographe du site : « boeuf » (sans ligature)"
+   }
+  },
+  {
+   "texte": "on y voyait comme en plein jour, et je ne me vis pas dans ma glace!",
+   "locuteur": "Le narrateur",
+   "reference": "19 août (seconde entrée)",
+   "situation": "Le narrateur, qui faisait semblant d'écrire, se retourne brusquement vers son armoire à glace.",
+   "sens": "Son reflet a disparu malgré la lumière.",
+   "procedes": "Opposition entre la clarté (« comme en plein jour ») et l'absence du reflet, exclamation.",
+   "demontre": "C'est le sommet du fantastique : le Horla prend la place du reflet, comme s'il effaçait l'identité du narrateur.",
+   "usage": "Pour la scène du miroir et le thème du double.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Il est en moi, il devient mon âme; je le tuerai!",
+   "locuteur": "Le narrateur",
+   "reference": "19 août (première entrée, fin)",
+   "situation": "Après une rêverie sur des êtres et des éléments nouveaux, le narrateur attribue ses pensées au Horla.",
+   "sens": "Le Horla est entré en lui et le transforme.",
+   "procedes": "Gradation (« en moi », « mon âme »), futur catégorique.",
+   "demontre": "La frontière entre le narrateur et le Horla s'efface : tuer le Horla, c'est déjà se tuer soi-même.",
+   "usage": "Pour le thème du double et pour expliquer la chute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "J'avais oublié mes domestiques!",
+   "locuteur": "Le narrateur",
+   "reference": "10 septembre",
+   "situation": "Pendant l'incendie, un cri de femme retentit et deux mansardes s'ouvrent.",
+   "sens": "Le narrateur s'aperçoit que ses domestiques brûlent dans la maison.",
+   "procedes": "Phrase brève et exclamative, plus-que-parfait qui marque la prise de conscience tardive.",
+   "demontre": "L'obsession du Horla a rendu le narrateur meurtrier : sa folie a des conséquences réelles, quelle que soit l'existence du Horla.",
+   "usage": "Pour la dissertation sur la fiabilité du narrateur et pour le dénouement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Après l'homme le Horla.",
+   "locuteur": "Le narrateur",
+   "reference": "10 septembre",
+   "situation": "Réfugié à Rouen, le narrateur se demande si le Horla a pu mourir dans l'incendie.",
+   "sens": "Le Horla est le successeur de l'homme.",
+   "procedes": "Phrase nominale, brièveté sentencieuse.",
+   "demontre": "La vision d'une espèce supérieure, déjà présente le 19 août, revient au moment de la fin.",
+   "usage": "Pour la fin du règne de l'homme ; phrase très courte, facile à retenir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  },
+  {
+   "texte": "Alors... alors... il va donc falloir que je me tue moi!",
+   "locuteur": "Le narrateur",
+   "reference": "10 septembre (dernière phrase)",
+   "situation": "Le narrateur conclut que le Horla n'est pas mort.",
+   "sens": "Il ne lui reste plus qu'à se suicider.",
+   "procedes": "Répétition, points de suspension, pronom « moi » rejeté en fin de phrase.",
+   "demontre": "La chute est tragique et ouverte : la violence se retourne contre le narrateur, comme si l'ennemi était en lui.",
+   "usage": "Pour l'excipit et la notion de chute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : version de 1887, recueil Le Horla (Ollendorff, 1887), d'après Project Gutenberg, eBook #10775"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le récit fantastique : quand le narrateur doute de ce qu'il voit",
+  "explication": "En classe de seconde, aucune liste nationale d'œuvres n'est imposée : chaque professeur choisit ses œuvres et construit ses propres parcours. Le parcours présenté ici est donc un parcours pédagogique proposé, et non un intitulé officiel du programme. Il s'inscrit dans l'objet d'étude consacré au roman et au récit du XVIIIe au XXIe siècle, qui invite à étudier les formes du récit (roman, nouvelle) et les choix de narration.\n\nLe Horla permet d'observer comment le choix d'un narrateur à la première personne, qui écrit son journal, change tout : nous n'avons accès qu'à ses perceptions, à ses doutes, à ses interprétations. Le lecteur ne peut jamais vérifier ce qui est raconté. La comparaison avec la première version de 1886, où le patient parle devant des médecins, le montre clairement.\n\nLe parcours permet aussi de définir le fantastique : un événement inexplicable surgit dans un monde réaliste, et le personnage comme le lecteur hésitent entre une explication rationnelle et une explication surnaturelle. Maupassant entretient cette hésitation jusqu'au bout. Enfin, la comparaison avec d'autres récits fantastiques du XIXe siècle montre que le fantastique n'est pas seulement un jeu pour faire peur : il interroge les limites de la raison, de la science et de la connaissance de soi.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Horla, première version (1886)",
+    "auteur": "Guy de Maupassant",
+    "interet": "Dans cette version, le narrateur raconte son histoire à des médecins dans une maison de santé. Comparer les deux versions montre l'effet produit par la forme du journal intime."
+   },
+   {
+    "titre": "Lettre d'un fou (1885)",
+    "auteur": "Guy de Maupassant",
+    "interet": "Un homme écrit à son médecin qu'il ne se voit plus dans son miroir : une première esquisse de la scène la plus célèbre du Horla."
+   },
+   {
+    "titre": "La Vénus d'Ille (1837)",
+    "auteur": "Prosper Mérimée",
+    "interet": "Une statue de bronze semble s'animer et tuer un jeune marié : un modèle du fantastique où le narrateur, témoin rationnel, ne parvient pas à trancher."
+   },
+   {
+    "titre": "La Morte amoureuse (1836)",
+    "auteur": "Théophile Gautier",
+    "interet": "Un prêtre mène une double vie, le jour et la nuit, auprès d'une femme vampire : le thème du dédoublement et l'hésitation entre rêve et réalité."
+   },
+   {
+    "titre": "Le Cœur révélateur (1843, traduit par Baudelaire)",
+    "auteur": "Edgar Allan Poe",
+    "interet": "Un meurtrier jure qu'il n'est pas fou tout en racontant son crime : un autre narrateur à la première personne dont la parole est suspecte."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le Horla est un journal intime : le lecteur est enfermé dans le point de vue d'un narrateur qui doute de sa raison.",
+   "Le fantastique repose sur l'hésitation : aucune preuve n'a d'autre témoin que le narrateur, mais l'hypnose et l'article de la revue rendent le surnaturel possible.",
+   "La nouvelle mêle science et surnaturel : l'hypnose et la suggestion servent de modèle à la possession.",
+   "La progression est rigoureuse : du bonheur du 8 mai à la décision du suicide du 10 septembre.",
+   "Les grands thèmes : l'invisible, la perte de la volonté, la solitude, le double, la fin du règne de l'homme."
+  ],
+  "axes": [
+   "La construction d'une angoisse croissante (forme du journal, gradation, ponctuation).",
+   "L'hésitation entre folie et surnaturel (narrateur seul témoin, explications rationnelles avancées puis rejetées).",
+   "Un récit réaliste au service du fantastique (décor précis, démarche expérimentale).",
+   "Une réflexion sur les limites de l'homme (sens imparfaits, perte de la volonté, espèce nouvelle)."
+  ],
+  "problematiques": [
+   "Comment Maupassant rend-il le lecteur incapable de trancher entre folie et surnaturel ?",
+   "En quoi la forme du journal intime renforce-t-elle l'effet fantastique ?",
+   "Comment la nouvelle fait-elle de la peur un moyen de réfléchir aux limites de la raison humaine ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Les expériences de la carafe (10 juillet) : mousseline, ficelle, mine de plomb.",
+    "utilisation": "Montrer la démarche rationnelle du narrateur, qui rend le surnaturel plus crédible."
+   },
+   {
+    "exemple": "L'hypnose de Mme Sablé par le docteur Parent (16 juillet).",
+    "utilisation": "Montrer que la science de l'époque rend pensable la domination d'une volonté par une autre."
+   },
+   {
+    "exemple": "La rose cueillie (6 août) et la tige « fraîchement brisée ».",
+    "utilisation": "Montrer qu'une preuve matérielle semble exclure l'hallucination, sans autre témoin que le narrateur."
+   },
+   {
+    "exemple": "La lecture de la Revue du Monde Scientifique (19 août).",
+    "utilisation": "Montrer qu'un élément extérieur semble confirmer le récit, mais qu'il reste interprété par le narrateur."
+   },
+   {
+    "exemple": "La scène du miroir (seconde entrée du 19 août).",
+    "utilisation": "Analyser le sommet du fantastique et le thème du double."
+   },
+   {
+    "exemple": "L'incendie et les domestiques oubliés (10 septembre).",
+    "utilisation": "Montrer que la folie du narrateur a des conséquences réelles et meurtrières."
+   }
+  ],
+  "liens": "Les thèmes, les personnages et les procédés se répondent. Le thème de l'invisible est porté par le moine (le vent) et par la ponctuation de l'incertitude ; celui de la volonté par le docteur Parent et Mme Sablé, dont l'expérience prépare la possession du 14 août ; celui du double par la scène du miroir et par la dernière phrase. La forme du journal relie tout : elle fait du narrateur à la fois le témoin, la victime et le seul juge de ce qu'il raconte.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Entrée du 8 mai (incipit)",
+    "pistes": "Un cadre réaliste et lyrique (enracinement, paysage de Rouen et de la Seine) ; des signes discrets d'inquiétude (le remorqueur qui « râlait de peine », le salut inexplicable) ; le trois-mâts brésilien comme indice."
+   },
+   {
+    "passage": "Entrée du 6 août (la rose)",
+    "pistes": "Le choc de l'expérience (répétitions, ponctuation) ; un surnaturel en plein soleil décrit avec précision ; le passage de l'hallucination à la certitude par un raisonnement rationnel."
+   },
+   {
+    "passage": "Seconde entrée du 19 août (le miroir)",
+    "pistes": "La mise en scène méthodique du piège ; la disparition du reflet ; le retour progressif de l'image (brume, nappe d'eau, éclipse, « transparence opaque »)."
+   }
+  ],
+  "erreurs": [
+   "Affirmer que le Horla existe vraiment, ou que le narrateur est simplement fou : la nouvelle ne tranche pas, et il faut le dire.",
+   "Confondre le narrateur et Maupassant : la nouvelle n'est pas le journal de la folie de l'auteur, écrite plusieurs années avant sa crise de 1892.",
+   "Confondre les deux versions : celle de 1886 est un récit fait devant des médecins ; celle de 1887, étudiée ici, est un journal intime.",
+   "Parler d'un roman : Le Horla est une nouvelle.",
+   "Dire que le narrateur voit le Horla dans le miroir : il ne voit pas son propre reflet, que le corps invisible du Horla cache.",
+   "Croire que le Horla est un fantôme ou un vampire traditionnel : le narrateur insiste sur sa nature matérielle (il boit, il touche les objets)."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Un récit fantastique a-t-il pour seul but de faire peur ?",
+   "analyse": "Le fantastique est souvent associé à la peur : monstres, apparitions, angoisse. L'expression « pour seul but » invite à reconnaître cette fonction tout en cherchant d'autres buts : faire réfléchir, interroger la raison, la science, l'identité. Il faut s'appuyer sur Le Horla et sur d'autres récits.",
+   "problematique": "La peur provoquée par Le Horla est-elle une fin en soi, ou un moyen d'interroger les limites de la raison et de la connaissance humaine ?",
+   "plan": [
+    {
+     "titre": "I. Un récit qui fait peur",
+     "arguments": [
+      "A. Une angoisse croissante, rythmée par les dates du journal : du bonheur du 8 mai au suicide annoncé du 10 septembre.",
+      "B. Des scènes effrayantes : le cauchemar de l'étranglement (25 mai), la carafe vidée, la rose cueillie, le miroir vide.",
+      "C. Une peur communiquée par l'écriture : exclamations, points de suspension, répétitions (« j'ai vu... j'ai vu... »)."
+     ]
+    },
+    {
+     "titre": "II. Un récit qui fait douter et réfléchir",
+     "arguments": [
+      "A. L'hésitation entre folie et surnaturel : le narrateur est le seul témoin, le lecteur ne peut trancher.",
+      "B. Une réflexion sur les limites de nos sens : le « mystère de l'Invisible » (12 mai), le vent du moine du mont Saint-Michel.",
+      "C. Un dialogue avec la science de l'époque : hypnose du docteur Parent, école de Nancy, Mesmer."
+     ]
+    },
+    {
+     "titre": "III. Un récit qui dit les angoisses de l'homme moderne",
+     "arguments": [
+      "A. La peur de perdre sa volonté et son identité : « Quelqu'un possède mon âme et la gouverne » (14 août).",
+      "B. L'angoisse d'une humanité qui ne serait plus le sommet de la création : « Le règne de l'homme est fini » (19 août).",
+      "C. Une dimension autobiographique : la peur de la folie chez Maupassant lui-même ; le fantastique devient une manière de dire l'indicible."
+     ]
+    }
+   ],
+   "introduction": "Les histoires de fantômes et de monstres sont souvent racontées pour faire frissonner. Le récit fantastique, qui connaît un grand succès au XIXe siècle, semble ainsi destiné à provoquer la peur. Dans Le Horla (1887), Maupassant raconte, sous la forme d'un journal intime, la terreur grandissante d'un homme persuadé qu'un être invisible vit chez lui et s'empare de sa volonté. Mais un récit fantastique a-t-il pour seul but de faire peur ? Nous nous demanderons si la peur provoquée par Le Horla est une fin en soi ou un moyen d'interroger les limites de la raison et de la connaissance humaine. Nous verrons d'abord que la nouvelle est bien un récit qui fait peur, puis qu'elle fait douter et réfléchir, avant de montrer qu'elle exprime les angoisses de l'homme moderne.",
+   "conclusion": "Le Horla fait incontestablement peur : la progression du journal, les scènes saisissantes et l'écriture haletante transmettent au lecteur l'angoisse du narrateur. Mais cette peur sert un projet plus profond : elle oblige à douter, à s'interroger sur les limites de nos sens et de la science, et elle exprime des angoisses modernes, la perte de la volonté, la fragilité de l'homme, la folie. Le fantastique est donc un moyen de penser ce que la raison ne peut expliquer. Au XXe siècle, la science-fiction prolongera ces interrogations, en imaginant à son tour des êtres supérieurs venus remplacer l'humanité."
+  },
+  {
+   "sujet": "Peut-on faire confiance à un narrateur qui raconte sa propre histoire ?",
+   "analyse": "Un narrateur à la première personne raconte ce qu'il a vécu : il semble bien placé pour dire la vérité, mais il ne voit que de son point de vue et peut se tromper, mentir ou délirer. Le sujet invite à réfléchir à la fiabilité de la narration, à partir du Horla, écrit sous forme de journal intime.",
+   "problematique": "Dans Le Horla, la forme du journal intime rend-elle le récit plus crédible, ou au contraire plus incertain ?",
+   "plan": [
+    {
+     "titre": "I. Un témoignage qui semble digne de confiance",
+     "arguments": [
+      "A. Le journal daté donne une impression d'authenticité : un témoignage écrit au jour le jour, sans recul ni invention.",
+      "B. Un narrateur rationnel et cultivé, qui doute de lui-même, consulte un médecin et fait des expériences méthodiques (10 juillet).",
+      "C. Des preuves matérielles : la carafe enveloppée de mousseline, la tige « fraîchement brisée » (6 août)."
+     ]
+    },
+    {
+     "titre": "II. Un narrateur dont la parole devient suspecte",
+     "arguments": [
+      "A. Il est le seul témoin de tous les phénomènes : personne ne voit le Horla avec lui.",
+      "B. Il avoue ses doutes : « Ai-je perdu la raison ? » (5 juillet), « Je deviens fou » (6 juillet).",
+      "C. Ses actes trahissent la folie : il met le feu à sa maison et oublie ses domestiques (10 septembre)."
+     ]
+    },
+    {
+     "titre": "III. L'incertitude, cœur du fantastique",
+     "arguments": [
+      "A. Le lecteur, enfermé dans le point de vue du narrateur, ne peut ni le croire ni le contredire tout à fait.",
+      "B. Les éléments extérieurs (la revue scientifique, l'hypnose de Mme Sablé) rendent l'explication surnaturelle possible.",
+      "C. Cette hésitation fait la force du récit : comparaison avec la première version de 1886, où des médecins écoutent le malade."
+     ]
+    }
+   ],
+   "introduction": "Quand quelqu'un nous raconte ce qu'il a vécu, nous avons tendance à le croire : qui mieux que lui pourrait savoir ce qui s'est passé ? Pourtant, un témoin peut se tromper, exagérer ou délirer. Dans Le Horla (1887), Maupassant confie le récit à un narrateur qui écrit son journal intime et y raconte l'invasion de sa vie par un être invisible. Peut-on faire confiance à ce narrateur ? Nous nous demanderons si la forme du journal intime rend le récit plus crédible ou au contraire plus incertain. Nous verrons d'abord que ce témoignage semble digne de confiance, puis que la parole du narrateur devient suspecte, avant de montrer que cette incertitude est le cœur même du fantastique.",
+   "conclusion": "Le narrateur du Horla semble d'abord un témoin fiable : il date ses observations, raisonne, vérifie. Mais il est le seul à voir, il doute lui-même de sa raison, et ses actes finissent par révéler une folie meurtrière. Le lecteur ne peut donc ni le croire entièrement ni le rejeter : enfermé dans son point de vue, il partage son incertitude. C'est justement ce qui fait la réussite de la nouvelle fantastique. Cette technique du narrateur peu fiable sera largement reprise, par exemple dans les romans policiers où le narrateur cache la vérité au lecteur."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Horla est une nouvelle fantastique de Guy de Maupassant, dont la version définitive paraît en 1887 dans un recueil du même titre. Elle prend la forme d'un journal intime tenu du 8 mai au 10 septembre par un homme aisé qui vit près de Rouen. D'abord heureux, il souffre de fièvre et de cauchemars, découvre que l'eau de sa carafe est bue pendant la nuit, voit une rose cueillie par une main invisible et sent sa volonté lui échapper. Il nomme cet être le Horla, l'enferme dans sa chambre et incendie sa maison, tuant ses domestiques, avant de conclure qu'il devra se tuer. Le récit ne permet jamais de trancher entre folie et surnaturel : c'est le cœur du fantastique.",
+  "essentiels": [
+   "Deux versions : 1886 (récit devant des médecins) et 1887 (journal intime, version étudiée).",
+   "Le fantastique : hésitation entre explication rationnelle et surnaturelle ; le narrateur est le seul témoin.",
+   "Les étapes : le trois-mâts, la carafe, l'hypnose, la rose, le nom, le miroir, l'incendie.",
+   "Le contexte scientifique : hypnose, suggestion, école de Nancy, Mesmer.",
+   "La chute : « il va donc falloir que je me tue moi! »"
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Maupassant a-t-il choisi la forme du journal intime ?",
+    "reponse": "Le journal donne l'impression d'un témoignage authentique écrit au jour le jour, sans recul : le lecteur découvre les événements en même temps que le narrateur. Surtout, il nous enferme dans un seul point de vue. Dans la version de 1886, des médecins écoutaient le patient ; en 1887, plus personne ne peut confirmer ou démentir le narrateur. Les variations de longueur des entrées, des longues réflexions du 19 août à « Rien, mais j'ai peur » (9 août), montrent directement son état."
+   },
+   {
+    "question": "Le narrateur est-il fou ?",
+    "reponse": "On ne peut pas trancher, et c'est voulu. Plusieurs indices plaident pour la folie : il est le seul témoin, il se demande lui-même s'il est un « halluciné raisonnant » (7 août), et il finit par tuer ses domestiques. Mais d'autres éléments rendent le surnaturel possible : l'expérience d'hypnose montre qu'une volonté peut en dominer une autre, et l'article sur San-Paulo décrit des êtres qui boivent de l'eau et du lait. Cette hésitation est la définition même du fantastique."
+   },
+   {
+    "question": "Quel est le rôle de l'épisode de Mme Sablé ?",
+    "reponse": "Il sert de modèle scientifique à la possession. Le docteur Parent hypnotise la cousine du narrateur, qui vient ensuite lui demander cinq mille francs sans savoir pourquoi. Le narrateur, d'abord incrédule, est ébranlé ; le 15 août, il comprend que sa cousine était possédée comme lui. La science de l'époque rend ainsi vraisemblable l'idée d'un être qui commande à notre volonté."
+   },
+   {
+    "question": "Que signifie la scène du miroir ?",
+    "reponse": "Le narrateur se retourne et ne voit pas son reflet : le corps invisible du Horla, placé entre lui et la glace, l'a « dévoré ». Littéralement, c'est la preuve que l'être a un corps. Symboliquement, le Horla prend la place du narrateur : c'est une image de la perte d'identité et du double. Le reflet revient peu à peu, « comme la fin d'une éclipse »."
+   },
+   {
+    "question": "Comment comprenez-vous la dernière phrase ?",
+    "reponse": "Le narrateur pense que le Horla, peut-être indestructible, a survécu à l'incendie ; la seule issue serait de se tuer. Le pronom « moi » rejeté à la fin suggère que l'ennemi est en lui, comme il le disait le 19 août : « Il est en moi, il devient mon âme ». La fin est tragique et ouverte : on ne sait pas s'il passe à l'acte."
+   },
+   {
+    "question": "Le Horla fait-il seulement peur ?",
+    "reponse": "Non. La nouvelle interroge aussi les limites de nos sens (« ce mystère de l'Invisible », 12 mai), le pouvoir de la science (l'hypnose) et la place de l'homme dans l'univers (« Le règne de l'homme est fini »). Elle dit une angoisse moderne : ne plus être maître de soi."
+   }
+  ],
+  "liens": "La nouvelle s'inscrit dans l'objet d'étude sur le roman et le récit du XVIIIe au XXIe siècle (forme brève, choix de narration) et dans le parcours proposé sur le récit fantastique. On peut la rapprocher de La Vénus d'Ille de Mérimée, de La Morte amoureuse de Gautier, du Cœur révélateur de Poe, et, dans l'œuvre de Maupassant, de Lettre d'un fou ou de Qui sait ? Le thème de l'espèce qui remplace l'homme annonce les récits d'invasion de la science-fiction.",
+  "reflexion": [
+   {
+    "question": "Pour vous, le Horla existe-t-il ?",
+    "pistes": "Rassembler les indices des deux lectures (seul témoin, aveux de doute / hypnose, article de la revue) ; dire quelle lecture vous convainc le plus, tout en montrant que le texte ne tranche pas."
+   },
+   {
+    "question": "Préférez-vous une fin ouverte ou une fin qui explique tout ?",
+    "pistes": "Comparer avec un récit policier où l'énigme est résolue ; réfléchir au rôle du lecteur, qui continue à penser au texte après la lecture."
+   },
+   {
+    "question": "Peut-on encore avoir peur de l'invisible aujourd'hui ?",
+    "pistes": "Microbes, virus, ondes, manipulation des esprits : penser aux peurs contemporaines et à la façon dont la science peut à la fois rassurer et inquiéter."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'incipit : le bonheur du 8 mai",
+   "reference": "Entrée du 8 mai",
+   "enjeu": "Comment ce début heureux installe-t-il un cadre réaliste tout en préparant discrètement l'irruption du fantastique ?",
+   "mouvements": [
+    "Mouvement 1 : l'enracinement et le bonheur — exclamation initiale, champ lexical des racines, des ancêtres et des sensations (odeurs, locutions, nourritures) : le narrateur est en harmonie avec sa terre.",
+    "Mouvement 2 : le paysage de la Seine et de Rouen — description réaliste et lumineuse (« la vaste ville aux toits bleus », les clochers, les cloches « dans l'air bleu ») : un cadre précis, vrai, rassurant.",
+    "Mouvement 3 : le défilé des navires et le trois-mâts brésilien — énumération des bateaux, admiration pour le navire « tout blanc », salut inexplicable (« je ne sais pourquoi ») : détail anodin qui deviendra la clé du récit."
+   ]
+  },
+  {
+   "titre": "La rose cueillie par une main invisible",
+   "reference": "Entrée du 6 août",
+   "enjeu": "Comment Maupassant rend-il crédible un phénomène surnaturel, tout en laissant planer le doute sur la raison du narrateur ?",
+   "mouvements": [
+    "Mouvement 1 : l'affirmation d'une certitude — « Cette fois, je ne suis pas fou » ; répétitions de « j'ai vu », points de suspension, hyperboles de la peur (« froid jusque dans les ongles ») : le choc de l'expérience.",
+    "Mouvement 2 : le récit précis de l'événement — cadre banal et rassurant (deux heures, plein soleil, rosiers), description minutieuse du mouvement de la fleur, comparaisons hypothétiques (« comme si une main invisible l'eût tordue ») : le surnaturel surgit en pleine lumière.",
+    "Mouvement 3 : de l'hallucination à la preuve — colère contre soi, puis vérification (la tige « fraîchement brisée ») ; conclusion logique : un être invisible « habite comme moi, sous mon toit » : le raisonnement rationnel aboutit au surnaturel."
+   ]
+  },
+  {
+   "titre": "La scène du miroir",
+   "reference": "Entrée du 19 août (seconde entrée)",
+   "enjeu": "En quoi cette scène constitue-t-elle le sommet du fantastique et de l'angoisse dans la nouvelle ?",
+   "mouvements": [
+    "Mouvement 1 : le piège tendu — désir violent de tuer (accumulation : « mes mains, mes genoux, ma poitrine »), lumière abondante (deux lampes, huit bougies), description précise de la chambre et de l'armoire à glace : mise en scène méthodique.",
+    "Mouvement 2 : le reflet disparu — retournement brusque, phrase exclamative « je ne me vis pas dans ma glace ! », adjectifs « vide, claire, profonde, pleine de lumière » : le corps du Horla a « dévoré » le reflet.",
+    "Mouvement 3 : le retour progressif de l'image — comparaisons de la brume, de la nappe d'eau, de « la fin d'une éclipse », oxymore « transparence opaque » ; conclusion : « Je l'avais vu ! » : voir l'invisible, c'est voir sa propre disparition."
+   ]
+  },
+  {
+   "titre": "Le dénouement : l'incendie",
+   "reference": "Entrée du 10 septembre, fin de la nouvelle",
+   "enjeu": "Comment la fin de la nouvelle mêle-t-elle l'horreur, le doute et la tragédie ?",
+   "mouvements": [
+    "Mouvement 1 : le piège et l'incendie — récit au passé de la ruse (bottines, savates, cadenas), joie folle, attente angoissée (« Comme ce fut long ! »), description épique et presque belle du feu (flamme « caressante », « bûcher horrible et magnifique »).",
+    "Mouvement 2 : l'horreur des domestiques oubliés — le « cri de femme », la gradation de l'horreur ; la folie du narrateur apparaît : il a sacrifié des vies humaines pour tuer un être invisible.",
+    "Mouvement 3 : le doute et la décision finale — questions rhétoriques sur l'indestructibilité du Horla, opposition entre l'homme mortel et l'être nouveau, points de suspension, chute : « il va donc falloir que je me tue moi ! » : fin ouverte et tragique."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Le Horla (version de 1887, recueil Le Horla) est une nouvelle fantastique de Maupassant, écrite sous la forme d'un journal intime (8 mai - 10 septembre).",
+   "Une première version, de 1886, faisait raconter l'histoire par un patient devant des médecins.",
+   "Le fantastique repose sur l'hésitation : le narrateur est-il fou, ou un être invisible existe-t-il vraiment ?",
+   "Le narrateur, seul témoin, est un narrateur peu fiable : il doute lui-même de sa raison.",
+   "Étapes clés : le trois-mâts brésilien, la carafe vidée, l'hypnose de Mme Sablé, la rose, le nom du Horla, le miroir, l'incendie.",
+   "La nouvelle s'appuie sur la science de son temps : hypnose, suggestion, école de Nancy, Mesmer.",
+   "Thèmes : l'invisible, la perte de la volonté, la solitude, le double, la fin du règne de l'homme.",
+   "La chute est tragique et ouverte : le narrateur pense devoir se tuer."
+  ],
+  "citations": [
+   0,
+   1,
+   5,
+   6,
+   8,
+   9,
+   12,
+   16
+  ],
+  "pieges": [
+   "Ne pas confondre les deux versions (1886 / 1887).",
+   "Ne pas affirmer que le Horla existe, ni que le narrateur est simplement fou.",
+   "Ne pas confondre Maupassant et son narrateur.",
+   "Dans le miroir, le narrateur ne voit pas son reflet ; il ne voit pas le Horla lui-même.",
+   "La date du 19 août revient deux fois : révélation du nom, puis scène du miroir."
+  ],
+  "synthese": "Le Horla (1887) est le journal d'un homme qui croit qu'un être invisible, arrivé sur un trois-mâts brésilien, boit son eau, cueille ses roses et s'empare de sa volonté. Maupassant entretient jusqu'au bout l'hésitation fantastique : le narrateur est le seul témoin et doute de sa raison, mais l'hypnose de Mme Sablé et l'article sur San-Paulo rendent le surnaturel possible. L'angoisse progresse de date en date, la phrase se brise, et le récit s'achève sur un incendie meurtrier et l'annonce d'un suicide. La nouvelle fait peur, mais elle interroge surtout les limites de nos sens, la fragilité de la volonté et la place de l'homme dans l'univers."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Fantastique",
+   "definition": "Registre et genre littéraire où un événement apparemment surnaturel surgit dans un cadre réaliste, provoquant l'hésitation du personnage et du lecteur entre une explication rationnelle et une explication surnaturelle. Ex. : la rose cueillie par une main invisible."
+  },
+  {
+   "terme": "Nouvelle",
+   "definition": "Récit bref, centré sur un événement principal, avec peu de personnages et une chute souvent marquante. Le Horla est une nouvelle."
+  },
+  {
+   "terme": "Journal intime",
+   "definition": "Récit à la première personne, organisé en entrées datées, écrit au jour le jour. Ex. : les entrées du 8 mai au 10 septembre."
+  },
+  {
+   "terme": "Narrateur-personnage",
+   "definition": "Narrateur qui raconte sa propre histoire à la première personne ; on ne voit les faits qu'à travers lui. Ex. : le narrateur anonyme du Horla."
+  },
+  {
+   "terme": "Narrateur non fiable",
+   "definition": "Narrateur dont le lecteur a des raisons de douter (folie, mensonge, erreur). Ex. : le narrateur qui se demande s'il est fou."
+  },
+  {
+   "terme": "Hallucination",
+   "definition": "Perception d'une chose qui n'existe pas. Le narrateur se demande si la rose suspendue est une hallucination (6 août)."
+  },
+  {
+   "terme": "Points de suspension",
+   "definition": "Signe de ponctuation qui marque l'hésitation, l'émotion ou l'inachevé. Ex. : « le... Horla... J'ai entendu... »."
+  },
+  {
+   "terme": "Gradation",
+   "definition": "Succession de termes d'intensité croissante. Ex. : le cauchemar où l'être « s'approche », « me regarde, me palpe, monte sur mon lit »."
+  },
+  {
+   "terme": "Chute",
+   "definition": "Fin inattendue et frappante d'une nouvelle. Ex. : la décision du suicide à la dernière ligne."
+  },
+  {
+   "terme": "Hypnose / suggestion",
+   "definition": "Techniques médicales étudiées dans les années 1880 (Charcot, école de Nancy) qui permettent de faire agir quelqu'un selon une volonté étrangère. Ex. : Mme Sablé hypnotisée par le docteur Parent."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Sous quelle forme est écrite la version de 1887 du Horla ?",
+   "choix": [
+    "Un dialogue de théâtre",
+    "Un journal intime daté",
+    "Des lettres",
+    "Un récit à la troisième personne"
+   ],
+   "reponse": 1,
+   "explication": "Le narrateur écrit son journal, du 8 mai au 10 septembre."
+  },
+  {
+   "question": "Que salue le narrateur le 8 mai ?",
+   "choix": [
+    "Un trois-mâts brésilien",
+    "Son médecin",
+    "Un moine",
+    "Sa cousine"
+   ],
+   "reponse": 0,
+   "explication": "Il salue un beau navire blanc venu du Brésil (8 mai) ; le 19 août, le narrateur affirme que le Horla était à bord."
+  },
+  {
+   "question": "Que boit le Horla ?",
+   "choix": [
+    "Du vin et du café",
+    "Du sang",
+    "De l'eau et du lait",
+    "Rien du tout"
+   ],
+   "reponse": 2,
+   "explication": "Les expériences du narrateur (10 juillet) montrent que seuls l'eau et le lait disparaissent."
+  },
+  {
+   "question": "Que fait le docteur Parent chez Mme Sablé ?",
+   "choix": [
+    "Il la soigne d'une fièvre",
+    "Il lui fait un sermon",
+    "Il lit les lignes de sa main",
+    "Il l'hypnotise"
+   ],
+   "reponse": 3,
+   "explication": "Sous suggestion, Mme Sablé vient ensuite demander cinq mille francs au narrateur."
+  },
+  {
+   "question": "Que voit le narrateur le 6 août ?",
+   "choix": [
+    "Une silhouette dans le jardin",
+    "Une rose cueillie par une main invisible",
+    "Son double dans la forêt",
+    "Un fantôme dans l'escalier"
+   ],
+   "reponse": 1,
+   "explication": "La tige se casse et la fleur s'élève dans l'air, toute seule."
+  },
+  {
+   "question": "Que se passe-t-il dans la scène du miroir ?",
+   "choix": [
+    "Le narrateur voit le visage du Horla",
+    "Le miroir se brise",
+    "Le narrateur ne voit pas son reflet",
+    "Le reflet parle"
+   ],
+   "reponse": 2,
+   "explication": "Le corps invisible du Horla, placé entre lui et la glace, cache le reflet du narrateur (seconde entrée du 19 août)."
+  },
+  {
+   "question": "Comment le narrateur tente-t-il de tuer le Horla ?",
+   "choix": [
+    "Avec du poison",
+    "En incendiant sa maison",
+    "Avec un pistolet",
+    "En le noyant dans la Seine"
+   ],
+   "reponse": 1,
+   "explication": "Il enferme l'être dans sa chambre et met le feu à la maison ; ses domestiques meurent dans l'incendie."
+  },
+  {
+   "question": "Qu'est-ce qui définit le fantastique ?",
+   "choix": [
+    "La présence de fées et de magiciens",
+    "Un futur technologique",
+    "Un monde totalement imaginaire",
+    "L'hésitation entre une explication rationnelle et une explication surnaturelle"
+   ],
+   "reponse": 3,
+   "explication": "Dans Le Horla, on ne sait jamais si le narrateur est fou ou si l'être invisible existe."
+  },
+  {
+   "question": "Où et quand paraît la version étudiée du Horla ?",
+   "choix": [
+    "Dans Gil Blas en 1886",
+    "Dans un recueil intitulé Le Horla en 1887",
+    "Dans Le Figaro en 1893",
+    "Dans les Soirées de Médan en 1880"
+   ],
+   "reponse": 1,
+   "explication": "La version-journal paraît en 1887 chez Ollendorff, dans un recueil qui porte son titre ; Gil Blas avait publié la première version en 1886."
+  },
+  {
+   "question": "Que dit le moine du mont Saint-Michel pour prouver qu'un être invisible peut exister ?",
+   "choix": [
+    "Que Dieu est invisible",
+    "Que les anges veillent sur nous",
+    "Que le vent existe, bien qu'on ne le voie pas",
+    "Que les morts reviennent la nuit"
+   ],
+   "reponse": 2,
+   "explication": "Le vent, « la plus grande force de la nature », est invisible et pourtant réel (2 juillet)."
+  },
+  {
+   "question": "Où le narrateur lit-il la nouvelle de l'épidémie de folie au Brésil ?",
+   "choix": [
+    "Dans une lettre de sa cousine",
+    "Dans la Revue du Monde Scientifique",
+    "Dans le traité d'Hermann Herestauss",
+    "Dans un journal de Rouen"
+   ],
+   "reponse": 1,
+   "explication": "Le 19 août, il lit dans la Revue du Monde Scientifique qu'une épidémie de folie frappe la province de San-Paulo."
+  },
+  {
+   "question": "Comment le narrateur se décrit-il le 7 août ?",
+   "choix": [
+    "Comme un halluciné raisonnant",
+    "Comme un homme parfaitement guéri",
+    "Comme un savant génial",
+    "Comme un possédé du démon"
+   ],
+   "reponse": 0,
+   "explication": "Il envisage d'être un homme lucide victime d'hallucinations : il formule lui-même l'hypothèse de la folie."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Project Gutenberg, Le Horla (eBook #10775), texte de la version de 1887",
+   "url": "https://www.gutenberg.org/ebooks/10775"
+  },
+  {
+   "titre": "Wikisource, Le Horla (première version, 1886)",
+   "url": "https://fr.wikisource.org/wiki/Le_Horla_(premi%C3%A8re_version)"
+  },
+  {
+   "titre": "Wikipédia, Le Horla (versions, dates de publication, hypothèses sur le nom)",
+   "url": "https://fr.wikipedia.org/wiki/Le_Horla"
+  },
+  {
+   "titre": "Revista de Lenguas Modernas (Université du Costa Rica), article sur les contes fantastiques de Maupassant et sa chronique Le Fantastique (1883)",
+   "url": "https://revistas.ucr.ac.cr/index.php/rlm/article/download/34687/34216"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte de la chronique Le Fantastique (Le Gaulois, 1883) et détail de son contenu : seule l'idée du recul de la croyance au surnaturel a été confirmée par une source secondaire.",
+  "Les liens personnels entre Maupassant et Charcot (présence de Maupassant à ses leçons) sont souvent affirmés mais restent imprécis ; la fiche ne les présente pas comme certains.",
+  "Origine du nom Horla : hypothèses (hors-là, horsain) sans confirmation de l'auteur.",
+  "Nombre de nouvelles de Maupassant : environ trois cents selon les décomptes usuels."
+ ]
+}

@@ -1,0 +1,1091 @@
+{
+ "id": "pot-bouille",
+ "accroche": "Derrière les portes d'acajou d'un immeuble chic, adultères, mariages d'argent et lâchetés : Zola soulève le couvercle de la marmite bourgeoise.",
+ "identite": {
+  "auteur": "Émile Zola (1840-1902) passe sa jeunesse à Aix-en-Provence puis vit pauvrement à Paris, où il travaille chez l'éditeur Hachette et devient journaliste et critique. Après Thérèse Raquin (1867), il conçoit le cycle des Rougon-Macquart, vingt romans publiés de 1871 à 1893, qui suivent les descendants d'une même famille dans tous les milieux du Second Empire. Le succès de L'Assommoir (1877) le rend célèbre et riche ; il achète une maison à Médan, où se réunissent de jeunes écrivains naturalistes (Maupassant, Huysmans, Céard…). Pot-Bouille (1882) est le dixième volume du cycle. Zola s'engagera plus tard dans l'affaire Dreyfus (article « J'accuse… ! », 1898).",
+  "contexte": "L'action se déroule au début des années 1860, sous le Second Empire, dans le Paris transformé par Haussmann. L'immeuble de rapport de la rue de Choiseul, « tout à fait bien » selon l'architecte Campardon, est neuf et déjà lézardé : on y loge la bourgeoisie aux étages nobles, de petits employés plus haut, les domestiques sous les toits. Le roman évoque aussi la naissance du grand commerce (le magasin Au Bonheur des Dames) et les grands travaux (Octave parle de la future rue du Dix-Décembre, chap. IX). Zola écrit vingt ans plus tard, sous la IIIe République : il regarde le Second Empire comme une époque révolue, marquée par l'argent, le mariage arrangé où la dot compte plus que l'amour, et une religion de façade.",
+  "mouvement": "Pot-Bouille est un roman naturaliste : Zola enquête, décrit avec précision et montre l'influence du milieu et des appétits (argent, désir, ambition) sur les comportements. Il l'écrit deux ans après Le Roman expérimental (1880), où il définit les naturalistes comme des « moralistes expérimentateurs ». Mais c'est aussi une comédie de mœurs féroce, proche de la caricature et du vaudeville (adultères, portes qui claquent, fuite en chemise dans l'escalier). Le titre vient d'une expression familière : « pot-bouille » désigne la cuisine ordinaire d'un ménage, la popote ; Zola en fait l'image de la vie domestique bourgeoise qui mijote derrière les portes closes.",
+  "circonstances": "Pot-Bouille paraît en feuilleton dans le quotidien Le Gaulois de fin janvier au 14 avril 1882, puis en volume chez Charpentier en avril 1882. Selon la ressource Eduscol, ce roman ne figurait pas dans le plan initial des Rougon-Macquart (1869) : c'est un « roman d'actualité », né du désir de répondre à ceux qui accusaient Zola d'immoralité au nom de la morale bourgeoise depuis L'Assommoir et Nana. Pour le préparer, Zola a pris des notes d'enquête ; son ami Henry Céard lui a fourni beaucoup d'anecdotes sur la petite bourgeoisie parisienne. Le personnage du conseiller à la cour s'appelait d'abord « Duverdy » : un avocat portant ce nom ayant attaqué Zola en justice, le nom fut changé en « Duveyrier » (d'après Wikipédia).",
+  "carriere": "Pot-Bouille vient après Nana (1880), roman de la prostitution mondaine, et avant Au Bonheur des Dames (1883), où l'on retrouve Octave Mouret devenu le patron d'un grand magasin. Octave est le fils de François Mouret, personnage de La Conquête de Plassans (1874) : le roman le fait passer de la province à Paris et de l'ambition à la réussite. Après les ouvriers de L'Assommoir, Zola s'attaque à la bourgeoisie, et il le fait au moment où il est le chef reconnu du naturalisme (Le Roman expérimental, 1880 ; Les Soirées de Médan, 1880)."
+ },
+ "resumeCourt": "Octave Mouret, vingt-deux ans, jeune provincial ambitieux venu de Plassans, s'installe dans un immeuble cossu de la rue de Choiseul, à Paris, où il compte faire fortune grâce aux femmes. Derrière la façade respectable et le grand escalier solennel, il découvre un monde d'hypocrisie : une mère qui chasse le mari pour ses filles, des maris trompés et trompeurs, un héritage disputé, des bonnes méprisées qui déversent dans la cour intérieure tous les secrets des maîtres. Octave échoue auprès de Valérie, séduit la naïve Marie Pichon, essuie un refus de sa patronne Mme Hédouin, puis devient l'amant de Berthe Josserand, mariée à Auguste Vabre. Le scandale éclate quand Auguste les surprend ; mais tout est vite étouffé, chacun ayant intérêt au silence. Au dénouement, Octave a épousé Mme Hédouin, devenue veuve, Berthe s'est réconciliée avec son mari, et seules les domestiques, dans la cour, disent la vérité : « C'est cochon et compagnie. »",
+ "resume": [
+  {
+   "titre": "Chapitre I — L'arrivée d'Octave rue de Choiseul",
+   "texte": "Un après-midi de novembre, Octave Mouret, vingt-deux ans, arrive de Plassans. L'architecte Campardon, ami de sa famille, lui a loué une chambre au quatrième étage et lui fait visiter l'immeuble. Le vestibule et l'escalier sont d'un « luxe violent » : faux marbre, rampe qui imite le vieil argent, tapis rouge, chauffage. Le concierge, M. Gourd, est un ancien valet de chambre de duc. Campardon nomme les locataires : le propriétaire M. Vabre, ancien notaire, ses fils Auguste et Théophile, son gendre Duveyrier, conseiller à la cour, les Josserand, les Pichon. Mais en ouvrant la porte de sa cuisine, Octave entend les bonnes s'invectiver par-dessus la cour intérieure : « C'était comme la déverse d'un égout ». Le soir, seul, il rêve à toutes ces femmes qui pourraient l'aider à réussir."
+  },
+  {
+   "titre": "Chapitres II et III — Les Josserand à la chasse au mari",
+   "texte": "Mme Josserand, mère autoritaire et vaniteuse, rentre furieuse d'une soirée où sa fille cadette Berthe vient encore de « manquer un mariage ». Elle lui fait la leçon : sans fortune, il faut « prendre les hommes par autre chose ». M. Josserand, caissier honnête et épuisé, passe ses nuits à recopier des bandes d'adresses pour quelques francs. Au dîner suivant, les filles font boire leur oncle Bachelard, riche et débauché, pour lui soutirer de l'argent ; on découvre aussi Saturnin, le frère simple d'esprit et violent, qui adore Berthe. Lors de la soirée qui suit, Mme Josserand jette son dévolu sur Auguste Vabre."
+  },
+  {
+   "titre": "Chapitres IV à VI — Premières conquêtes et soirée chez les Duveyrier",
+   "texte": "Octave, commis au magasin Au Bonheur des Dames tenu par les Hédouin, guette Valérie, la belle-fille du propriétaire, et échoue. Il se tourne vers sa voisine Marie Pichon, élevée dans l'ignorance par ses parents, les Vuillaume (à dix-huit ans passés, elle n'avait lu aucun roman) ; il lui prête André, de George Sand, et la possède brutalement, presque par revanche (chap. IV). Au concert donné chez les Duveyrier (chap. V), le « monde » de l'immeuble se montre ; l'abbé Mauduit y joue le rôle de « maître de cérémonie » qui jette « le manteau de la religion » sur cette bourgeoisie. Le chapitre VI montre le dimanche de la maison : la cour des bonnes, « l'égout de la maison », et le concierge qui fait la police des mœurs chez les pauvres."
+  },
+  {
+   "titre": "Chapitres VII et VIII — La dot fictive et le mariage de Berthe",
+   "texte": "Pour marier Berthe à Auguste Vabre, les Josserand promettent une dot de cinquante mille francs qu'ils n'ont pas. L'oncle Bachelard conseille de parler d'une « assurance dotale » abandonnée depuis quatorze ans et jure de payer les dix premiers mille francs : M. Josserand, honnête, est révolté. On découvre aussi que Duveyrier, magistrat austère, entretient une maîtresse, Clarisse. Le mariage religieux a lieu à Saint-Roch (chap. VIII) ; en pleine cérémonie, Théophile Vabre, jaloux, vient accuser Octave d'être l'amant de sa femme Valérie."
+  },
+  {
+   "titre": "Chapitres IX et X — Octave congédié par Mme Hédouin, engagé par Auguste",
+   "texte": "Chez les Campardon, Octave observe un ménage à trois paisible : l'architecte vit avec sa femme Rose, malade et choyée, et la cousine Gasparine, sa maîtresse. Au magasin, il tente de séduire Mme Hédouin, femme de tête froide et énergique, qui le repousse calmement ; vexé, il quitte le Bonheur des Dames (chap. IX). Berthe et Auguste lui proposent alors d'entrer comme commis dans leur magasin de soieries. Le chapitre X suit Duveyrier chez Clarisse et s'achève sur l'attaque qui frappe le vieux Vabre."
+  },
+  {
+   "titre": "Chapitre XI — La mort du père Vabre et la guerre de l'héritage",
+   "texte": "Le lendemain, la maison ne s'occupe pas du malade : « elle ouvrait la succession ». Le vieillard meurt ; ses enfants (Clotilde Duveyrier, Auguste, Théophile) se disputent avant même l'enterrement. On découvre que Vabre cachait, sous sa manie d'une grande étude statistique, une passion du jeu et de la spéculation : il a englouti ses économies et hypothéqué la maison. Mme Josserand, furieuse de voir disparaître l'argent espéré, traite le défunt de scélérat qui a su « promettre un argent qu'on n'a pas » : ironie, puisqu'elle a fait de même avec la dot de Berthe."
+  },
+  {
+   "titre": "Chapitres XII et XIII — L'adultère de Berthe et Octave",
+   "texte": "Saturnin, renvoyé de l'asile, voue à Octave une amitié de chien fidèle. Octave, qui suivait son plan « d'arriver par les femmes », se prend d'un vrai désir pour Berthe et devient son amant (chap. XII). Berthe, qui ressemble de plus en plus à sa mère (« J'aime mieux faire envie que pitié »), réclame cadeaux et argent. M. Gourd, inquiet pour la « moralité de la maison », fait des rondes ; il chasse une locataire pauvre, une piqueuse de bottines enceinte, en déclarant que dans une maison qui se respecte il ne faut pas de femmes qui travaillent (chap. XIII). Rachel, la bonne de Berthe, observe tout."
+  },
+  {
+   "titre": "Chapitres XIV et XV — Le scandale et son étouffement",
+   "texte": "Pendant un voyage d'Auguste à Lyon, Berthe passe la nuit chez Octave ; ils se disputent à propos d'un châle trop bon marché. Auguste, prévenu par Rachel, revient et les surprend. Berthe s'enfuit en chemise ; les Campardon refusent de la garder ; seule dans le grand escalier, elle a honte, au milieu de « l'honnêteté des zincs dorés et des faux marbres ». Marie Pichon la recueille (chap. XIV). Le lendemain, « le réveil de la maison fut d'une grande dignité bourgeoise » (chap. XV). On parle de duel, puis Duveyrier négocie un arrangement ; Saturnin, pris de folie furieuse, tente de « saigner » Auguste et retourne à l'asile."
+  },
+  {
+   "titre": "Chapitres XVI et XVII — Morts, tentatives et calculs",
+   "texte": "Mme Josserand enferme Berthe et lui reproche surtout le scandale ; M. Josserand, accablé, s'effondre (« Elles m'ont tué », chap. XVI) et meurt. Des mois plus tard (chap. XVII), Octave est revenu au Bonheur des Dames ; Mme Hédouin, devenue veuve, apprécie son génie commercial : leur mariage se prépare. Abandonné par Clarisse, Duveyrier se tire une balle dans la bouche, dans les lieux d'aisance, et survit, la mâchoire déviée. L'abbé Mauduit, qui vient de renvoyer Berthe chez son mari, s'effondre devant le Calvaire de Saint-Roch et se demande s'il doit continuer à « couvrir du manteau de la religion les plaies de ce monde décomposé »."
+  },
+  {
+   "titre": "Chapitre XVIII — Le dîner des réconciliations et la cour des bonnes",
+   "texte": "En décembre, au dîner des Duveyrier, tout le monde se retrouve : Berthe et Auguste réconciliés, Octave venu avec sa femme, l'ancienne Mme Hédouin ; Duveyrier, la mâchoire de travers, disserte sur l'augmentation des infanticides. Pendant ce temps, Adèle, la bonne des Josserand, a accouché seule dans sa chambre de bonne et a déposé l'enfant passage Choiseul. Le roman se termine dans la cour intérieure, où les domestiques commentent la comédie des maîtres ; la cuisinière Julie conclut : « toutes les baraques se ressemblent […] C'est cochon et compagnie. »"
+  }
+ ],
+ "structure": "Le roman compte 18 chapitres et s'étend sur un peu plus d'un an, d'un mois de novembre au mois de décembre de l'année suivante. Sa structure est d'abord spatiale : l'immeuble de la rue de Choiseul est une coupe verticale de la société (magasin de soieries au rez-de-chaussée, propriétaire et magistrat aux étages nobles, petits employés plus haut, domestiques sous les toits) et une scène de théâtre à deux escaliers : le grand escalier, façade solennelle, et l'escalier de service avec la cour intérieure, coulisses où tout se dit. Octave, nouveau venu, sert de fil conducteur et de regard. L'intrigue suit trois temps : découverte de la maison et premières intrigues (I-VI), mariage de Berthe, héritage et adultère (VII-XIII), scandale puis étouffement du scandale (XIV-XVIII). La structure est circulaire : la cour des bonnes apparaît dès le chapitre I et a le dernier mot au chapitre XVIII, et le dernier dîner montre un retour à l'ordre où rien n'a changé.",
+ "personnages": [
+  {
+   "nom": "Octave Mouret",
+   "role": "Jeune homme de vingt-deux ans venu de Plassans, fils de François Mouret (La Conquête de Plassans). Ambitieux et séduisant, il rêve d'« arriver par les femmes ». Il sert de fil conducteur : à travers ses visites et ses conquêtes, le lecteur pénètre dans chaque appartement. Sous ses airs galants, le narrateur souligne le « dédain féroce qu'il avait de la femme » (chap. I). Ni héros ni monstre, c'est un arriviste qui finit par réussir en épousant Mme Hédouin.",
+   "relations": "Voisin et amant de Marie Pichon, amant de Berthe, commis puis mari de Mme Hédouin, ami de Trublot, protégé de Campardon ; Saturnin lui voue une amitié de chien fidèle."
+  },
+  {
+   "nom": "Madame Josserand",
+   "role": "Mère de Berthe et d'Hortense, vaniteuse et autoritaire, obsédée par l'idée de « faire envie » malgré la gêne financière. Elle dresse ses filles à la chasse au mari. Figure satirique centrale de la bourgeoisie qui vit au-dessus de ses moyens.",
+   "relations": "Mère de Berthe, d'Hortense et de Saturnin, épouse méprisante de M. Josserand, sœur de l'oncle Bachelard."
+  },
+  {
+   "nom": "Monsieur Josserand",
+   "role": "Caissier honnête et faible, écrasé par sa femme, qui passe ses nuits à faire des bandes pour quelques francs. Seule figure vraiment intègre de sa famille, il refuse de mentir sur la dot ; après le scandale, il s'effondre (« Elles m'ont tué ») et meurt."
+  },
+  {
+   "nom": "Berthe Josserand (puis Vabre)",
+   "role": "Jeune fille dressée par sa mère à séduire, mariée à Auguste Vabre grâce à une dot promise mais jamais versée. Coquette et dépensière, elle prend Octave pour amant par ennui et par goût du luxe, puis, après le scandale, se réconcilie avec son mari. Elle illustre la reproduction des valeurs bourgeoises de mère en fille.",
+   "relations": "Fille de Mme Josserand, épouse d'Auguste, maîtresse d'Octave ; aimée jalousement par son frère Saturnin ; servie (et trahie) par sa bonne Rachel."
+  },
+  {
+   "nom": "Auguste Vabre",
+   "role": "Fils aîné du propriétaire, marchand de soieries au rez-de-chaussée, migraineux et sans charme. Mari trompé, il surprend Berthe avec Octave, parle de duel, puis se réconcilie avec elle pour préserver les apparences et ses intérêts ; à la fin, il est ruiné par la concurrence du Bonheur des Dames."
+  },
+  {
+   "nom": "Marie Pichon",
+   "role": "Jeune voisine d'Octave, épouse de Jules Pichon, petit employé. Élevée dans une ignorance totale par ses parents, les Vuillaume, elle se laisse posséder par Octave sans comprendre ce qui lui arrive. C'est pourtant elle qui recueille Berthe la nuit du scandale. Elle montre les effets d'une éducation fondée sur l'ignorance et non sur la vertu."
+  },
+  {
+   "nom": "Valérie Vabre",
+   "role": "Épouse de Théophile Vabre, femme nerveuse et réputée avoir des amants, qui éconduit pourtant Octave. Au mariage de Berthe, Théophile accuse publiquement Octave d'être son amant (chap. VIII). Elle incarne l'adultère mondain et caché."
+  },
+  {
+   "nom": "Clotilde et Duveyrier",
+   "role": "Clotilde (fille de M. Vabre) est une femme froide, passionnée de piano. Son mari Duveyrier, conseiller à la cour, magistrat donneur de leçons, entretient une maîtresse, Clarisse ; abandonné par elle, il se tire une balle dans la bouche et survit, défiguré (chap. XVII). Ils incarnent la morale officielle et son envers."
+  },
+  {
+   "nom": "Campardon, Rose et Gasparine",
+   "role": "L'architecte Campardon, bon vivant et satisfait de lui, vit avec sa femme Rose, malade et choyée, et la cousine Gasparine, sa maîtresse : un ménage à trois paisible, parfaitement « respectable » aux yeux du monde."
+  },
+  {
+   "nom": "Madame Hédouin",
+   "role": "Patronne du Bonheur des Dames, belle, calme, « femme de tête ». Elle repousse Octave avec un tranquille bon sens de commerçante (chap. IX), puis, devenue veuve, l'épouse parce qu'elle reconnaît en lui un associé de talent. Elle incarne une réussite fondée sur le travail et l'ordre, à l'opposé des intrigues de l'immeuble.",
+   "relations": "Patronne puis épouse d'Octave ; nièce du vieux Deleuze ; Gasparine travaille dans son magasin."
+  },
+  {
+   "nom": "Monsieur Gourd",
+   "role": "Le concierge, ancien valet de chambre d'un duc, en calotte et pantoufles. Tyran des domestiques et des ouvriers, gardien zélé de la « moralité » de la maison, il ferme les yeux sur les vices des riches et chasse les pauvres."
+  },
+  {
+   "nom": "L'abbé Mauduit",
+   "role": "Prêtre de Saint-Roch, confesseur des dames de l'immeuble. Il sait tout et se résigne à jeter « le manteau de la religion » sur cette bourgeoisie corrompue. Sa crise de désespoir devant le Calvaire (chap. XVII) est l'un des sommets du roman."
+  },
+  {
+   "nom": "Le docteur Juillerat",
+   "role": "Vieux médecin du quartier, « homme médiocre » mais bon praticien, qui « avait accouché toutes ces dames et soigné toutes ces demoiselles ». Il connaît les corps comme l'abbé Mauduit connaît les âmes : tous deux savent tout et se taisent."
+  },
+  {
+   "nom": "Trublot",
+   "role": "Jeune employé chez un agent de change, ami d'Octave, qui ne s'intéresse qu'aux bonnes et rôde dans l'escalier de service. Figure comique qui relie le monde des maîtres et celui des domestiques."
+  },
+  {
+   "nom": "Saturnin Josserand",
+   "role": "Frère de Berthe, simple d'esprit et sujet à des crises de violence, régulièrement interné. Il voue à sa sœur un amour exclusif, puis à Octave une amitié de chien fidèle. Sa folie est la seule sincérité dans un monde de masques."
+  },
+  {
+   "nom": "Adèle, Julie, Lisa, Rachel, Hippolyte et les domestiques",
+   "role": "Adèle, bonne des Josserand, sale, mal nourrie, exploitée par les hommes de la maison, accouche seule et abandonne son enfant (chap. XVIII) ; Julie, cuisinière des Duveyrier ; Lisa, femme de chambre des Campardon ; Rachel, bonne de Berthe, qui renseigne Auguste ; Hippolyte, valet de chambre des Duveyrier. Depuis la cour intérieure, ils forment un chœur cynique qui dit tout haut la vérité des maîtres."
+  }
+ ],
+ "evolution": "Octave change de stratégie plus que de caractère. Au début, il veut « arriver par les femmes » et multiplie les tentatives (Valérie, Marie, Mme Hédouin, Berthe) ; ses échecs et le scandale l'en dégoûtent : au chapitre XVII, il « ne rêvait plus d'utiliser les femmes » et traite Mme Hédouin en associée, ce qui lui vaut finalement le mariage et la fortune. Berthe suit le chemin inverse : jeune fille humiliée par sa mère, elle en devient la copie (« J'aime mieux faire envie que pitié »), puis rentre dans le rang. Les victimes, elles, s'enfoncent : M. Josserand meurt, Duveyrier se défigure, Adèle abandonne son enfant, Saturnin retourne à l'asile. La maison, enfin, ne change pas : après chaque crise, elle retrouve sa « grande dignité bourgeoise », et le dernier dîner réunit tout le monde comme si rien ne s'était passé.",
+ "themes": [
+  {
+   "titre": "L'hypocrisie bourgeoise : façade et coulisses",
+   "texte": "Tout le roman repose sur l'opposition entre l'apparence et la réalité. Le grand escalier, avec ses « portes d'acajou » et ses « faux marbres », évoque l'honnêteté (« il y avait comme des abîmes d'honnêteté », chap. I), mais le mot « faux » dit déjà tout. Derrière, la cour intérieure révèle l'égout. Le lendemain du scandale, la maison s'éveille dans une « grande dignité bourgeoise » (chap. XV). Zola montre une société où la morale ne consiste pas à être vertueux, mais à ne pas être pris."
+  },
+  {
+   "titre": "Le mariage comme marché",
+   "texte": "Le mariage est une affaire d'argent : Mme Josserand dresse Berthe à la séduction (« on pêche un mari », chap. II) ; la dot de cinquante mille francs promise par les Josserand n'existe pas, et l'oncle Bachelard conseille d'invoquer une assurance abandonnée depuis des années (chap. VII) ; Duveyrier n'a jamais touché que dix mille des quatre-vingt mille francs promis par M. Vabre pour Clotilde. Les sentiments n'ont aucune place : on épouse un magasin, un héritage, une position. Octave lui-même finit par épouser le Bonheur des Dames en épousant Mme Hédouin."
+  },
+  {
+   "titre": "L'adultère généralisé",
+   "texte": "Presque tous les couples sont adultères : Octave et Marie Pichon, Octave et Berthe, Duveyrier et Clarisse, Valérie et ses amants, Campardon et Gasparine sous le toit conjugal. L'adultère n'est pas une passion romantique mais une routine, un désœuvrement, voire un échange commercial (Berthe se donne contre des cadeaux). Zola démonte ainsi le thème romanesque par excellence en le rendant banal et sordide."
+  },
+  {
+   "titre": "L'argent et l'héritage",
+   "texte": "L'argent est le vrai moteur de l'immeuble. À la mort du père Vabre (chap. XI), ses enfants se déchirent avant même l'enterrement, et l'on découvre que le vieillard cachait, sous sa manie statistique, une passion du jeu qui l'a ruiné. Mme Josserand préfère faire envie que pitié, quitte à se ruiner en apparences ; sa fille répète : « Je suis une femme d'argent » (chap. XIV). Le commerce, enfin, triomphe avec Octave, qui annonce le grand capitalisme d'Au Bonheur des Dames."
+  },
+  {
+   "titre": "Les domestiques : le regard d'en bas",
+   "texte": "Les domestiques sont les victimes et les témoins de la bourgeoisie. Adèle, sale, mal nourrie, exploitée par les hommes de la maison, accouche seule dans sa chambre et abandonne l'enfant (chap. XVIII). Mais dans la cour intérieure, ce « boyau » d'où monte « la puanteur d'évier mal tenu » (chap. VI), les domestiques forment un chœur qui dit la vérité : « Quand ils se sont craché à la figure, ils se débarbouillent avec, pour faire croire qu'ils sont propres », dit Hippolyte (chap. XVIII). C'est à elles que Zola confie le mot de la fin."
+  },
+  {
+   "titre": "La religion de façade",
+   "texte": "L'abbé Mauduit, confesseur de tout l'immeuble, accepte de jeter « le manteau de la religion » sur une bourgeoisie qu'il sait corrompue (chap. V). Sa crise devant le Calvaire de Saint-Roch (chap. XVII), où il pleure « la vérité morte, le ciel vide », est un moment tragique : la religion n'est plus qu'un décor, comme le « Christ de plâtre » qui n'a « plus une goutte de sang ». Zola dénonce une Église complice des apparences."
+  },
+  {
+   "titre": "L'éducation des filles",
+   "texte": "Le roman critique deux modèles d'éducation : celui de Mme Josserand, qui apprend à ses filles à séduire et à mentir, et celui des parents de Marie Pichon, les Vuillaume, qui l'ont gardée dans une ignorance totale (à dix-huit ans, elle n'avait lu aucun roman). C'est d'ailleurs en lui prêtant André, un roman de George Sand, qu'Octave la séduit. Dans les deux cas, les jeunes femmes sont livrées sans défense à l'adultère. Zola, en naturaliste, montre que la morale individuelle dépend du milieu et de l'éducation."
+  },
+  {
+   "titre": "L'immeuble, personnage et symbole",
+   "texte": "La maison de la rue de Choiseul est plus qu'un décor : elle juge, se tait, respire. Campardon avoue qu'on bâtit ces maisons « pour faire de l'effet » et qu'« il ne faudrait pas trop fouiller les murs » (chap. I) : la façade solide cache des fissures, comme les familles. Quand Berthe s'enfuit en chemise, « jamais la maison n'avait respiré d'une haleine si vertueuse » (chap. XIV). Le concierge Gourd, gardien de cette respectabilité, chasse les pauvres mais ferme les yeux sur les vices des riches. L'immeuble devient ainsi une maquette de la société."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Que cache la façade respectable de la bourgeoisie du Second Empire ?",
+   "Comment l'argent (dot, héritage, commerce) gouverne-t-il les mariages et les familles ?",
+   "Comment un roman peut-il « dévoiler les rouages de la société » à travers un seul immeuble ?",
+   "Pourquoi le scandale ne change-t-il rien, et que dit ce retour à l'ordre de la société ?",
+   "Le romancier naturaliste est-il un observateur neutre ou un satiriste qui juge ?"
+  ],
+  "intentions": "Les intentions de Zola sont documentées par plusieurs sources citées dans la ressource Eduscol consacrée à l'œuvre (février 2026). Dans ses notes préparatoires, il écrit vouloir prendre « pour cadre une maison moderne », habitée « rien que des bourgeois, pas un ouvrier », et la montrer « plus abominable, avec toutes ces petites intrigues ». Paul Alexis rapporte sa réponse aux bourgeois qui l'accusaient d'immoralité : « votre pot-bouille est la marmite où mijotent toutes les pourritures de la famille et tous les relâchements de la morale » (Émile Zola. Notes d'un ami, 1882). Plus largement, Le Roman expérimental (1880) définit les naturalistes comme des « moralistes expérimentateurs, montrant par l'expérience de quelle façon se comporte une passion dans un milieu social ». On ne peut pas aller au-delà de ces documents pour lui prêter d'autres intentions précises.",
+  "procedes": [
+   {
+    "nom": "L'ironie du narrateur",
+    "explication": "Le narrateur reprend le vocabulaire flatteur de la bourgeoisie (honnêteté, dignité, vertu) au moment même où les faits le démentent : le lecteur comprend seul la critique.",
+    "exemple": "« Ce matin-là, le réveil de la maison fut d'une grande dignité bourgeoise » (chap. XV), au lendemain de la fuite de Berthe en chemise dans l'escalier."
+   },
+   {
+    "nom": "L'antithèse façade / coulisses",
+    "explication": "Le roman oppose sans cesse le grand escalier et la cour intérieure, le salon et la cuisine, le discours et les actes.",
+    "exemple": "Au chapitre I, Octave passe du « luxe violent » de l'escalier à la cour où les voix des bonnes sont « comme la déverse d'un égout » ; « Octave se rappela la majesté bourgeoise du grand escalier »."
+   },
+   {
+    "nom": "La personnification de la maison",
+    "explication": "L'immeuble respire, juge, se tait : il devient un personnage collectif qui incarne la respectabilité hypocrite.",
+    "exemple": "« Derrière les hautes portes d'acajou, la dignité conjugale des alcôves exhalait un reproche. Jamais la maison n'avait respiré d'une haleine si vertueuse » (chap. XIV)."
+   },
+   {
+    "nom": "Les métaphores de la pourriture et de la maladie",
+    "explication": "Égout, chancre, plaies, décomposition : le vocabulaire médical et excrémentiel fait de la bourgeoisie un corps malade, dans l'esprit naturaliste.",
+    "exemple": "L'abbé Mauduit se demande s'il doit continuer à « couvrir du manteau de la religion les plaies de ce monde décomposé » (chap. XVII)."
+   },
+   {
+    "nom": "Les ressorts du vaudeville",
+    "explication": "Portes, maris trompés, quiproquos, fuite en chemise : Zola emprunte la mécanique comique du théâtre de boulevard pour en montrer le fond sordide.",
+    "exemple": "La nuit du chapitre XIV : la dispute sur un châle de « lama » au lieu de « chantilly », l'irruption d'Auguste, la fuite de Berthe chez les Campardon qui lui ferment la porte."
+   },
+   {
+    "nom": "Le chœur des domestiques et la parole populaire",
+    "explication": "Le langage familier des bonnes, cru et imagé, contraste avec la politesse des maîtres et dit leur vérité.",
+    "exemple": "Hippolyte : « Quand ils se sont craché à la figure, ils se débarbouillent avec, pour faire croire qu'ils sont propres » (chap. XVIII)."
+   }
+  ],
+  "style": "Zola alterne les longues descriptions précises (l'escalier, les appartements, les toilettes) et les scènes dialoguées très vivantes, presque théâtrales, où chaque personnage parle sa langue : les phrases autoritaires et les exclamations de Mme Josserand, les formules toutes faites de Campardon, l'argot des bonnes. Le discours indirect libre fait entendre les pensées des personnages (Octave, l'abbé Mauduit) sans les commenter. L'ironie naît souvent d'une phrase brève placée après une scène : « Ce matin-là, le réveil de la maison fut d'une grande dignité bourgeoise ». Les images reviennent comme des motifs : l'acajou et le faux marbre, l'égout, le manteau de la religion.",
+  "registres": [
+   {
+    "nom": "Satirique",
+    "explication": "Mme Josserand, Duveyrier, Campardon, Gourd sont des types grossis pour dénoncer les vices de la bourgeoisie (vanité, hypocrisie, cupidité)."
+   },
+   {
+    "nom": "Comique",
+    "explication": "Scènes de vaudeville, dialogues de Mme Josserand, Campardon qui défait son lit « pour les bonnes » avant de rejoindre Gasparine : le rire est grinçant."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Les souffrances de M. Josserand, d'Adèle accouchant seule, de la piqueuse de bottines chassée de la maison suscitent la pitié."
+   },
+   {
+    "nom": "Tragique",
+    "explication": "La crise de l'abbé Mauduit, qui pleure « la vérité morte, le ciel vide » (chap. XVII), donne au roman une profondeur sombre."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le roman se termine sans punition : Octave réussit, Berthe et Auguste se réconcilient, la maison retrouve sa respectabilité.",
+    "nature": "fait"
+   },
+   {
+    "texte": "L'immeuble est une coupe de la société : Eduscol rapproche cette disposition des dessins d'immeubles en coupe publiés au XIXe siècle (Bertall, « Les cinq étages du monde parisien », 1845).",
+    "nature": "fait"
+   },
+   {
+    "texte": "Octave est un précurseur du capitalisme moderne : son projet d'agrandir le magasin annonce Au Bonheur des Dames. Cette lecture s'appuie sur le roman suivant du cycle.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Les domestiques disent la vérité des maîtres, mais elles reproduisent aussi leur cruauté (railleries contre Adèle) : le roman ne fait pas du peuple un modèle moral.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Pot-Bouille est-il une observation exacte ou une caricature injuste de la bourgeoisie ? La critique de 1882 l'a accusé d'outrance ; d'autres lecteurs y voient la force même de la satire.",
+    "nature": "debat"
+   }
+  ],
+  "liens": "Pot-Bouille applique les principes naturalistes : étude d'un milieu (l'immeuble), influence de l'éducation et de l'argent sur les individus, refus d'embellir le réel. Mais Zola y infléchit le naturalisme vers la comédie de mœurs, héritée de Balzac (dont il cite La Comédie humaine dans ses notes, selon Eduscol) et de Flaubert. Le roman s'inscrit dans le projet des Rougon-Macquart, « Histoire naturelle et sociale d'une famille sous le second Empire » (préface de La Fortune des Rougon, 1871) : après le peuple de L'Assommoir et le demi-monde de Nana, c'est la bourgeoisie moyenne qui est observée."
+ },
+ "citations": [
+  {
+   "texte": "Le vestibule et l'escalier étaient d'un luxe violent.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre I",
+   "situation": "Octave entre pour la première fois dans l'immeuble avec Campardon.",
+   "sens": "Le décor est riche, mais d'une richesse ostentatoire et agressive.",
+   "procedes": "Alliance de mots inattendue (« luxe violent ») ; phrase brève qui ouvre la description.",
+   "demontre": "Que la respectabilité de la maison est une mise en scène tapageuse.",
+   "usage": "Commentaire de l'escalier ; thème des apparences.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Derrière les belles portes d'acajou luisant, il y avait comme des abîmes d'honnêteté.",
+   "locuteur": "Narrateur (point de vue d'Octave)",
+   "reference": "Chapitre I",
+   "situation": "Octave, montant l'escalier, contemple les portes closes des appartements.",
+   "sens": "Les portes semblent cacher une vertu sans fond.",
+   "procedes": "Ironie ; comparaison atténuée (« comme ») ; mot ambigu « abîmes » (profondeur et gouffre).",
+   "demontre": "Que l'honnêteté n'est qu'une impression produite par le décor : le roman va ouvrir ces portes.",
+   "usage": "Citation clé pour l'hypocrisie bourgeoise et pour le parcours « Dévoiler les rouages de la société ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Et habitée rien que par des gens comme il faut!",
+   "locuteur": "Campardon",
+   "reference": "Chapitre I",
+   "situation": "L'architecte vante la maison à Octave en montant l'escalier.",
+   "sens": "La maison est respectable parce que ses habitants le sont.",
+   "procedes": "Exclamation ; expression figée « comme il faut ».",
+   "demontre": "Que la bourgeoisie se définit par la conformité aux convenances ; tout le roman démentira la formule.",
+   "usage": "Ironie dramatique : à rapprocher de l'excipit.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Vous comprenez, ces maisons-là, c'est bâti pour faire de l'effet […] Seulement, il ne faudrait pas trop fouiller les murs.",
+   "locuteur": "Campardon",
+   "reference": "Chapitre I",
+   "situation": "Campardon montre à Octave son plafond déjà fendu dans un immeuble de moins de douze ans.",
+   "sens": "L'immeuble est construit pour impressionner, mais sa solidité est douteuse.",
+   "procedes": "Langage familier ; opposition « faire de l'effet » / « fouiller les murs ».",
+   "demontre": "Que la façade cache des fissures : l'architecture est une image de la société.",
+   "usage": "Excellente citation pour l'immeuble-symbole et pour le verbe « dévoiler ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)",
+    "note": "Coupure signalée par […] ; le texte porte « de l'effet.... »"
+   }
+  },
+  {
+   "texte": "C'était comme la déverse d'un égout: toute la domesticité de la maison était là, à se satisfaire.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre I",
+   "situation": "Campardon ouvre la porte de sa cuisine : les bonnes s'invectivent par-dessus la cour intérieure.",
+   "sens": "La cour est le déversoir de tout ce que la maison cache.",
+   "procedes": "Comparaison triviale (égout) ; contraste avec « la majesté bourgeoise du grand escalier ».",
+   "demontre": "Que le roman est construit sur l'opposition façade / coulisses.",
+   "usage": "Commentaire de la cour ; thème des domestiques.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "il céda à son fond de brutalité, au dédain féroce qu'il avait de la femme, sous son air d'adoration amoureuse.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre I (fin)",
+   "situation": "Le soir de son arrivée, Octave, au lit, pense à toutes les femmes qui pourraient l'aider.",
+   "sens": "Le séducteur méprise en réalité les femmes.",
+   "procedes": "Opposition « dédain féroce » / « adoration amoureuse » ; regard du narrateur qui juge.",
+   "demontre": "Qu'Octave est un calculateur et non un amoureux.",
+   "usage": "Portrait d'Octave ; thème de l'arrivisme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Puisque vous n'avez pas de fortune, comprenez donc que vous devez prendre les hommes par autre chose.",
+   "locuteur": "Mme Josserand",
+   "reference": "Chapitre II",
+   "situation": "En rentrant d'une soirée où Berthe vient encore de manquer un mariage, sa mère lui fait la leçon.",
+   "sens": "Faute de dot, la jeune fille doit utiliser son charme.",
+   "procedes": "Impératif ; euphémisme « autre chose » ; la suite file la métaphore de la pêche (« on pêche un mari »).",
+   "demontre": "Que le mariage est un marché et la fille une marchandise.",
+   "usage": "Thème du mariage-marché ; éducation des filles.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "jetant sur cette bourgeoisie gâtée le manteau de la religion",
+   "locuteur": "Narrateur (pensées de l'abbé Mauduit)",
+   "reference": "Chapitre V",
+   "situation": "Au concert des Duveyrier, l'abbé Mauduit, confesseur de ces dames, regarde le salon.",
+   "sens": "Le prêtre couvre les vices qu'il connaît au lieu de les combattre.",
+   "procedes": "Métaphore du manteau (cacher) ; « gâtée » (pourrie) ; il est dit « maître de cérémonie ».",
+   "demontre": "Que l'Église est complice des apparences.",
+   "usage": "Religion de façade ; à mettre en regard des chapitres XVII et XVIII où l'image revient.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "C'était l'égout de la maison, qui en charriait les hontes",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre VI",
+   "situation": "Un dimanche, la cour intérieure est décrite comme le lieu où montent les ordures et les ragots des bonnes.",
+   "sens": "La cour évacue la honte cachée des familles.",
+   "procedes": "Métaphore filée de l'égout, déjà présente au chapitre I.",
+   "demontre": "Que la vérité de la maison circule par en bas.",
+   "usage": "Motif récurrent ; structure du roman.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "sa volonté d'arriver par les femmes",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XII",
+   "situation": "Octave, qui voulait séduire Berthe par calcul, se met à la désirer vraiment.",
+   "sens": "La séduction est pour lui une stratégie d'ascension sociale.",
+   "procedes": "Formule résumant un projet ; verbe « arriver » (réussir socialement).",
+   "demontre": "Qu'Octave est un arriviste lucide.",
+   "usage": "Portrait d'Octave ; lien avec Au Bonheur des Dames et avec Bel-Ami.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "J'aime mieux faire envie que pitié....",
+   "locuteur": "Berthe",
+   "reference": "Chapitre XII",
+   "situation": "Berthe répond à son mari qui lui reproche ses dépenses.",
+   "sens": "Mieux vaut paraître riche que paraître pauvre.",
+   "procedes": "Maxime ; antithèse envie / pitié ; reprise d'une formule de sa mère.",
+   "demontre": "Que les valeurs de Mme Josserand se transmettent à sa fille : le paraître avant l'être.",
+   "usage": "Évolution de Berthe ; thème de l'argent et des apparences.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "dans une maison qui se respecte, il ne faut pas de femmes, et surtout pas de ces femmes qui travaillent!",
+   "locuteur": "M. Gourd",
+   "reference": "Chapitre XIII (fin)",
+   "situation": "Le concierge triomphe après le départ forcé d'une piqueuse de bottines enceinte.",
+   "sens": "La maison chasse la pauvre ouvrière au nom de la respectabilité.",
+   "procedes": "Exclamation ; ironie : la maison tolère les adultères des riches.",
+   "demontre": "Que la morale bourgeoise est une morale de classe.",
+   "usage": "Thème de l'hypocrisie ; personnage de Gourd.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Jamais la maison n'avait respiré d'une haleine si vertueuse.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XIV",
+   "situation": "Berthe, en chemise, est seule sur le palier de ses parents, la nuit du scandale.",
+   "sens": "L'escalier semble condamner la femme prise en faute.",
+   "procedes": "Personnification de la maison ; antiphrase ironique.",
+   "demontre": "Que l'hypocrisie générale accable la seule qui a été prise.",
+   "usage": "Extrait « Berthe dans l'escalier ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Ce matin-là, le réveil de la maison fut d'une grande dignité bourgeoise.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XV (première phrase)",
+   "situation": "Le lendemain de la nuit du scandale.",
+   "sens": "La maison se comporte comme si rien ne s'était passé.",
+   "procedes": "Ironie ; phrase d'ouverture solennelle.",
+   "demontre": "Que la bourgeoisie efface le scandale par le silence.",
+   "usage": "Thème du retour à l'ordre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Oh! Seigneur, l'heure sonnait-elle de ne plus couvrir du manteau de la religion les plaies de ce monde décomposé?",
+   "locuteur": "Narrateur (pensées de l'abbé Mauduit, discours indirect libre)",
+   "reference": "Chapitre XVII",
+   "situation": "Devant le Calvaire de Saint-Roch, le prêtre doute de sa mission.",
+   "sens": "Le prêtre se demande s'il doit cesser de couvrir les vices de ses fidèles.",
+   "procedes": "Question rhétorique ; reprise de l'image du manteau ; vocabulaire médical (plaies, décomposé).",
+   "demontre": "Que la société est un corps malade et que la religion ne la guérit pas.",
+   "usage": "Extrait « la crise de l'abbé Mauduit » ; registre tragique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "le grand Christ de plâtre n'avait plus une goutte de sang.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XVII (dernière phrase)",
+   "situation": "L'abbé Mauduit pleure devant le Calvaire.",
+   "sens": "Le Christ n'est plus qu'une statue sans vie.",
+   "procedes": "Image finale ; opposition plâtre / sang.",
+   "demontre": "Que la foi est devenue un décor, comme les faux marbres de l'immeuble.",
+   "usage": "Religion de façade ; chute de chapitre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "Quand ils se sont craché à la figure, ils se débarbouillent avec, pour faire croire qu'ils sont propres.",
+   "locuteur": "Hippolyte, valet de chambre des Duveyrier",
+   "reference": "Chapitre XVIII",
+   "situation": "Les domestiques commentent dans la cour les réconciliations du dîner de la veille.",
+   "sens": "Les maîtres se réconcilient pour sauver les apparences.",
+   "procedes": "Langage populaire ; image triviale et concrète.",
+   "demontre": "Que la vérité sort de la bouche des domestiques.",
+   "usage": "Excipit ; thème du regard d'en bas.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  },
+  {
+   "texte": "toutes les baraques se ressemblent. Au jour d'aujourd'hui, qui a fait l'une a fait l'autre. C'est cochon et compagnie.",
+   "locuteur": "Julie, cuisinière des Duveyrier",
+   "reference": "Chapitre XVIII (dernières lignes)",
+   "situation": "Julie, qui quitte sa place, répond à Lisa dans la cour.",
+   "sens": "Toutes les maisons bourgeoises se valent : partout la même saleté morale.",
+   "procedes": "Généralisation ; langage populaire ; formule commerciale « et compagnie ».",
+   "demontre": "Que la satire vise toute la société, et pas un seul immeuble.",
+   "usage": "Excipit célèbre ; conclusion de dissertation.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Pot-Bouille (Project Gutenberg n° 8907)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Dévoiler les rouages de la société",
+  "explication": "Ce parcours invite à étudier comment le roman ne se contente pas de raconter une histoire : il démonte le fonctionnement caché d'une société, comme on ouvrirait le boîtier d'une montre pour en montrer les rouages. « Dévoiler », c'est retirer un voile : il y a donc une vérité masquée, que l'écrivain rend visible. Les « rouages » suggèrent une mécanique : argent, classes sociales, institutions (mariage, Église, justice), conventions qui déterminent les comportements individuels.\n\nPot-Bouille répond à ce programme de manière exemplaire. L'immeuble de la rue de Choiseul est une maquette de la société du Second Empire, découpée en étages qui correspondent aux classes sociales. Le procédé de dévoilement est littéral : Octave pénètre dans les appartements, la cour intérieure fait entendre ce que l'escalier cache, les bonnes révèlent les secrets des maîtres. Zola montre les rouages qui font tourner la machine : la dot, l'héritage, l'ambition, la peur du scandale, la religion de façade. Et il montre surtout que cette machine se répare toute seule : après le scandale, tout le monde se réconcilie, car chacun a intérêt au silence.\n\nPour l'oral et la dissertation, situez Zola dans une tradition : Lesage, dans Le Diable boiteux, imaginait déjà un démon soulevant les toits de Madrid pour montrer ce qui se passe dans les maisons ; Balzac, dans l'avant-propos de La Comédie humaine, se présentait comme le simple « secrétaire » de la société française. Après Zola, Maupassant (Bel-Ami) ou Perec (La Vie mode d'emploi) reprendront ces dispositifs. Interrogez aussi les limites : la satire dévoile-t-elle la vérité ou la caricature-t-elle ? Le romancier est-il un observateur neutre ou un moraliste ?",
+  "textesComplementaires": [
+   {
+    "titre": "Le Diable boiteux (1707)",
+    "auteur": "Alain-René Lesage",
+    "interet": "Le démon Asmodée soulève les toits de Madrid pour montrer à l'étudiant Cléofas ce qui se passe à l'intérieur des maisons : c'est déjà le dispositif de Pot-Bouille, l'immeuble ouvert comme une boîte."
+   },
+   {
+    "titre": "Avant-propos de La Comédie humaine (1842)",
+    "auteur": "Honoré de Balzac",
+    "interet": "Balzac y affirme : « La Société française allait être l'historien, je ne devais être que le secrétaire. » Texte fondateur du roman qui veut décrire et expliquer toute une société ; Zola se réfère à La Comédie humaine dans ses notes préparatoires."
+   },
+   {
+    "titre": "Le Père Goriot (1835), l'incipit et la pension Vauquer",
+    "auteur": "Honoré de Balzac",
+    "interet": "La pension Vauquer, décrite étage par étage, et un jeune provincial ambitieux (Rastignac) qui découvre les rouages de Paris : un modèle pour Octave."
+   },
+   {
+    "titre": "Bel-Ami (1885)",
+    "auteur": "Guy de Maupassant",
+    "interet": "Georges Duroy, comme Octave, réussit grâce aux femmes dans le Paris de la presse et de la finance. Le roman démonte les liens entre argent, sexe, journalisme et pouvoir."
+   },
+   {
+    "titre": "Le Journal d'une femme de chambre (1900)",
+    "auteur": "Octave Mirbeau",
+    "interet": "La société bourgeoise vue par une domestique, Célestine : le regard d'en bas, que Zola esquisse avec le chœur des bonnes, devient ici le point de vue principal."
+   },
+   {
+    "titre": "La Vie mode d'emploi (1978)",
+    "auteur": "Georges Perec",
+    "interet": "Un immeuble parisien dont la façade aurait été enlevée : Perec raconte la vie de chaque appartement. Une reprise ludique et moderne du dispositif de Pot-Bouille."
+   },
+   {
+    "titre": "Bertall, « Les cinq étages du monde parisien » (1845)",
+    "auteur": "Bertall (dessinateur)",
+    "interet": "Lithographie représentant un immeuble parisien en coupe, du rez-de-chaussée bourgeois aux mansardes misérables ; la ressource Eduscol la rapproche de la structure de Pot-Bouille."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "L'immeuble de la rue de Choiseul est un microcosme : chaque étage correspond à une condition sociale.",
+   "Le roman oppose la façade (grand escalier) et les coulisses (cour intérieure, escalier de service).",
+   "Le mariage est un marché : dot fictive, héritage, calcul.",
+   "L'adultère est banal et sordide, jamais romanesque.",
+   "Le scandale est étouffé : la société se répare toute seule.",
+   "Les domestiques, victimes et témoins, disent la vérité des maîtres."
+  ],
+  "axes": [
+   "Une satire de la bourgeoisie du Second Empire.",
+   "Une étude naturaliste des rouages sociaux : argent, éducation, institutions.",
+   "Un roman de l'espace : l'immeuble comme personnage et comme symbole.",
+   "Un parcours d'arriviste : Octave apprend Paris.",
+   "Une vision pessimiste sous le rire : victimes et absence de punition."
+  ],
+  "problematiques": [
+   "Comment Zola fait-il d'un immeuble bourgeois le révélateur de toute une société ?",
+   "En quoi Pot-Bouille est-il à la fois une comédie et une dénonciation ?",
+   "Pourquoi le scandale ne change-t-il rien, et que dit ce dénouement de la société ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "La visite de l'escalier au chapitre I (« luxe violent », faux marbre, « abîmes d'honnêteté »).",
+    "utilisation": "Montrer que le décor est une mise en scène de la respectabilité."
+   },
+   {
+    "exemple": "Le plafond fendu de Campardon : « il ne faudrait pas trop fouiller les murs » (chap. I).",
+    "utilisation": "Illustrer l'idée de dévoilement : les apparences cachent des fissures."
+   },
+   {
+    "exemple": "La leçon de Mme Josserand à Berthe (chap. II).",
+    "utilisation": "Prouver que le mariage est un marché et que l'éducation des filles prépare à la séduction."
+   },
+   {
+    "exemple": "La dot fictive et l'« assurance dotale » (chap. VII).",
+    "utilisation": "Montrer le rôle du mensonge et de l'argent dans le mariage bourgeois."
+   },
+   {
+    "exemple": "La découverte du vice caché du père Vabre et la guerre de l'héritage (chap. XI).",
+    "utilisation": "Montrer que l'argent dissout les liens familiaux."
+   },
+   {
+    "exemple": "Berthe en chemise dans l'escalier, puis le réveil « d'une grande dignité bourgeoise » (chap. XIV-XV).",
+    "utilisation": "Analyser l'ironie et l'étouffement du scandale."
+   },
+   {
+    "exemple": "La crise de l'abbé Mauduit devant le Calvaire (chap. XVII).",
+    "utilisation": "Montrer la complicité de l'Église et la dimension tragique du roman."
+   },
+   {
+    "exemple": "Adèle accouchant seule, puis la cour des bonnes (chap. XVIII).",
+    "utilisation": "Montrer les victimes de la bourgeoisie et le regard d'en bas."
+   }
+  ],
+  "liens": "Les thèmes se croisent dans les lieux : l'escalier porte l'hypocrisie, la cour porte la vérité, la boutique d'Auguste et le Bonheur des Dames portent l'argent. Les personnages relient ces thèmes : Berthe unit le mariage-marché et l'adultère, l'abbé Mauduit la religion et le silence, Gourd la morale de classe et la surveillance. Les procédés servent la démonstration : l'ironie dévoile l'hypocrisie, la personnification de la maison en fait un juge, les métaphores de l'égout et de la décomposition donnent au tout un sens médical conforme au naturalisme.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Chapitre I : l'entrée dans le vestibule et la montée de l'escalier (de « Le vestibule et l'escalier étaient d'un luxe violent » à l'arrivée au quatrième étage).",
+    "pistes": "Une description en apparence admirative ; le lexique de l'imitation (faux marbre, rampe qui « imitait le vieil argent ») ; la chaleur et le silence qui font de l'escalier un lieu presque vivant ; le discours de Campardon (« des gens comme il faut ») et l'ironie du narrateur (« abîmes d'honnêteté »)."
+   },
+   {
+    "passage": "Chapitre XIV : Berthe seule dans l'escalier, en chemise, jusqu'à l'apparition de Marie Pichon.",
+    "pistes": "La honte d'une femme prise en faute ; la personnification de la maison (« la dignité conjugale des alcôves exhalait un reproche ») ; l'image de l'église et des « vertus bourgeoises » qui « fumaient dans l'ombre » ; l'antithèse entre la nudité et le décor ; la solidarité inattendue de Marie."
+   },
+   {
+    "passage": "Chapitre XVIII : les dernières pages dans la cour intérieure, jusqu'à « C'est cochon et compagnie ».",
+    "pistes": "Le chœur des domestiques ; le langage populaire et les images triviales ; la cruauté envers Adèle ; la généralisation finale ; la structure circulaire avec le chapitre I."
+   }
+  ],
+  "erreurs": [
+   "Croire qu'Octave est un héros romantique amoureux : le narrateur souligne son calcul et son « dédain féroce » des femmes.",
+   "Confondre les deux Mme Vabre : Berthe épouse Auguste ; Valérie est la femme de Théophile.",
+   "Penser que le scandale est puni : au contraire, tout le monde se réconcilie au chapitre XVIII.",
+   "Faire de Pot-Bouille un roman sur les ouvriers : Zola voulait « rien que des bourgeois, pas un ouvrier » ; les seuls pauvres sont les domestiques et quelques locataires des combles.",
+   "Croire que le père Vabre a été ruiné par sa manie statistique : la statistique cachait une passion du jeu et de la spéculation (chap. XI).",
+   "Idéaliser les domestiques : elles disent la vérité, mais se moquent cruellement d'Adèle."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Pot-Bouille n'est-il qu'une satire de la bourgeoisie ?",
+   "analyse": "La satire est une critique moqueuse qui grossit les défauts pour les dénoncer. « N'est-il qu'une » invite à reconnaître la dimension satirique (évidente) puis à la dépasser : le roman est aussi une étude naturaliste des mécanismes sociaux, et une œuvre parfois sombre, voire tragique.",
+   "problematique": "Le roman de Zola se contente-t-il de railler la bourgeoisie, ou dévoile-t-il plus profondément les mécanismes d'une société entière ?",
+   "plan": [
+    {
+     "titre": "I. Une satire féroce de la bourgeoisie",
+     "arguments": [
+      "A. Des personnages caricaturaux : Mme Josserand et sa leçon de séduction (chap. II), Duveyrier magistrat moralisateur et adultère, Campardon et son ménage à trois.",
+      "B. Des situations de vaudeville : adultères en série, Berthe en chemise dans l'escalier (chap. XIV), duel annoncé puis oublié.",
+      "C. L'ironie du narrateur : « abîmes d'honnêteté », « gens comme il faut », « grande dignité bourgeoise » au lendemain du scandale (chap. XV)."
+     ]
+    },
+    {
+     "titre": "II. Une étude naturaliste des rouages sociaux",
+     "arguments": [
+      "A. L'immeuble comme coupe sociale : étages, escalier de service, cour intérieure ; chaque classe à sa place.",
+      "B. L'argent comme moteur : dot fictive de Berthe (chap. VII), guerre de l'héritage Vabre (chap. XI), ambition d'Octave d'« arriver par les femmes » (chap. XII).",
+      "C. Les institutions complices : mariage-marché, Église de façade (abbé Mauduit, chap. V et XVII), concierge gardien de la morale."
+     ]
+    },
+    {
+     "titre": "III. Une vision plus sombre qu'il n'y paraît",
+     "arguments": [
+      "A. Les victimes : Adèle accouchant seule (chap. XVIII), M. Josserand mort d'épuisement, Marie Pichon livrée à l'ignorance.",
+      "B. Le tragique de l'abbé Mauduit : « la vérité morte, le ciel vide » ; un monde sans transcendance.",
+      "C. Le pessimisme du dénouement : tout se répare, rien ne change ; « C'est cochon et compagnie » étend la condamnation à toute la société, domestiques compris."
+     ]
+    }
+   ],
+   "introduction": "Lorsqu'il paraît en 1882, Pot-Bouille répond aux bourgeois qui accusaient Zola d'immoralité depuis L'Assommoir et Nana : cette fois, c'est leur propre monde qu'il observe. Le dixième volume des Rougon-Macquart suit en effet Octave Mouret, jeune provincial ambitieux, dans un immeuble cossu de la rue de Choiseul dont il découvre peu à peu les adultères, les mariages d'argent et les lâchetés. La tentation est grande de n'y voir qu'une satire, une caricature féroce des bourgeois. Mais le roman de Zola se contente-t-il de railler la bourgeoisie, ou dévoile-t-il plus profondément les mécanismes d'une société entière ? Nous verrons d'abord que Pot-Bouille est bien une satire féroce, puis qu'il est aussi une étude naturaliste des rouages sociaux, avant de montrer qu'il porte une vision plus sombre qu'il n'y paraît.",
+   "conclusion": "Pot-Bouille est indéniablement une satire : Zola grossit les traits, multiplie les situations de vaudeville et manie une ironie mordante. Mais cette satire est au service d'une démonstration naturaliste : l'immeuble devient une maquette de la société, dont l'argent, le mariage et la religion sont les rouages. Enfin, derrière le rire, le roman laisse voir des victimes et un pessimisme profond, puisque rien ne change au dénouement. Zola prolongera cette analyse dans Au Bonheur des Dames, où Octave, devenu patron, incarne la puissance nouvelle du commerce : après la marmite bourgeoise, c'est la machine capitaliste que le romancier démonte."
+  },
+  {
+   "sujet": "Dans Le Roman expérimental (1880), Zola écrit : « Nous sommes, en un mot, des moralistes expérimentateurs, montrant par l'expérience de quelle façon se comporte une passion dans un milieu social. » Cette définition éclaire-t-elle votre lecture de Pot-Bouille ?",
+   "analyse": "La citation réunit deux termes : « moralistes » (l'écrivain observe les mœurs et peut les juger) et « expérimentateurs » (il procède comme un savant). Elle associe aussi « passion » (désir, ambition, cupidité) et « milieu social ». Il faut montrer que Pot-Bouille illustre ce programme (l'immeuble comme laboratoire), puis interroger ses limites : le roman est-il vraiment une expérience neutre, ou une satire engagée, voire une création romanesque libre ?",
+   "problematique": "Pot-Bouille est-il l'expérience scientifique et morale que décrit Zola, ou le romancier y dépasse-t-il son propre programme ?",
+   "plan": [
+    {
+     "titre": "I. Un roman expérimental : des passions dans un milieu",
+     "arguments": [
+      "A. Un milieu clos et précisément décrit : l'immeuble de la rue de Choiseul comme laboratoire (escalier, étages, cour intérieure).",
+      "B. Un réactif introduit dans le milieu : Octave, nouveau venu, dont l'arrivée provoque et révèle les comportements.",
+      "C. Des passions observées dans leurs effets : ambition d'Octave, vanité de Mme Josserand, cupidité des héritiers Vabre (chap. XI)."
+     ]
+    },
+    {
+     "titre": "II. Un moraliste qui dévoile et juge",
+     "arguments": [
+      "A. Le dévoilement de l'hypocrisie : contraste entre l'escalier et la cour, entre la façade et les alcôves.",
+      "B. Une critique des institutions : mariage-marché (dot fictive, chap. VII), religion de façade (abbé Mauduit, chap. V et XVII), éducation des filles (Berthe, Marie Pichon).",
+      "C. La morale implicite du dénouement : l'impunité générale et le mot de la fin des bonnes (« C'est cochon et compagnie »)."
+     ]
+    },
+    {
+     "titre": "III. Au-delà de l'expérience : un art du roman",
+     "arguments": [
+      "A. La satire et la caricature, qui exagèrent au lieu d'observer neutrement (scènes de vaudeville, personnages grotesques).",
+      "B. Le symbolisme : faux marbres, « manteau de la religion », Christ de plâtre qui n'a « plus une goutte de sang ».",
+      "C. Des émotions qui dépassent la démonstration : pitié pour Adèle et M. Josserand, tragique de la crise de Mauduit."
+     ]
+    }
+   ],
+   "introduction": "En 1880, dans Le Roman expérimental, Zola définit l'ambition des naturalistes : « Nous sommes, en un mot, des moralistes expérimentateurs, montrant par l'expérience de quelle façon se comporte une passion dans un milieu social. » Deux ans plus tard, Pot-Bouille semble appliquer ce programme à la lettre : Zola y fait entrer Octave Mouret, jeune ambitieux, dans un immeuble bourgeois de la rue de Choiseul, et observe ce que produisent les passions d'argent, de sexe et de vanité dans ce milieu clos. Mais un roman satirique peut-il être une véritable expérience ? Pot-Bouille est-il l'expérience scientifique et morale que décrit Zola, ou le romancier y dépasse-t-il son propre programme ? Nous verrons d'abord que le roman se présente comme une expérience, puis que Zola s'y montre moraliste, avant de montrer que l'art du roman déborde la démonstration.",
+   "conclusion": "La définition de Zola éclaire bien Pot-Bouille : l'immeuble est un laboratoire, Octave un réactif, et les passions d'argent et de désir y sont observées dans leurs effets. Le romancier s'y montre aussi moraliste, dévoilant l'hypocrisie des institutions et la complicité de tous. Pourtant, la satire, les symboles et l'émotion montrent que Zola est d'abord un artiste : son « expérience » est une création qui grossit, met en scène, fait rire et émeut. C'est peut-être cette force romanesque, plus que la rigueur scientifique, qui permet de dévoiler les rouages de la société, comme le feront après lui Maupassant dans Bel-Ami ou Perec dans La Vie mode d'emploi."
+  },
+  {
+   "sujet": "Pour dévoiler les rouages de la société, le romancier doit-il forcer le trait ?",
+   "analyse": "« Forcer le trait », c'est exagérer, caricaturer. Le sujet pose une question de méthode : la vérité sociale passe-t-elle par l'exactitude (réalisme, observation) ou par l'exagération (satire, caricature) ? Il faut s'appuyer sur Pot-Bouille et sur les textes du parcours (Lesage, Balzac, Maupassant, Perec).",
+   "problematique": "La caricature est-elle un moyen nécessaire du dévoilement social, ou risque-t-elle de trahir la réalité qu'elle prétend révéler ?",
+   "plan": [
+    {
+     "titre": "I. Forcer le trait pour rendre visible",
+     "arguments": [
+      "A. La caricature grossit pour faire voir : Mme Josserand, Duveyrier, Gourd sont des « types » dont l'excès révèle les vices d'une classe.",
+      "B. Le comique et le vaudeville démasquent : Berthe en chemise dans l'escalier (chap. XIV), les réconciliations du chapitre XVIII.",
+      "C. Une longue tradition : Lesage et son diable qui soulève les toits, la satire morale des moralistes classiques."
+     ]
+    },
+    {
+     "titre": "II. Mais l'exagération a ses limites",
+     "arguments": [
+      "A. Le risque de la charge : on a reproché à Zola une vision outrancière de la bourgeoisie, et la caricature peut affaiblir la démonstration.",
+      "B. La caricature peut faire rire au lieu de faire réfléchir, et simplifier des personnages complexes.",
+      "C. Le réalisme exact est aussi une arme : description minutieuse de l'immeuble, des dots, des héritages ; Balzac se voulait le « secrétaire » de la société française."
+     ]
+    },
+    {
+     "titre": "III. Un équilibre entre exactitude et grossissement",
+     "arguments": [
+      "A. Chez Zola, la précision documentaire (enquête, détails matériels) donne crédit à la satire.",
+      "B. Les nuances : personnages pitoyables (M. Josserand, Adèle, l'abbé Mauduit) qui échappent à la caricature.",
+      "C. Le dispositif plutôt que l'exagération : l'immeuble, la cour, le regard des bonnes ; Perec, dans La Vie mode d'emploi, dévoile par la seule construction."
+     ]
+    }
+   ],
+   "introduction": "« C'est cochon et compagnie » : c'est par cette formule triviale d'une cuisinière que Zola clôt Pot-Bouille en 1882. Le roman, qui suit le jeune ambitieux Octave Mouret dans un immeuble bourgeois de la rue de Choiseul, accumule adultères, mariages d'argent et hypocrisies, au point qu'on peut se demander s'il ne caricature pas la bourgeoisie. Faut-il donc forcer le trait pour dévoiler les rouages de la société ? La question oppose deux méthodes : l'exactitude du témoin et l'exagération du satiriste. La caricature est-elle un moyen nécessaire du dévoilement social, ou risque-t-elle de trahir la réalité qu'elle prétend révéler ? Nous verrons d'abord que forcer le trait permet de rendre visible ce qui est caché, puis que cette exagération a ses limites, avant de montrer que les grands romanciers cherchent un équilibre entre exactitude et grossissement.",
+   "conclusion": "Forcer le trait est une arme efficace : en grossissant les vices de ses bourgeois, Zola rend visibles des mécanismes que la politesse et les apparences dissimulent. Mais la caricature, seule, risquerait de faire rire sans convaincre ; c'est la précision documentaire, la place laissée aux victimes et l'invention d'un dispositif romanesque (l'immeuble, l'escalier, la cour) qui donnent à Pot-Bouille sa force de vérité. Le roman dévoile donc moins par l'exagération que par le regard qu'il construit. Un siècle plus tard, Georges Perec, dans La Vie mode d'emploi, ouvrira à son tour la façade d'un immeuble parisien, sans caricature, mais avec la même ambition : montrer ce qui se cache derrière les portes."
+  }
+ ],
+ "oral": {
+  "presentation": "Pot-Bouille est un roman d'Émile Zola publié en 1882, dixième volume des Rougon-Macquart. Octave Mouret, jeune provincial ambitieux, s'installe dans un immeuble bourgeois de la rue de Choiseul, à Paris, sous le Second Empire. Derrière le grand escalier solennel, il découvre une bourgeoisie hypocrite : Mme Josserand qui marie sa fille avec une dot fictive, un magistrat qui entretient une maîtresse, des héritiers qui se déchirent, et des domestiques exploitées qui crient tous les secrets dans la cour intérieure. Octave séduit plusieurs femmes, devient l'amant de Berthe, et le scandale éclate ; mais il est étouffé, et chacun se réconcilie. Le roman est à la fois une étude naturaliste et une comédie féroce : l'immeuble y devient une maquette de la société, et ce sont les bonnes qui ont le dernier mot : « C'est cochon et compagnie. »",
+  "essentiels": [
+   "Auteur : Zola (1840-1902), chef du naturalisme ; Pot-Bouille paraît en 1882 (feuilleton dans Le Gaulois, puis volume chez Charpentier).",
+   "Cadre : un immeuble neuf de la rue de Choiseul au début des années 1860 ; grand escalier / cour intérieure.",
+   "Personnages : Octave Mouret, les Josserand (Berthe), les Vabre (Auguste, Théophile, Valérie, Clotilde et Duveyrier), Marie Pichon, Campardon, Gourd, l'abbé Mauduit, les domestiques.",
+   "Thèmes : hypocrisie, mariage-marché, adultère, argent et héritage, religion de façade, domestiques.",
+   "Procédés : ironie, antithèse façade / coulisses, personnification de la maison, métaphores de l'égout, vaudeville.",
+   "Parcours : « Dévoiler les rouages de la société » ; liens avec Lesage, Balzac, Maupassant, Perec."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi le roman s'intitule-t-il Pot-Bouille ?",
+    "reponse": "« Pot-bouille » désigne la cuisine ordinaire d'un ménage, la popote. Zola en fait l'image de la vie domestique bourgeoise qui mijote derrière les portes closes. Selon Paul Alexis, cité par Eduscol, il disait aux bourgeois que leur pot-bouille était « la marmite où mijotent toutes les pourritures de la famille ». Le titre est donc trivial et satirique : il ramène la grande respectabilité à une cuisine qui sent mauvais, comme la cour des bonnes."
+   },
+   {
+    "question": "Quel rôle joue l'immeuble dans le roman ?",
+    "reponse": "C'est à la fois le cadre unique et un véritable personnage. Il reproduit la hiérarchie sociale par étages, des soieries d'Auguste aux chambres de bonne. Il oppose la façade, le grand escalier « d'un luxe violent », et les coulisses, la cour intérieure comparée à un égout. Enfin, il juge : quand Berthe fuit en chemise, « jamais la maison n'avait respiré d'une haleine si vertueuse » (chap. XIV). C'est le dispositif qui permet de dévoiler les rouages de la société."
+   },
+   {
+    "question": "Octave est-il un héros ?",
+    "reponse": "Il est le fil conducteur : c'est par lui que nous entrons dans chaque appartement. Mais il n'a rien d'héroïque : il veut « arriver par les femmes », et le narrateur souligne dès le chapitre I le « dédain féroce qu'il avait de la femme ». Il échoue souvent (Valérie, Mme Hédouin), est ridicule avec son châle de lama, et ne réussit qu'en traitant Mme Hédouin en associée. C'est un arriviste, regard extérieur plus que héros."
+   },
+   {
+    "question": "Pourquoi le scandale de l'adultère ne change-t-il rien ?",
+    "reponse": "Parce que chacun a intérêt au silence : Auguste a besoin de la dot, la famille Vabre de sa respectabilité, l'Église de la paix des ménages. Le lendemain, « le réveil de la maison fut d'une grande dignité bourgeoise » (chap. XV), et le dîner final réunit tout le monde. Zola montre ainsi une société qui ne punit pas la faute mais le bruit : la morale consiste à ne pas être pris."
+   },
+   {
+    "question": "Que représentent les domestiques ?",
+    "reponse": "Elles sont d'abord des victimes : Adèle est mal nourrie, exploitée, et accouche seule avant d'abandonner son enfant. Mais elles sont aussi des témoins : dans la cour, elles disent ce que les maîtres cachent, comme un chœur de tragédie. Zola leur donne le dernier mot : « C'est cochon et compagnie. » Je nuancerais cependant : elles se moquent cruellement d'Adèle, donc le roman ne fait pas d'elles un modèle moral."
+   },
+   {
+    "question": "En quoi Pot-Bouille est-il un roman naturaliste ?",
+    "reponse": "Zola y étudie un milieu précis, l'immeuble, et l'influence de l'éducation et de l'argent sur les comportements : Berthe devient comme sa mère, Marie Pichon est livrée sans défense par son ignorance. Il s'appuie sur une enquête et sur des notes préparatoires. Il emploie un vocabulaire médical (plaies, décomposition) qui fait de la société un corps malade. Mais le roman est aussi une satire : la caricature et le vaudeville dépassent l'observation neutre."
+   },
+   {
+    "question": "Quel rôle joue la religion ?",
+    "reponse": "L'abbé Mauduit connaît tous les vices par la confession mais jette sur cette bourgeoisie « le manteau de la religion » (chap. V) : il couvre au lieu de guérir. Sa crise devant le Calvaire (chap. XVII), où il pleure « la vérité morte, le ciel vide », est un moment tragique ; pourtant, au chapitre XVIII, il reprend son rôle de « maître de cérémonie ». L'Église est donc un rouage de l'hypocrisie sociale."
+   },
+   {
+    "question": "Quel lien faites-vous avec une autre œuvre du parcours ?",
+    "reponse": "Je pense à Bel-Ami de Maupassant (1885) : Duroy, comme Octave, veut réussir grâce aux femmes, et le roman montre les liens entre argent, sexe et pouvoir. Mais Bel-Ami se concentre sur un seul ambitieux et sur la presse, tandis que Pot-Bouille donne à voir toute une maison. On peut aussi citer La Vie mode d'emploi de Perec, qui ouvre la façade d'un immeuble parisien, sans satire mais avec le même désir de montrer ce que cachent les portes."
+   }
+  ],
+  "liens": "Objet d'étude : le roman et le récit du Moyen Âge au XXIe siècle ; parcours « Dévoiler les rouages de la société ». Pot-Bouille dialogue avec Le Diable boiteux de Lesage (les toits soulevés), avec Balzac (avant-propos de La Comédie humaine, Le Père Goriot), avec Maupassant (Bel-Ami) et avec Perec (La Vie mode d'emploi). Dans l'œuvre de Zola, il prolonge La Conquête de Plassans (la famille d'Octave) et annonce Au Bonheur des Dames. On peut aussi le rapprocher de la comédie : le vaudeville et la satire de mœurs, de Molière aux théâtres de boulevard.",
+  "reflexion": [
+   {
+    "question": "Avez-vous ri en lisant Pot-Bouille, ou plutôt été choqué ?",
+    "pistes": "Distinguer les scènes comiques (Mme Josserand, Campardon, le châle de lama) et les passages sombres (Adèle, M. Josserand, l'abbé Mauduit) ; se demander si le rire rend la critique plus forte ou plus légère."
+   },
+   {
+    "question": "Les apparences sont-elles toujours hypocrites ?",
+    "pistes": "Le roman montre leur hypocrisie, mais on peut défendre une part de politesse et de discrétion nécessaires à la vie commune ; Mme Hédouin, sérieuse et ordonnée, n'est pas hypocrite."
+   },
+   {
+    "question": "Un immeuble peut-il encore aujourd'hui représenter une société ?",
+    "pistes": "Penser aux immeubles mixtes ou ségrégés d'aujourd'hui, à Perec, aux séries ou films construits autour d'un immeuble ; se demander ce que l'espace dit des rapports sociaux."
+   },
+   {
+    "question": "Le romancier a-t-il le droit de juger ses personnages ?",
+    "pistes": "Zola se veut observateur mais son ironie juge ; comparer avec Maupassant qui juge moins ouvertement ; se demander si une satire peut être juste."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'arrivée d'Octave et le grand escalier",
+   "reference": "Chapitre I, de l'entrée dans le vestibule (« Le vestibule et l'escalier étaient d'un luxe violent ») à la montée vers la chambre",
+   "enjeu": "Comment la description de l'escalier, en apparence admirative, dévoile-t-elle déjà l'artifice et l'hypocrisie de la maison ?",
+   "mouvements": [
+    "Mouvement 1 : un luxe ostentatoire — énumération des éléments (statue dorée, « faux marbre », rampe qui « imitait le vieil argent », tapis rouge) ; lexique de l'imitation qui trahit le toc.",
+    "Mouvement 2 : la chaleur et le silence — « une chaleur de serre, une haleine tiède » : personnification de la maison, sensualité inquiétante ; « paix morte de salon bourgeois ».",
+    "Mouvement 3 : le discours de Campardon et l'ironie du narrateur — « des gens comme il faut », « abîmes d'honnêteté » : le lecteur perçoit l'écart entre le discours et la réalité."
+   ]
+  },
+  {
+   "titre": "La cour intérieure",
+   "reference": "Chapitre I, Octave découvre la fenêtre de la cuisine ouverte sur la cour (« C'était comme la déverse d'un égout »)",
+   "enjeu": "En quoi cette scène fait-elle de la cour intérieure l'envers de l'escalier et le lieu où se dit la vérité de la maison ?",
+   "mouvements": [
+    "Mouvement 1 : l'irruption du bruit — « Un terrible bruit », fenêtre ouverte malgré le froid ; les bonnes penchées sur le « puits étroit » ; rupture avec le silence de l'escalier.",
+    "Mouvement 2 : la métaphore de l'égout — « boyau », « voix canailles », « déverse d'un égout » ; opposition explicite avec « la majesté bourgeoise du grand escalier ».",
+    "Mouvement 3 : le retour du silence — les bonnes aperçoivent leur maître, les fenêtres se ferment, « silence de mort » : la façade se reconstitue instantanément."
+   ]
+  },
+  {
+   "titre": "La leçon de Mme Josserand",
+   "reference": "Chapitre II, au retour de la soirée chez Mme Dambreville, la tirade de Mme Josserand contre Berthe",
+   "enjeu": "Comment cette scène de comédie dévoile-t-elle la conception marchande du mariage dans la bourgeoisie ?",
+   "mouvements": [
+    "Mouvement 1 : la colère de la mère — exclamations, questions rhétoriques, répétitions ; Berthe accusée d'avoir « raté » un mariage pour un baiser refusé.",
+    "Mouvement 2 : la leçon de séduction — « prendre les hommes par autre chose », énumération des techniques, métaphore de la pêche (« on pêche un mari ») : cynisme assumé.",
+    "Mouvement 3 : la chute — Berthe en larmes ; Mme Josserand lui reproche de s'abîmer les yeux à pleurer (« Si vous croyez que ça vous arrange les yeux ») : la beauté est un capital à préserver."
+   ]
+  },
+  {
+   "titre": "Berthe en chemise dans l'escalier",
+   "reference": "Chapitre XIV, Berthe, surprise par Auguste, s'enfuit dans le grand escalier",
+   "enjeu": "Comment Zola fait-il de cette scène de vaudeville une dénonciation de l'hypocrisie bourgeoise ?",
+   "mouvements": [
+    "Mouvement 1 : la fuite et la honte — chassée de chez les Campardon, Berthe s'accroupit sur le paillasson de ses parents, terrifiée à l'idée d'avouer à sa mère, « comme si elle était encore petite fille ».",
+    "Mouvement 2 : l'escalier-juge — personnification : « la dignité conjugale des alcôves exhalait un reproche » ; antithèse entre sa nudité et « l'honnêteté des zincs dorés et des faux marbres ».",
+    "Mouvement 3 : l'ironie religieuse — le rayon de lune fait de l'escalier « une église », « toutes les vertus bourgeoises des étages fumaient dans l'ombre » : l'hypocrisie générale condamne la seule qui a été prise."
+   ]
+  },
+  {
+   "titre": "La crise de l'abbé Mauduit",
+   "reference": "Chapitre XVII, l'abbé devant le Calvaire de Saint-Roch, jusqu'à la fin du chapitre",
+   "enjeu": "Comment ce passage pathétique fait-il de la religion elle-même un rouage de l'hypocrisie sociale ?",
+   "mouvements": [
+    "Mouvement 1 : le décor du Calvaire — accumulation de l'or (« sept lampes d'or, les candélabres d'or, l'autel d'or »), éclairage théâtral ; le prêtre est « foudroyé » par la mise en scène qu'il a lui-même préparée.",
+    "Mouvement 2 : le doute — questions rhétoriques, discours indirect libre, métaphores médicales (« plaies », « monde décomposé ») ; le prêtre se juge « maître de cérémonie » des vices.",
+    "Mouvement 3 : la chute — sanglots, « la vérité morte, le ciel vide », « le grand Christ de plâtre n'avait plus une goutte de sang » : image d'une foi devenue décor."
+   ]
+  },
+  {
+   "titre": "L'excipit : le chœur des bonnes",
+   "reference": "Chapitre XVIII, dernières pages, dans la cour intérieure, jusqu'à « C'est cochon et compagnie »",
+   "enjeu": "Pourquoi Zola confie-t-il le mot de la fin aux domestiques, et que révèle ce dénouement sur la société ?",
+   "mouvements": [
+    "Mouvement 1 : le commentaire de la réconciliation — Hippolyte : « ils se débarbouillent avec, pour faire croire qu'ils sont propres » ; langage populaire, images triviales.",
+    "Mouvement 2 : la cruauté du chœur — « joie féroce » contre Adèle, raillée après son accouchement : les domestiques reproduisent la violence des maîtres.",
+    "Mouvement 3 : la généralisation finale — Julie : « toutes les baraques se ressemblent », « C'est cochon et compagnie » : la satire s'étend à toute la société ; structure circulaire avec le chapitre I."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Pot-Bouille (1882), 10e roman des Rougon-Macquart ; Octave Mouret y précède Au Bonheur des Dames.",
+   "L'immeuble de la rue de Choiseul est un microcosme : étages = classes sociales ; grand escalier = façade ; cour intérieure = vérité.",
+   "Thèmes clés : hypocrisie bourgeoise, mariage-marché (dot fictive de Berthe), adultère banal, argent et héritage, religion de façade, sort des domestiques.",
+   "Octave veut « arriver par les femmes » ; il réussit finalement en épousant Mme Hédouin.",
+   "Le scandale (Berthe surprise chez Octave) est étouffé : tout le monde se réconcilie, rien ne change.",
+   "Images clés : « abîmes d'honnêteté », « déverse d'un égout », « manteau de la religion », Christ de plâtre sans « une goutte de sang ».",
+   "Excipit : « C'est cochon et compagnie » (Julie) ; structure circulaire autour de la cour.",
+   "Parcours « Dévoiler les rouages de la société » : Lesage, Balzac, Maupassant, Perec."
+  ],
+  "citations": [
+   1,
+   3,
+   4,
+   6,
+   10,
+   13,
+   14,
+   17
+  ],
+  "pieges": [
+   "Berthe épouse Auguste Vabre ; Valérie est la femme de Théophile.",
+   "Mme Hédouin repousse d'abord Octave (chap. IX) ; il ne l'épouse qu'après la mort de son mari.",
+   "L'action se passe sous le Second Empire (années 1860), même si le roman paraît en 1882.",
+   "La fortune du père Vabre a été engloutie par le jeu, pas par la statistique.",
+   "Ce n'est pas Octave mais la cuisinière Julie qui prononce le mot de la fin."
+  ],
+  "synthese": "Pot-Bouille (1882), dixième roman des Rougon-Macquart, suit Octave Mouret, jeune ambitieux venu de Plassans, dans un immeuble bourgeois de la rue de Choiseul. Derrière le grand escalier « d'un luxe violent », Zola dévoile une bourgeoisie hypocrite : mariage arrangé avec une dot fictive, adultères en série, héritage disputé, religion de façade, domestiques exploitées. Le scandale de l'adultère de Berthe et d'Octave est étouffé : la maison retrouve sa « grande dignité bourgeoise ». Roman naturaliste et comédie féroce, il fait de l'immeuble une maquette de la société et confie la vérité aux bonnes : « C'est cochon et compagnie. »"
+ },
+ "vocabulaire": [
+  {
+   "terme": "Naturalisme",
+   "definition": "Mouvement littéraire mené par Zola, qui veut étudier scientifiquement l'influence du milieu et des passions sur les comportements. Pot-Bouille repose sur une enquête minutieuse sur les immeubles et les mœurs parisiennes."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Critique moqueuse des vices d'une société ou d'un groupe. Pot-Bouille est une satire de la bourgeoisie du Second Empire (Mme Josserand, Duveyrier, Campardon)."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Procédé qui consiste à dire autre chose que ce que l'on pense, pour faire entendre une critique. « il y avait comme des abîmes d'honnêteté » (chap. I) est ironique."
+  },
+  {
+   "terme": "Type",
+   "definition": "Personnage qui représente une catégorie sociale ou morale. Mme Josserand est le type de la mère marieuse ; Gourd, celui du concierge servile et tyrannique."
+  },
+  {
+   "terme": "Microcosme",
+   "definition": "Petit monde qui reproduit en miniature un ensemble plus vaste. L'immeuble de la rue de Choiseul est un microcosme de la société parisienne."
+  },
+  {
+   "terme": "Point de vue (focalisation)",
+   "definition": "Angle à partir duquel le récit est raconté. Octave, nouveau venu, sert souvent de focalisateur : le lecteur découvre l'immeuble avec ses yeux."
+  },
+  {
+   "terme": "Discours indirect libre",
+   "definition": "Paroles ou pensées d'un personnage rapportées sans verbe introducteur ni guillemets, mêlées à la voix du narrateur. Utilisé dans la crise de l'abbé Mauduit (chap. XVII) : « Oh! Seigneur, l'heure sonnait-elle de ne plus couvrir du manteau de la religion les plaies de ce monde décomposé? »"
+  },
+  {
+   "terme": "Antithèse",
+   "definition": "Opposition de deux idées dans un même passage. Grand escalier / cour intérieure ; nudité de Berthe / « honnêteté des zincs dorés et des faux marbres »."
+  },
+  {
+   "terme": "Chœur",
+   "definition": "Dans la tragédie grecque, groupe qui commente l'action. Les domestiques de la cour intérieure jouent ce rôle : ils commentent et jugent les maîtres."
+  },
+  {
+   "terme": "Excipit",
+   "definition": "Dernières lignes d'une œuvre. Celui de Pot-Bouille (« C'est cochon et compagnie ») donne la parole aux domestiques et généralise la satire."
+  },
+  {
+   "terme": "Vaudeville",
+   "definition": "Comédie légère fondée sur les quiproquos et les adultères. Zola emprunte ses ressorts (portes, maris trompés, fuite en chemise) pour mieux en montrer la noirceur."
+  },
+  {
+   "terme": "Comédie de mœurs",
+   "definition": "Œuvre qui peint avec humour les habitudes et les travers d'un milieu social. Pot-Bouille en emprunte la verve pour peindre la bourgeoisie parisienne."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Dans quelle rue se trouve l'immeuble de Pot-Bouille ?",
+   "choix": [
+    "Rue de Rivoli",
+    "Rue de Choiseul",
+    "Rue Mazarine",
+    "Rue de la Goutte-d'Or"
+   ],
+   "reponse": 1,
+   "explication": "L'immeuble est situé rue de Choiseul ; Octave y arrive au chapitre I."
+  },
+  {
+   "question": "Que signifie l'expression « pot-bouille » ?",
+   "choix": [
+    "Une marmite de sorcière",
+    "La cuisine ordinaire d'un ménage",
+    "Un pot-de-vin",
+    "Un bouillon pour les malades"
+   ],
+   "reponse": 1,
+   "explication": "Le « pot-bouille » est la cuisine quotidienne du ménage : Zola en fait l'image de la vie domestique bourgeoise qui mijote derrière les portes."
+  },
+  {
+   "question": "Qui dit à sa fille : « vous devez prendre les hommes par autre chose » ?",
+   "choix": [
+    "Mme Duveyrier",
+    "Mme Josserand",
+    "Mme Hédouin",
+    "Mme Campardon"
+   ],
+   "reponse": 1,
+   "explication": "Mme Josserand fait cette leçon à Berthe au chapitre II, après un mariage raté."
+  },
+  {
+   "question": "Que représente la cour intérieure dans le roman ?",
+   "choix": [
+    "Un jardin paisible",
+    "L'égout où remontent les secrets de la maison",
+    "Le lieu des réceptions mondaines",
+    "La boutique d'Auguste"
+   ],
+   "reponse": 1,
+   "explication": "Les bonnes y crient les secrets des maîtres ; Zola la compare à « la déverse d'un égout »."
+  },
+  {
+   "question": "Que se passe-t-il à la mort du père Vabre ?",
+   "choix": [
+    "Il lègue tout à l'Église",
+    "Ses enfants se disputent l'héritage",
+    "Octave hérite de l'immeuble",
+    "On découvre un enfant caché"
+   ],
+   "reponse": 1,
+   "explication": "La maison « ouvrait la succession » avant même la mort du vieillard ; ses enfants se disputent et découvrent que sa manie statistique cachait une passion ruineuse du jeu (chap. XI)."
+  },
+  {
+   "question": "Comment se termine la liaison d'Octave et de Berthe ?",
+   "choix": [
+    "Par un duel mortel",
+    "Par leur fuite",
+    "Par la découverte d'Auguste, puis l'étouffement du scandale",
+    "Par le suicide de Berthe"
+   ],
+   "reponse": 2,
+   "explication": "Auguste les surprend (chap. XIV) ; le duel est évité, Duveyrier négocie, et tout le monde se retrouve réconcilié au chapitre XVIII."
+  },
+  {
+   "question": "Qui Octave épouse-t-il à la fin du roman ?",
+   "choix": [
+    "Valérie Vabre",
+    "Marie Pichon",
+    "Hortense Josserand",
+    "Mme Hédouin"
+   ],
+   "reponse": 3,
+   "explication": "Après la mort de M. Hédouin, Octave épouse la patronne du Bonheur des Dames : au dîner du chapitre XVIII, il vient avec « sa femme ». Le mariage annonce le roman suivant."
+  },
+  {
+   "question": "Qui prononce le mot de la fin, « C'est cochon et compagnie » ?",
+   "choix": [
+    "L'abbé Mauduit",
+    "Le docteur Juillerat",
+    "Julie, la cuisinière",
+    "Octave"
+   ],
+   "reponse": 2,
+   "explication": "La cuisinière Julie conclut le roman dans la cour intérieure : les domestiques ont le dernier mot."
+  },
+  {
+   "question": "Qui est le concierge de l'immeuble ?",
+   "choix": [
+    "M. Gourd",
+    "M. Vabre",
+    "Hippolyte",
+    "Trublot"
+   ],
+   "reponse": 0,
+   "explication": "M. Gourd, ancien valet de chambre d'un duc, surveille la « moralité de la maison » mais ferme les yeux sur les vices des riches."
+  },
+  {
+   "question": "Quelle image l'abbé Mauduit associe-t-il à son rôle auprès de la bourgeoisie ?",
+   "choix": [
+    "Une lanterne",
+    "Un manteau",
+    "Un glaive",
+    "Un miroir"
+   ],
+   "reponse": 1,
+   "explication": "Il jette sur « cette bourgeoisie gâtée le manteau de la religion » (chap. V) : il couvre les vices au lieu de les dénoncer."
+  },
+  {
+   "question": "Quel procédé domine dans la phrase « Ce matin-là, le réveil de la maison fut d'une grande dignité bourgeoise » (chap. XV) ?",
+   "choix": [
+    "L'hyperbole épique",
+    "L'ironie",
+    "La prosopopée",
+    "Le lyrisme"
+   ],
+   "reponse": 1,
+   "explication": "Au lendemain du scandale, le narrateur emploie le vocabulaire de la respectabilité pour en montrer le mensonge : c'est de l'ironie."
+  },
+  {
+   "question": "À quel parcours du programme Pot-Bouille est-il associé ?",
+   "choix": [
+    "Anatomie des passions",
+    "Dévoiler les rouages de la société",
+    "Le personnage de roman, esthétiques et valeurs",
+    "Raconter, représenter, transmettre"
+   ],
+   "reponse": 1,
+   "explication": "Le programme associe Pot-Bouille (voie générale, à partir de la rentrée 2026) au parcours « Dévoiler les rouages de la société »."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte intégral de Pot-Bouille utilisé par le site (Project Gutenberg n° 8907)",
+   "url": "https://www.gutenberg.org/ebooks/8907"
+  },
+  {
+   "titre": "Eduscol, « Pot-Bouille d'Émile Zola : l'œuvre, le parcours » (février 2026)",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceeg1francaisemilezolaoeuvreparcourspdf-126011.pdf"
+  },
+  {
+   "titre": "Zola, Le Roman expérimental (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Le_Roman_exp%C3%A9rimental"
+  },
+  {
+   "titre": "Zola, La Fortune des Rougon, préface (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/La_Fortune_des_Rougon/Pr%C3%A9face"
+  },
+  {
+   "titre": "Balzac, Avant-propos de La Comédie humaine (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Avant-Propos_de_La_Com%C3%A9die_humaine"
+  },
+  {
+   "titre": "Wikipédia, « Pot-Bouille » (publication, affaire Duverdy)",
+   "url": "https://fr.wikipedia.org/wiki/Pot-Bouille"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte du premier feuilleton dans Le Gaulois : 24 janvier 1882 selon Eduscol, 23 janvier selon Wikipédia (la fiche dit simplement : fin janvier).",
+  "Les citations des notes préparatoires et de Paul Alexis sont reprises de la ressource Eduscol, sans consultation directe des sources originales.",
+  "Durée exacte de l'action (un peu plus d'un an selon les indications de saison du texte) : à confirmer par une lecture suivie de la chronologie."
+ ]
+}

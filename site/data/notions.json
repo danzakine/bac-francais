@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "comparaison",
+  "terme": "Comparaison",
+  "categorie": "figures",
+  "definition": "Rapprochement explicite entre deux éléments (le comparé et le comparant) à l'aide d'un outil de comparaison : comme, tel, pareil à, ressembler à, sembler… Elle met en valeur un point commun.",
+  "exemple": "« Heureux qui, comme Ulysse, a fait un beau voyage » : le voyageur heureux (comparé) est rapproché d'Ulysse (comparant) par l'outil « comme ».",
+  "source": "Du Bellay, Les Regrets (1558), sonnet XXXI, vers 1 — texte intégral du site."
+ },
+ {
+  "id": "metaphore",
+  "terme": "Métaphore",
+  "categorie": "figures",
+  "definition": "Rapprochement de deux éléments sans outil de comparaison : le comparant se substitue au comparé ou lui est directement associé. Une métaphore développée sur plusieurs termes est dite « filée ».",
+  "exemple": "« Qui souffre, ver de terre amoureux d'une étoile » : Ruy Blas, laquais, se désigne comme un « ver de terre » et la reine comme une « étoile » : la métaphore traduit la distance sociale entre eux.",
+  "source": "Hugo, Ruy Blas (1838), acte II, scène 2 (lettre lue par la reine) — texte intégral du site."
+ },
+ {
+  "id": "metaphore-filee",
+  "terme": "Métaphore filée",
+  "categorie": "figures",
+  "definition": "Métaphore prolongée sur plusieurs mots ou plusieurs phrases, qui développe un même champ lexical à partir du comparant initial.",
+  "exemple": "« Cette tête de l'homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n'aurez pas besoin de la couper. » : la tête du peuple est filée comme une terre à cultiver (« défrichez », « arrosez », « fécondez ») ; la chute « couper » renvoie à la guillotine.",
+  "source": "Hugo, Claude Gueux (1834), dernière page — texte intégral du site."
+ },
+ {
+  "id": "personnification",
+  "terme": "Personnification",
+  "categorie": "figures",
+  "definition": "Figure qui attribue des caractéristiques humaines (actions, sentiments, paroles) à un animal, un objet, une idée ou un élément naturel.",
+  "exemple": "« C'est un trou de verdure où chante une rivière » : la rivière « chante » comme un être humain : la nature paraît vivante et joyeuse, ce qui rendra la chute du poème plus brutale.",
+  "source": "Rimbaud, « Le Dormeur du val », vers 1, Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "allegorie",
+  "terme": "Allégorie",
+  "categorie": "figures",
+  "definition": "Représentation concrète et souvent personnifiée d'une idée abstraite (la Mort, la Justice, la Fortune…), parfois développée en un véritable récit. L'allégorie s'identifie souvent à la majuscule.",
+  "exemple": "« Le chêne un jour dit au roseau: » : dans « Le Chêne et le Roseau », les deux plantes qui dialoguent figurent deux attitudes face à l'adversité : la force orgueilleuse et la souplesse. Toute la fable fonctionne comme une allégorie.",
+  "source": "La Fontaine, Fables (1668), livre I, fable 22, « Le Chêne et le Roseau », vers 1 — texte intégral du site."
+ },
+ {
+  "id": "antithese",
+  "terme": "Antithèse",
+  "categorie": "figures",
+  "definition": "Opposition forte entre deux mots, deux idées ou deux propositions placés à proximité dans la phrase pour souligner un contraste.",
+  "exemple": "« Et qui se meurt en bas quand vous brillez en haut. » : « en bas » s'oppose à « en haut », « se meurt » à « brillez » : le vers résume l'écart entre le laquais et la reine.",
+  "source": "Hugo, Ruy Blas (1838), acte II, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "oxymore",
+  "terme": "Oxymore",
+  "categorie": "figures",
+  "definition": "Alliance, dans un même groupe de mots, de deux termes de sens opposés (souvent un nom et un adjectif). Il crée une image paradoxale.",
+  "exemple": "« Candide, qui tremblait comme un philosophe, se cacha du mieux qu'il put pendant cette boucherie héroïque. » : « boucherie » (massacre) est associée à « héroïque » (noble, glorieux) : l'oxymore dénonce ironiquement la guerre.",
+  "source": "Voltaire, Candide (1759), chapitre III — texte intégral du site."
+ },
+ {
+  "id": "chiasme",
+  "terme": "Chiasme",
+  "categorie": "figures",
+  "definition": "Construction en miroir de quatre éléments selon le schéma A B / B A. Il peut opposer ou rapprocher les termes et donne une impression de clôture.",
+  "exemple": "Exemple forgé : « Il faut travailler pour vivre, et non vivre pour travailler. » (travailler A / vivre B // vivre B / travailler A).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "parallelisme",
+  "terme": "Parallélisme",
+  "categorie": "figures",
+  "definition": "Reprise d'une même construction syntaxique dans deux phrases ou deux segments successifs (A B / A B). Il souligne une ressemblance ou une opposition.",
+  "exemple": "« Et qui se meurt en bas quand vous brillez en haut. » : les deux propositions suivent la même structure (sujet + verbe + complément de lieu) : « se meurt en bas » / « brillez en haut ». Le parallélisme renforce ici l'antithèse.",
+  "source": "Hugo, Ruy Blas (1838), acte II, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "anaphore",
+  "terme": "Anaphore (figure)",
+  "categorie": "figures",
+  "definition": "Répétition d'un même mot ou groupe de mots en tête de vers, de phrases ou de paragraphes successifs. Elle produit un effet d'insistance, de martèlement ou de lyrisme.",
+  "exemple": "« J'accuse le lieutenant-colonel du Paty de Clam […] J'accuse le général Mercier […] J'accuse le général Billot » : la formule « J'accuse » ouvre chaque paragraphe de la conclusion : l'anaphore donne au texte la force d'un réquisitoire.",
+  "source": "Zola, « J'accuse…! », L'Aurore, 13 janvier 1898, conclusion — texte intégral du site."
+ },
+ {
+  "id": "accumulation",
+  "terme": "Accumulation et énumération",
+  "categorie": "figures",
+  "definition": "Juxtaposition de nombreux termes de même nature ou de même fonction. L'énumération dresse une liste ; on parle d'accumulation quand l'effet recherché est l'abondance, l'excès ou la saturation.",
+  "exemple": "« Tous les hommes sont menteurs, inconstants, faux, bavards, hypocrites, orgueilleux ou lâches, méprisables et sensuels » : l'accumulation d'adjectifs péjoratifs exprime la vision désabusée de Perdican, avant qu'il ne célèbre malgré tout l'amour.",
+  "source": "Musset, On ne badine pas avec l'amour (1834), acte II, scène 5, tirade de Perdican — texte intégral du site."
+ },
+ {
+  "id": "gradation",
+  "terme": "Gradation",
+  "categorie": "figures",
+  "definition": "Succession de termes d'intensité croissante (gradation ascendante) ou décroissante (gradation descendante).",
+  "exemple": "« Je le vis, je rougis, je pâlis à sa vue ; » : les trois verbes au passé simple marquent la progression rapide et irrésistible du trouble amoureux de Phèdre (rythme ternaire).",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "hyperbole",
+  "terme": "Hyperbole",
+  "categorie": "figures",
+  "definition": "Exagération dans l'expression d'une idée ou d'un sentiment, destinée à frapper l'esprit.",
+  "exemple": "« Et le déchaînement de toute la nature / Ne m'accableroit pas comme cette aventure: » : Alceste affirme que le bouleversement de « toute la nature » le toucherait moins que la trahison qu'il croit découvrir : l'hyperbole souligne, de façon comique, l'excès de sa jalousie.",
+  "source": "Molière, Le Misanthrope (1666), acte IV, scène 2 (orthographe de l'édition du site) — texte intégral du site."
+ },
+ {
+  "id": "litote",
+  "terme": "Litote",
+  "categorie": "figures",
+  "definition": "Figure qui consiste à dire moins pour faire entendre plus, souvent au moyen d'une négation. C'est l'inverse de l'hyperbole.",
+  "exemple": "Exemple forgé : « Ce n'est pas mal du tout » pour signifier « c'est très réussi ».",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "euphemisme",
+  "terme": "Euphémisme",
+  "categorie": "figures",
+  "definition": "Atténuation d'une réalité jugée brutale, choquante ou douloureuse (la mort, la maladie, la violence).",
+  "exemple": "« Il dort dans le soleil, la main sur sa poitrine » : le verbe « dormir », répété dans le poème, atténue la réalité de la mort du soldat, révélée seulement au dernier vers.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "antiphrase",
+  "terme": "Antiphrase",
+  "categorie": "figures",
+  "definition": "Figure qui consiste à dire le contraire de ce que l'on pense, en comptant sur le contexte ou le ton pour que le destinataire comprenne. C'est le procédé principal de l'ironie.",
+  "exemple": "« O ministres intègres! / Conseillers vertueux! » : Ruy Blas qualifie d'« intègres » et de « vertueux » des ministres qui pillent l'État : l'antiphrase devient une dénonciation.",
+  "source": "Hugo, Ruy Blas (1838), acte III, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "periphrase",
+  "terme": "Périphrase",
+  "categorie": "figures",
+  "definition": "Remplacement d'un mot par une expression plus longue qui en désigne une caractéristique. Elle peut embellir, éviter une répétition, ou créer un effet comique.",
+  "exemple": "« La gent trotte-menu s'en vient chercher sa perte. » : « la gent trotte-menu » désigne la population des souris et des rats par sa manière de se déplacer à petits pas.",
+  "source": "La Fontaine, Fables (1668), livre III, fable 18, « Le Chat et le vieux Rat » — texte intégral du site."
+ },
+ {
+  "id": "metonymie",
+  "terme": "Métonymie",
+  "categorie": "figures",
+  "definition": "Désignation d'une réalité par une autre qui lui est liée logiquement : le contenant pour le contenu, l'auteur pour l'œuvre, le lieu pour ses habitants, l'instrument pour l'utilisateur…",
+  "exemple": "Exemple forgé : « Toute la salle applaudit » (la salle pour les spectateurs) ; « boire un verre » (le contenant pour le contenu).",
+  "source": "Exemples forgés pour illustrer la notion."
+ },
+ {
+  "id": "synecdoque",
+  "terme": "Synecdoque",
+  "categorie": "figures",
+  "definition": "Variété de métonymie qui désigne le tout par une partie (ou l'inverse), ou l'espèce par la matière.",
+  "exemple": "Exemple forgé : « Une voile apparut à l'horizon » (la voile pour le navire entier).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "apostrophe",
+  "terme": "Apostrophe",
+  "categorie": "figures",
+  "definition": "Interpellation directe d'une personne, absente ou présente, ou d'une chose personnifiée. Elle se repère souvent à l'emploi de la deuxième personne et d'un nom mis en apostrophe.",
+  "exemple": "« Nature, berce-le chaudement : il a froid. » : le poète s'adresse à la Nature, personnifiée en mère qui berce, à l'impératif.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "prosopopee",
+  "terme": "Prosopopée",
+  "categorie": "figures",
+  "definition": "Figure qui fait parler un absent, un mort, un animal, une chose ou une abstraction.",
+  "exemple": "Exemple forgé : « Et la forêt me dit : “Pourquoi m'avez-vous abattue ?” »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "question-rhetorique",
+  "terme": "Question rhétorique",
+  "categorie": "figures",
+  "definition": "Question qui n'attend pas de réponse, car celle-ci est évidente ou contenue dans la question. Elle sert à impliquer le destinataire et à affirmer avec force.",
+  "exemple": "« Et cet homme la trahirait pour une poupée ! comment peut-on la trahir ? » : Rastignac n'attend aucune réponse : la question exprime son indignation et son admiration pour Mme de Beauséant.",
+  "source": "Balzac, Le Père Goriot (1835) — texte intégral du site."
+ },
+ {
+  "id": "hypotypose",
+  "terme": "Hypotypose",
+  "categorie": "figures",
+  "definition": "Description si vive et si animée d'une scène qu'elle semble se dérouler sous les yeux du lecteur ou du spectateur (présent de narration, détails concrets, mouvements).",
+  "exemple": "« J'ai vu, seigneur, j'ai vu votre malheureux fils / Traîné par les chevaux que sa main a nourris. / Il veut les rappeler, et sa voix les effraie ; / Ils courent » : dans le récit de Théramène, le passage au présent (« veut », « courent ») et les détails visuels font voir la mort d'Hippolyte, qui ne peut être montrée sur scène.",
+  "source": "Racine, Phèdre (1677), acte V, scène 6 — texte intégral du site."
+ },
+ {
+  "id": "alliteration",
+  "terme": "Allitération",
+  "categorie": "figures",
+  "definition": "Répétition d'un même son consonantique dans des mots proches. Elle crée une musicalité et peut produire un effet suggestif (douceur, dureté, bruit…).",
+  "exemple": "« Les parfums ne font pas frissonner sa narine ; » : la répétition des consonnes [f] et [r] (« parfums », « font », « frissonner », « narine ») suggère un souffle qui ne vient plus.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "assonance",
+  "terme": "Assonance",
+  "categorie": "figures",
+  "definition": "Répétition d'un même son vocalique dans des mots proches.",
+  "exemple": "« Ariane, ma sœur ! de quel amour blessée / Vous mourûtes aux bords où vous fûtes laissée ! » : la répétition du son [u] (« amour », « Vous mourûtes », « où vous ») crée une plainte musicale et mélancolique.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "paronomase",
+  "terme": "Paronomase",
+  "categorie": "figures",
+  "definition": "Rapprochement de mots dont les sons sont proches mais le sens différent. Elle crée un effet de surprise, d'humour ou de frappe.",
+  "exemple": "Exemple forgé : « Il voulait être traduit en justice ; il se sentit trahi par la justice. » (traduit / trahi).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "polyptote",
+  "terme": "Polyptote",
+  "categorie": "figures",
+  "definition": "Répétition d'un même mot ou d'un même radical sous des formes grammaticales différentes (verbe conjugué, nom dérivé…). Elle insiste sur une idée en la faisant varier.",
+  "exemple": "« Conseillers vertueux! voilà votre façon / De servir, serviteurs qui pillez la maison! » : « servir » et « serviteurs » reprennent le même radical : les ministres trahissent la fonction même que désigne leur titre.",
+  "source": "Hugo, Ruy Blas (1838), acte III, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "zeugma",
+  "terme": "Zeugma (ou attelage)",
+  "categorie": "figures",
+  "definition": "Rattachement à un même mot de deux compléments de natures différentes, souvent l'un concret et l'autre abstrait, ce qui crée un effet inattendu.",
+  "exemple": "Exemple forgé : « Elle prit son manteau et la fuite. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "preterition",
+  "terme": "Prétérition",
+  "categorie": "figures",
+  "definition": "Figure qui consiste à annoncer que l'on ne va pas parler de quelque chose, tout en en parlant.",
+  "exemple": "Exemple forgé : « Je ne vous dirai pas combien il a menti, ni combien de fois il nous a trahis. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "hypallage",
+  "terme": "Hypallage",
+  "categorie": "figures",
+  "definition": "Attribution à un mot d'une qualité qui logiquement convient à un autre mot de la même phrase.",
+  "exemple": "Exemple forgé : « Il fumait une pipe songeuse » (c'est le fumeur, et non la pipe, qui est songeur).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "vers-syllabes",
+  "terme": "Vers et décompte des syllabes",
+  "categorie": "versification",
+  "definition": "Le vers se mesure en syllabes prononcées. Le « e » muet se prononce devant une consonne à l'intérieur du vers, mais s'élide devant une voyelle et ne compte pas en fin de vers. Principaux mètres : alexandrin (12), décasyllabe (10), octosyllabe (8).",
+  "exemple": "« Je le vis, je rougis, je pâlis à sa vue ; » : Je / le / vis / je / rou / gis // je / pâ / lis / à / sa / vue : alexandrin de 12 syllabes, le « e » final de « vue » ne comptant pas.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "alexandrin",
+  "terme": "Alexandrin et hémistiche",
+  "categorie": "versification",
+  "definition": "L'alexandrin est un vers de douze syllabes, vers noble de la tragédie et de la grande poésie. Dans l'alexandrin classique, une pause principale, la césure, le partage en deux hémistiches de six syllabes.",
+  "exemple": "« C'est Vénus tout entière à sa proie attachée. » : « C'est Vénus tout entière // à sa proie attachée » : deux hémistiches de six syllabes, la césure séparant la déesse et sa proie.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "dierese-synerese",
+  "terme": "Diérèse et synérèse",
+  "categorie": "versification",
+  "definition": "La diérèse consiste à prononcer en deux syllabes deux voyelles qui se suivent et qui se prononcent ordinairement en une seule (pa-ssi-on au lieu de pa-ssion). La synérèse est l'inverse. Elles s'imposent pour obtenir le bon nombre de syllabes et mettent un mot en relief.",
+  "exemple": "« Tout ce que là-dessus ma passion m'inspire. » : pour obtenir douze syllabes, il faut lire « pas-si-on » en trois syllabes : la diérèse souligne le mot « passion ».",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 1 — texte intégral du site."
+ },
+ {
+  "id": "enjambement-rejet",
+  "terme": "Enjambement, rejet, contre-rejet",
+  "categorie": "versification",
+  "definition": "Il y a enjambement quand la phrase déborde d'un vers sur le suivant. Le rejet est l'élément bref rejeté au début du vers suivant ; le contre-rejet est l'élément bref placé à la fin d'un vers alors qu'il appartient syntaxiquement au vers suivant. Ces décalages mettent des mots en relief.",
+  "exemple": "« Les pieds dans les glaïeuls, il dort. Souriant comme / Sourirait un enfant malade, il fait un somme : […] Il dort dans le soleil, la main sur sa poitrine / Tranquille. » : « Souriant comme » est un contre-rejet en fin de vers ; « Tranquille » est un rejet qui isole, de façon inquiétante, l'immobilité du soldat.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "rime-disposition",
+  "terme": "Disposition des rimes",
+  "categorie": "versification",
+  "definition": "Rimes plates ou suivies (AABB), croisées (ABAB), embrassées (ABBA). La disposition structure la strophe et peut associer des mots dont le rapprochement fait sens.",
+  "exemple": "« Heureux qui, comme Ulysse, a fait un beau voyage, / Ou comme cestui là qui conquit la toison, / Et puis est retourné, plein d'usage et raison, / Vivre entre ses parents le reste de son aage ! » : « voyage » / « toison » / « raison » / « aage » (« âge ») : rimes embrassées ABBA, disposition habituelle des quatrains du sonnet.",
+  "source": "Du Bellay, Les Regrets (1558), sonnet XXXI, premier quatrain — texte intégral du site."
+ },
+ {
+  "id": "rime-richesse",
+  "terme": "Richesse des rimes",
+  "categorie": "versification",
+  "definition": "Une rime est pauvre si elle repose sur un seul son commun (la voyelle finale), suffisante avec deux sons communs, riche avec trois sons ou plus.",
+  "exemple": "« Ariane, ma sœur ! de quel amour blessée / Vous mourûtes aux bords où vous fûtes laissée ! » : « blessée » / « laissée » ont en commun les sons [ɛ], [s] et [e] : rime riche.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "rime-genre",
+  "terme": "Rimes masculines et féminines",
+  "categorie": "versification",
+  "definition": "Une rime est féminine quand le vers se termine par un « e » muet (éventuellement suivi de -s ou -ent), masculine dans les autres cas. La poésie classique alterne rimes masculines et féminines.",
+  "exemple": "« C'est un trou de verdure où chante une rivière / Accrochant follement aux herbes des haillons » : « rivière » (terminaison en « e » muet) donne une rime féminine, « haillons » une rime masculine.",
+  "source": "Rimbaud, « Le Dormeur du val », vers 1-2, Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "sonnet",
+  "terme": "Sonnet",
+  "categorie": "versification",
+  "definition": "Poème à forme fixe de quatorze vers, venu d'Italie (Pétrarque) et introduit en France au XVIe siècle : deux quatrains suivis de deux tercets. Le dernier vers, ou « chute », porte souvent l'effet le plus fort.",
+  "exemple": "« Tranquille. Il a deux trous rouges au côté droit. » : le dernier vers de ce sonnet révèle que le dormeur est un soldat mort : c'est une chute.",
+  "source": "Rimbaud, « Le Dormeur du val », vers 14, Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "strophe",
+  "terme": "Strophe",
+  "categorie": "versification",
+  "definition": "Groupe de vers formant une unité, séparé des autres par un blanc. On distingue le distique (2 vers), le tercet (3), le quatrain (4), le quintil (5), le sizain (6), le huitain, le dizain.",
+  "exemple": "Exemple forgé : un sonnet se compose de deux quatrains et de deux tercets, soit 4 + 4 + 3 + 3 = 14 vers.",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "vers-libre",
+  "terme": "Vers libre",
+  "categorie": "versification",
+  "definition": "Vers qui ne respecte ni un nombre fixe de syllabes ni l'obligation de la rime. Il se généralise à la fin du XIXe siècle et domine la poésie moderne et contemporaine. Le rythme repose alors sur la longueur des vers, les retours à la ligne, les blancs et les sonorités.",
+  "exemple": "Exemple forgé : « La forêt / garde en ses racines / le nom / de ceux qui sont partis » (vers de longueurs inégales, sans rime).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "vers-heterometriques",
+  "terme": "Vers hétérométriques (vers mêlés)",
+  "categorie": "versification",
+  "definition": "Emploi, dans un même poème, de vers de longueurs différentes, mais tous réguliers. Le procédé est caractéristique des Fables de La Fontaine et donne du rythme au récit.",
+  "exemple": "« Apprenez que tout flatteur / Vit aux dépens de celui qui l'écoute: / Cette leçon vaut bien un fromage, sans doute. » : un heptasyllabe (7), un décasyllabe (10), puis un alexandrin (12) : la variation des mètres accompagne la leçon du renard.",
+  "source": "La Fontaine, Fables (1668), livre I, fable 2, « Le Corbeau et le Renard » — texte intégral du site."
+ },
+ {
+  "id": "poeme-en-prose",
+  "terme": "Poème en prose",
+  "categorie": "versification",
+  "definition": "Texte poétique bref écrit en prose, sans vers, mais travaillé par les images, le rythme, les sonorités et une forte unité. Le genre s'affirme au XIXe siècle (Aloysius Bertrand, Baudelaire, Rimbaud) et se développe au XXe siècle (Ponge).",
+  "exemple": "Exemple forgé : « Le cageot attend, au coin de la rue, que le jour l'oublie. Sa légèreté de bois blanc dit assez qu'il ne servira qu'une fois. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "incipit",
+  "terme": "Incipit",
+  "categorie": "recit",
+  "definition": "Premières lignes d'un roman ou d'un récit. Il informe le lecteur (personnages, lieu, époque), oriente sa lecture (registre, point de vue) et doit susciter son intérêt.",
+  "exemple": "« Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. » : dès la première phrase, le héros est nommé et défini par l'argent : le thème central du roman est posé.",
+  "source": "Maupassant, Bel-Ami (1885), première partie, chapitre I, première phrase — texte intégral du site."
+ },
+ {
+  "id": "excipit",
+  "terme": "Excipit (ou clausule)",
+  "categorie": "recit",
+  "definition": "Dernières lignes d'un roman ou d'un récit. Il peut clore l'histoire, laisser la fin ouverte, ou proposer un sens à l'ensemble.",
+  "exemple": "« — À nous deux maintenant ! » : Rastignac lance un défi à Paris après l'enterrement de Goriot : le roman se clôt sur une ouverture vers une carrière d'ambitieux.",
+  "source": "Balzac, Le Père Goriot (1835), dernières lignes — texte intégral du site."
+ },
+ {
+  "id": "narrateur",
+  "terme": "Narrateur et auteur",
+  "categorie": "recit",
+  "definition": "L'auteur est la personne réelle qui écrit ; le narrateur est l'instance qui raconte dans le texte. Le narrateur peut être extérieur à l'histoire (récit à la 3e personne) ou personnage de l'histoire (récit à la 1re personne).",
+  "exemple": "« J'ai passé toute la matinée étendu sur l'herbe, devant ma maison » : le narrateur du Horla est un personnage qui raconte à la 1re personne ; il ne se confond pas avec Maupassant, l'auteur.",
+  "source": "Maupassant, Le Horla (1887), journal du 8 mai — texte intégral du site."
+ },
+ {
+  "id": "focalisation-zero",
+  "terme": "Focalisation zéro (point de vue omniscient)",
+  "categorie": "recit",
+  "definition": "Le narrateur sait tout : il connaît le passé, l'avenir, les pensées de tous les personnages, et peut commenter l'histoire.",
+  "exemple": "« Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise » : le narrateur balzacien présente le personnage avec une connaissance complète de son passé et de sa situation.",
+  "source": "Balzac, Le Père Goriot (1835), première phrase — texte intégral du site."
+ },
+ {
+  "id": "focalisation-interne",
+  "terme": "Focalisation interne",
+  "categorie": "recit",
+  "definition": "Le récit est mené à travers les perceptions et les pensées d'un personnage : le lecteur ne sait que ce que ce personnage voit, sent et pense.",
+  "exemple": "« Le jeune homme baissa la glace d'une portière, malgré le froid déjà vif de cette sombre après-midi de novembre. Il restait surpris de la brusque tombée du jour » : Paris est découvert à travers le regard et la surprise d'Octave, qui arrive de province.",
+  "source": "Zola, Pot-Bouille (1882), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "focalisation-externe",
+  "terme": "Focalisation externe",
+  "categorie": "recit",
+  "definition": "Le narrateur se comporte comme une caméra : il décrit les gestes et les paroles des personnages de l'extérieur, sans révéler leurs pensées.",
+  "exemple": "Exemple forgé : « L'homme entra, posa son chapeau sur la table et regarda la porte. Il ne dit rien. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "discours-direct",
+  "terme": "Discours direct",
+  "categorie": "recit",
+  "definition": "Paroles rapportées telles qu'elles ont été prononcées, souvent introduites par un verbe de parole et signalées par des guillemets ou des tirets. Les temps et les pronoms sont ceux du personnage qui parle.",
+  "exemple": "« Je sais aussi, dit Candide, qu'il faut cultiver notre jardin. » : les paroles de Candide sont rapportées directement, avec l'incise « dit Candide » et la 1re personne (« Je », « notre »).",
+  "source": "Voltaire, Candide (1759), chapitre XXX — texte intégral du site."
+ },
+ {
+  "id": "discours-indirect",
+  "terme": "Discours indirect",
+  "categorie": "recit",
+  "definition": "Paroles intégrées dans le récit sous forme de proposition subordonnée dépendant d'un verbe de parole. Pronoms et temps sont adaptés au point de vue du narrateur.",
+  "exemple": "Exemple forgé : discours direct : Il dit : « Je partirai demain. » → discours indirect : Il dit qu'il partirait le lendemain.",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "discours-indirect-libre",
+  "terme": "Discours indirect libre",
+  "categorie": "recit",
+  "definition": "Paroles ou pensées d'un personnage rapportées sans verbe introducteur ni subordination, avec les temps et les personnes du récit mais en gardant l'expressivité du personnage (exclamations, questions). Le procédé mêle la voix du narrateur et celle du personnage.",
+  "exemple": "Exemple forgé : « Elle regarda la lettre. Il partirait donc demain ! Comment pourrait-elle vivre sans lui ? »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "ordre-recit",
+  "terme": "Ordre du récit : analepse et prolepse",
+  "categorie": "recit",
+  "definition": "L'analepse (ou retour en arrière) raconte un événement antérieur au moment de l'histoire ; la prolepse (ou anticipation) annonce un événement futur.",
+  "exemple": "Exemple forgé : « Dix ans plus tôt, il avait quitté ce village sans un mot » (analepse) ; « Il ne savait pas encore qu'il ne la reverrait jamais » (prolepse).",
+  "source": "Exemples forgés pour illustrer la notion."
+ },
+ {
+  "id": "rythme-recit",
+  "terme": "Rythme du récit : scène, sommaire, ellipse, pause",
+  "categorie": "recit",
+  "definition": "La scène raconte les événements à peu près à la vitesse où ils se déroulent (dialogues) ; le sommaire résume une longue durée en peu de lignes ; l'ellipse passe sous silence une période ; la pause interrompt l'action (description, commentaire).",
+  "exemple": "Exemple forgé : « Les années passèrent sans qu'il revînt » (sommaire) ; « Trois mois plus tard, il était ruiné » (ellipse).",
+  "source": "Exemples forgés pour illustrer la notion."
+ },
+ {
+  "id": "description",
+  "terme": "Description",
+  "categorie": "recit",
+  "definition": "Passage qui présente un lieu, un objet ou un personnage et suspend l'action. Dans le roman réaliste et naturaliste, elle donne des informations sur le milieu, produit un effet de réel et annonce souvent le destin des personnages.",
+  "exemple": "« Au bout de la rue Guénégaud, lorsqu'on vient des quais, on trouve le passage du Pont-Neuf, une sorte de corridor étroit et sombre » : le décor étroit et sombre où vivra Thérèse annonce l'étouffement et le drame.",
+  "source": "Zola, Thérèse Raquin (1867), chapitre I, première phrase — texte intégral du site."
+ },
+ {
+  "id": "schema-narratif",
+  "terme": "Schéma narratif",
+  "categorie": "recit",
+  "definition": "Organisation type d'un récit en cinq étapes : situation initiale, élément perturbateur (ou modificateur), péripéties, élément de résolution, situation finale.",
+  "exemple": "Exemple forgé : un village paisible (situation initiale) ; un loup apparaît (élément perturbateur) ; les bergers tentent de le chasser (péripéties) ; un enfant le piège (résolution) ; le village retrouve la paix (situation finale).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "schema-actantiel",
+  "terme": "Schéma actantiel",
+  "categorie": "recit",
+  "definition": "Modèle qui décrit les forces d'un récit : un sujet recherche un objet, poussé par un destinateur et pour un destinataire ; des adjuvants l'aident, des opposants lui font obstacle.",
+  "exemple": "Exemple forgé : dans un récit d'ascension sociale, le héros (sujet) veut la réussite (objet), poussé par l'ambition (destinateur), aidé par des protecteurs (adjuvants), freiné par ses rivaux (opposants).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "double-enonciation",
+  "terme": "Double énonciation",
+  "categorie": "theatre",
+  "definition": "Au théâtre, toute réplique s'adresse à la fois à un personnage sur scène et au public. Le spectateur reçoit donc des informations que certains personnages ignorent.",
+  "exemple": "« La peste de la chute, empoisonneur au diable! » : Oronte n'entend pas ce que le public, lui, entend : l'aparté d'Alceste fonctionne grâce à la double énonciation.",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "didascalie",
+  "terme": "Didascalie",
+  "categorie": "theatre",
+  "definition": "Indication scénique écrite par l'auteur, non prononcée par les acteurs : liste des personnages, lieux, gestes, tons, entrées et sorties.",
+  "exemple": "« Tous se retournent. Silence de surprise et d'inquiétude. Ruy Blas se couvre, croise les bras, et poursuit en les regardant en face. » : la didascalie précise les gestes et l'attitude de défi de Ruy Blas face aux ministres.",
+  "source": "Hugo, Ruy Blas (1838), acte III, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "replique-tirade",
+  "terme": "Réplique et tirade",
+  "categorie": "theatre",
+  "definition": "Une réplique est ce que dit un personnage sans être interrompu. Une tirade est une longue réplique, souvent argumentée ou lyrique.",
+  "exemple": "« Tous les hommes sont menteurs, inconstants, faux, bavards, hypocrites, orgueilleux ou lâches, méprisables et sensuels » : début de la célèbre tirade de Perdican, longue réplique où il défend l'amour malgré l'imperfection humaine.",
+  "source": "Musset, On ne badine pas avec l'amour (1834), acte II, scène 5 — texte intégral du site."
+ },
+ {
+  "id": "stichomythie",
+  "terme": "Stichomythie",
+  "categorie": "theatre",
+  "definition": "Échange de répliques très brèves (souvent d'un vers ou d'un demi-vers) qui donne un rythme rapide au dialogue, en particulier dans les moments de tension.",
+  "exemple": "« Hippolyte ? Grands dieux ! […] C'est toi qui l'as nommé ! » : l'alexandrin est partagé entre Œnone et Phèdre : la brièveté des répliques traduit le choc de l'aveu.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "aparte",
+  "terme": "Aparté",
+  "categorie": "theatre",
+  "definition": "Réplique qu'un personnage prononce pour lui-même ou pour le public, sans être entendu des autres personnages présents. Souvent signalé par la didascalie « à part ».",
+  "exemple": "« La peste de la chute, empoisonneur au diable! / En eusses-tu fait une à te casser le nez! » : la didascalie « bas, à part » signale qu'Alceste exprime sa véritable opinion sur le sonnet d'Oronte sans que celui-ci l'entende.",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "monologue",
+  "terme": "Monologue",
+  "categorie": "theatre",
+  "definition": "Scène où un personnage seul sur scène parle à voix haute. Il révèle ses pensées, ses hésitations ou ses décisions (le monologue délibératif expose un dilemme).",
+  "exemple": "Exemple forgé : seul en scène, le héros hésite : « Partir ? Rester ? Si je pars, je la perds ; si je reste, je me perds. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "exposition",
+  "terme": "Scène d'exposition",
+  "categorie": "theatre",
+  "definition": "Première ou premières scènes d'une pièce, qui présentent les personnages, la situation et l'enjeu de l'intrigue, tout en suscitant l'intérêt du spectateur.",
+  "exemple": "« Qu'est-ce donc? qu'avez-vous? […] Laissez-moi, je vous prie. » : la pièce s'ouvre en pleine querelle : le conflit entre Alceste et Philinte expose immédiatement le caractère du misanthrope.",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 1, premier vers — texte intégral du site."
+ },
+ {
+  "id": "noeud-denouement",
+  "terme": "Nœud, péripétie, coup de théâtre, dénouement",
+  "categorie": "theatre",
+  "definition": "Le nœud est l'ensemble des obstacles qui s'opposent aux désirs des personnages ; une péripétie est un retournement de situation ; le coup de théâtre est une péripétie soudaine et inattendue ; le dénouement résout le conflit (heureux en comédie, malheureux en tragédie).",
+  "exemple": "Exemple forgé : dans une comédie, deux jeunes gens veulent se marier (désir), le père s'y oppose (nœud), on découvre qu'il a lui-même promis sa fille à un ami ruiné (coup de théâtre), le mariage a finalement lieu (dénouement).",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "quiproquo",
+  "terme": "Quiproquo",
+  "categorie": "theatre",
+  "definition": "Malentendu par lequel un personnage prend une personne ou une chose pour une autre. Ressort comique fréquent de la comédie.",
+  "exemple": "Exemple forgé : un valet croit que son maître parle de sa cassette volée, alors que celui-ci parle de la jeune fille qu'il aime.",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "trois-unites",
+  "terme": "Règle des trois unités",
+  "categorie": "theatre",
+  "definition": "Règle du théâtre classique : une seule action principale (unité d'action), en un seul lieu (unité de lieu), en une journée au plus (unité de temps). Elle vise la vraisemblance et la concentration dramatique.",
+  "exemple": "« Qu'en un lieu, qu'en un jour, un seul fait accompli / Tienne jusqu'à la fin le théâtre rempli. » : Boileau résume en deux alexandrins les unités de lieu, de temps et d'action.",
+  "source": "Boileau, L'Art poétique (1674), chant III, éd. Œuvres poétiques, Imprimerie générale, 1872 — Wikisource : https://fr.wikisource.org/wiki/Boileau_-_%C5%92uvres_po%C3%A9tiques/L%E2%80%99Art_po%C3%A9tique/Chant_III"
+ },
+ {
+  "id": "vraisemblance-bienseance",
+  "terme": "Vraisemblance et bienséance",
+  "categorie": "theatre",
+  "definition": "Règles classiques. La vraisemblance exige que l'action paraisse crédible au spectateur ; la bienséance interdit de montrer sur scène ce qui pourrait choquer (morts violentes, sang, intimité) : ces événements sont racontés (récit).",
+  "exemple": "« Le vrai peut quelquefois n'être pas vraisemblable. » : pour Boileau, ce qui est vrai ne suffit pas : il faut que ce soit croyable pour le spectateur.",
+  "source": "Boileau, L'Art poétique (1674), chant III, éd. Œuvres poétiques, Imprimerie générale, 1872 — Wikisource : https://fr.wikisource.org/wiki/Boileau_-_%C5%92uvres_po%C3%A9tiques/L%E2%80%99Art_po%C3%A9tique/Chant_III"
+ },
+ {
+  "id": "tragedie",
+  "terme": "Tragédie",
+  "categorie": "theatre",
+  "definition": "Genre théâtral qui représente des personnages de rang élevé (rois, héros) confrontés à un destin ou à une passion qui les conduit à la mort ou au malheur. La tragédie classique, en cinq actes et en alexandrins, doit susciter la terreur et la pitié.",
+  "exemple": "« Mes crimes désormais ont comblé la mesure : » : Phèdre se sait coupable et perdue : le personnage tragique est lucide sur sa faute sans pouvoir y échapper.",
+  "source": "Racine, Phèdre (1677), acte IV, scène 6 — texte intégral du site."
+ },
+ {
+  "id": "comedie",
+  "terme": "Comédie",
+  "categorie": "theatre",
+  "definition": "Genre théâtral qui met en scène des personnages ordinaires dans des situations de la vie quotidienne, avec un dénouement heureux. Elle fait rire pour corriger les mœurs (comédie de caractère, de mœurs, d'intrigue).",
+  "exemple": "« Il faut bonne mémoire après qu'on a menti. » : le valet Cliton commente avec ironie les mensonges de son maître Dorante : la comédie tire la leçon d'un défaut.",
+  "source": "Corneille, Le Menteur (1644), acte IV, scène 5 — texte intégral du site."
+ },
+ {
+  "id": "drame-romantique",
+  "terme": "Drame romantique",
+  "categorie": "theatre",
+  "definition": "Genre théâtral né vers 1830, théorisé par Hugo dans la Préface de Cromwell (1827). Il refuse les unités de temps et de lieu, mêle le comique et le tragique, le sublime et le grotesque, et met en scène l'histoire et des héros souvent marginaux.",
+  "exemple": "« Mais, ô rage! être ainsi, près d'elle! devant eux! / En livrée! un laquais! être un laquais pour elle! » : le héros est un laquais au cœur sublime : le drame romantique mêle les conditions sociales et les registres.",
+  "source": "Hugo, Ruy Blas (1838), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "mise-en-abyme",
+  "terme": "Mise en abyme",
+  "categorie": "theatre",
+  "definition": "Procédé qui consiste à insérer une œuvre dans l'œuvre (théâtre dans le théâtre, récit dans le récit, tableau dans un tableau), souvent pour réfléchir sur l'art ou l'illusion.",
+  "exemple": "Exemple forgé : dans une pièce, des personnages assistent à une représentation théâtrale qui reproduit leur propre situation.",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "these-argument",
+  "terme": "Thèse, argument, exemple",
+  "categorie": "argumentation",
+  "definition": "La thèse est l'opinion que l'on défend ; l'argument est la raison qui la justifie ; l'exemple est un fait précis qui illustre ou prouve l'argument. La thèse adverse est celle que l'on combat.",
+  "exemple": "« Soyez résolus de ne servir plus, et vous voilà libres. » : La Boétie formule sa thèse sous forme d'injonction : la servitude cesse dès que le peuple refuse son consentement.",
+  "source": "La Boétie, Discours de la servitude volontaire (rédigé vers 1548) — texte intégral du site."
+ },
+ {
+  "id": "convaincre-persuader",
+  "terme": "Convaincre et persuader",
+  "categorie": "argumentation",
+  "definition": "Convaincre, c'est faire appel à la raison du destinataire (arguments logiques, preuves) ; persuader, c'est toucher ses sentiments et ses émotions (pathétique, images, interpellations). Les deux démarches se combinent souvent.",
+  "exemple": "« C'est à ce prix que vous mangez du sucre en Europe. » : le témoignage de l'esclave mutilé émeut le lecteur (persuader) et établit un lien de cause à effet entre l'esclavage et la consommation européenne (convaincre).",
+  "source": "Voltaire, Candide (1759), chapitre XIX — texte intégral du site."
+ },
+ {
+  "id": "ethos-pathos-logos",
+  "terme": "Éthos, pathos, logos",
+  "categorie": "argumentation",
+  "definition": "Trois leviers de la persuasion selon la rhétorique antique (Aristote) : l'éthos est l'image de lui-même que donne l'orateur (crédibilité) ; le pathos, les émotions suscitées chez le destinataire ; le logos, la force des raisonnements.",
+  "exemple": "« en inconscient, je veux le croire » : en accordant le bénéfice du doute, Zola construit l'éthos d'un accusateur juste et mesuré.",
+  "source": "Zola, « J'accuse…! » (1898), conclusion — texte intégral du site."
+ },
+ {
+  "id": "raisonnement-deductif",
+  "terme": "Raisonnement déductif",
+  "categorie": "argumentation",
+  "definition": "Raisonnement qui part d'une idée générale admise pour en tirer une conséquence particulière. Sa forme type est le syllogisme : prémisse majeure, prémisse mineure, conclusion.",
+  "exemple": "Exemple forgé : « Tous les hommes sont mortels ; or Socrate est un homme ; donc Socrate est mortel. »",
+  "source": "Exemple forgé (syllogisme scolaire traditionnel)."
+ },
+ {
+  "id": "raisonnement-inductif",
+  "terme": "Raisonnement inductif",
+  "categorie": "argumentation",
+  "definition": "Raisonnement qui part de faits ou d'exemples particuliers pour en tirer une loi générale.",
+  "exemple": "Exemple forgé : « Ce métal se dilate à la chaleur, celui-ci aussi, et tous ceux que nous avons testés : les métaux se dilatent donc à la chaleur. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "raisonnement-analogie",
+  "terme": "Raisonnement par analogie",
+  "categorie": "argumentation",
+  "definition": "Raisonnement qui s'appuie sur une ressemblance entre deux domaines pour éclairer l'un par l'autre. Il rend une idée abstraite accessible, mais ne constitue pas une preuve.",
+  "exemple": "« je me figure toujours que la nature est un grand spectacle qui ressemble à celui de l'opéra. » : le philosophe explique les lois cachées de la nature en les comparant aux machines invisibles d'un décor d'opéra.",
+  "source": "Fontenelle, Entretiens sur la pluralité des mondes (1686), Premier soir — texte intégral du site."
+ },
+ {
+  "id": "raisonnement-concessif",
+  "terme": "Concession et réfutation",
+  "categorie": "argumentation",
+  "definition": "Concéder, c'est reconnaître en partie la validité de la thèse adverse avant de la dépasser (« certes… mais »). Réfuter, c'est démontrer qu'une thèse adverse est fausse.",
+  "exemple": "Exemple forgé : « Certes, les écrans facilitent l'accès au savoir ; mais ils dispersent l'attention, et la lecture suivie reste irremplaçable. »",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "connecteurs-logiques",
+  "terme": "Connecteurs logiques",
+  "categorie": "argumentation",
+  "definition": "Mots qui indiquent les relations entre les idées : addition (de plus, en outre), cause (car, en effet), conséquence (donc, ainsi), opposition (mais, cependant), concession (certes, bien que), conclusion (enfin, en somme).",
+  "exemple": "« par conséquent, ceux qui ont avancé que tout est bien ont dit une sottise; il fallait dire que tout est au mieux. » : Pangloss accumule des connecteurs (« par conséquent ») qui donnent une apparence logique à des raisonnements absurdes : Voltaire parodie ainsi la philosophie optimiste.",
+  "source": "Voltaire, Candide (1759), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "argument-autorite",
+  "terme": "Argument d'autorité",
+  "categorie": "argumentation",
+  "definition": "Argument qui s'appuie sur le prestige d'une personne, d'une institution ou d'un texte reconnu plutôt que sur un raisonnement.",
+  "exemple": "« c'est ce que M. Pangloss m'a toujours dit, et je vois bien que tout est au mieux. » : Candide ne juge pas par lui-même : il s'en remet à l'autorité de son maître, ce que Voltaire tourne en ridicule.",
+  "source": "Voltaire, Candide (1759), chapitre II — texte intégral du site."
+ },
+ {
+  "id": "apologue",
+  "terme": "Apologue",
+  "categorie": "argumentation",
+  "definition": "Court récit à visée argumentative dont on tire une leçon morale. Le terme englobe la fable, le conte philosophique, la parabole, l'utopie. La morale peut être explicite ou implicite.",
+  "exemple": "« La raison du plus fort est toujours la meilleure; / Nous l'allons montrer tout à l'heure. » : la morale, placée en tête de « Le Loup et l'Agneau », annonce le récit qui la démontre ; le présent de vérité générale lui donne une valeur universelle.",
+  "source": "La Fontaine, Fables (1668), livre I, fable 10, « Le Loup et l'Agneau » — texte intégral du site."
+ },
+ {
+  "id": "implicite",
+  "terme": "Implicite : présupposé et sous-entendu",
+  "categorie": "argumentation",
+  "definition": "Le présupposé est une information contenue dans l'énoncé sans être affirmée (« Il a arrêté de fumer » présuppose qu'il fumait). Le sous-entendu est une information que le destinataire doit déduire du contexte.",
+  "exemple": "Exemple forgé : « Tiens, tu es à l'heure aujourd'hui ! » sous-entend que la personne est d'habitude en retard.",
+  "source": "Exemple forgé pour illustrer la notion."
+ },
+ {
+  "id": "ironie",
+  "terme": "Ironie",
+  "categorie": "argumentation",
+  "definition": "Procédé qui consiste à faire entendre le contraire de ce que l'on dit (antiphrase) ou à feindre la naïveté, pour se moquer ou dénoncer. Elle suppose la complicité du lecteur.",
+  "exemple": "« Rien n'était si beau, si leste, si brillant, si bien ordonné que les deux armées. » : l'éloge apparent de la guerre, décrite comme un spectacle harmonieux, prépare la dénonciation du massacre : l'ironie voltairienne repose sur ce décalage.",
+  "source": "Voltaire, Candide (1759), chapitre III, première phrase — texte intégral du site."
+ },
+ {
+  "id": "regard-etranger",
+  "terme": "Regard étranger (ou regard éloigné)",
+  "categorie": "argumentation",
+  "definition": "Procédé des Lumières qui fait observer la société française par un étranger naïf (Persan, Huron, Péruvienne). Ce décentrement rend étranges des usages jugés naturels et permet une critique détournée.",
+  "exemple": "« Aza ! mon cher Aza ! les cris de ta tendre Zilia » : Zilia, princesse inca, écrit à son fiancé : c'est par ses yeux d'étrangère que le lecteur découvre la société française.",
+  "source": "Graffigny, Lettres d'une Péruvienne (1747), Lettre I — texte intégral du site."
+ },
+ {
+  "id": "roman",
+  "terme": "Roman",
+  "categorie": "genres",
+  "definition": "Récit de fiction en prose, d'une certaine longueur, qui met en scène des personnages dans un cadre plus ou moins réaliste. Genre très libre, il se décline en sous-genres : roman de chevalerie, épistolaire, d'apprentissage, réaliste, naturaliste…",
+  "exemple": "« Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise » : l'ouverture du Père Goriot ancre la fiction dans un lieu et un temps précis, comme le veut le roman réaliste.",
+  "source": "Balzac, Le Père Goriot (1835), première phrase — texte intégral du site."
+ },
+ {
+  "id": "roman-chevalerie",
+  "terme": "Roman de chevalerie",
+  "categorie": "genres",
+  "definition": "Récit médiéval en vers puis en prose, qui raconte les aventures et les quêtes de chevaliers, souvent liées au roi Arthur, mêlant prouesses guerrières, amour courtois et merveilleux.",
+  "exemple": "« Del chevalier de la charrete / Comance Crestiens son livre ; » : en ancien français : « Du chevalier de la charrette, Chrétien commence son livre » ; l'auteur se nomme dans son prologue en octosyllabes.",
+  "source": "Chrétien de Troyes, Le Chevalier de la charrette (vers 1177-1181), prologue — texte intégral du site (ancien français)."
+ },
+ {
+  "id": "nouvelle",
+  "terme": "Nouvelle",
+  "categorie": "genres",
+  "definition": "Récit bref, souvent centré sur un seul événement et un nombre réduit de personnages, construit vers une fin marquante (la chute). Elle peut être réaliste ou fantastique.",
+  "exemple": "« Quelle journée admirable! » : Le Horla commence par une entrée de journal heureuse ; la nouvelle va conduire, en peu de pages, du bonheur à la folie.",
+  "source": "Maupassant, Le Horla (1887), journal du 8 mai — texte intégral du site."
+ },
+ {
+  "id": "conte-philosophique",
+  "terme": "Conte philosophique",
+  "categorie": "genres",
+  "definition": "Récit bref des Lumières qui emprunte au conte ses invraisemblances et son merveilleux pour défendre des idées. Le héros, souvent naïf, voyage et découvre le monde.",
+  "exemple": "« Il y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les moeurs les plus douces. » : la formule « Il y avait » imite l'ouverture du conte traditionnel, au service de la critique philosophique.",
+  "source": "Voltaire, Candide (1759), chapitre I, première phrase — texte intégral du site."
+ },
+ {
+  "id": "roman-epistolaire",
+  "terme": "Roman épistolaire",
+  "categorie": "genres",
+  "definition": "Roman composé de lettres échangées entre personnages ou écrites par un seul. Il donne accès à l'intimité des épistoliers et multiplie parfois les points de vue.",
+  "exemple": "« Aza ! mon cher Aza ! les cris de ta tendre Zilia, tels qu'une vapeur du matin, s'exhalent & sont dissipés avant d'arriver jusqu'à toi » : la lettre commence par l'apostrophe au destinataire absent et exprime l'impuissance de la séparation.",
+  "source": "Graffigny, Lettres d'une Péruvienne (1747), Lettre I — texte intégral du site."
+ },
+ {
+  "id": "journal",
+  "terme": "Journal (forme du)",
+  "categorie": "genres",
+  "definition": "Récit à la première personne, découpé en entrées datées, qui donne l'impression d'une écriture au jour le jour. Le lecteur suit l'évolution du narrateur sans connaître la fin.",
+  "exemple": "« 8 mai.—Quelle journée admirable! » : la date et l'exclamation installent la forme du journal intime ; la suite des dates enregistre la montée de l'angoisse.",
+  "source": "Maupassant, Le Horla (1887), première entrée — texte intégral du site."
+ },
+ {
+  "id": "dialogue-argumentatif",
+  "terme": "Dialogue argumentatif",
+  "categorie": "genres",
+  "definition": "Texte qui confronte des points de vue sous la forme d'un échange entre interlocuteurs. Hérité de Platon, il rend la réflexion vivante et permet de guider le lecteur.",
+  "exemple": "« Toute la philosophie, lui dis-je, n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais » : le philosophe s'adresse à la marquise : le dialogue rend la science aimable et accessible.",
+  "source": "Fontenelle, Entretiens sur la pluralité des mondes (1686), Premier soir — texte intégral du site."
+ },
+ {
+  "id": "essai",
+  "terme": "Essai et discours",
+  "categorie": "genres",
+  "definition": "L'essai est un texte en prose dans lequel un auteur expose librement sa réflexion personnelle sur un sujet. Le discours s'adresse directement à un destinataire pour le convaincre ou le persuader.",
+  "exemple": "« Soyez résolus de ne servir plus, et vous voilà libres. » : le Discours de La Boétie interpelle les lecteurs à l'impératif.",
+  "source": "La Boétie, Discours de la servitude volontaire (rédigé vers 1548) — texte intégral du site."
+ },
+ {
+  "id": "article-presse",
+  "terme": "Article de presse engagé (lettre ouverte)",
+  "categorie": "genres",
+  "definition": "Texte publié dans un journal pour prendre position dans un débat public. La lettre ouverte s'adresse en apparence à un destinataire précis, mais vise en réalité l'ensemble des lecteurs.",
+  "exemple": "« Mais cette lettre est longue, monsieur le Président, et il est temps de conclure. » : Zola s'adresse au président de la République, mais l'article publié dans L'Aurore prend à témoin toute l'opinion.",
+  "source": "Zola, « J'accuse…! » (1898) — texte intégral du site."
+ },
+ {
+  "id": "registre-comique",
+  "terme": "Registre comique",
+  "categorie": "registres",
+  "definition": "Registre qui vise à faire rire. On distingue le comique de geste, de mots, de caractère, de situation, de répétition.",
+  "exemple": "« Je ne dis pas cela. » : Alceste répète plusieurs fois cette formule alors qu'il critique clairement le sonnet d'Oronte : comique de répétition et de caractère.",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "registre-tragique",
+  "terme": "Registre tragique",
+  "categorie": "registres",
+  "definition": "Registre qui montre un personnage écrasé par une fatalité (destin, dieux, passion) à laquelle il ne peut échapper, et qui suscite terreur et pitié.",
+  "exemple": "« Ce n'est plus une ardeur dans mes veines cachée : / C'est Vénus tout entière à sa proie attachée. » : Phèdre se présente comme la victime d'une divinité qui s'acharne sur elle : la passion devient une fatalité.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "registre-pathetique",
+  "terme": "Registre pathétique",
+  "categorie": "registres",
+  "definition": "Registre qui cherche à émouvoir le lecteur en lui faisant partager les souffrances d'un personnage (vocabulaire de la douleur, exclamations, interjections).",
+  "exemple": "« Je suis bien malheureuse, je suis perdue, mon pauvre père ! » : les plaintes d'Anastasie et l'apostrophe affective au père suscitent la pitié.",
+  "source": "Balzac, Le Père Goriot (1835) — texte intégral du site."
+ },
+ {
+  "id": "registre-lyrique",
+  "terme": "Registre lyrique",
+  "categorie": "registres",
+  "definition": "Registre de l'expression des sentiments personnels (amour, mélancolie, nostalgie), souvent à la première personne, avec une forte musicalité.",
+  "exemple": "« France, mère des arts, des armes et des loix, / Tu m'as nourri long temps du laict de ta mammelle, » : le poète exilé à Rome exprime sa nostalgie en s'adressant à la France comme à une mère.",
+  "source": "Du Bellay, Les Regrets (1558), sonnet IX (orthographe de l'édition du site) — texte intégral du site."
+ },
+ {
+  "id": "registre-elegiaque",
+  "terme": "Registre élégiaque",
+  "categorie": "registres",
+  "definition": "Forme du lyrisme consacrée à la plainte : deuil, amour perdu, fuite du temps, exil.",
+  "exemple": "« Las, où est maintenant ce mespris de Fortune ? » : l'interjection « Las » (hélas) et la question ouvrent la plainte du poète sur sa force perdue.",
+  "source": "Du Bellay, Les Regrets (1558), sonnet VI (orthographe de l'édition du site) — texte intégral du site."
+ },
+ {
+  "id": "registre-epique",
+  "terme": "Registre épique",
+  "categorie": "registres",
+  "definition": "Registre qui célèbre des exploits héroïques et des combats, avec amplification : hyperboles, énumérations, grands nombres, merveilleux. Il peut être parodié.",
+  "exemple": "« Les trompettes, les fifres, les hautbois, les tambours, les canons; formaient une harmonie telle qu'il n'y en eut jamais en enfer. » : Voltaire emprunte les procédés épiques (énumération, grandeur) pour mieux dénoncer la guerre : c'est une parodie d'épopée.",
+  "source": "Voltaire, Candide (1759), chapitre III — texte intégral du site."
+ },
+ {
+  "id": "registre-satirique",
+  "terme": "Registre satirique",
+  "categorie": "registres",
+  "definition": "Registre qui se moque d'une personne, d'un groupe ou d'une institution pour en dénoncer les vices, par l'ironie, la caricature ou l'exagération.",
+  "exemple": "« Marcher d'un grave pas et d'un grave souci, / Et d'un grave souris à chacun faire feste, » : la répétition de « grave » caricature l'attitude affectée des courtisans romains.",
+  "source": "Du Bellay, Les Regrets (1558), sonnet LXXXVI (orthographe de l'édition du site) — texte intégral du site."
+ },
+ {
+  "id": "registre-polemique",
+  "terme": "Registre polémique",
+  "categorie": "registres",
+  "definition": "Registre du combat d'idées : il attaque violemment un adversaire ou une thèse (accusations, termes péjoratifs, interpellations).",
+  "exemple": "« J'accuse le général Mercier de s'être rendu complice, tout au moins par faiblesse d'esprit, d'une des plus grandes iniquités du siècle. » : Zola nomme et accuse publiquement un ministre de la Guerre, au risque d'un procès.",
+  "source": "Zola, « J'accuse…! » (1898), conclusion — texte intégral du site."
+ },
+ {
+  "id": "registre-fantastique",
+  "terme": "Registre fantastique",
+  "categorie": "registres",
+  "definition": "Registre qui fait surgir un événement apparemment surnaturel dans un cadre réaliste et laisse le lecteur hésiter entre une explication rationnelle (folie, rêve) et une explication surnaturelle.",
+  "exemple": "« Je suis perdu! Quelqu'un possède mon âme et la gouverne! » : le narrateur se croit possédé par un être invisible, mais rien ne permet de trancher entre la folie et le surnaturel.",
+  "source": "Maupassant, Le Horla (1887), journal du 14 août — texte intégral du site."
+ },
+ {
+  "id": "registre-didactique",
+  "terme": "Registre didactique",
+  "categorie": "registres",
+  "definition": "Registre qui vise à enseigner, à transmettre un savoir : définitions, explications, exemples, présent de vérité générale.",
+  "exemple": "« Toute la philosophie, lui dis-je, n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais » : la phrase pose une définition générale au présent, que le philosophe va ensuite expliquer à la marquise.",
+  "source": "Fontenelle, Entretiens sur la pluralité des mondes (1686), Premier soir — texte intégral du site."
+ },
+ {
+  "id": "classes-fonctions",
+  "terme": "Classe grammaticale et fonction",
+  "categorie": "grammaire",
+  "definition": "La classe (ou nature) d'un mot est ce qu'il est en lui-même (nom, verbe, adjectif, déterminant, pronom, adverbe, préposition, conjonction, interjection). La fonction est le rôle qu'il joue dans la phrase (sujet, complément d'objet, attribut, complément circonstanciel…).",
+  "exemple": "« La raison du plus fort est toujours la meilleure; » : « raison » est un nom (classe), sujet du verbe « est » (fonction) ; « la meilleure » est attribut du sujet.",
+  "source": "La Fontaine, Fables (1668), livre I, fable 10 — texte intégral du site."
+ },
+ {
+  "id": "phrase-simple-complexe",
+  "terme": "Phrase simple et phrase complexe",
+  "categorie": "grammaire",
+  "definition": "La phrase simple contient un seul verbe conjugué (une seule proposition). La phrase complexe en contient plusieurs, reliées par juxtaposition, coordination ou subordination.",
+  "exemple": "« Le cocher s'était penché. » : phrase simple : un seul verbe conjugué, « s'était penché ».",
+  "source": "Zola, Pot-Bouille (1882), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "juxtaposition-coordination",
+  "terme": "Juxtaposition et coordination",
+  "categorie": "grammaire",
+  "definition": "Deux propositions sont juxtaposées quand elles sont séparées par une simple ponctuation (virgule, point-virgule, deux-points) ; coordonnées quand elles sont reliées par une conjonction de coordination (mais, ou, et, donc, or, ni, car).",
+  "exemple": "« Candide écoutait attentivement, et croyait innocemment; car il trouvait mademoiselle Cunégonde extrêmement belle » : les propositions sont coordonnées par « et » puis par « car », qui introduit une cause.",
+  "source": "Voltaire, Candide (1759), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "subordination",
+  "terme": "Proposition principale et proposition subordonnée",
+  "categorie": "grammaire",
+  "definition": "La subordonnée dépend d'une autre proposition (la principale) et ne peut pas fonctionner seule. Elle est introduite par un mot subordonnant (pronom relatif, conjonction de subordination, mot interrogatif) ou construite autour d'un infinitif ou d'un participe. On distingue les relatives, les complétives et les circonstancielles.",
+  "exemple": "« Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. » : « Georges Duroy sortit du restaurant » est la principale ; « Quand la caissière… cent sous » est une subordonnée circonstancielle de temps.",
+  "source": "Maupassant, Bel-Ami (1885), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "relative",
+  "terme": "Proposition subordonnée relative",
+  "categorie": "grammaire",
+  "definition": "Subordonnée introduite par un pronom relatif (qui, que, quoi, dont, où, lequel…) qui reprend un antécédent (nom ou pronom). Elle est complément de l'antécédent. La relative déterminative est indispensable au sens ; la relative explicative, souvent entre virgules, peut être supprimée.",
+  "exemple": "« Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise » : « qui… tient à Paris une pension bourgeoise » est une relative introduite par « qui », pronom relatif sujet, dont l'antécédent est « femme ».",
+  "source": "Balzac, Le Père Goriot (1835), première phrase — texte intégral du site."
+ },
+ {
+  "id": "completive",
+  "terme": "Proposition subordonnée complétive",
+  "categorie": "grammaire",
+  "definition": "Subordonnée introduite par la conjonction « que », le plus souvent complément d'objet d'un verbe de parole, de pensée, de volonté ou de sentiment. Le mode dépend du verbe principal (indicatif après « savoir », subjonctif après « vouloir »).",
+  "exemple": "« Je sais aussi, dit Candide, qu'il faut cultiver notre jardin. » : « qu'il faut cultiver notre jardin » est une complétive, COD du verbe « sais », à l'indicatif.",
+  "source": "Voltaire, Candide (1759), chapitre XXX — texte intégral du site."
+ },
+ {
+  "id": "interrogative-indirecte",
+  "terme": "Interrogation directe et indirecte",
+  "categorie": "grammaire",
+  "definition": "L'interrogation directe forme une phrase autonome terminée par un point d'interrogation. L'interrogation indirecte est une subordonnée (interrogative indirecte), complément d'un verbe comme demander, savoir, dire, sans point d'interrogation ni inversion du sujet.",
+  "exemple": "« Qu'est-ce donc? qu'avez-vous? […] Mais encor, dites-moi quelle bizarrerie... » : « qu'avez-vous ? » est une interrogation directe ; « dites-moi quelle bizarrerie… » amorce une interrogation indirecte, complément de « dites ».",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 1 — texte intégral du site."
+ },
+ {
+  "id": "interrogation-totale-partielle",
+  "terme": "Interrogation totale et partielle",
+  "categorie": "grammaire",
+  "definition": "L'interrogation totale porte sur l'ensemble de la phrase et appelle une réponse par oui ou non. L'interrogation partielle porte sur un élément et commence par un mot interrogatif (qui, que, où, quand, comment, pourquoi, quel…).",
+  "exemple": "« Est-ce qu'à mon sonnet vous trouvez à redire? » : interrogation totale (réponse attendue : oui ou non), marquée par « est-ce que ». À l'inverse, « Qu'avez-vous ? » (acte I, scène 1) est partielle.",
+  "source": "Molière, Le Misanthrope (1666), acte I, scène 2 — texte intégral du site."
+ },
+ {
+  "id": "negation",
+  "terme": "Négation totale, partielle, restrictive",
+  "categorie": "grammaire",
+  "definition": "La négation totale porte sur toute la phrase (ne… pas, ne… point). La négation partielle porte sur un élément (ne… jamais, ne… plus, ne… rien, ne… personne). La tournure restrictive « ne… que » n'est pas une vraie négation : elle signifie « seulement ».",
+  "exemple": "« Je ne peux plus vouloir; mais quelqu'un veut pour moi; et j'obéis. […] Je ne suis plus rien en moi, rien qu'un spectateur » : « ne… plus » et « ne… plus rien » sont des négations partielles (temps, chose) ; « rien qu'un spectateur » a une valeur restrictive (seulement un spectateur).",
+  "source": "Maupassant, Le Horla (1887), journal des 13 et 14 août — texte intégral du site."
+ },
+ {
+  "id": "cause",
+  "terme": "Expression de la cause",
+  "categorie": "grammaire",
+  "definition": "La cause peut s'exprimer par une subordonnée (parce que, puisque, comme, étant donné que), par coordination (car, en effet), par un groupe prépositionnel (à cause de, grâce à, par), par un participe ou par la juxtaposition.",
+  "exemple": "« Candide écoutait attentivement, et croyait innocemment; car il trouvait mademoiselle Cunégonde extrêmement belle » : « car » coordonne une proposition qui explique pourquoi Candide croit tout : la cause est sentimentale, non rationnelle (ironie).",
+  "source": "Voltaire, Candide (1759), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "consequence",
+  "terme": "Expression de la conséquence",
+  "categorie": "grammaire",
+  "definition": "La conséquence s'exprime par une subordonnée (si bien que, de sorte que, si… que, tellement… que), par coordination ou adverbe (donc, ainsi, c'est pourquoi), ou par juxtaposition.",
+  "exemple": "« par une pente si brusque et si rude que les chevaux la montent ou la descendent rarement. » : la structure « si… que » introduit une subordonnée de conséquence liée à l'intensité (pente « si brusque et si rude »).",
+  "source": "Balzac, Le Père Goriot (1835), début — texte intégral du site."
+ },
+ {
+  "id": "but",
+  "terme": "Expression du but",
+  "categorie": "grammaire",
+  "definition": "Le but s'exprime par une subordonnée au subjonctif (afin que, pour que, de peur que), ou par un groupe infinitif (pour, afin de, de peur de).",
+  "exemple": "« Afin qu'il fût plus frais et de meilleur débit, / On lui lia les pieds, on vous le suspendit; » : « Afin qu'il fût plus frais… » est une subordonnée circonstancielle de but, au subjonctif imparfait (« fût »).",
+  "source": "La Fontaine, Fables (1668), livre III, fable 1, « Le Meunier, son Fils et l'Âne » — texte intégral du site."
+ },
+ {
+  "id": "concession",
+  "terme": "Expression de la concession et de l'opposition",
+  "categorie": "grammaire",
+  "definition": "La concession indique qu'un fait n'a pas eu la conséquence attendue : bien que, quoique (+ subjonctif), même si (+ indicatif), pourtant, cependant, malgré. L'opposition met simplement deux faits en contraste : alors que, tandis que, mais.",
+  "exemple": "« car il trouvait mademoiselle Cunégonde extrêmement belle, quoiqu'il ne prît jamais la hardiesse de le lui dire. » : « quoiqu'il ne prît jamais… » est une subordonnée de concession au subjonctif imparfait.",
+  "source": "Voltaire, Candide (1759), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "condition-hypothese",
+  "terme": "Expression de la condition et de l'hypothèse",
+  "categorie": "grammaire",
+  "definition": "La subordonnée hypothétique est surtout introduite par « si ». Le système des temps varie : si + présent → futur (potentiel), si + imparfait → conditionnel présent (irréel du présent), si + plus-que-parfait → conditionnel passé (irréel du passé).",
+  "exemple": "« car si Colomb n'avait pas attrapé dans une île de l'Amérique cette maladie » : « si » + plus-que-parfait (« n'avait pas attrapé ») exprime un irréel du passé, dans le raisonnement absurde de Pangloss.",
+  "source": "Voltaire, Candide (1759), chapitre IV — texte intégral du site."
+ },
+ {
+  "id": "temps-comparaison",
+  "terme": "Expression du temps et de la comparaison",
+  "categorie": "grammaire",
+  "definition": "Les subordonnées circonstancielles de temps (quand, lorsque, dès que, avant que, après que, pendant que) situent les actions les unes par rapport aux autres (antériorité, simultanéité, postériorité). Les subordonnées de comparaison sont introduites par comme, ainsi que, de même que, plus… que.",
+  "exemple": "« Souriant comme / Sourirait un enfant malade » : « comme sourirait un enfant malade » est une subordonnée de comparaison ; le conditionnel exprime une situation imaginée.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ },
+ {
+  "id": "modes",
+  "terme": "Les modes verbaux",
+  "categorie": "grammaire",
+  "definition": "Modes personnels : indicatif (fait présenté comme réel), subjonctif (fait envisagé, souhaité, douteux), impératif (ordre, conseil), et conditionnel, souvent rattaché à l'indicatif (hypothèse, irréel, futur dans le passé, atténuation). Modes impersonnels : infinitif, participe, gérondif.",
+  "exemple": "« Soyez résolus de ne servir plus, et vous voilà libres. » : « Soyez » est un impératif présent (injonction) ; « servir » est un infinitif.",
+  "source": "La Boétie, Discours de la servitude volontaire (rédigé vers 1548) — texte intégral du site."
+ },
+ {
+  "id": "subjonctif",
+  "terme": "Subjonctif",
+  "categorie": "grammaire",
+  "definition": "Mode du fait envisagé par la pensée (souhait, crainte, doute, volonté, but, concession). Il s'emploie surtout dans des subordonnées après certains verbes et conjonctions (vouloir que, bien que, pour que).",
+  "exemple": "« que tes jours soient sauvés, & que je succombe, s'il le faut, sous les maux qui m'accablent ! » : « soient sauvés » et « succombe » sont au subjonctif présent, employé dans une proposition indépendante pour exprimer un souhait.",
+  "source": "Graffigny, Lettres d'une Péruvienne (1747), Lettre I — texte intégral du site."
+ },
+ {
+  "id": "conditionnel",
+  "terme": "Conditionnel",
+  "categorie": "grammaire",
+  "definition": "Forme verbale en -rais qui exprime l'hypothèse, l'irréel, le souhait, l'atténuation (politesse), l'information non confirmée ou le futur dans le passé.",
+  "exemple": "« Il aurait voulu se jeter dans un gouffre. » : le conditionnel passé « aurait voulu » exprime un souhait irréel : Rastignac, humilié, voudrait disparaître.",
+  "source": "Balzac, Le Père Goriot (1835) — texte intégral du site."
+ },
+ {
+  "id": "gerondif-participe",
+  "terme": "Gérondif, participe, infinitif",
+  "categorie": "grammaire",
+  "definition": "Modes impersonnels. Le gérondif (en + participe présent) exprime une circonstance (temps, manière, cause, condition) et doit avoir le même sujet que le verbe principal. Le participe présent ou passé peut être épithète, apposé ou former une proposition participiale. L'infinitif est la forme nominale du verbe.",
+  "exemple": "« Je voulais en mourant prendre soin de ma gloire, » : « en mourant » est un gérondif, qui exprime ici la manière ou la simultanéité.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "valeurs-present",
+  "terme": "Valeurs du présent",
+  "categorie": "grammaire",
+  "definition": "Le présent peut exprimer l'actualité (présent d'énonciation), l'habitude, une vérité générale (maximes, morales), un passé ou un futur proches, ou rendre vivant un récit au passé (présent de narration).",
+  "exemple": "« Rien ne sert de courir; il faut partir à point: » : présent de vérité générale : la morale vaut en tout temps.",
+  "source": "La Fontaine, Fables (1668), livre VI, fable 10, « Le Lièvre et la Tortue » — texte intégral du site."
+ },
+ {
+  "id": "passe-simple-imparfait",
+  "terme": "Passé simple et imparfait",
+  "categorie": "grammaire",
+  "definition": "Dans un récit au passé, le passé simple présente des actions délimitées, qui font avancer l'histoire (premier plan) ; l'imparfait présente des actions en cours, des descriptions ou des habitudes (arrière-plan). Le passé antérieur et le plus-que-parfait marquent l'antériorité.",
+  "exemple": "« Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. […] Comme il portait beau » : « eut rendu » (passé antérieur) marque une action antérieure à « sortit » (passé simple, action de premier plan) ; « portait » (imparfait) décrit le personnage.",
+  "source": "Maupassant, Bel-Ami (1885), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "voix-passive",
+  "terme": "Voix active et voix passive",
+  "categorie": "grammaire",
+  "definition": "À la voix passive, le sujet subit l'action ; le verbe est formé de l'auxiliaire « être » conjugué et du participe passé. L'agent, introduit par « par » ou « de », peut être exprimé ou omis. La passive sans agent permet de taire l'auteur de l'action.",
+  "exemple": "« Ariane, ma sœur ! de quel amour blessée / Vous mourûtes aux bords où vous fûtes laissée ! » : « vous fûtes laissée » est un passif au passé simple sans complément d'agent (Thésée, qui a abandonné Ariane, n'est pas nommé) ; « de quel amour blessée » est un participe passif avec complément d'agent introduit par « de ».",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "types-phrase",
+  "terme": "Types de phrases",
+  "categorie": "grammaire",
+  "definition": "Toute phrase relève d'un type : déclaratif (affirmation), interrogatif (question), injonctif ou impératif (ordre), exclamatif (émotion). Elle peut en outre prendre des formes : affirmative ou négative, active ou passive, neutre ou emphatique.",
+  "exemple": "« 8 mai.—Quelle journée admirable! J'ai passé toute la matinée étendu sur l'herbe » : « Quelle journée admirable ! » est une phrase exclamative (et nominale) ; la suivante est déclarative.",
+  "source": "Maupassant, Le Horla (1887), journal du 8 mai — texte intégral du site."
+ },
+ {
+  "id": "phrase-nominale",
+  "terme": "Phrase nominale",
+  "categorie": "grammaire",
+  "definition": "Phrase construite sans verbe conjugué, autour d'un nom ou d'un autre mot. Elle donne de la concision, de la vivacité ou une forte charge émotive.",
+  "exemple": "« En livrée! un laquais! être un laquais pour elle! » : « En livrée ! un laquais ! » : phrases nominales exclamatives qui traduisent l'humiliation de Ruy Blas.",
+  "source": "Hugo, Ruy Blas (1838), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "mise-en-relief",
+  "terme": "Mise en relief (phrase emphatique)",
+  "categorie": "grammaire",
+  "definition": "Procédés qui mettent un élément en valeur : l'extraction (« c'est… qui / c'est… que »), le détachement en tête ou en fin de phrase avec reprise par un pronom (dislocation), le présentatif.",
+  "exemple": "« C'est toi qui l'as nommé ! » : l'extraction « c'est… qui » met en relief « toi » : Phèdre rejette sur Œnone la responsabilité de nommer Hippolyte.",
+  "source": "Racine, Phèdre (1677), acte I, scène 3 — texte intégral du site."
+ },
+ {
+  "id": "apposition",
+  "terme": "Apposition",
+  "categorie": "grammaire",
+  "definition": "Fonction d'un mot ou d'un groupe (nom, adjectif, participe) détaché par une ponctuation, qui apporte une précision sur un autre élément de la phrase, généralement un nom.",
+  "exemple": "« Madame Vauquer, née de Conflans, est une vieille femme » : « née de Conflans », entre virgules, est un groupe participial apposé à « Madame Vauquer ».",
+  "source": "Balzac, Le Père Goriot (1835), première phrase — texte intégral du site."
+ },
+ {
+  "id": "complements-verbe",
+  "terme": "Compléments du verbe et compléments circonstanciels",
+  "categorie": "grammaire",
+  "definition": "Le complément d'objet (direct ou indirect) est essentiel au verbe et ne peut généralement être ni supprimé ni déplacé. Le complément circonstanciel (temps, lieu, manière, cause…) est le plus souvent mobile et supprimable. L'attribut du sujet est relié au sujet par un verbe d'état.",
+  "exemple": "« J'ai passé toute la matinée étendu sur l'herbe, devant ma maison » : « toute la matinée » est COD de « ai passé » ; « sur l'herbe » complète « étendu » ; « devant ma maison » est complément circonstanciel de lieu.",
+  "source": "Maupassant, Le Horla (1887), journal du 8 mai — texte intégral du site."
+ },
+ {
+  "id": "expansions-nom",
+  "terme": "Expansions du nom",
+  "categorie": "grammaire",
+  "definition": "Éléments qui enrichissent le nom dans le groupe nominal : adjectif épithète, complément du nom (souvent introduit par une préposition), proposition subordonnée relative, apposition.",
+  "exemple": "« une sorte de corridor étroit et sombre qui va de la rue Mazarine à la rue de Seine. » : le nom « corridor » est enrichi par deux adjectifs épithètes (« étroit et sombre ») et une relative (« qui va de la rue Mazarine… ») ; « sorte » a pour complément du nom « de corridor ».",
+  "source": "Zola, Thérèse Raquin (1867), chapitre I — texte intégral du site."
+ },
+ {
+  "id": "enonciation",
+  "terme": "Situation d'énonciation et déictiques",
+  "categorie": "grammaire",
+  "definition": "L'énonciation est l'acte de produire un énoncé : qui parle, à qui, où, quand. Les déictiques (je, tu, ici, maintenant, hier, demain…) ne se comprennent que par rapport à cette situation. Un énoncé ancré dans la situation relève du discours ; un énoncé coupé de la situation (3e personne, passé simple) relève du récit.",
+  "exemple": "« — À nous deux maintenant ! » : « nous » et « maintenant » renvoient à la situation de parole de Rastignac : ce sont des déictiques.",
+  "source": "Balzac, Le Père Goriot (1835), dernières lignes — texte intégral du site."
+ },
+ {
+  "id": "modalisation",
+  "terme": "Modalisation",
+  "categorie": "grammaire",
+  "definition": "Ensemble des marques par lesquelles l'énonciateur indique son degré de certitude ou son jugement sur ce qu'il dit : adverbes (peut-être, sans doute), verbes (sembler, croire), conditionnel, vocabulaire mélioratif ou péjoratif, incises.",
+  "exemple": "« J'accuse le lieutenant-colonel du Paty de Clam d'avoir été l'ouvrier diabolique de l'erreur judiciaire, en inconscient, je veux le croire » : l'incise « je veux le croire » nuance l'accusation, tandis que l'adjectif « diabolique » la durcit : deux modalisations opposées.",
+  "source": "Zola, « J'accuse…! » (1898), conclusion — texte intégral du site."
+ },
+ {
+  "id": "reprises-anaphoriques",
+  "terme": "Reprises anaphoriques (substituts)",
+  "categorie": "grammaire",
+  "definition": "Mots qui reprennent un élément déjà mentionné pour éviter la répétition et assurer la cohérence du texte : pronoms (il, le, celui-ci), reprises nominales (synonymes, périphrases, termes génériques).",
+  "exemple": "« La gent trotte-menu s'en vient chercher sa perte. » : « La gent trotte-menu » reprend, par une périphrase, les souris et les rats que la fable désigne jusque-là par des pronoms (« Toutes », « les ») ; « sa » renvoie à cette même gent.",
+  "source": "La Fontaine, Fables (1668), livre III, fable 18 — texte intégral du site."
+ },
+ {
+  "id": "lexique",
+  "terme": "Lexique : champ lexical, connotation, niveaux de langue",
+  "categorie": "grammaire",
+  "definition": "Un champ lexical est l'ensemble des mots qui se rapportent à un même thème. La dénotation est le sens premier d'un mot ; la connotation, les valeurs qui s'y ajoutent (affectives, culturelles). Les niveaux de langue sont familier, courant, soutenu.",
+  "exemple": "« C'est un trou de verdure où chante une rivière » : « trou » dénote une cavité ; dans le poème, le mot prend une connotation inquiétante, reprise dans les « deux trous rouges » du dernier vers.",
+  "source": "Rimbaud, « Le Dormeur du val », Cahier de Douai (1870) — texte intégral du site."
+ }
+]

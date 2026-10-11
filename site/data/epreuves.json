@@ -1,0 +1,129 @@
+{
+ "session": "eaf-2027",
+ "libelle": "Épreuves anticipées de français — juin 2027 (au titre de la session 2028 du baccalauréat)",
+ "verifie": "2026-10-11",
+ "sources": [
+  {
+   "titre": "Bulletin officiel spécial n° 4 du 17 septembre 2026 — Note de service du 11 septembre 2026 (NOR : MENE2622658N), « Épreuves terminales anticipées de français de la classe de première des voies générale et technologique »",
+   "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2622658N"
+  },
+  {
+   "titre": "Bulletin officiel spécial n° 4 du 17 septembre 2026 — Note de service du 11 septembre 2026 (NOR : MENE2623195N), « Exigences en matière de maîtrise de la langue à tous les examens à compter de la session 2027 »",
+   "url": "https://www.education.gouv.fr/bo/2026/Special4/MENE2623195N"
+  },
+  {
+   "titre": "Bulletin officiel spécial n° 2 du 25 août 2026 — Calendrier 2027 des épreuves du diplôme national du brevet, du baccalauréat… (NOR : MENE2622686N)",
+   "url": "https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N"
+  },
+  {
+   "titre": "Éduscol — Programmes et ressources en français - voie GT (rubrique « Organisation des épreuves anticipées de français »)",
+   "url": "https://eduscol.education.gouv.fr/5793/programmes-et-ressources-en-francais-voie-gt"
+  }
+ ],
+ "texteApplicable": "La note de service du 11 septembre 2026 entre en vigueur à compter de l'année scolaire 2026-2027 pour les épreuves présentées au titre de la session 2028, c'est-à-dire pour les élèves de 1re qui passent les épreuves en juin 2027. Elle abroge et remplace la note de service du 23 juillet 2020 modifiée (NOR : MENE2019312N).",
+ "calendrier": {
+  "ecrit": "Mardi 15 juin 2027, au matin.",
+  "oral": "Dates fixées par chaque académie, à partir du lundi 21 juin 2027 (pour les candidats non concernés par l'épreuve anticipée de mathématiques) et au plus tard jusqu'au vendredi 9 juillet 2027.",
+  "remplacement": "Épreuve écrite de remplacement : jeudi 9 septembre 2027."
+ },
+ "ecrit": {
+  "duree": "4 h",
+  "coefficient": 5,
+  "coefficients": {
+   "generale": 5,
+   "technologique": 5
+  },
+  "voies": {
+   "generale": "Au choix : un commentaire ou une dissertation, chacun noté sur 20.",
+   "technologique": "Au choix : un commentaire, ou une contraction de texte suivie d'un essai, chacun noté sur 20."
+  },
+  "sujets": {
+   "generale": [
+    {
+     "exercice": "Commentaire",
+     "bareme": "Sur 20",
+     "contenu": "Commentaire d'un texte littéraire en lien avec un des objets d'étude du programme de 1re. Le texte proposé n'est pas extrait d'une des œuvres au programme. Le candidat présente de manière organisée ce qu'il a retenu de sa lecture et justifie son interprétation par des analyses précises."
+    },
+    {
+     "exercice": "Dissertation",
+     "bareme": "Sur 20",
+     "contenu": "Réflexion personnelle organisée sur une question littéraire portant sur l'une des œuvres du programme et son parcours associé. Le candidat choisit l'un des trois sujets proposés, chacun lié à l'une des œuvres et à son parcours. Il s'appuie sur l'œuvre, les textes étudiés dans l'objet d'étude, ses lectures et sa culture personnelles."
+    }
+   ],
+   "technologique": [
+    {
+     "exercice": "Commentaire",
+     "bareme": "Sur 20",
+     "contenu": "Commentaire d'un texte littéraire en lien avec un des objets d'étude de 1re, à l'exclusion de la littérature d'idées du XVIe au XVIIIe siècle. Le sujet est formulé de manière à guider le candidat. Le texte proposé n'est pas extrait d'une des œuvres au programme."
+    },
+    {
+     "exercice": "Contraction de texte suivie d'un essai",
+     "bareme": "Sur 20 : contraction sur 10, essai sur 10",
+     "contenu": "Contraction au quart (marge de plus ou moins 10 %) d'un texte d'environ 750 mots relevant d'une forme moderne et contemporaine de la littérature d'idées ; le candidat indique le nombre de mots utilisés. L'essai porte sur le thème ou la question que ce texte partage avec l'œuvre et le parcours étudiés dans l'objet d'étude « La littérature d'idées du XVIe au XVIIIe siècle »."
+    }
+   ]
+  },
+  "maitriseLangue": "La clarté et la correction de l'expression sont prises en compte dans l'évaluation globale de la copie (orthographe et syntaxe, vocabulaire, clarté, organisation de la réflexion). Des échelles descriptives (annexes I A et I B de la note de service) précisent la répartition des points. Une copie défaillante sur l'ensemble des aspects relatifs à la maîtrise de la langue ne peut avoir la moyenne. La note de service générale du 11 septembre 2026 rappelle qu'au moins deux points sont accordés à la maîtrise de la langue dans chaque épreuve."
+ },
+ "oral": {
+  "duree": "20 min",
+  "preparation": "30 min",
+  "coefficient": 5,
+  "coefficients": {
+   "generale": 5,
+   "technologique": 5
+  },
+  "recapitulatif": "L'épreuve se fonde sur le récapitulatif des œuvres et des textes étudiés en 1re, établi et signé par le professeur et revêtu du cachet de l'établissement. Il comporte la liste des textes, une copie des textes et l'indication de l'œuvre choisie par le candidat pour la seconde partie. Minimum par objet d'étude, sauf anomalie justifiée : voie générale, au moins quatre textes (2 extraits au minimum pour chaque œuvre, 1 extrait au minimum pour le parcours associé) ; voie technologique, au moins trois textes (2 extraits au minimum pour chaque œuvre, 1 extrait au minimum pour le parcours associé).",
+  "documents": "Le candidat présente une copie du récapitulatif au début de l'épreuve et dispose d'une copie des textes et de l'œuvre choisie. Pour la première partie, les documents doivent être vierges de toute annotation ; pour l'œuvre choisie, des passages surlignés ou des annotations limitées et non rédigées sont tolérés.",
+  "parties": [
+   {
+    "titre": "Première partie : exposé sur un des textes du récapitulatif",
+    "duree": "12 min",
+    "points": 12,
+    "contenu": "L'examinateur indique par écrit le texte (et, si besoin, le passage d'une vingtaine de lignes à expliquer) ainsi que la question de grammaire, sur une fiche que le candidat signe avant de préparer.",
+    "etapes": [
+     {
+      "titre": "Lecture à voix haute",
+      "points": 2,
+      "contenu": "Lecture juste, pertinente et expressive du texte, après l'avoir brièvement situé dans l'œuvre ou le parcours associé."
+     },
+     {
+      "titre": "Explication linéaire",
+      "points": 8,
+      "contenu": "Explication linéaire d'un passage d'une vingtaine de lignes choisi par l'examinateur."
+     },
+     {
+      "titre": "Question de grammaire",
+      "points": 2,
+      "contenu": "Analyse syntaxique d'une courte phrase ou d'une partie de phrase du passage expliqué."
+     }
+    ]
+   },
+   {
+    "titre": "Seconde partie : présentation de l'œuvre choisie et entretien",
+    "duree": "8 min",
+    "points": 8,
+    "contenu": "Le candidat présente brièvement l'œuvre qu'il a retenue (parmi les œuvres étudiées en classe ou proposées en lecture cursive obligatoire) et expose les raisons de son choix, puis réagit aux relances de l'examinateur, qui évalue sa capacité à dialoguer, à nuancer, à étoffer sa réflexion et à défendre son point de vue. L'entretien constitue l'essentiel de cette partie ; l'examinateur ne revient pas sur la première partie."
+   }
+  ],
+  "notation": "Seule la note globale sur 20 est reportée. Les attendus sont détaillés dans l'outil d'aide à l'évaluation (annexe II) et la fiche d'évaluation (annexe III).",
+  "accueil": "Environ 10 minutes d'accueil et de remplissage de la fiche d'évaluation, sans empiéter sur la préparation ni sur l'épreuve."
+ },
+ "oralDeControle": {
+  "duree": "20 min",
+  "preparation": "30 min",
+  "coefficient": 5,
+  "contenu": "Les candidats de terminale qui choisissent l'oral de contrôle de français au second groupe présentent le récapitulatif de leur classe de 1re et sont interrogés selon les mêmes modalités que l'oral obligatoire."
+ },
+ "evolutions": [
+  "Par rapport au texte initial de la note du 23 juillet 2020, le minimum de textes par objet d'étude en voie générale passe de cinq (3 extraits par œuvre, 2 pour le parcours) à quatre (2 extraits par œuvre, 1 pour le parcours) ; la voie technologique reste à trois.",
+  "La note de 2026 précise que le récapitulatif contient une copie des textes et que les documents de la première partie doivent être vierges de toute annotation, alors que l'œuvre choisie peut porter des passages surlignés ou des annotations limitées et non rédigées.",
+  "Durées, coefficients, nature des exercices écrits et barème de l'oral (2 + 8 + 2, puis 8) sont identiques à ceux du texte de 2020."
+ ],
+ "aVerifier": [
+  "La note de service exige « au moins quatre textes » par objet d'étude en voie générale, tout en détaillant 2 extraits au minimum par œuvre et 1 au minimum pour le parcours (soit 3) : le nombre exact de textes du récapitulatif relève du professeur.",
+  "Les comparaisons avec 2020 portent sur le texte initial de la note du 23 juillet 2020 ; ses modifications intermédiaires n'ont pas été consultées.",
+  "Le détail des échelles descriptives de l'écrit (annexes I A et I B, notamment la part des points consacrée à la maîtrise de la langue) n'a pas été reproduit : à consulter dans les annexes PDF de la note de service.",
+  "Les dates précises de l'oral sont fixées par chaque académie : à confirmer par la convocation."
+ ]
+}

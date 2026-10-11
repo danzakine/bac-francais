@@ -1,0 +1,972 @@
+{
+ "id": "j-accuse",
+ "accroche": "13 janvier 1898 : un romancier célèbre accuse en une de journal les chefs de l’armée. Un article peut-il changer l’histoire ? Celui-ci l’a fait.",
+ "identite": {
+  "auteur": "Émile Zola (1840-1902) est le chef de file du naturalisme. Auteur des Rougon-Macquart, cycle de vingt romans qui peint la société du Second Empire (L’Assommoir, Germinal), il est en 1898 un écrivain célèbre et respecté. Il a aussi été journaliste et critique d’art. Convaincu de l’innocence de Dreyfus à la fin de 1897, il publie plusieurs articles avant « J’accuse…! ». Poursuivi en diffamation, il est condamné en février 1898 à un an de prison et 3 000 francs d’amende ; il s’exile en Angleterre de juillet 1898 à juin 1899. Il meurt en 1902, asphyxié dans son appartement ; ses cendres sont transférées au Panthéon en 1908.",
+  "contexte": "La IIIe République est encore jeune et fragile. Après la défaite de 1870 contre la Prusse et la perte de l’Alsace-Lorraine, l’armée est sacrée et l’espionnage au profit de l’Allemagne obsède l’opinion. L’antisémitisme se développe, porté par des journaux comme La Libre Parole d’Édouard Drumont. En 1894, le capitaine Alfred Dreyfus, Alsacien et juif, est condamné pour avoir livré des documents militaires à l’Allemagne, sur la base d’un bordereau dont l’écriture ressemble à la sienne. L’Affaire divise profondément la France entre dreyfusards (défenseurs de la vérité et des droits de l’individu) et antidreyfusards (défenseurs de l’honneur de l’armée). C’est l’âge d’or de la presse : les journaux à grand tirage façonnent l’opinion.",
+  "mouvement": "« J’accuse…! » relève de la littérature d’idées et du journalisme d’opinion. C’est une lettre ouverte : elle s’adresse en apparence au président, mais vise en réalité l’opinion publique. Le titre, attribué à Georges Clemenceau, alors éditorialiste à L’Aurore, a été imprimé en énormes caractères à la une. Le texte marque la naissance de la figure de l’« intellectuel » engagé : un écrivain qui met son prestige au service de la justice. Zola y mobilise toutes les ressources de la rhétorique : récit des faits, argumentation, ironie, indignation, anaphore, appel aux valeurs de vérité et de justice.",
+  "circonstances": "Zola s’est convaincu de l’innocence de Dreyfus à la fin de 1897. Il publie d’abord plusieurs articles dans Le Figaro, puis deux brochures, la Lettre à la jeunesse et la Lettre à la France (janvier 1898). Le 11 janvier 1898, un conseil de guerre acquitte le commandant Esterhazy, le véritable auteur du bordereau. Deux jours plus tard, le 13 janvier, L’Aurore publie à la une la lettre de Zola au président Félix Faure, sous le titre « J’accuse…! ». Zola y annonce lui-même qu’il tombe sous le coup de la loi sur la presse du 29 juillet 1881 et qu’il s’expose « volontairement ». Poursuivi en diffamation, il est condamné en février 1898, puis, après un second procès, s’exile en Angleterre (juillet 1898 - juin 1899). Le texte du site reproduit la lettre seule, d’après le numéro de L’Aurore.",
+  "carriere": "En 1898, Zola a cinquante-sept ans. Il a achevé en 1893 les Rougon-Macquart, vingt romans qui l’ont rendu célèbre (L’Assommoir, Germinal), et il travaille au cycle des Trois Villes. Il connaît bien la presse : il a été journaliste, chroniqueur et critique d’art, et il a déjà mené des combats littéraires dans les journaux (défense de Manet, manifeste du naturalisme). « J’accuse…! » transforme pourtant son image : le romancier devient un homme engagé, admiré par les uns, haï par les autres. Après l’Affaire, il commence le cycle des Quatre Évangiles, romans utopiques. Il meurt en 1902 ; son transfert au Panthéon, en 1908, honore aussi son engagement."
+ },
+ "resumeCourt": "« J’accuse…! » est une lettre ouverte d’Émile Zola au président de la République Félix Faure, publiée à la une du journal L’Aurore le 13 janvier 1898. Elle intervient au cœur de l’affaire Dreyfus : en 1894, le capitaine Alfred Dreyfus, officier juif, a été condamné pour trahison sur des preuves fragiles et déporté à l’île du Diable ; le vrai coupable, le commandant Esterhazy, vient d’être acquitté par un conseil de guerre le 11 janvier 1898. Zola refuse ce « soufflet suprême à toute vérité, à toute justice ». Il raconte l’enchaînement de l’erreur judiciaire, démonte les manœuvres de l’état-major, dénonce l’antisémitisme et la presse qui égare l’opinion, puis termine par une série d’accusations nominatives, toutes introduites par « J’accuse ». Il sait qu’il risque un procès en diffamation : il le provoque volontairement pour que la vérité éclate au grand jour. Condamné, il doit s’exiler en Angleterre, mais son texte relance l’Affaire, qui aboutira à la réhabilitation de Dreyfus en 1906.",
+ "resume": [
+  {
+   "titre": "L’adresse au président : une lettre ouverte",
+   "texte": "Zola s’adresse à Félix Faure avec une politesse calculée : il rappelle sa gloire et l’Exposition universelle à venir, puis frappe : « quelle tache de boue sur votre nom […] que cette abominable affaire Dreyfus ! » L’acquittement d’Esterhazy est un « soufflet suprême à toute vérité, à toute justice ». L’écrivain annonce son engagement : « Puisqu’ils ont osé, j’oserai aussi, moi », « Mon devoir est de parler, je ne veux pas être complice »."
+  },
+  {
+   "titre": "Le procès de 1894 : une erreur fabriquée",
+   "texte": "Zola raconte « la vérité d’abord sur le procès et sur la condamnation de Dreyfus ». Il désigne un responsable principal, du Paty de Clam (« alors simple commandant »), esprit « fumeux », amateur des moyens des « romans-feuilletons », qui a eu l’idée de dicter le bordereau à Dreyfus. Le général Mercier, ministre de la Guerre, et l’état-major ont suivi. Le procès s’est tenu à huis clos ; l’acte d’accusation est vide : « Dreyfus sait plusieurs langues, crime ; […] il ne se trouble pas, crime ; il se trouble, crime. » Zola dénonce l’usage d’une « pièce secrète » que la défense n’a jamais vue."
+  },
+  {
+   "titre": "La découverte de Picquart et l’affaire Esterhazy",
+   "texte": "« Et nous arrivons à l’affaire Esterhazy. » Le lieutenant-colonel Picquart, nouveau chef du bureau des renseignements, découvre en 1896 que l’écriture du bordereau est celle du commandant Esterhazy. Ses supérieurs, les généraux Gonse, de Boisdeffre et Billot, en sont convaincus, mais refusent d’avouer l’erreur : réviser le procès Dreyfus reviendrait à reconnaître la faute de l’état-major. Picquart est éloigné jusqu’en Tunisie. Mathieu Dreyfus, frère du condamné, dénonce Esterhazy ; le sénateur Scheurer-Kestner demande la révision."
+  },
+  {
+   "titre": "Le second conseil de guerre : un acquittement « par ordre »",
+   "texte": "Esterhazy, protégé par l’état-major, est jugé et acquitté. Pour Zola, les juges ne pouvaient pas faire autrement : reconnaître la culpabilité d’Esterhazy, c’était proclamer l’innocence de Dreyfus. Il formule une antithèse cinglante : « Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel. » Il dénonce le culte aveugle de l’armée, « le sabre », et la raison d’État."
+  },
+  {
+   "titre": "Les crimes contre la nation : presse et antisémitisme",
+   "texte": "Dans une série de phrases commençant par « C’est un crime », Zola accuse ceux qui ont égaré l’opinion, utilisé « la presse immonde » et « l’odieux antisémitisme, dont la grande France libérale des droits de l’homme mourra, si elle n’en est pas guérie ». Il rend hommage aux deux « braves gens » sacrifiés, Scheurer-Kestner et Picquart. Il affirme sa confiance : « la vérité est en marche, et rien ne l’arrêtera »."
+  },
+  {
+   "titre": "Les accusations : « J’accuse… »",
+   "texte": "« Mais cette lettre est longue, monsieur le Président, et il est temps de conclure. » Suit la célèbre anaphore : Zola accuse nommément le lieutenant-colonel du Paty de Clam, les généraux Mercier, Billot, de Boisdeffre, Gonse et de Pellieux, le commandant Ravary, les trois experts en écriture, les bureaux de la guerre qui ont mené campagne dans la presse, et les deux conseils de guerre : le premier pour avoir condamné sur une pièce secrète, le second pour avoir acquitté « sciemment un coupable »."
+  },
+  {
+   "titre": "Le défi final : provoquer le procès",
+   "texte": "Zola sait qu’il tombe sous le coup de la loi sur la presse de 1881 et qu’il risque un procès en diffamation : « Et c’est volontairement que je m’expose. » Il précise qu’il n’a contre ceux qu’il accuse « ni rancune ni haine », que son acte est « un moyen révolutionnaire pour hâter l’explosion de la vérité et de la justice ». Il conclut par un défi : « Qu’on ose donc me traduire en cour d’assises et que l’enquête ait lieu au grand jour ! J’attends. »"
+  }
+ ],
+ "structure": "La lettre suit un plan rigoureux, comparable à celui d’une plaidoirie ; elle est divisée en quatre blocs séparés par des astérisques. 1) Un exorde : l’adresse au président et l’annonce de l’engagement de l’auteur. 2) Le récit du procès de 1894 (« La vérité d’abord sur le procès et sur la condamnation de Dreyfus »). 3) Le récit de l’affaire Esterhazy (« Et nous arrivons à l’affaire Esterhazy »). 4) Une argumentation qui tire les conséquences (le second conseil de guerre est « forcément criminel », la presse et l’antisémitisme égarent la nation, « la vérité est en marche »), suivie de la péroraison : huit paragraphes commençant par « J’accuse », puis l’acceptation du risque judiciaire et le défi final (« J’attends. »). Dans cette fiche, les numéros de paragraphe (§) renvoient au texte du site.",
+ "personnages": [
+  {
+   "nom": "Émile Zola",
+   "role": "L’énonciateur. Écrivain célèbre, il s’engage personnellement (« je ») au nom de la vérité. Il se présente comme un « honnête homme » révolté, qui accepte d’affronter la justice pour que l’enquête ait lieu au grand jour.",
+   "relations": "Il s’adresse au président mais parle à l’opinion ; il accuse nommément les officiers ; il défend Dreyfus, Picquart et Scheurer-Kestner."
+  },
+  {
+   "nom": "Alfred Dreyfus",
+   "role": "Capitaine d’artillerie, juif et alsacien, condamné en 1894 pour trahison et déporté à l’île du Diable, en Guyane. Il est presque absent du texte, mais il est « l’innocent qui expie là-bas » : la victime au centre de tout.",
+   "relations": "Victime de l’état-major ; défendu par son frère Mathieu, par Scheurer-Kestner, puis par Zola."
+  },
+  {
+   "nom": "Félix Faure",
+   "role": "Président de la République, destinataire officiel de la lettre. Zola le flatte puis le met en cause : l’histoire écrira que ce crime a été commis sous sa présidence.",
+   "relations": "Destinataire officiel, que Zola ménage (« je suis convaincu que vous l’ignorez ») tout en le rendant responsable devant l’histoire."
+  },
+  {
+   "nom": "Le commandant Esterhazy",
+   "role": "Le vrai auteur du bordereau, officier endetté, acquitté par un conseil de guerre le 11 janvier 1898. Son acquittement déclenche la lettre.",
+   "relations": "Protégé par l’état-major, notamment, selon Zola, par du Paty de Clam ; dénoncé par Mathieu Dreyfus et démasqué par Picquart."
+  },
+  {
+   "nom": "Le lieutenant-colonel du Paty de Clam",
+   "role": "Officier chargé de l’enquête de 1894, présenté comme « l’ouvrier diabolique de l’erreur judiciaire », un esprit romanesque et tortueux.",
+   "relations": "Premier accusé de la péroraison ; Zola l’oppose à Picquart dans un « duel » (« l’un le visage découvert, l’autre masqué »)."
+  },
+  {
+   "nom": "Le lieutenant-colonel Picquart",
+   "role": "Chef du bureau des renseignements qui découvre la culpabilité d’Esterhazy. Il refuse de se taire et il est éloigné. Zola en fait un héros de la vérité, sacrifié par ses chefs.",
+   "relations": "Subordonné des généraux Gonse, de Boisdeffre et Billot, qui l’écartent ; adversaire de du Paty de Clam ; présenté avec Scheurer-Kestner comme l’une des « deux victimes »."
+  },
+  {
+   "nom": "Les généraux (Mercier, Billot, de Boisdeffre, Gonse, de Pellieux)",
+   "role": "Chefs de l’armée et ministres de la Guerre accusés d’avoir condamné un innocent puis étouffé la vérité pour protéger l’état-major.",
+   "relations": "Ils forment un bloc solidaire, l’état-major, qui préfère couvrir l’erreur que l’avouer."
+  },
+  {
+   "nom": "Scheurer-Kestner",
+   "role": "Vice-président du Sénat, l’un des premiers à défendre publiquement Dreyfus. Zola le présente comme « le grand honnête homme » qui a cru que la vérité se suffisait à elle-même.",
+   "relations": "Allié de Picquart et de Mathieu Dreyfus ; Zola regrette qu’il n’ait pas agi « révolutionnairement »."
+  }
+ ],
+ "evolution": "La lettre construit une progression. Zola part d’une erreur, peut-être involontaire (la condamnation de 1894, due à un homme « néfaste » et à des chefs crédules), puis montre comment cette erreur devient un crime : en 1896-1897, l’état-major sait qu’Esterhazy est coupable et préfère le couvrir. D’où l’antithèse centrale : « Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel. » Le ton évolue de la politesse (exorde) au récit indigné, puis à l’accusation nominative. L’énonciateur lui-même change de rôle : témoin, puis enquêteur, puis procureur qui accuse, enfin accusé volontaire qui réclame son propre procès.",
+ "themes": [
+  {
+   "titre": "La vérité et la justice",
+   "texte": "Ce sont les deux mots qui reviennent sans cesse. Zola oppose la vérité (« La vérité, je la dirai, car j’ai promis de la dire ») au mensonge organisé. Il croit en sa force irrésistible : « la vérité est en marche, et rien ne l’arrêtera » ; « Quand on enferme la vérité sous terre, elle s’y amasse […] elle fait tout sauter avec elle »."
+  },
+  {
+   "titre": "L’erreur judiciaire et l’arbitraire",
+   "texte": "Zola montre comment un innocent a été condamné : enquête romanesque, procès à huis clos, acte d’accusation vide, pièce secrète. L’ironie souligne l’absurdité : « il ne se trouble pas, crime ; il se trouble, crime ». La justice militaire obéit aux chefs et non au droit."
+  },
+  {
+   "titre": "La raison d’État et l’esprit de corps",
+   "texte": "L’état-major préfère laisser un innocent au bagne plutôt que d’avouer une faute. Zola dénonce « cet esprit de corps qui fait des bureaux de la guerre l’arche sainte, inattaquable » et refuse de « baiser dévotement la poignée du sabre »."
+  },
+  {
+   "titre": "L’antisémitisme",
+   "texte": "Zola dénonce « la chasse aux “sales juifs”, qui déshonore notre époque » et « l’odieux antisémitisme, dont la grande France libérale des droits de l’homme mourra, si elle n’en est pas guérie ». Il montre que Dreyfus a été soupçonné en partie parce qu’il était juif."
+  },
+  {
+   "titre": "Le pouvoir et la responsabilité de la presse",
+   "texte": "La presse joue un double rôle. Zola accuse « la presse immonde » et les bureaux de la guerre d’avoir mené dans certains journaux « une campagne abominable, pour égarer l’opinion ». Mais c’est aussi par la presse, en une de L’Aurore, qu’il riposte : le journal devient l’arme de la vérité."
+  },
+  {
+   "titre": "L’engagement de l’intellectuel",
+   "texte": "L’écrivain met sa réputation et sa liberté en jeu : « Mon devoir est de parler, je ne veux pas être complice. » Il assume le risque du procès (« c’est volontairement que je m’expose ») et transforme son texte en acte. Après « J’accuse…! », on appellera « intellectuels » les savants et écrivains qui s’engagent publiquement."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Un écrivain peut-il, et doit-il, intervenir dans une affaire judiciaire et politique ?",
+   "Faut-il préférer l’honneur d’une institution (l’armée) à la vérité et à la justice dues à un individu ?",
+   "Comment la presse peut-elle égarer l’opinion ou, au contraire, la réveiller ?",
+   "Quelles sont les armes rhétoriques d’un texte qui veut convaincre une nation divisée ?"
+  ],
+  "intentions": "Zola expose ses intentions dans la lettre elle-même : « Mon devoir est de parler, je ne veux pas être complice. » Il dit vouloir provoquer un procès public : « Et c’est volontairement que je m’expose », puis « Qu’on ose donc me traduire en cour d’assises et que l’enquête ait lieu au grand jour ! » Il précise qu’il n’a contre ceux qu’il accuse « ni rancune ni haine » et que son acte est « un moyen révolutionnaire pour hâter l’explosion de la vérité et de la justice ». Ces déclarations figurent dans le texte du site (L’Aurore, 13 janvier 1898). Le reste (stratégie de Clemenceau, effet recherché sur l’opinion) relève de l’histoire de l’Affaire, non de déclarations de Zola dans ce texte.",
+  "procedes": [
+   {
+    "nom": "L’anaphore",
+    "explication": "La répétition en tête de phrase martèle l’accusation et donne au texte un rythme de réquisitoire.",
+    "exemple": "« J’accuse » en tête de huit paragraphes (§ 33-40) ; « C’est un crime » répété dans le § 28."
+   },
+   {
+    "nom": "L’ironie et le raisonnement par l’absurde",
+    "explication": "Zola cite l’accusation pour en montrer le vide : tout et son contraire deviennent des preuves.",
+    "exemple": "« il ne se trouble pas, crime ; il se trouble, crime » ; la pièce secrète comparée au « bon dieu invisible et inconnaissable »."
+   },
+   {
+    "nom": "L’antithèse",
+    "explication": "Elle oppose les deux camps et les deux procès pour rendre la démonstration frappante.",
+    "exemple": "« Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel » ; Picquart et du Paty de Clam, « l’un le visage découvert, l’autre masqué »."
+   },
+   {
+    "nom": "La métaphore",
+    "explication": "Des images fortes rendent sensibles des idées abstraites (la vérité, la honte, le mensonge).",
+    "exemple": "« quelle tache de boue sur votre nom » ; la vérité enfermée « sous terre » qui finit par « tout sauter »."
+   },
+   {
+    "nom": "L’implication de l’énonciateur",
+    "explication": "Le « je » s’engage, prend des risques et se met en scène comme un honnête homme révolté.",
+    "exemple": "« Puisqu’ils ont osé, j’oserai aussi, moi. » ; « J’attends. »"
+   },
+   {
+    "nom": "La lettre ouverte et l’apostrophe",
+    "explication": "Zola s’adresse au président, mais chaque apostrophe prend l’opinion à témoin.",
+    "exemple": "« Telle est donc la simple vérité, monsieur le Président, et elle est effroyable, elle restera pour votre présidence une souillure. »"
+   }
+  ],
+  "style": "La prose de Zola mêle la précision du journaliste (noms, grades, dates, article de loi) et la puissance de l’orateur : phrases amples et cadencées, accumulations, exclamations (« Ah ! le néant de cet acte d’accusation ! »), questions rhétoriques. Le romancier se reconnaît dans les portraits (du Paty de Clam en héros de « roman-feuilleton ») et dans la dramatisation (le « duel », l’« orage »). La fin joue sur le contraste : après huit longues accusations, deux mots seulement : « J’attends. »",
+  "registres": [
+   {
+    "nom": "Polémique",
+    "explication": "Attaque directe d’adversaires nommés : « J’accuse le général Mercier… »."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Pitié pour « l’innocent qui expie là-bas, dans la plus affreuse des tortures, un crime qu’il n’a pas commis »."
+   },
+   {
+    "nom": "Ironique",
+    "explication": "« il ne se trouble pas, crime ; il se trouble, crime » ; les experts accusés, « à moins qu’un examen médical ne les déclare atteints d’une maladie de la vue et du jugement »."
+   },
+   {
+    "nom": "Lyrique et épique",
+    "explication": "Exaltation de la vérité en marche et du combat de la lumière contre l’ombre : « Je n’ai qu’une passion, celle de la lumière »."
+   },
+   {
+    "nom": "Judiciaire",
+    "explication": "Vocabulaire du procès (acte d’accusation, huis clos, diffamation, cour d’assises) : la lettre est un réquisitoire."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "La lettre est publiée deux jours après l’acquittement d’Esterhazy (11 janvier 1898) et vise à provoquer un procès public contre Zola.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Certaines accusations de Zola étaient fondées sur des informations encore incomplètes en 1898 ; la suite de l’Affaire (découverte du faux Henry en août 1898) a confirmé l’essentiel de sa thèse.",
+    "nature": "fait"
+   },
+   {
+    "texte": "« J’accuse…! » marque la naissance de l’« intellectuel » engagé au sens moderne : les historiens rattachent l’usage du mot à l’Affaire, même si l’engagement des écrivains est plus ancien (Voltaire et Calas).",
+    "nature": "debat"
+   },
+   {
+    "texte": "L’efficacité réelle de l’article est discutée : il a relancé l’Affaire et mobilisé l’opinion, mais Dreyfus est encore condamné en 1899, et sa réhabilitation (1906) résulte d’un combat collectif.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Zola présente du Paty de Clam comme un personnage de roman : cette dramatisation sert la démonstration mais simplifie peut-être les responsabilités.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "« J’accuse…! » appartient à la littérature d’idées et au journalisme d’opinion de la fin du XIXe siècle, âge d’or de la presse à grand tirage. Il prolonge la tradition de l’écrivain défenseur des victimes (Voltaire et l’affaire Calas, Hugo et la peine de mort). Zola, chef du naturalisme, y applique une méthode proche de celle de ses romans : enquête, faits, causes, déterminismes (ici l’esprit de corps et la discipline : « Qui dit discipline dit obéissance »). La lettre s’inscrit dans une IIIe République fragile, marquée par le culte de l’armée après 1870 et par la montée de l’antisémitisme."
+ },
+ "citations": [
+  {
+   "texte": "Mais quelle tache de boue sur votre nom — j’allais dire sur votre règne — que cette abominable affaire Dreyfus !",
+   "locuteur": "Émile Zola",
+   "reference": "Exorde (premier bloc), § 3",
+   "situation": "Après avoir rappelé les succès de la présidence de Félix Faure, Zola renverse le ton.",
+   "sens": "L’affaire Dreyfus déshonore le président et la République.",
+   "procedes": "Métaphore de la « tache de boue », épanorthose ironique (« j’allais dire sur votre règne »), exclamation.",
+   "demontre": "Le passage de la politesse à l’attaque.",
+   "usage": "Pour analyser l’exorde et la stratégie de la lettre ouverte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Puisqu’ils ont osé, j’oserai aussi, moi.",
+   "locuteur": "Émile Zola",
+   "reference": "Exorde (premier bloc), § 4",
+   "situation": "Zola annonce qu’il va répondre à l’acquittement d’Esterhazy.",
+   "sens": "Face à l’audace des coupables, l’écrivain choisit l’audace de la vérité.",
+   "procedes": "Parallélisme ils / je, pronom tonique « moi » en fin de phrase.",
+   "demontre": "L’engagement personnel de l’écrivain.",
+   "usage": "Pour le thème de l’engagement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Mon devoir est de parler, je ne veux pas être complice.",
+   "locuteur": "Émile Zola",
+   "reference": "Exorde (premier bloc), § 4",
+   "situation": "Suite de l’annonce de l’engagement.",
+   "sens": "Se taire, ce serait être complice de l’injustice.",
+   "procedes": "Phrase binaire, vocabulaire moral (devoir, complice).",
+   "demontre": "La responsabilité morale de l’intellectuel.",
+   "usage": "Pour une dissertation sur l’engagement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Dreyfus sait plusieurs langues, crime ; on n’a trouvé chez lui aucun papier compromettant, crime ; il va parfois dans son pays d’origine, crime ; il est laborieux, il a le souci de tout savoir, crime ; il ne se trouble pas, crime ; il se trouble, crime.",
+   "locuteur": "Émile Zola",
+   "reference": "Deuxième bloc : le procès de 1894, § 12",
+   "situation": "Zola résume l’acte d’accusation de 1894.",
+   "sens": "Tout, même les contraires, a été retourné contre Dreyfus.",
+   "procedes": "Accumulation, épiphore « crime », antithèse finale, ironie.",
+   "demontre": "L’absurdité d’une accusation décidée d’avance.",
+   "usage": "Pour l’ironie et l’erreur judiciaire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "C’est un procès de famille, on est là entre soi",
+   "locuteur": "Émile Zola",
+   "reference": "Deuxième bloc : le procès de 1894, § 12",
+   "situation": "Zola remarque que tous les témoins venaient des bureaux de la guerre.",
+   "sens": "L’état-major a été juge et partie.",
+   "procedes": "Métaphore familiale, tournure familière.",
+   "demontre": "L’esprit de corps de l’armée.",
+   "usage": "Pour le thème de la raison d’État.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je la nie, cette pièce, je la nie de toute ma puissance !",
+   "locuteur": "Émile Zola",
+   "reference": "Deuxième bloc : le procès de 1894, § 13",
+   "situation": "Zola évoque la « pièce secrète » qui aurait justifié la condamnation.",
+   "sens": "Il refuse d’admettre une preuve qu’on ne montre pas.",
+   "procedes": "Répétition, dislocation (« Je la nie, cette pièce »), exclamation.",
+   "demontre": "L’engagement passionné de l’énonciateur.",
+   "usage": "Pour analyser la force de l’implication personnelle.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 26",
+   "situation": "Zola tire la conséquence de l’acquittement d’Esterhazy.",
+   "sens": "L’erreur de 1894 était peut-être involontaire, l’acquittement de 1898 est une faute consciente.",
+   "procedes": "Antithèse, parallélisme, modalisation (« a pu être » / « forcément »).",
+   "demontre": "Le passage de l’erreur au crime.",
+   "usage": "Pour résumer l’argumentation de Zola.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Qui dit discipline dit obéissance.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 25",
+   "situation": "Zola explique pourquoi des juges militaires ne pouvaient pas désavouer leur ministre.",
+   "sens": "Des soldats ne peuvent pas juger librement contre leurs chefs.",
+   "procedes": "Maxime, structure en miroir.",
+   "demontre": "La critique de la justice militaire.",
+   "usage": "Pour le thème de l’institution contre la vérité.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "C’est un crime d’empoisonner les petits et les humbles, d’exaspérer les passions de réaction et d’intolérance, en s’abritant derrière l’odieux antisémitisme, dont la grande France libérale des droits de l’homme mourra, si elle n’en est pas guérie.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 28",
+   "situation": "Série de phrases commençant par « C’est un crime ».",
+   "sens": "L’antisémitisme empoisonne le peuple et menace la France des droits de l’homme.",
+   "procedes": "Anaphore, métaphores du poison et de la maladie, antithèse antisémitisme / droits de l’homme.",
+   "demontre": "La dénonciation de l’antisémitisme.",
+   "usage": "Pour le thème de l’antisémitisme et de la presse.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "La vérité est en marche, et rien ne l’arrêtera.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 30",
+   "situation": "Zola affirme sa confiance malgré l’acquittement.",
+   "sens": "La vérité finira par triompher.",
+   "procedes": "Personnification de la vérité, futur de certitude.",
+   "demontre": "L’optimisme militant de Zola.",
+   "usage": "Formule à citer en conclusion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site (majuscule initiale ajoutée : la phrase suit deux-points dans l’original)."
+   }
+  },
+  {
+   "texte": "Quand on enferme la vérité sous terre, elle s’y amasse, elle y prend une force telle d’explosion, que le jour où elle éclate, elle fait tout sauter avec elle.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 30",
+   "situation": "Suite immédiate de « la vérité est en marche ».",
+   "sens": "La vérité étouffée devient explosive.",
+   "procedes": "Métaphore filée de l’explosion, gradation.",
+   "demontre": "La menace que représente le mensonge d’État.",
+   "usage": "Pour illustrer la force des images.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "J’accuse le lieutenant-colonel du Paty de Clam d’avoir été l’ouvrier diabolique de l’erreur judiciaire, en inconscient, je veux le croire",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 33",
+   "situation": "Premier paragraphe de l’anaphore « J’accuse ».",
+   "sens": "Du Paty de Clam a fabriqué l’erreur, peut-être sans le vouloir.",
+   "procedes": "Anaphore, métaphore de l’« ouvrier diabolique », concession (« je veux le croire »).",
+   "demontre": "La précision et la mesure apparente des accusations.",
+   "usage": "Pour analyser la péroraison.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "J’accuse enfin le premier conseil de guerre d’avoir violé le droit, en condamnant un accusé sur une pièce restée secrète, et j’accuse le second conseil de guerre d’avoir couvert cette illégalité, par ordre, en commettant à son tour le crime juridique d’acquitter sciemment un coupable.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 40",
+   "situation": "Dernière accusation de la série.",
+   "sens": "Les deux procès sont illégaux : l’un a condamné un innocent, l’autre a acquitté un coupable.",
+   "procedes": "Anaphore, parallélisme, vocabulaire juridique.",
+   "demontre": "La synthèse de toute l’argumentation.",
+   "usage": "Pour montrer la structure en réquisitoire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Et c’est volontairement que je m’expose.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 41",
+   "situation": "Zola vient de citer les articles de la loi sur la presse de 1881 qui punissent la diffamation.",
+   "sens": "Il sait qu’il sera poursuivi et l’accepte.",
+   "procedes": "Phrase brève, mise en relief (« c’est… que »).",
+   "demontre": "Le courage et la stratégie de l’écrivain : provoquer un procès public.",
+   "usage": "Pour le thème de l’engagement et du risque.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Et l’acte que j’accomplis ici n’est qu’un moyen révolutionnaire pour hâter l’explosion de la vérité et de la justice.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 42",
+   "situation": "Zola affirme n’avoir « ni rancune ni haine » contre ceux qu’il accuse.",
+   "sens": "L’article est un acte, non une vengeance.",
+   "procedes": "Vocabulaire de l’action, reprise de la métaphore de l’explosion.",
+   "demontre": "La conception de l’écriture comme acte.",
+   "usage": "Pour une dissertation sur l’écrivain engagé.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je n’ai qu’une passion, celle de la lumière, au nom de l’humanité qui a tant souffert et qui a droit au bonheur.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 43",
+   "situation": "Profession de foi qui précède le défi final.",
+   "sens": "Zola agit au nom de valeurs universelles.",
+   "procedes": "Métaphore de la lumière, registre lyrique.",
+   "demontre": "La dimension humaniste du combat.",
+   "usage": "Pour élargir la réflexion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Qu’on ose donc me traduire en cour d’assises et que l’enquête ait lieu au grand jour ! J’attends.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : péroraison, § 43-44",
+   "situation": "Fin de la lettre, avant la formule de politesse.",
+   "sens": "Zola défie ses adversaires de le poursuivre.",
+   "procedes": "Subjonctif d’ordre, reprise du verbe « oser », phrase finale de deux mots.",
+   "demontre": "Le défi et la recherche d’un procès public.",
+   "usage": "Pour une conclusion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Il y a deux victimes, deux braves gens, deux cœurs simples, qui ont laissé faire Dieu, tandis que le diable agissait.",
+   "locuteur": "Émile Zola",
+   "reference": "Quatrième bloc : argumentation, § 29",
+   "situation": "Zola rend hommage à Scheurer-Kestner et à Picquart.",
+   "sens": "Les honnêtes gens ont trop attendu, alors que les coupables agissaient.",
+   "procedes": "Rythme ternaire, antithèse Dieu / diable.",
+   "demontre": "L’opposition morale entre les deux camps.",
+   "usage": "Pour présenter Picquart et Scheurer-Kestner.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, « J’accuse…! Lettre au Président de la République », L’Aurore, n° 87, 13 janvier 1898 (Project Gutenberg n° 76045, transcription d’après Gallica)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "La parole engagée : la presse, arme de l’écrivain",
+  "explication": "« J’accuse…! » est présenté ici comme une œuvre complémentaire de culture littéraire : le programme de seconde n’impose aucune œuvre, et ce texte ne figure sur aucune liste officielle. Il se rattache naturellement à l’objet d’étude « La littérature d’idées et la presse du XIXe siècle au XXIe siècle », qui invite à étudier les grands débats d’idées et le développement des médias de masse. Le parcours « La parole engagée : la presse, arme de l’écrivain » est une proposition du site, pas un intitulé officiel. Au XIXe siècle, la presse devient un média de masse ; elle peut manipuler l’opinion, mais aussi la réveiller. Ce parcours étudie comment un texte bref, publié en une, peut devenir un acte politique et changer le cours d’une affaire.\n\n« J’accuse…! » en est l’exemple le plus célèbre. Zola choisit la forme de la lettre ouverte, qui permet de s’adresser au pouvoir tout en prenant l’opinion publique à témoin. Il combine récit des faits, argumentation logique, ironie et pathétique, puis une anaphore spectaculaire qui transforme l’article en réquisitoire. Il assume les conséquences judiciaires de ses mots : l’engagement de l’écrivain n’est pas qu’une posture, c’est un risque.\n\nLes textes complémentaires montrent la tradition de l’écrivain défenseur des victimes de l’injustice (Voltaire, Hugo), d’autres usages de la presse engagée et la réflexion sur la responsabilité de l’intellectuel.",
+  "textesComplementaires": [
+   {
+    "titre": "Traité sur la tolérance, à l’occasion de la mort de Jean Calas (1763)",
+    "auteur": "Voltaire",
+    "interet": "Le modèle de Zola : un écrivain qui prend la défense d’un protestant injustement exécuté et obtient sa réhabilitation. Même combat contre le fanatisme et l’erreur judiciaire."
+   },
+   {
+    "titre": "Claude Gueux (1834)",
+    "auteur": "Victor Hugo",
+    "interet": "Un récit tiré d’un fait divers qui se termine en plaidoyer adressé aux députés : autre manière de faire de l’écriture une arme contre l’injustice."
+   },
+   {
+    "titre": "Lettre à la France (brochure, janvier 1898)",
+    "auteur": "Émile Zola",
+    "interet": "Publiée une semaine avant « J’accuse…! », cette lettre s’adresse directement au peuple français et dénonce l’antisémitisme : on voit la progression de l’engagement de Zola."
+   },
+   {
+    "titre": "Éloge funèbre d’Émile Zola (discours prononcé aux obsèques, 1902)",
+    "auteur": "Anatole France",
+    "interet": "Hommage célèbre d’Anatole France, qui dit de Zola : « il fut un moment de la conscience humaine ». Permet de réfléchir à la portée de l’engagement."
+   },
+   {
+    "titre": "Notre jeunesse (1910)",
+    "auteur": "Charles Péguy",
+    "interet": "Un dreyfusard de la première heure revient sur l’Affaire et distingue la « mystique » (le combat pour la vérité) de la « politique » : une réflexion sur ce que devient un engagement."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "« J’accuse…! » est une lettre ouverte : adressée au président, elle vise l’opinion publique.",
+   "Zola démontre que l’erreur judiciaire de 1894 est devenue en 1898 un crime conscient de l’état-major.",
+   "Il dénonce la raison d’État, l’esprit de corps, la presse mensongère et l’antisémitisme.",
+   "Il s’engage personnellement et provoque volontairement un procès en diffamation.",
+   "Le texte unit convaincre (récit, logique) et persuader (indignation, pitié, rythme)."
+  ],
+  "axes": [
+   "Une lettre ouverte et un réquisitoire : énonciation et structure.",
+   "La démonstration : récit des faits et raisonnement.",
+   "L’indignation et les procédés de persuasion (ironie, anaphore, images).",
+   "L’engagement de l’écrivain : risques et valeurs."
+  ],
+  "problematiques": [
+   "Comment Zola transforme-t-il un article de presse en acte d’accusation et en acte de courage ?",
+   "Comment « J’accuse…! » allie-t-il la rigueur de la démonstration et la force de l’indignation ?",
+   "En quoi ce texte définit-il la responsabilité de l’intellectuel ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L’exorde (§ 3) : éloge du président puis « tache de boue ».",
+    "utilisation": "Analyser la stratégie de la lettre ouverte (flatter pour frapper)."
+   },
+   {
+    "exemple": "L’acte d’accusation résumé au § 12 (« il se trouble, crime »).",
+    "utilisation": "Montrer l’ironie et le raisonnement par l’absurde."
+   },
+   {
+    "exemple": "Le portrait de du Paty de Clam en héros de « romans-feuilletons » (§ 8).",
+    "utilisation": "Montrer la plume du romancier au service de la polémique."
+   },
+   {
+    "exemple": "« Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel » (§ 26).",
+    "utilisation": "Résumer l’argument central."
+   },
+   {
+    "exemple": "L’anaphore « C’est un crime » (§ 28).",
+    "utilisation": "Analyser la dénonciation de la presse et de l’antisémitisme."
+   },
+   {
+    "exemple": "L’anaphore « J’accuse » et le défi « J’attends » (§ 33-44).",
+    "utilisation": "Montrer l’engagement et la prise de risque."
+   }
+  ],
+  "liens": "Les thèmes de la vérité et de la justice sont portés par des procédés précis : métaphores de la lumière et de l’explosion pour la vérité, vocabulaire juridique pour la justice, ironie pour l’erreur judiciaire, anaphore pour l’accusation. Les personnages se répartissent en deux camps, que Zola oppose par des antithèses : Picquart et Scheurer-Kestner (les « braves gens ») contre du Paty de Clam et l’état-major. L’énonciateur relie le tout : il raconte, raisonne, s’indigne et s’expose.",
+  "sujetsCommentaire": [
+   {
+    "passage": "L’exorde (§ 1-5), de « Monsieur le Président » à « le premier magistrat du pays ? »",
+    "pistes": "Une politesse ironique ; le renversement par « Mais » ; l’engagement personnel ; le président pris à témoin."
+   },
+   {
+    "passage": "La dénonciation de la presse et de l’antisémitisme (§ 28)",
+    "pistes": "L’anaphore « C’est un crime » ; les métaphores du poison et de la maladie ; l’opposition entre haine et « France libérale des droits de l’homme » ; l’horizon de la vérité."
+   },
+   {
+    "passage": "La péroraison (§ 32-44), de « Mais cette lettre est longue » à « J’attends. »",
+    "pistes": "Un réquisitoire nominatif ; la précision juridique ; l’acceptation du risque ; une chute en deux mots."
+   }
+  ],
+  "erreurs": [
+   "Croire que Zola a été remercié ou protégé : il a été condamné pour diffamation et a dû s’exiler.",
+   "Penser que « J’accuse…! » a suffi à faire libérer Dreyfus : il est de nouveau condamné à Rennes en 1899, gracié, puis réhabilité seulement en 1906.",
+   "Confondre Dreyfus (innocent) et Esterhazy (véritable auteur du bordereau).",
+   "Dire que la lettre s’adresse seulement au président : c’est une lettre ouverte, destinée à l’opinion.",
+   "Oublier que Zola nomme des personnes précises et cite la loi de 1881 : ce n’est pas une protestation vague, mais un acte juridique calculé.",
+   "Écrire que Zola est mort en exil ou au Panthéon de son vivant : il rentre en 1899, meurt en 1902 et entre au Panthéon en 1908."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Un article de presse peut-il changer le cours de l’histoire ? Vous répondrez en vous appuyant sur « J’accuse…! ».",
+   "analyse": "Le sujet interroge le pouvoir réel de l’écriture journalistique. « Changer le cours de l’histoire » suppose un effet concret sur les événements. Il faut mesurer ce que « J’accuse…! » a réellement produit, mais aussi ses limites et les conditions de son efficacité.",
+   "problematique": "« J’accuse…! » montre-t-il qu’un texte publié dans un journal peut à lui seul transformer les événements, ou son efficacité dépend-elle d’autres forces ?",
+   "plan": [
+    {
+     "titre": "I. La force exceptionnelle d’un article",
+     "arguments": [
+      "A. Une diffusion massive : la une de L’Aurore, un titre spectaculaire choisi par Clemenceau.",
+      "B. Une rhétorique puissante : récit clair, ironie (« il se trouble, crime »), anaphore « J’accuse ».",
+      "C. Un effet immédiat : le procès Zola relance publiquement l’Affaire, qui divise la France."
+     ]
+    },
+    {
+     "titre": "II. Mais un article ne suffit pas",
+     "arguments": [
+      "A. Les résistances : Zola est condamné, s’exile ; Dreyfus est de nouveau condamné à Rennes en 1899.",
+      "B. L’article s’inscrit dans un combat collectif : Mathieu Dreyfus, Picquart, Scheurer-Kestner, Clemenceau, Bernard Lazare.",
+      "C. Ce sont aussi des faits (découverte du faux du commandant Henry en 1898) et des décisions politiques qui font avancer la vérité."
+     ]
+    },
+    {
+     "titre": "III. Un texte qui change surtout la place de l’écrivain dans la société",
+     "arguments": [
+      "A. Il fait naître la figure de l’intellectuel engagé.",
+      "B. Il défend des valeurs durables (vérité, justice, droits de l’homme, lutte contre l’antisémitisme).",
+      "C. Il reste un modèle : « La vérité est en marche, et rien ne l’arrêtera » est devenue une formule universelle."
+     ]
+    }
+   ],
+   "introduction": "Le 13 janvier 1898, le journal L’Aurore se vend à plusieurs centaines de milliers d’exemplaires : en une, sous le titre « J’accuse…! », Émile Zola publie une lettre ouverte au président de la République. Il y défend le capitaine Dreyfus, condamné à tort pour trahison, et accuse nommément les chefs de l’armée. Peu d’articles ont eu un tel retentissement. Mais un texte publié dans la presse peut-il vraiment changer le cours de l’histoire ? « J’accuse…! » montre-t-il qu’un article peut à lui seul transformer les événements, ou son efficacité dépend-elle d’autres forces ? Nous verrons d’abord la force exceptionnelle de cet article, puis ses limites, enfin la façon dont il a surtout changé la place de l’écrivain dans la société.",
+   "conclusion": "« J’accuse…! » a eu un effet considérable : il a relancé l’affaire Dreyfus et forcé l’opinion à choisir son camp. Mais il n’a pas suffi seul : Zola a été condamné, Dreyfus de nouveau jugé coupable en 1899, et c’est un combat collectif, appuyé sur des faits nouveaux, qui a conduit à la réhabilitation de 1906. L’article a surtout changé l’idée que l’on se fait de l’écrivain : un citoyen responsable, qui met sa parole au service de la vérité. Au XXe siècle, d’autres écrivains, comme Camus ou Sartre, reprendront ce rôle d’intellectuel engagé."
+  },
+  {
+   "sujet": "Pour défendre une cause, vaut-il mieux s’adresser à la raison ou aux émotions de son lecteur ?",
+   "analyse": "Le sujet oppose convaincre (raison : faits, arguments, logique) et persuader (émotions : indignation, pitié, admiration). Il faut montrer comment « J’accuse…! » utilise les deux et réfléchir à leur efficacité respective et à leurs dangers.",
+   "problematique": "Dans « J’accuse…! », la force du texte vient-elle de la rigueur de sa démonstration ou de la puissance de l’émotion qu’il suscite ?",
+   "plan": [
+    {
+     "titre": "I. Convaincre : la force de la raison",
+     "arguments": [
+      "A. Un récit précis et chronologique des faits (procès de 1894, découverte de Picquart, acquittement d’Esterhazy).",
+      "B. Des raisonnements logiques (acquitter Esterhazy, c’était innocenter Dreyfus ; « le second est forcément criminel »).",
+      "C. Des accusations nominatives et juridiquement fondées (référence à la loi de 1881)."
+     ]
+    },
+    {
+     "titre": "II. Persuader : la force de l’émotion",
+     "arguments": [
+      "A. L’indignation (exclamations, « tache de boue », « soufflet suprême »).",
+      "B. La pitié pour la victime (« l’innocent qui expie là-bas, dans la plus affreuse des tortures »).",
+      "C. L’ironie et le rythme (anaphores « C’est un crime », « J’accuse »), qui entraînent le lecteur."
+     ]
+    },
+    {
+     "titre": "III. L’alliance nécessaire des deux, et ses dangers",
+     "arguments": [
+      "A. L’émotion attire l’attention, la raison la rend légitime : Zola fait les deux.",
+      "B. L’émotion seule peut manipuler : c’est ce que fait la « presse immonde » antisémite que Zola dénonce.",
+      "C. Une émotion au service de la vérité : l’indignation de Zola repose sur des faits."
+     ]
+    }
+   ],
+   "introduction": "« Ma protestation enflammée n’est que le cri de mon âme » : à la fin de « J’accuse…! », publié dans L’Aurore le 13 janvier 1898, Émile Zola revendique la passion qui l’anime. Pourtant, sa lettre au président de la République est aussi un exposé méthodique des faits de l’affaire Dreyfus. Pour défendre une cause, vaut-il mieux s’adresser à la raison ou aux émotions de son lecteur ? Dans « J’accuse…! », la force du texte vient-elle de la rigueur de sa démonstration ou de la puissance de l’émotion qu’il suscite ? Nous verrons d’abord comment Zola cherche à convaincre par la raison, puis comment il persuade par l’émotion, enfin pourquoi l’alliance des deux est nécessaire, à condition de servir la vérité.",
+   "conclusion": "Zola convainc par la précision de son récit et la logique de ses accusations ; il persuade par l’indignation, la pitié et le rythme de sa prose. Aucune de ces forces ne suffit seule : la raison sans émotion laisse indifférent, l’émotion sans raison peut devenir manipulation, comme le montre la presse antisémite qu’il combat. C’est leur alliance, au service de faits établis, qui fait de « J’accuse…! » un modèle. Voltaire, défendant Calas au XVIIIe siècle, avait déjà su unir l’argument et le cri."
+  }
+ ],
+ "oral": {
+  "presentation": "« J’accuse…! » est une lettre ouverte d’Émile Zola au président de la République Félix Faure, publiée à la une du journal L’Aurore le 13 janvier 1898, deux jours après l’acquittement du commandant Esterhazy, véritable auteur du bordereau pour lequel le capitaine Dreyfus a été condamné en 1894. Zola y raconte comment une erreur judiciaire est devenue un crime de l’état-major, dénonce la presse mensongère et l’antisémitisme, puis accuse nommément les responsables dans une anaphore célèbre. Il provoque volontairement un procès en diffamation pour que la vérité soit débattue « au grand jour ». Le texte fait de l’écrivain un intellectuel engagé.",
+  "essentiels": [
+   "Dates : condamnation de Dreyfus (1894), acquittement d’Esterhazy (11 janvier 1898), « J’accuse…! » (13 janvier 1898), condamnation de Zola (février 1898), réhabilitation de Dreyfus (1906).",
+   "Personnages : Dreyfus, Esterhazy, du Paty de Clam, Picquart, Scheurer-Kestner, Félix Faure.",
+   "Structure : exorde, récit de 1894, affaire Esterhazy, argumentation, péroraison « J’accuse ».",
+   "Formules : « La vérité est en marche, et rien ne l’arrêtera » ; « J’attends. »",
+   "Notions : lettre ouverte, réquisitoire, anaphore, ironie, registre polémique, intellectuel."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Zola choisit-il la forme de la lettre ouverte ?",
+    "reponse": "Parce qu’elle lui permet de s’adresser au plus haut personnage de l’État tout en prenant toute la nation à témoin. Le président est ménagé (« je suis convaincu que vous l’ignorez ») mais rendu responsable devant l’histoire : l’affaire « restera pour votre présidence une souillure ». Publiée à la une de L’Aurore, la lettre touche des centaines de milliers de lecteurs."
+   },
+   {
+    "question": "Comment Zola montre-t-il que Dreyfus est innocent ?",
+    "reponse": "Il ne prétend pas tout prouver ; il montre que l’accusation est vide. Il cite l’acte d’accusation pour en révéler l’absurdité : « il ne se trouble pas, crime ; il se trouble, crime ». Il rappelle que les experts ne s’accordaient pas, que le procès était « un procès de famille » et qu’on a invoqué une pièce secrète jamais montrée à la défense. Enfin, il désigne le vrai coupable, Esterhazy."
+   },
+   {
+    "question": "Que signifie la phrase « Le premier conseil de guerre a pu être inintelligent, le second est forcément criminel » ?",
+    "reponse": "En 1894, les juges ont pu se tromper de bonne foi. En 1898, en revanche, l’état-major savait qu’Esterhazy était coupable : l’acquitter, c’était maintenir volontairement Dreyfus au bagne. L’erreur devient crime. L’antithèse résume toute l’argumentation."
+   },
+   {
+    "question": "Quel rôle joue l’anaphore « J’accuse » ?",
+    "reponse": "Elle transforme la fin de l’article en réquisitoire : huit paragraphes, huit cibles nommées, du lieutenant-colonel du Paty de Clam aux deux conseils de guerre. La répétition crée un rythme implacable et place l’écrivain dans le rôle du procureur. Elle donne aussi son titre au texte et l’a rendu inoubliable."
+   },
+   {
+    "question": "Pourquoi Zola cite-t-il la loi sur la presse de 1881 ?",
+    "reponse": "Pour montrer qu’il sait ce qu’il risque et qu’il le fait exprès : « Et c’est volontairement que je m’expose. » Sa stratégie est de provoquer un procès en diffamation devant une cour d’assises, où les faits pourront être débattus publiquement : « que l’enquête ait lieu au grand jour ! J’attends. »"
+   },
+   {
+    "question": "Que dit Zola de la presse ?",
+    "reponse": "Il dénonce « la presse immonde » et les bureaux de la guerre qui ont mené « dans la presse […] une campagne abominable, pour égarer l’opinion ». Mais il utilise lui-même un journal pour riposter : la presse est à la fois l’arme du mensonge et celle de la vérité."
+   },
+   {
+    "question": "« J’accuse…! » a-t-il changé l’histoire ?",
+    "reponse": "Il a relancé l’Affaire et contraint l’opinion à choisir son camp, mais il n’a pas suffi seul : Zola est condamné, Dreyfus encore condamné en 1899 à Rennes, puis gracié et enfin réhabilité en 1906, grâce à un combat collectif et à des faits nouveaux comme la découverte du faux Henry. Le texte a surtout imposé l’image de l’écrivain engagé."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), à rattacher à l’objet d’étude de seconde « La littérature d’idées et la presse du XIXe siècle au XXIe siècle » ; parcours proposé par le site (non officiel) : la parole engagée. Autres œuvres : Voltaire, Traité sur la tolérance (affaire Calas) ; Hugo, Claude Gueux ; Zola, Lettre à la France ; Anatole France, éloge funèbre de Zola ; Péguy, Notre jeunesse.",
+  "reflexion": [
+   {
+    "question": "Un écrivain célèbre doit-il prendre position dans les débats publics ?",
+    "pistes": "Le poids de la notoriété ; le risque de se tromper ; l’exemple de Zola, qui a mis sa liberté en jeu."
+   },
+   {
+    "question": "La presse d’aujourd’hui peut-elle encore jouer le rôle de L’Aurore en 1898 ?",
+    "pistes": "Journalisme d’investigation, lanceurs d’alerte ; réseaux sociaux et fausses informations ; la « presse immonde » de Zola et la désinformation actuelle."
+   },
+   {
+    "question": "Faut-il parfois désobéir à la loi pour défendre la justice ?",
+    "pistes": "Zola enfreint volontairement la loi de 1881 pour obtenir un procès public ; distinguer légalité et légitimité."
+   },
+   {
+    "question": "Quelle phrase de « J’accuse…! » vous semble la plus forte, et pourquoi ?",
+    "pistes": "« La vérité est en marche » (espoir) ; « il se trouble, crime » (ironie) ; « J’attends. » (défi)."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L’exorde : « Monsieur le Président… »",
+   "reference": "Début de la lettre (§ 1-5), jusqu’à « si ce n’est à vous, le premier magistrat du pays ? »",
+   "enjeu": "Comment Zola transforme-t-il une lettre polie au président en déclaration de guerre contre l’injustice ?",
+   "mouvements": [
+    "Mouvement 1 : la captatio benevolentiae. Formules de politesse et de reconnaissance, éloge de la présidence (« rayonnant », « apothéose », Exposition universelle) : Zola flatte pour mieux frapper.",
+    "Mouvement 2 : le renversement. « Mais » introduit la « tache de boue » ; correction ironique « j’allais dire sur votre règne » ; acquittement d’Esterhazy présenté comme un « soufflet suprême » : l’indignation éclate.",
+    "Mouvement 3 : l’engagement personnel. Phrases brèves au futur et à la première personne (« j’oserai aussi, moi », « La vérité, je la dirai »), image pathétique de « l’innocent qui expie là-bas », question rhétorique finale qui désigne le président comme seul recours."
+   ]
+  },
+  {
+   "titre": "« Ah ! le néant de cet acte d’accusation ! »",
+   "reference": "Deuxième bloc, le procès de 1894 (§ 12-13)",
+   "enjeu": "Comment Zola démontre-t-il l’absurdité de l’accusation portée contre Dreyfus ?",
+   "mouvements": [
+    "Mouvement 1 : l’indignation. Exclamation (« Ah ! le néant… »), hyperbole « prodige d’iniquité », appel aux « honnêtes gens » : Zola prend l’opinion à témoin.",
+    "Mouvement 2 : la démonstration par l’absurde. Accumulation de propositions courtes terminées par « crime », jusqu’aux deux contraires « il ne se trouble pas, crime ; il se trouble, crime » : l’ironie révèle une accusation qui condamne d’avance.",
+    "Mouvement 3 : la pièce secrète. Zola rapporte que les juges allaient acquitter et dénonce la « pièce secrète » qu’on ne montre pas, comparée ironiquement au « bon dieu invisible et inconnaissable » : « Je la nie, cette pièce, je la nie de toute ma puissance ! »"
+   ]
+  },
+  {
+   "titre": "« C’est un crime… » : la dénonciation de la presse et de l’antisémitisme",
+   "reference": "Quatrième bloc, argumentation (§ 28)",
+   "enjeu": "Comment Zola élargit-il l’affaire Dreyfus à une menace pour toute la nation ?",
+   "mouvements": [
+    "Mouvement 1 : l’anaphore « C’est un crime ». Elle accuse ceux qui se sont appuyés sur « la presse immonde » et sur « la fripouille de Paris », qui ont égaré et « perverti » l’opinion.",
+    "Mouvement 2 : l’antisémitisme et le patriotisme dévoyé. Métaphore du poison (« empoisonner les petits et les humbles »), opposition entre « l’odieux antisémitisme » et « la grande France libérale des droits de l’homme », critique du « sabre » devenu « dieu moderne ».",
+    "Mouvement 3 : l’horizon de la vérité. Opposition entre la haine et « l’œuvre prochaine de vérité et de justice » : Zola inscrit son combat dans le progrès de l’humanité."
+   ]
+  },
+  {
+   "titre": "La péroraison : « J’accuse… »",
+   "reference": "Fin de la lettre (§ 32-44), depuis « Mais cette lettre est longue, monsieur le Président »",
+   "enjeu": "Comment la conclusion fait-elle de l’article un acte d’accusation public et un acte de courage ?",
+   "mouvements": [
+    "Mouvement 1 : l’anaphore « J’accuse ». Huit paragraphes, chacun visant des personnes nommées, avec des termes juridiques et moraux (« ouvrier diabolique de l’erreur judiciaire », « crime de lèse-humanité », « enquête scélérate ») : l’écrivain se fait procureur.",
+    "Mouvement 2 : l’acceptation du risque. Référence précise à la loi sur la presse de 1881 ; « c’est volontairement que je m’expose » ; Zola affirme n’avoir « ni rancune ni haine » : il agit pour des principes, non par vengeance.",
+    "Mouvement 3 : le défi final. Profession de foi (« Je n’ai qu’une passion, celle de la lumière »), appel au procès « au grand jour », puis deux mots : « J’attends. » La brièveté donne une force considérable à la conclusion."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "« J’accuse…! » : lettre ouverte de Zola au président Félix Faure, publiée à la une de L’Aurore le 13 janvier 1898.",
+   "Contexte : affaire Dreyfus ; un officier juif condamné à tort en 1894, le vrai coupable (Esterhazy) acquitté en janvier 1898.",
+   "Structure : exorde au président, récit (procès de 1894, affaire Esterhazy), argumentation, péroraison en anaphore « J’accuse ».",
+   "Thèmes : vérité et justice, erreur judiciaire, raison d’État, antisémitisme, rôle de la presse, engagement de l’écrivain.",
+   "Formules à connaître : « La vérité est en marche, et rien ne l’arrêtera » ; « J’attends ».",
+   "Zola provoque volontairement un procès en diffamation pour que la vérité éclate : il est condamné et s’exile.",
+   "Le texte fait naître la figure de l’intellectuel engagé ; Dreyfus est réhabilité en 1906.",
+   "Zola allie convaincre (récit précis, raisonnement) et persuader (indignation, ironie, anaphore)."
+  ],
+  "citations": [
+   1,
+   2,
+   3,
+   6,
+   8,
+   9,
+   12,
+   13,
+   16
+  ],
+  "pieges": [
+   "Dreyfus est innocent ; le coupable est Esterhazy.",
+   "La lettre ne libère pas Dreyfus : réhabilitation en 1906 seulement.",
+   "Zola est condamné et s’exile en Angleterre (1898-1899).",
+   "« J’accuse…! » est une lettre ouverte : le vrai destinataire est l’opinion publique."
+  ],
+  "synthese": "« J’accuse…! » (L’Aurore, 13 janvier 1898) est la lettre ouverte de Zola au président Félix Faure après l’acquittement d’Esterhazy. Zola raconte l’erreur judiciaire de 1894, montre qu’elle est devenue un crime de l’état-major (« le second est forcément criminel »), dénonce la presse et l’antisémitisme, puis accuse nommément les responsables. Il s’expose volontairement à un procès pour diffamation afin que la vérité éclate. Condamné, il s’exile ; Dreyfus sera réhabilité en 1906. Le texte reste le modèle de l’engagement de l’intellectuel : « La vérité est en marche »."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Lettre ouverte",
+   "definition": "Lettre adressée à une personne mais publiée pour être lue par tous. « J’accuse…! » est adressée au président, mais vise l’opinion publique."
+  },
+  {
+   "terme": "Anaphore",
+   "definition": "Répétition d’un mot ou d’une expression en début de phrase. Exemple : « J’accuse… », « C’est un crime… »."
+  },
+  {
+   "terme": "Réquisitoire",
+   "definition": "Discours d’accusation (à l’origine celui du procureur). La fin de la lettre est un réquisitoire contre l’état-major."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Procédé qui fait entendre le contraire de ce qui est dit pour critiquer. Exemple : « il ne se trouble pas, crime ; il se trouble, crime »."
+  },
+  {
+   "terme": "Registre polémique",
+   "definition": "Registre de l’attaque et du combat verbal contre un adversaire. Il domine dans « J’accuse…! »."
+  },
+  {
+   "terme": "Exorde / péroraison",
+   "definition": "Début et conclusion d’un discours. L’exorde de Zola flatte le président ; la péroraison accumule les accusations."
+  },
+  {
+   "terme": "Erreur judiciaire",
+   "definition": "Condamnation d’un innocent par la justice. L’affaire Dreyfus en est l’exemple le plus célèbre en France."
+  },
+  {
+   "terme": "Intellectuel",
+   "definition": "Écrivain, savant ou artiste qui intervient publiquement dans les débats politiques. Le mot se répand au moment de l’affaire Dreyfus."
+  },
+  {
+   "terme": "Antisémitisme",
+   "definition": "Hostilité et discrimination envers les Juifs. Zola dénonce « l’odieux antisémitisme » qui a contribué à la condamnation de Dreyfus."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Dans quel journal paraît « J’accuse…! » ?",
+   "choix": [
+    "Le Figaro",
+    "L’Aurore",
+    "La Libre Parole",
+    "Le Temps"
+   ],
+   "reponse": 1,
+   "explication": "La lettre paraît à la une de L’Aurore le 13 janvier 1898."
+  },
+  {
+   "question": "À qui la lettre est-elle adressée ?",
+   "choix": [
+    "Au ministre de la Guerre",
+    "Au capitaine Dreyfus",
+    "Au président Félix Faure",
+    "Aux juges du conseil de guerre"
+   ],
+   "reponse": 2,
+   "explication": "Le texte s’ouvre sur « Monsieur le Président » : c’est une lettre au président de la République, Félix Faure."
+  },
+  {
+   "question": "Quel événement déclenche l’écriture de la lettre ?",
+   "choix": [
+    "L’arrestation de Dreyfus",
+    "L’acquittement d’Esterhazy",
+    "La mort de Dreyfus",
+    "La découverte du bordereau"
+   ],
+   "reponse": 1,
+   "explication": "Esterhazy, le vrai coupable, est acquitté par un conseil de guerre le 11 janvier 1898."
+  },
+  {
+   "question": "Où Dreyfus est-il déporté ?",
+   "choix": [
+    "En Algérie",
+    "À l’île du Diable",
+    "En Nouvelle-Calédonie",
+    "À l’île d’Elba"
+   ],
+   "reponse": 1,
+   "explication": "Il est déporté à l’île du Diable, au large de la Guyane."
+  },
+  {
+   "question": "À qui attribue-t-on le titre « J’accuse…! » ?",
+   "choix": [
+    "Zola",
+    "Clemenceau",
+    "Picquart",
+    "Jaurès"
+   ],
+   "reponse": 1,
+   "explication": "Le titre est attribué à Georges Clemenceau, alors éditorialiste à L’Aurore."
+  },
+  {
+   "question": "Quelle figure de style structure la fin de la lettre ?",
+   "choix": [
+    "La métaphore",
+    "L’anaphore",
+    "L’oxymore",
+    "La litote"
+   ],
+   "reponse": 1,
+   "explication": "Chaque paragraphe commence par « J’accuse » : c’est une anaphore."
+  },
+  {
+   "question": "Quelle conséquence la lettre a-t-elle pour Zola ?",
+   "choix": [
+    "Il est élu député",
+    "Il est condamné pour diffamation et s’exile en Angleterre",
+    "Il est décoré de la Légion d’honneur",
+    "Il devient ministre"
+   ],
+   "reponse": 1,
+   "explication": "Condamné à un an de prison et 3 000 francs d’amende, il s’exile en Angleterre (1898-1899)."
+  },
+  {
+   "question": "En quelle année Dreyfus est-il réhabilité ?",
+   "choix": [
+    "1898",
+    "1899",
+    "1902",
+    "1906"
+   ],
+   "reponse": 3,
+   "explication": "La Cour de cassation réhabilite Dreyfus en 1906 ; il est réintégré dans l’armée."
+  },
+  {
+   "question": "Combien de paragraphes commencent par « J’accuse » ?",
+   "choix": [
+    "Trois",
+    "Cinq",
+    "Huit",
+    "Douze"
+   ],
+   "reponse": 2,
+   "explication": "Huit paragraphes (§ 33 à 40 du texte du site), de du Paty de Clam aux deux conseils de guerre."
+  },
+  {
+   "question": "Qui découvre que l’écriture du bordereau est celle d’Esterhazy ?",
+   "choix": [
+    "Le général Mercier",
+    "Le lieutenant-colonel Picquart",
+    "Le commandant du Paty de Clam",
+    "Félix Faure"
+   ],
+   "reponse": 1,
+   "explication": "Picquart, chef du bureau des renseignements, découvre la vérité ; ses chefs l’écartent."
+  },
+  {
+   "question": "Quelle loi Zola cite-t-il pour montrer qu’il s’expose volontairement ?",
+   "choix": [
+    "La loi de séparation des Églises et de l’État (1905)",
+    "La loi sur la presse du 29 juillet 1881",
+    "Le Code civil de 1804",
+    "La loi sur l’école de 1882"
+   ],
+   "reponse": 1,
+   "explication": "Il se met « sous le coup des articles 30 et 31 de la loi sur la presse du 29 juillet 1881 », qui punit la diffamation."
+  },
+  {
+   "question": "Quelle figure domine la phrase « il ne se trouble pas, crime ; il se trouble, crime » ?",
+   "choix": [
+    "L’ironie (raisonnement par l’absurde)",
+    "La litote",
+    "L’euphémisme",
+    "La prosopopée"
+   ],
+   "reponse": 0,
+   "explication": "En montrant que deux attitudes contraires ont été retenues contre Dreyfus, Zola révèle l’absurdité de l’accusation."
+  },
+  {
+   "question": "Comment se termine la lettre, avant la formule de politesse ?",
+   "choix": [
+    "« Vive la République ! »",
+    "« J’attends. »",
+    "« Justice sera faite. »",
+    "« Je pars en exil. »"
+   ],
+   "reponse": 1,
+   "explication": "Après le défi « Qu’on ose donc me traduire en cour d’assises », Zola écrit seulement : « J’attends. »"
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Project Gutenberg n° 76045 – Zola, « J’accuse…! » (texte du site)",
+   "url": "https://www.gutenberg.org/ebooks/76045"
+  },
+  {
+   "titre": "Wikisource – Anatole France, Éloge funèbre d’Émile Zola (Cahiers de la Quinzaine, 1902)",
+   "url": "https://fr.wikisource.org/wiki/%C3%89loge_fun%C3%A8bre_d%E2%80%99%C3%89mile_Zola"
+  },
+  {
+   "titre": "Wikisource – Zola, Lettre à la France (Fasquelle, 1898)",
+   "url": "https://fr.wikisource.org/wiki/Lettre_%C3%A0_la_France_(Zola,_%C3%A9d._1898)"
+  }
+ ],
+ "aVerifier": [
+  "Tirage de L’Aurore le 13 janvier 1898 (souvent évalué à environ 300 000 exemplaires) : chiffre transmis par l’histoire de l’Affaire, non vérifié ici.",
+  "Attribution du titre « J’accuse…! » à Clemenceau : tradition largement admise, non attestée dans le texte lui-même.",
+  "Date exacte de la brochure Lettre à la France (début janvier 1898)."
+ ]
+}

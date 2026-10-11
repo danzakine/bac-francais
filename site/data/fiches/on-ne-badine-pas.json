@@ -1,0 +1,1078 @@
+{
+ "id": "on-ne-badine-pas",
+ "accroche": "Deux cousins qui s’aiment mais refusent de l’avouer, des jeux de dépit de plus en plus cruels, et une innocente sacrifiée : on ne badine pas avec l’amour.",
+ "identite": {
+  "auteur": "Alfred de Musset (1810-1857), né à Paris dans une famille cultivée, se fait connaître très jeune dans les cénacles romantiques : il publie à vingt ans les Contes d’Espagne et d’Italie (1830). Après l’échec de sa comédie La Nuit vénitienne à l’Odéon (1830), il renonce à faire jouer ses pièces et écrit un théâtre destiné à la lecture, réuni sous le titre Un spectacle dans un fauteuil : cette liberté lui permet de multiplier les lieux et de mêler les tons. En 1833-1834, il vit avec la romancière George Sand une liaison passionnée et orageuse, marquée par un voyage à Venise et une rupture douloureuse. Il est aussi l’auteur des Nuits (1835-1837), poèmes lyriques, et de La Confession d’un enfant du siècle (1836). Il meurt en 1857, avant d’avoir vu jouer On ne badine pas avec l’amour.",
+  "contexte": "Musset appartient à la génération née sous l’Empire, qui a grandi dans le rêve de la gloire napoléonienne et se retrouve, après 1815 et sous la monarchie de Juillet (1830-1848), dans une société jugée médiocre, dominée par l’argent et la bourgeoisie. Il décrit ce malaise dans La Confession d’un enfant du siècle : c’est ce qu’on appelle le mal du siècle, fait de désillusion, d’ennui, de doute religieux et de désir d’absolu. Les personnages de la pièce en portent la marque : Perdican ne croit pas « à la vie immortelle », Camille cherche dans le couvent une protection contre la souffrance. L’éducation des filles au couvent, les mariages arrangés pour des raisons d’argent et de rang (le baron, receveur nommé par le roi) appartiennent aussi à cette société.",
+  "mouvement": "La pièce relève du romantisme, qui refuse les règles classiques. Musset abandonne l’unité de lieu (place du village, salon, fontaine, bois, oratoire), l’unité de temps (environ trois jours) et pratique le mélange des genres prôné par Victor Hugo dans la préface de Cromwell (1827) : le grotesque (le baron, Blazius, Bridaine, dame Pluche) côtoie le sublime et le tragique (la mort de Rosette). Le titre est un proverbe : la pièce appartient au genre du proverbe dramatique, courte comédie illustrant une maxime, que Musset transforme en drame. Il emprunte aussi au théâtre antique (le Chœur) et à Shakespeare (fantaisie, mélange des tons), et pratique une prose très lyrique, nourrie d’images de la nature.",
+  "circonstances": "Musset a ébauché la pièce à la fin de 1833 ; le début, d’abord écrit en vers, était resté entre les mains de George Sand à Venise et lui fut renvoyé dans une lettre de Sand expédiée le 17 avril 1834 (S. Jeune, notice de la Pléiade, citée par une ressource Eduscol). La pièce s’écrit ainsi au printemps 1834, au fil de la correspondance entre les deux anciens amants : une formule de la lettre de Sand du 12 mai 1834 se retrouve presque mot pour mot dans la tirade de Perdican (II, 5). Elle paraît dans la Revue des Deux Mondes en 1834 (tome 3, sous-titre « proverbe »), puis la même année dans la seconde série d’Un spectacle dans un fauteuil. Elle n’est créée qu’après la mort de l’auteur, à la Comédie-Française, le 18 novembre 1861, dans une version raccourcie : quelques passages jugés trop hardis, notamment sur la religion, furent supprimés à la demande de la commission d’examen (la censure de l’époque).",
+  "carriere": "On ne badine pas avec l’amour appartient à l’année la plus féconde de Musset : 1834 est aussi l’année de Fantasio et de Lorenzaccio, après Les Caprices de Marianne (1833). La pièce occupe une place centrale dans ses Comédies et proverbes : elle reprend la forme légère du proverbe dramatique, qu’il pratiquera encore avec Il ne faut jurer de rien (1836) ou Il faut qu’une porte soit ouverte ou fermée (1845), mais elle la tire vers le drame. Elle précède de peu les grands poèmes lyriques (Les Nuits) et La Confession d’un enfant du siècle (1836), où l’on retrouve la même méfiance envers l’amour et le même désenchantement. Longtemps lue plutôt que jouée, elle est devenue l’une des pièces les plus représentées du répertoire, notamment depuis la mise en scène de René Clair au TNP de Jean Vilar en 1959."
+ },
+ "resumeCourt": "Le baron a décidé de marier son fils Perdican, vingt et un ans, tout juste reçu docteur à Paris, à sa nièce Camille, dix-huit ans, qui sort du couvent. Les deux jeunes gens se sont aimés enfant, mais Camille se montre glaciale : élevée par des religieuses qui lui ont raconté leurs malheurs d’amour, elle veut prendre le voile pour ne jamais souffrir. Lors d’un dialogue décisif près d’une fontaine, Perdican oppose à cette peur une défense passionnée de l’amour humain, malgré ses blessures. Mais l’orgueil s’en mêle : Perdican, blessé par une lettre où Camille se vante de l’avoir réduit au désespoir, fait la cour à Rosette, une jeune paysanne, sœur de lait de Camille, sous les yeux de celle-ci ; Camille réplique en démasquant devant Rosette les sentiments de Perdican, qui promet alors par dépit d’épouser la jeune fille. Dans un oratoire, Camille et Perdican s’avouent enfin leur amour ; mais Rosette, cachée, a tout entendu et meurt d’un cri. La comédie, commencée dans la fantaisie et le grotesque, s’achève en tragédie : « Elle est morte. Adieu, Perdican ! »",
+ "resume": [
+  {
+   "titre": "Acte I, scène 1 — Le Chœur et les arrivées grotesques",
+   "texte": "Sur la place devant le château, le Chœur, formé des paysans du village, accueille tour à tour deux personnages ridicules : maître Blazius, gouverneur de Perdican, gros, ivrogne, monté sur sa mule, qui annonce le retour du jeune homme, reçu docteur à Paris ; puis dame Pluche, gouvernante de Camille, maigre, acariâtre et dévote, sur son âne, qui annonce l’arrivée de la jeune fille sortie du couvent. Le Chœur commente avec une ironie poétique et formule un vœu qui annonce les enjeux de la pièce : « Puissions-nous retrouver l’enfant dans le cœur de l’homme ! »"
+  },
+  {
+   "titre": "Acte I, scène 2 — Des retrouvailles manquées",
+   "texte": "Le baron présente Blazius à maître Bridaine, le curé, qui remarque aussitôt que le gouverneur « sent le vin ». Il expose son projet : marier son fils et sa nièce, car « leur éducation [lui] coûte six mille écus ». Perdican et Camille arrivent en même temps, par deux portes opposées, comme le baron l’a mis en scène. Perdican est chaleureux ; Camille, froide, refuse d’embrasser son cousin : « L’amitié ni l’amour ne doivent recevoir que ce qu’ils peuvent rendre. » Tandis que Camille admire le portrait d’une grand-tante religieuse, Perdican s’attarde devant une fleur qu’il trouve simplement belle, « voilà tout »."
+  },
+  {
+   "titre": "Acte I, scènes 3 à 5 — Froideur de Camille, retour à l’enfance pour Perdican",
+   "texte": "Le Chœur se moque de la rivalité gloutonne entre les deux prêtres, Blazius et Bridaine. Perdican propose à Camille de revoir les lieux de leur enfance ; elle refuse sèchement : « Je ne suis pas assez jeune pour m’amuser de mes poupées, ni assez vieille pour aimer le passé. » Le baron, consterné, se dispute avec dame Pluche, qu’il traite de « pécore ». Perdican retrouve avec émotion les paysans qui l’ont vu grandir et sa « chère vallée », puis embrasse Rosette, sœur de lait de Camille. Pendant ce temps, Blazius et Bridaine se dénoncent mutuellement au baron comme ivrognes, et l’on rapporte que Perdican fait des ricochets avec une paysanne au bras : le baron se croit « perdu sans ressource »."
+  },
+  {
+   "titre": "Acte II, scènes 1 à 4 — Le refus et les rumeurs",
+   "texte": "Camille annonce à Perdican qu’elle ne veut pas se marier et qu’elle retourne au couvent le lendemain. Perdican, peiné, lui propose de rester au moins amis ; elle refuse de dire pourquoi elle part (« C’est mon secret »). Elle charge pourtant dame Pluche de porter un billet à Perdican. Bridaine, privé de sa place d’honneur à table par Blazius, se lamente comiquement. Perdican se promène avec Rosette, qui lui répond avec bon sens : « Des mots sont des mots et des baisers sont des baisers. » Blazius, ayant vu Camille et Pluche se disputer à propos d’une lettre, fait croire au baron que sa nièce entretient une « correspondance secrète » avec un homme qui courtise une gardeuse de dindons, c’est-à-dire… Perdican lui-même."
+  },
+  {
+   "titre": "Acte II, scène 5 — La scène de la fontaine",
+   "texte": "C’est la grande scène de la pièce. Camille a donné rendez-vous à Perdican près de la petite fontaine de leur enfance. Elle l’embrasse, puis lui révèle qu’elle va prendre le voile et l’interroge comme un juge : a-t-il eu des maîtresses ? combien de temps les a-t-il aimées ? Elle raconte l’histoire de son amie, sœur Louise, trompée par son mari et morte de désespoir, et avoue qu’elle a imaginé toutes ces histoires avec le visage de Perdican : « En vérité, je vous ai aimé, Perdican. » Mais elle veut un amour éternel, sans souffrance : son amant sera le Christ. Perdican s’emporte contre les religieuses qui ont empoisonné son esprit, puis prononce sa célèbre tirade : malgré tous les défauts des hommes et des femmes, « il y a au monde une chose sainte et sublime, c’est l’union de deux de ces êtres si imparfaits et si affreux »."
+  },
+  {
+   "titre": "Acte III, scènes 1 et 2 — La lettre interceptée",
+   "texte": "Le baron chasse Blazius, convaincu de vol de bouteilles. Perdican, troublé, s’interroge dans un monologue : est-il amoureux ? Bridaine profite de la disgrâce de Blazius pour récupérer sa chaise. Blazius, pour se justifier, arrache à dame Pluche une lettre de Camille ; Perdican s’en empare. Malgré ses scrupules, il l’ouvre : Camille y écrit à sœur Louise que « ce pauvre jeune homme a le poignard dans le cœur » à cause de son refus. Blessé dans son orgueil, Perdican décide de prouver qu’il ne souffre pas : il donne rendez-vous à Camille à la fontaine et va chercher Rosette pour lui faire la cour devant elle."
+  },
+  {
+   "titre": "Acte III, scènes 3 à 5 — La bague dans la fontaine",
+   "texte": "Camille, cachée derrière un arbre, assiste à la scène que Perdican joue pour elle. Il déclare son amour à Rosette, lui passe sa chaîne d’or au cou, puis jette dans la fontaine la bague que Camille lui avait donnée, en commentant le reflet troublé de l’eau. Il fait l’éloge de la simplicité de Rosette, opposée aux « pâles statues fabriquées par les nonnes ». Le Chœur s’inquiète pour la jeune paysanne. Camille, bouleversée, refuse soudain de partir et va jusqu’à jurer, au grand scandale de dame Pluche (« Seigneur Jésus ! Camille a juré ! »). Bridaine rapporte au baron que Perdican a promis d’épouser une fille du village."
+  },
+  {
+   "titre": "Acte III, scène 6 — La revanche de Camille",
+   "texte": "Camille a compris que la scène du bois était une vengeance. Elle fait cacher Rosette derrière une tapisserie, puis reçoit Perdican avec coquetterie. Elle lui rend la bague, qu’elle a repêchée dans la fontaine, et s’interroge sur le cœur des femmes, forcées de « jouer un rôle ». Perdican lui avoue qu’il l’aime. Camille lève alors la tapisserie : Rosette, qui a tout entendu, s’est évanouie. Camille accuse Perdican d’avoir fait de cette enfant « un appât, un jouet » et le met au défi : « tu m’aimes, entends-tu ; mais tu épouseras cette fille, ou tu n’es qu’un lâche ! » Perdican, piqué, répond qu’il l’épousera."
+  },
+  {
+   "titre": "Acte III, scènes 7 et 8 — De la comédie à la tragédie",
+   "texte": "Le baron s’affole de ce mariage « disproportionné ». Camille raille Perdican, qui maintient son projet par orgueil. Rosette, moquée par le village, vient rendre le collier ; Camille le lui laisse. Puis, voyant Perdican emmener Rosette, Camille chancelle, le fait rappeler, ne parvient pas à parler. Dans l’oratoire, elle prie, désemparée (« pourquoi faites-vous mentir la vérité elle-même ? »). Perdican l’y rejoint et accuse l’orgueil, « le plus fatal des conseillers humains » ; les deux jeunes gens s’avouent enfin leur amour et s’embrassent. Un grand cri retentit derrière l’autel : Rosette les a suivis. Perdican, glacé, supplie Dieu de ne pas faire de lui un meurtrier. Camille revient : « Elle est morte. Adieu, Perdican ! »"
+  }
+ ],
+ "structure": "La pièce compte trois actes en prose (cinq scènes, cinq scènes, puis huit scènes), et son rythme s’accélère dans l’acte III, où les scènes se raccourcissent et se multiplient. L’acte I est une exposition fantaisiste : arrivées grotesques commentées par le Chœur, retrouvailles manquées, premiers refus de Camille. L’acte II est construit autour d’une scène centrale, longue et dense, la scène de la fontaine (II, 5), véritable débat sur l’amour qui révèle les sentiments et les blessures des personnages. L’acte III enchaîne les jeux de dépit et de vengeance, presque symétriques : Perdican joue une scène pour Camille cachée (III, 3), Camille joue une scène pour Rosette cachée (III, 6). La pièce glisse alors de la comédie au drame, jusqu’au dénouement tragique de l’oratoire (III, 8), d’une brièveté saisissante. La pièce alterne aussi deux mondes : celui des grotesques (le baron, Blazius, Bridaine, Pluche), mécanique et comique, et celui des jeunes gens, lyrique et passionné. Le Chœur, présent dans les deux premiers actes, disparaît après III, 4 : signe que la fantaisie cède la place à la tragédie. Le titre, un proverbe, fonctionne comme une morale annoncée d’avance, que le dénouement vérifie cruellement.",
+ "personnages": [
+  {
+   "nom": "Perdican",
+   "role": "Fils du baron, vingt et un ans, il revient de Paris docteur « à quatre boules blanches ». Généreux, sensible à la nature et à son enfance, il a déjà vécu des amours. Il défend l’amour humain contre la peur de Camille, mais son orgueil blessé le pousse à une vengeance cruelle : il utilise Rosette pour rendre Camille jalouse. Il incarne la jeunesse romantique désenchantée, qui ne croit plus guère qu’en l’amour.",
+   "relations": "Fils du baron, cousin et ami d’enfance de Camille, qu’il aime ; il courtise Rosette par dépit. Élève de maître Blazius."
+  },
+  {
+   "nom": "Camille",
+   "role": "Nièce du baron, dix-huit ans, elle sort du couvent. Intelligente, fière, exigeante, elle a été marquée par les récits de religieuses malheureuses en amour. Elle veut « aimer d’un amour éternel » sans souffrir et préfère Dieu à un homme. Mais elle aime Perdican depuis l’enfance ; par orgueil et par jeu, elle le pousse à bout et provoque, sans le vouloir, la catastrophe.",
+   "relations": "Nièce du baron, cousine de Perdican ; sœur de lait de Rosette ; confidente de sœur Louise au couvent ; accompagnée de dame Pluche."
+  },
+  {
+   "nom": "Rosette",
+   "role": "Jeune paysanne, sœur de lait de Camille (elles ont été nourries par la même femme). Simple, sincère, sans instruction, elle croit aux paroles de Perdican. Elle est l’innocente victime du jeu des deux cousins : instrumentalisée, humiliée, elle meurt en découvrant la vérité. Son bon sens (« Des mots sont des mots et des baisers sont des baisers ») contraste avec les discours des deux jeunes nobles.",
+   "relations": "Sœur de lait de Camille, paysanne du village ; courtisée par Perdican pour rendre Camille jalouse ; fiancée par défi au dernier acte."
+  },
+  {
+   "nom": "Le Baron",
+   "role": "Père de Perdican et oncle de Camille, receveur nommé par le roi. Vaniteux, autoritaire et ridicule, il organise tout comme un metteur en scène (« J’ai disposé les choses de manière à tout prévoir ») et s’effondre au moindre imprévu. Ses répétitions (« Cela est impossible ») et ses colères en font un pantin comique.",
+   "relations": "Père de Perdican, oncle de Camille ; employeur de Blazius et de Pluche, ami de Bridaine ; il organise le mariage des deux cousins."
+  },
+  {
+   "nom": "Maître Blazius",
+   "role": "Gouverneur (précepteur) de Perdican, prêtre, gros et ivrogne. Il se vante de son élève, dénonce Bridaine, puis Camille, pour se faire valoir. Ses mensonges maladroits (« un coup de vin, je veux dire un verre d’eau ») sont très comiques. Il incarne la satire de l’éducation et du clergé.",
+   "relations": "Gouverneur de Perdican ; rival de Bridaine pour la table du baron ; espionne Camille et Pluche."
+  },
+  {
+   "nom": "Maître Bridaine",
+   "role": "Curé de la paroisse, gourmand et jaloux de Blazius, avec qui il forme un duo symétrique de grotesques. Son monologue sur la place perdue à table (II, 2) est une parodie de lamentation tragique. Il espionne Perdican et rapporte tout au baron.",
+   "relations": "Curé de la paroisse, rival de Blazius ; espionne Perdican et Rosette pour le baron."
+  },
+  {
+   "nom": "Dame Pluche",
+   "role": "Gouvernante de Camille, vieille fille maigre, dévote et prude. Elle incarne une morale religieuse étroite et ridicule (« une jeune fille qui se respecte ne se hasarde pas sur les pièces d’eau »). Elle est la messagère malgré elle des lettres de Camille.",
+   "relations": "Gouvernante de Camille ; messagère des lettres de sa maîtresse ; en conflit avec le baron et Blazius."
+  },
+  {
+   "nom": "Le Chœur",
+   "role": "Groupe de paysans, inspiré du chœur antique. Il commente l’action avec humour et poésie, se moque des grotesques, accueille Perdican avec tendresse et s’inquiète pour Rosette. Il représente la voix du village, du bon sens et parfois du destin ; il disparaît au moment où la pièce bascule dans le tragique.",
+   "relations": "Les paysans du village, qui ont vu grandir Perdican et connaissent Rosette ; ils commentent les arrivées et les manies des grotesques."
+  },
+  {
+   "nom": "Sœur Louise (personnage évoqué)",
+   "role": "Religieuse amie de Camille, absente de la scène. Mariée, trompée, puis malheureuse dans un autre amour, elle a transmis à Camille sa peur de l’amour. La lettre de Camille qui lui est destinée déclenche la vengeance de Perdican.",
+   "relations": "Religieuse du couvent de Camille, qui partage sa cellule ; destinataire de la lettre interceptée par Perdican (III, 2)."
+  }
+ ],
+ "evolution": "La pièce suit une courbe qui va de la fantaisie à la catastrophe. Au début, Camille est froide et sûre d’elle : elle refuse le baiser (I, 2), les souvenirs (I, 3), le mariage (II, 1). À la fontaine (II, 5), sa carapace se fissure : elle avoue « je vous ai aimé », mais maintient son choix du couvent. Après la scène du bois (III, 3), elle ne veut plus partir, et c’est elle qui mène le jeu en III, 6, avant de s’effondrer en prière dans l’oratoire (III, 8). Perdican, d’abord enthousiaste et tendre, devient amer après le refus, puis blessé dans son orgueil par la lettre interceptée (III, 2) : il se fait manipulateur avec Rosette, puis s’enferme dans un défi (« Oui, je l’épouserai »), avant de reconnaître trop tard que l’orgueil les a perdus. Rosette passe de la simplicité joyeuse à l’humiliation (le village se moque d’elle, III, 7), puis à la mort. Les grotesques, eux, n’évoluent pas : ils répètent leurs manies, et le Chœur disparaît après III, 4, signe que la comédie se retire. Le mouvement d’ensemble va donc d’une comédie des masques à une tragédie de la sincérité : l’aveu « nous nous aimons » arrive au moment même où il tue.",
+ "themes": [
+  {
+   "titre": "L’orgueil, « le plus fatal des conseillers humains »",
+   "texte": "L’orgueil est le véritable obstacle entre Camille et Perdican. Dès l’acte II, Perdican avertit Camille : « Tu es une orgueilleuse ; prends garde à toi. » Camille, de son côté, refuse d’avouer ses sentiments et se vante, dans sa lettre à Louise, d’avoir mis Perdican au désespoir. Perdican, blessé par cette lettre, se venge avec Rosette, et Camille le lui jette au visage : « Cela t’a blessé dans ton noble orgueil ? » (III, 6). Au dénouement, il comprend trop tard : « Orgueil, le plus fatal des conseillers humains, qu’es-tu venu faire entre cette fille et moi ? » (III, 8). Le titre de la pièce résume cette leçon : vouloir dominer en amour mène au désastre."
+  },
+  {
+   "titre": "Le badinage : jouer avec l’amour",
+   "texte": "Badiner, c’est plaisanter, jouer avec légèreté. Les deux cousins transforment l’amour en jeu d’épreuves et de défis : Camille interroge Perdican comme un examinateur (II, 5) ; Perdican monte une scène de séduction pour Camille cachée (III, 3) ; Camille organise une contre-scène avec Rosette derrière la tapisserie (III, 6). Rosette devient « un appât, un jouet ». La bague jetée dans la fontaine puis repêchée symbolise ce jeu dangereux avec les gages de l’amour. Perdican le reconnaît : « nous sommes deux enfants insensés, et nous avons joué avec la vie et la mort » (III, 8). Le jeu, qui faisait rire, finit par tuer."
+  },
+  {
+   "titre": "La parole : sincérité, mensonge et manipulation",
+   "texte": "La pièce interroge sans cesse la valeur des mots. Rosette rappelle que « Des mots sont des mots et des baisers sont des baisers » (II, 3). Camille répète peut-être une leçon apprise au couvent (« je ne sois qu’un perroquet mal appris », II, 5). Perdican déclare son amour à Rosette pour être entendu de Camille : sa parole a deux destinataires. Camille avoue que les femmes doivent « souvent jouer un rôle, souvent mentir » et demande si « tout mente dans une femme, lorsque sa langue ment » (III, 6). Les lettres (le billet, la lettre à Louise interceptée) circulent et provoquent des malentendus. Camille, en prière, finit par demander à Dieu : « pourquoi faites-vous mentir la vérité elle-même ? »"
+  },
+  {
+   "titre": "Amour humain et amour divin",
+   "texte": "Camille veut « aimer d’un amour éternel, et faire des serments qui ne se violent pas » : elle montre son crucifix, « Voilà mon amant » (II, 5). Le couvent représente pour elle un refuge contre la souffrance amoureuse, dont les religieuses lui ont fait des récits terribles. Perdican conteste violemment cette vocation, qu’il juge empruntée : il dénonce « le mensonge de l’amour divin » et affirme que les nonnes ne sont pas guéries de l’amour humain. À ses yeux, l’amour terrestre, même imparfait, est la seule chose « sainte et sublime ». Le dénouement dans un oratoire, sous le regard de Dieu, rend cette opposition tragique : c’est là que les amants s’avouent leur amour et que Rosette meurt."
+  },
+  {
+   "titre": "L’enfance, la nature et le temps perdu",
+   "texte": "Perdican revient sur les lieux de son enfance avec une nostalgie lyrique : « Voilà donc ma chère vallée ! mes noyers, mes sentiers verts, ma petite fontaine ! » (I, 4). Il constate le passage du temps (« Comme ce lavoir est petit ! ») et préfère la sagesse de la nature au savoir des livres : la plus belle des sciences est « l’oubli de ce qu’on sait ». Camille, elle, rejette ce passé : « Je ne suis pas assez jeune pour m’amuser de mes poupées, ni assez vieille pour aimer le passé. » La fontaine, lieu des jeux d’enfants, devient le décor des affrontements. Le Chœur formulait le vœu de « retrouver l’enfant dans le cœur de l’homme » : la pièce montre plutôt la perte de l’innocence."
+  },
+  {
+   "titre": "Le grotesque et la satire",
+   "texte": "Le baron, Blazius, Bridaine et dame Pluche sont des caricatures : obsession de la nourriture et du vin chez les deux prêtres, symétriques jusqu’à l’absurde (« tous deux ont pour ventre un tonneau », dit le Chœur) ; pruderie de Pluche ; vanité et aveuglement du baron, qui répète « Cela est impossible » et voit tout s’écrouler (« Tout est perdu ! »). Musset fait ainsi la satire de l’autorité paternelle, de l’éducation (« leur éducation me coûte six mille écus ») et d’un clergé gourmand et menteur. Ces personnages-pantins, enfermés dans leurs manies, contrastent avec la profondeur des jeunes gens et rendent plus brutal le basculement final."
+  },
+  {
+   "titre": "Une victime sociale : Rosette",
+   "texte": "Rosette est une paysanne, sans instruction (« Tu ne sais pas lire »), et c’est pour cela qu’elle peut être utilisée. Perdican idéalise sa simplicité, mais la manipule ; Camille la protège en paroles mais la fait cacher pour s’en servir comme preuve. Le baron juge ce mariage « disproportionné », et Camille la traite de « fille de rien ». Rosette est aussi humiliée par le village, où « on se moque » d’elle (III, 7). Sa mort montre la violence d’un jeu aristocratique dont les plus faibles paient le prix, et donne à la pièce une dimension sociale."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Peut-on aimer sans risquer de souffrir ? Camille veut un amour éternel et sans blessure ; Perdican défend un amour imparfait mais vécu.",
+   "Pourquoi deux êtres qui s’aiment n’arrivent-ils pas à se le dire ? L’obstacle n’est pas extérieur (le baron veut ce mariage) mais intérieur : l’orgueil et la peur d’être trompé.",
+   "Que valent les mots ? La pièce montre des paroles apprises, des lettres interceptées, des déclarations adressées à une autre : la parole amoureuse est un jeu dangereux.",
+   "Qui paie le prix du jeu ? Rosette, la paysanne qui prend les mots au sérieux, est la victime d’un badinage aristocratique.",
+   "Comédie ou tragédie ? La pièce commence comme une comédie de mariage arrangé et finit par une mort."
+  ],
+  "intentions": "Musset n’a écrit ni préface ni manifeste pour cette pièce ; ses intentions ne peuvent être établies que par quelques documents. On sait d’abord qu’après l’échec de La Nuit vénitienne (1830), il a choisi d’écrire pour la lecture (Un spectacle dans un fauteuil) : la pièce n’a pas été conçue pour les contraintes de la scène. On sait aussi qu’il a repris dans la tirade de Perdican une formule de la lettre que George Sand lui envoya de Venise le 12 mai 1834 (« j’ai souffert souvent, je me suis trompé quelquefois mais j’ai aimé ») : les mots d’une femme deviennent ceux d’un homme. Une lettre de Musset à la princesse Belgiojoso, citée par Eduscol, éclaire ce procédé : pour déguiser des personnages réels, il conseille de « changer les sexes » et dit l’avoir déjà essayé. Il serait donc imprudent de lire la pièce comme le simple récit de sa liaison avec Sand, mais la correspondance des deux amants en est une source documentée. (Sources : ressource Eduscol « On ne badine pas avec l’amour : la forme d’une pièce », juin 2025 ; Encyclopædia Universalis, fiche de lecture.)",
+  "procedes": [
+   {
+    "nom": "Le mélange des registres",
+    "explication": "Les scènes des grotesques, comiques et mécaniques, alternent avec les scènes lyriques ou pathétiques des jeunes gens : le rire et la souffrance se côtoient, ce qui rend la fin plus brutale.",
+    "exemple": "Le monologue de Bridaine qui pleure sa place à table (II, 2) précède de peu le grand débat de la fontaine (II, 5)."
+   },
+   {
+    "nom": "Le dispositif du personnage caché (théâtre dans le théâtre)",
+    "explication": "Un personnage écoute en secret une scène jouée pour lui ou contre lui : la parole a plusieurs destinataires, et le spectateur en sait plus que certains personnages.",
+    "exemple": "Camille cachée derrière un arbre pendant que Perdican courtise Rosette « à haute voix, de manière que Camille l’entende » (III, 3) ; Rosette cachée derrière la tapisserie (III, 6) ; Rosette derrière l’autel (III, 8)."
+   },
+   {
+    "nom": "La tirade argumentative et lyrique",
+    "explication": "Une longue réplique construite comme un discours : accumulations, oppositions, connecteur « mais » qui renverse l’argument, prosopopée finale.",
+    "exemple": "Perdican à la fin de II, 5 : « Tous les hommes sont menteurs, inconstants, faux, bavards… » puis « mais il y a au monde une chose sainte et sublime »."
+   },
+   {
+    "nom": "Les objets symboliques",
+    "explication": "Des objets concrets portent le sens du jeu amoureux : leur circulation montre l’évolution des rapports entre les personnages.",
+    "exemple": "La bague de Camille jetée dans la fontaine puis rendue comme un « hochet » (III, 3 et III, 6) ; la chaîne d’or passée au cou de Rosette ; les lettres interceptées."
+   },
+   {
+    "nom": "La symétrie et la répétition",
+    "explication": "Les scènes se répondent en miroir, chez les grotesques comme chez les amoureux : la répétition, comique chez les uns, devient fatale chez les autres.",
+    "exemple": "Blazius et Bridaine se dénoncent l’un l’autre au baron (I, 5) ; la mise en scène de Perdican (III, 3) appelle la contre-mise en scène de Camille (III, 6)."
+   },
+   {
+    "nom": "Le Chœur",
+    "explication": "Hérité de la tragédie grecque mais composé de paysans familiers, il présente les personnages, se moque des grotesques et s’inquiète pour Rosette ; sa disparition marque le basculement tragique.",
+    "exemple": "I, 1 : portraits de Blazius « pareil à une amphore antique » et de Pluche ; III, 4 : dernière intervention du Chœur."
+   }
+  ],
+  "style": "Musset écrit en prose, mais une prose très travaillée, souvent poétique. Les jeunes gens parlent une langue lyrique, riche en images de la nature (la fontaine, le vert sentier, la perle, les cercles noirs sur l’eau), en apostrophes et en exclamations ; leurs grandes répliques ont un rythme oratoire (accumulations, anaphores, phrases balancées). Les grotesques parlent au contraire une langue mécanique : formules répétées (« Cela est impossible »), lapsus révélateurs (Blazius : « un coup de vin, je veux dire un verre d’eau »), latin de cuisine, hyperboles ridicules. Le Chœur mêle la poésie (portraits imagés) et la moquerie familière. Le dialogue des amoureux passe de la stichomythie (l’interrogatoire de la fontaine) à la tirade, et du vouvoiement au tutoiement quand l’émotion déborde (III, 6). La fin est d’une sobriété saisissante : deux phrases courtes de Camille.",
+  "registres": [
+   {
+    "nom": "Comique",
+    "explication": "Comique de caractère et de répétition chez les grotesques (le baron, Blazius, Bridaine, Pluche), comique de situation (Blazius qui accuse Camille d’une « correspondance secrète »)."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "Expression des sentiments et de la nostalgie de l’enfance : Perdican devant sa « chère vallée » (I, 4), l’aveu de l’oratoire (III, 8)."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Les souffrances des religieuses racontées par Camille, l’humiliation de Rosette moquée par le village (III, 7), la prière désespérée de Perdican."
+   },
+   {
+    "nom": "Tragique",
+    "explication": "L’orgueil agit comme une fatalité ; l’aveu d’amour provoque la mort de Rosette ; les amants se séparent pour toujours (III, 8)."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Satire de l’éducation des filles au couvent, d’un clergé gourmand et menteur, de l’autorité paternelle et des préjugés sociaux (le mariage « disproportionné »)."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "La tirade de Perdican reprend une phrase de la lettre de George Sand du 12 mai 1834 ; le lien entre la pièce et la liaison Sand-Musset est donc documenté, au moins pour ce passage.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Faut-il lire Camille et Perdican comme des portraits de Sand et de Musset ? Les rapprochements sont tentants, mais Musset déplace les mots (une femme écrit, un homme parle) et invente une intrigue toute différente : la lecture autobiographique reste une hypothèse partielle.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Rosette peut être lue comme la victime d’un jeu aristocratique : sa condition de paysanne illettrée la rend manipulable, et c’est elle qui meurt. Cette lecture sociale s’appuie sur le texte (« fille de rien », mariage « disproportionné »), mais Musset ne développe pas de discours politique explicite.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Rosette meurt-elle de chagrin, d’un saisissement, ou se donne-t-elle la mort ? Le texte ne le dit pas : on entend seulement « un grand cri derrière l’autel », puis Camille annonce sa mort.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La pièce critique l’éducation religieuse des jeunes filles : Perdican accuse les nonnes d’avoir empoisonné l’esprit de Camille. Certains passages anticléricaux ont d’ailleurs été supprimés pour la représentation de 1861, selon l’édition Charpentier.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "La pièce est une œuvre romantique par son refus des règles classiques (plusieurs lieux, environ trois jours), par le mélange du grotesque et du sublime, par son lyrisme et par le désenchantement de ses héros, marqués par le mal du siècle (Perdican ne croit pas « à la vie immortelle »). Elle doit beaucoup à Shakespeare, admiré des romantiques, pour la fantaisie et le mélange des tons, et au théâtre antique pour le Chœur. Mais elle s’inscrit aussi dans la tradition française de la comédie amoureuse : le titre-proverbe vient d’un genre de salon du XVIIIe siècle, et les joutes verbales des amoureux rappellent le marivaudage. Musset transforme cette tradition légère en drame : le badinage, ressort de la comédie, devient le ressort de la fatalité."
+ },
+ "citations": [
+  {
+   "texte": "Puissions-nous retrouver l’enfant dans le cœur de l’homme !",
+   "locuteur": "Le Chœur (à maître Blazius)",
+   "reference": "Acte I, scène 1",
+   "situation": "Le Chœur accueille Blazius, qui vient annoncer le retour de Perdican, reçu docteur.",
+   "sens": "Les paysans espèrent que le jeune homme instruit n’aura pas perdu l’enfant qu’ils ont connu.",
+   "procedes": "Phrase exclamative au subjonctif de souhait ; antithèse « enfant » / « homme ».",
+   "demontre": "Le thème de l’enfance et du temps perdu, annoncé dès la première scène ; la pièce démentira ce vœu.",
+   "usage": "Introduction ou conclusion sur l’enfance ; fonction du Chœur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "L’amitié ni l’amour ne doivent recevoir que ce qu’ils peuvent rendre.",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte I, scène 2",
+   "situation": "Retrouvailles organisées par le baron : Perdican veut embrasser sa cousine, qui refuse.",
+   "sens": "On ne doit accepter un geste d’affection que si l’on peut y répondre.",
+   "procedes": "Maxime au présent de vérité générale ; tournure restrictive « ne… que ».",
+   "demontre": "Dès sa première vraie réplique, Camille raisonne au lieu de sentir : sa froideur est une défense.",
+   "usage": "Portrait de Camille ; parole apprise et figée.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Je ne suis pas assez jeune pour m’amuser de mes poupées, ni assez vieille pour aimer le passé.",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte I, scène 3",
+   "situation": "Perdican propose à Camille de revoir les lieux de leur enfance.",
+   "sens": "Camille refuse à la fois l’enfance et la nostalgie.",
+   "procedes": "Parallélisme et antithèse « jeune » / « vieille » ; double négation.",
+   "demontre": "Camille ferme la porte au terrain affectif où Perdican veut l’entraîner.",
+   "usage": "Thème de l’enfance ; échec des retrouvailles.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "ces arbres et ces prairies enseignent à haute voix la plus belle de toutes, l’oubli de ce qu’on sait.",
+   "locuteur": "Perdican (au Chœur)",
+   "reference": "Acte I, scène 4",
+   "situation": "Perdican retrouve les paysans de son enfance et compare son savoir de docteur à la leçon de la nature.",
+   "sens": "La plus belle des sciences est d’oublier les livres.",
+   "procedes": "Paradoxe ; personnification de la nature qui « enseigne ».",
+   "demontre": "Perdican se place du côté de la vie, de la nature et de la sensibilité, contre le savoir appris.",
+   "usage": "Romantisme et nature ; opposer Perdican à Camille, qui répète les leçons du couvent.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Des mots sont des mots et des baisers sont des baisers.",
+   "locuteur": "Rosette (à Perdican)",
+   "reference": "Acte II, scène 3",
+   "situation": "Perdican se promène avec Rosette et lui parle d’amour avec des phrases brillantes.",
+   "sens": "Pour Rosette, les paroles et les gestes sont deux choses distinctes.",
+   "procedes": "Chiasme et répétitions ; phrase simple, presque proverbiale.",
+   "demontre": "Rosette sépare les mots des actes, mais elle finira par croire aux mots de Perdican.",
+   "usage": "Parcours « Les jeux du cœur et de la parole » : valeur des mots.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Si je vous épousais, ne devriez-vous pas répondre avec franchise à toutes mes questions, et me montrer votre cœur à nu ?",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte II, scène 5",
+   "situation": "Au début de la scène de la fontaine, Camille justifie l’interrogatoire qu’elle fait subir à son cousin.",
+   "sens": "Camille réclame une sincérité totale.",
+   "procedes": "Question rhétorique ; métaphore du « cœur à nu » ; système hypothétique.",
+   "demontre": "Le rêve de transparence des deux cousins, qui contraste avec leurs dissimulations.",
+   "usage": "Dissertation sur la sincérité ; analyse de l’interrogatoire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Je veux aimer, mais je ne veux pas souffrir ; je veux aimer d’un amour éternel, et faire des serments qui ne se violent pas.",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte II, scène 5",
+   "situation": "Camille explique pourquoi elle choisit le couvent ; elle montre ensuite son crucifix : « Voilà mon amant. »",
+   "sens": "Camille veut un amour absolu, éternel et sans souffrance.",
+   "procedes": "Anaphore « je veux » ; antithèse « aimer » / « souffrir ».",
+   "demontre": "Le cœur du personnage : la peur de souffrir la pousse vers l’amour divin.",
+   "usage": "Opposer à la tirade finale de Perdican.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Est-ce donc une monnaie que votre amour, pour qu’il puisse passer ainsi de mains en mains jusqu’à la mort ?",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte II, scène 5",
+   "situation": "Camille reproche à Perdican ses maîtresses passées.",
+   "sens": "Un amour qui passe d’une personne à l’autre perd sa valeur.",
+   "procedes": "Métaphore filée de la monnaie ; question rhétorique.",
+   "demontre": "L’exigence d’absolu de Camille et sa méfiance envers l’inconstance masculine.",
+   "usage": "Analyse de la scène de la fontaine ; image à commenter.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Tous les hommes sont menteurs, inconstants, faux, bavards, hypocrites, orgueilleux ou lâches, méprisables et sensuels ; toutes les femmes sont perfides, artificieuses, vaniteuses, curieuses et dépravées",
+   "locuteur": "Perdican (à Camille)",
+   "reference": "Acte II, scène 5",
+   "situation": "Début de la dernière tirade de l’acte : Perdican donne à Camille une réponse à opposer aux récits des religieuses.",
+   "sens": "Hommes et femmes ont tous des défauts.",
+   "procedes": "Double accumulation d’adjectifs péjoratifs ; parallélisme « Tous les hommes » / « toutes les femmes ».",
+   "demontre": "Le pessimisme apparent prépare le renversement (« mais il y a au monde une chose sainte et sublime »).",
+   "usage": "Étude de la tirade ; argumentation par concession.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Corrigé d’après le texte du site : « orgueilleux ou lâches » (et non « et lâches »)."
+   }
+  },
+  {
+   "texte": "mais il y a au monde une chose sainte et sublime, c’est l’union de deux de ces êtres si imparfaits et si affreux.",
+   "locuteur": "Perdican (à Camille)",
+   "reference": "Acte II, scène 5",
+   "situation": "Suite immédiate de l’accumulation péjorative.",
+   "sens": "Malgré leurs défauts, l’union de deux êtres qui s’aiment est sacrée.",
+   "procedes": "Connecteur « mais » ; vocabulaire religieux (« sainte ») appliqué à l’amour humain ; antithèse « sublime » / « affreux ».",
+   "demontre": "Perdican oppose à l’amour divin de Camille un amour humain sacralisé.",
+   "usage": "Thème amour humain / amour divin.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "On est souvent trompé en amour, souvent blessé et souvent malheureux ; mais on aime, et quand on est sur le bord de sa tombe, on se retourne pour regarder en arrière, et on se dit : J’ai souffert souvent, je me suis trompé quelquefois, mais j’ai aimé. C’est moi qui ai vécu, et non pas un être factice créé par mon orgueil et mon ennui.",
+   "locuteur": "Perdican (à Camille)",
+   "reference": "Acte II, scène 5 (fin de l’acte)",
+   "situation": "Conclusion de la tirade et de l’acte II.",
+   "sens": "Mieux vaut un amour imparfait et vécu qu’une vie protégée et factice.",
+   "procedes": "Anaphore de « souvent » ; « mais » qui renverse ; prosopopée du mourant ; antithèse vivre / être factice.",
+   "demontre": "La philosophie de Perdican ; le mot « orgueil » annonce ce qui perdra les deux amants. La phrase reprend presque mot pour mot la lettre de George Sand du 12 mai 1834.",
+   "usage": "Citation clé pour l’oral ; lien avec la biographie (prudemment).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Il a voulu me prouver qu’il en aimait une autre que moi, et jouer l’indifférent malgré son dépit.",
+   "locuteur": "Camille (seule)",
+   "reference": "Acte III, scène 6",
+   "situation": "Camille comprend que la scène du bois était une vengeance de Perdican.",
+   "sens": "Camille devine que Perdican joue un rôle pour la blesser.",
+   "procedes": "Monologue ; vocabulaire du jeu (« jouer l’indifférent ») ; antithèse indifférence / dépit.",
+   "demontre": "Les deux cousins lisent le jeu de l’autre et y répondent par un autre jeu.",
+   "usage": "Théâtre dans le théâtre ; montée de l’orgueil.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Sans doute, il nous faut souvent jouer un rôle, souvent mentir ; vous voyez que je suis franche ; mais êtes-vous sûr que tout mente dans une femme, lorsque sa langue ment ?",
+   "locuteur": "Camille (à Perdican, Rosette étant cachée)",
+   "reference": "Acte III, scène 6",
+   "situation": "Camille, qui a caché Rosette, provoque Perdican et parle de la condition des femmes.",
+   "sens": "La société oblige les femmes à mentir, mais leurs mots ne disent pas tout ce qu’elles sont.",
+   "procedes": "Paradoxe (avouer franchement qu’on ment) ; question rhétorique ; personnification de la langue.",
+   "demontre": "La pièce réfléchit à l’écart entre la parole et le cœur.",
+   "usage": "Parcours « Les jeux du cœur et de la parole ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "tu m’aimes, entends-tu ; mais tu épouseras cette fille, ou tu n’es qu’un lâche !",
+   "locuteur": "Camille (à Perdican)",
+   "reference": "Acte III, scène 6",
+   "situation": "Camille vient de montrer Rosette évanouie derrière la tapisserie.",
+   "sens": "Camille met Perdican au défi d’épouser Rosette.",
+   "procedes": "Passage au tutoiement ; alternative brutale « ou » ; exclamation.",
+   "demontre": "L’orgueil transforme l’aveu en défi : Rosette devient l’enjeu d’une guerre entre les cousins.",
+   "usage": "Moment du basculement ; responsabilité de Camille.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Orgueil, le plus fatal des conseillers humains, qu’es-tu venu faire entre cette fille et moi ?",
+   "locuteur": "Perdican",
+   "reference": "Acte III, scène 8",
+   "situation": "Dans l’oratoire, Perdican, qui croit Camille seule à prier, se reproche son attitude.",
+   "sens": "L’orgueil est le vrai responsable de leur malheur.",
+   "procedes": "Apostrophe et personnification ; superlatif ; adjectif « fatal » (qui vient du destin).",
+   "demontre": "Le registre devient tragique : l’orgueil joue le rôle de la fatalité.",
+   "usage": "Thème de l’orgueil ; comédie ou tragédie ?",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Insensés que nous sommes ! nous nous aimons.",
+   "locuteur": "Perdican (à Camille)",
+   "reference": "Acte III, scène 8",
+   "situation": "Les deux cousins se retrouvent dans l’oratoire et s’avouent enfin leur amour.",
+   "sens": "Ils comprennent qu’ils s’aimaient depuis toujours et ont été fous de se combattre.",
+   "procedes": "Exclamation ; phrase très courte après une longue lutte verbale.",
+   "demontre": "L’aveu tant retardé arrive enfin… au moment où Rosette l’entend : ironie tragique.",
+   "usage": "Dénouement ; parole qui agit et qui tue.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "nous sommes deux enfants insensés, et nous avons joué avec la vie et la mort",
+   "locuteur": "Perdican (à Dieu)",
+   "reference": "Acte III, scène 8",
+   "situation": "Après le cri de Rosette, Perdican supplie Dieu de ne pas faire de lui un meurtrier.",
+   "sens": "Les deux cousins ont joué comme des enfants avec des choses graves.",
+   "procedes": "Métaphore du jeu ; antithèse « vie » / « mort ».",
+   "demontre": "La leçon du titre : on ne badine pas avec l’amour.",
+   "usage": "Conclusion de dissertation ; lien avec le titre-proverbe.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  },
+  {
+   "texte": "Elle est morte. Adieu, Perdican !",
+   "locuteur": "Camille",
+   "reference": "Acte III, scène 8 (dernière réplique)",
+   "situation": "Camille revient de derrière l’autel, où Rosette a poussé un cri.",
+   "sens": "Rosette est morte ; Camille quitte Perdican pour toujours.",
+   "procedes": "Deux phrases brèves ; constat puis adieu ; sobriété tragique.",
+   "demontre": "Le dénouement tragique vérifie le proverbe du titre.",
+   "usage": "Fin de la pièce ; comparer avec le début comique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Musset, Œuvres complètes, éd. Charpentier (Comédies et proverbes), Project Gutenberg n° 20246, passages de 1834 rétablis",
+    "note": "Texte identique à celui du site (ponctuation modernisée : espace avant ; ! ?)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Les jeux du cœur et de la parole",
+  "explication": "Ce parcours invite à étudier, au théâtre, les liens entre les sentiments amoureux et le langage. Au théâtre, tout passe par la parole : aimer, c’est d’abord dire (ou ne pas dire) que l’on aime. Mais la parole amoureuse est rarement simple : on dissimule, on teste l’autre, on provoque, on ment par fierté ou par pudeur. Le « jeu » est double : jeu de l’amour, qui peut devenir une épreuve ou une stratégie, et jeu de langage, fait d’esprit, de sous-entendus, de répliques brillantes.\n\nOn ne badine pas avec l’amour illustre parfaitement ce double jeu. Camille et Perdican s’aiment mais ne cessent de se parler pour se cacher ce qu’ils ressentent : interrogatoire de la fontaine, déclarations adressées à une autre, lettres interceptées, persiflage. La parole y est à la fois une arme (pour blesser, se venger, prouver qu’on ne souffre pas) et un aveu involontaire. Le dispositif théâtral (personnages cachés, double destinataire) montre que les mots ont toujours plusieurs auditeurs.\n\nMais la pièce montre aussi les limites et les dangers de ces jeux : à force de badiner, les deux cousins détruisent Rosette, qui, elle, prenait les mots au sérieux. Le proverbe du titre est une mise en garde : le jeu du cœur et de la parole n’est pas sans conséquences. Pour le bac, il faut savoir analyser comment la parole révèle ou masque les sentiments, et comment Musset passe du marivaudage à la tragédie.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Jeu de l’amour et du hasard (1730)",
+    "auteur": "Marivaux",
+    "interet": "Silvia et Dorante se déguisent en domestiques pour éprouver leur futur conjoint : le jeu et le langage servent à tester la sincérité. Le « marivaudage » (langage subtil de l’amour qui se cherche) est l’ancêtre direct des joutes verbales de Camille et Perdican, mais chez Marivaux le jeu finit bien."
+   },
+   {
+    "titre": "Les Fausses Confidences (1737)",
+    "auteur": "Marivaux",
+    "interet": "Le valet Dubois manipule Araminte par des confidences calculées pour la rendre amoureuse de Dorante. On peut comparer cette parole stratégique, qui fait naître un amour vrai, avec les manipulations des deux cousins, qui le détruisent."
+   },
+   {
+    "titre": "Les Caprices de Marianne (1833)",
+    "auteur": "Alfred de Musset",
+    "interet": "Autre pièce de Musset où l’amour passe par des intermédiaires et des malentendus : Octave plaide pour son ami Cœlio auprès de Marianne, et le jeu se termine aussi par une mort. On y retrouve le mélange de comédie et de tragédie et le même double masculin (le sensible et le désabusé)."
+   },
+   {
+    "titre": "Beaucoup de bruit pour rien (vers 1598)",
+    "auteur": "William Shakespeare",
+    "interet": "Béatrice et Bénédict, qui prétendent se mépriser, échangent des répliques brillantes et agressives qui cachent leur amour ; leurs amis les piègent avec de fausses confidences entendues en cachette. Musset admirait Shakespeare, et le procédé du personnage caché qui écoute se retrouve dans On ne badine pas avec l’amour."
+   },
+   {
+    "titre": "Cyrano de Bergerac (1897), acte III, scène du balcon",
+    "auteur": "Edmond Rostand",
+    "interet": "Cyrano, caché dans l’ombre, prête ses mots à Christian pour séduire Roxane. Le texte pose une question centrale du parcours : aime-t-on une personne ou une parole ? La parole amoureuse y est à la fois mensonge (sur l’identité) et vérité (des sentiments)."
+   },
+   {
+    "titre": "La Dispute (1744)",
+    "auteur": "Marivaux",
+    "interet": "Un prince fait élever des enfants loin du monde pour savoir qui, de l’homme ou de la femme, a été infidèle le premier : expérience cruelle sur l’amour et l’inconstance, qui fait écho au débat de la fontaine sur la fidélité."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Camille et Perdican s’aiment depuis l’enfance, et aucun obstacle extérieur ne les sépare : l’obstacle est intérieur (orgueil, peur de souffrir).",
+   "Camille, formée au couvent, veut un amour éternel et sans souffrance ; Perdican défend un amour humain imparfait mais vécu (II, 5).",
+   "La parole amoureuse est un jeu de masques : interrogatoires, lettres interceptées, déclaration jouée pour une autre, aveux retardés.",
+   "Le badinage a des conséquences réelles : Rosette, qui prend les mots au sérieux, en meurt.",
+   "La pièce mêle comédie (les grotesques, le mariage arrangé) et tragédie (la mort de Rosette) : c’est une esthétique romantique.",
+   "Les grotesques et le Chœur disparaissent peu à peu : la fantaisie cède la place au drame."
+  ],
+  "axes": [
+   "Une comédie qui bascule dans la tragédie.",
+   "Une dramaturgie de l’aveu retardé : dire ou ne pas dire « je t’aime ».",
+   "Le théâtre dans le théâtre : personnages cachés et paroles à double destinataire.",
+   "Amour humain contre amour divin.",
+   "Le grotesque et la satire (éducation, clergé, autorité paternelle)."
+  ],
+  "problematiques": [
+   "Pourquoi Camille et Perdican ne parviennent-ils pas à se dire qu’ils s’aiment ?",
+   "Comment Musset fait-il passer sa pièce de la comédie à la tragédie ?",
+   "En quoi la parole est-elle à la fois une arme et un aveu dans On ne badine pas avec l’amour ?",
+   "Rosette n’est-elle qu’une victime ou révèle-t-elle la vérité des autres personnages ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Les retrouvailles manquées (I, 2-3) : refus du baiser, refus des souvenirs",
+    "utilisation": "Montrer la froideur défensive de Camille et la parole figée apprise au couvent."
+   },
+   {
+    "exemple": "La scène de la fontaine (II, 5)",
+    "utilisation": "Le débat entre deux conceptions de l’amour ; l’aveu involontaire de Camille ; la tirade de Perdican."
+   },
+   {
+    "exemple": "La lettre à sœur Louise interceptée (III, 2)",
+    "utilisation": "Le rôle des lettres comme moteur de l’action ; la blessure d’orgueil qui déclenche la vengeance."
+   },
+   {
+    "exemple": "La bague jetée dans la fontaine (III, 3)",
+    "utilisation": "Le théâtre dans le théâtre et la double énonciation ; la cruauté du jeu envers Rosette."
+   },
+   {
+    "exemple": "La tapisserie (III, 6)",
+    "utilisation": "La symétrie des vengeances ; l’orgueil qui transforme l’aveu en défi."
+   },
+   {
+    "exemple": "L’oratoire (III, 8)",
+    "utilisation": "L’aveu enfin sincère qui tue : ironie tragique et vérification du proverbe."
+   },
+   {
+    "exemple": "Les monologues et dénonciations des grotesques (I, 5 ; II, 2 ; II, 4)",
+    "utilisation": "Le comique de répétition et la satire ; le contraste avec les jeunes gens."
+   }
+  ],
+  "liens": "L’orgueil (thème) relie les deux héros et organise les scènes en miroir (procédé de symétrie). La parole apprise (Camille « perroquet mal appris », les maximes du couvent) s’oppose à la parole spontanée de la nature et de l’enfance (Perdican, Rosette). Les dispositifs de personnages cachés (procédé) mettent en scène le thème du mensonge et de la sincérité. Rosette relie le thème amoureux à une dimension sociale (paysanne / nobles). Les grotesques (personnages) portent la satire et le comique, et leur effacement accompagne le passage au tragique (registres).",
+  "sujetsCommentaire": [
+   {
+    "passage": "Acte II, scène 5, dernière réplique de Perdican (de « Adieu, Camille, retourne à ton couvent » à la fin de l’acte)",
+    "pistes": "1. Une réponse aux récits des religieuses : adresse à Camille, impératifs, discours rapporté par anticipation. 2. Un raisonnement par concession : double accumulation péjorative, puis renversement par « mais » et sacralisation de l’union amoureuse. 3. Une prosopopée lyrique (« J’ai souffert souvent… mais j’ai aimé ») qui fait de l’amour une preuve de vie ; le mot « orgueil » comme annonce tragique."
+   },
+   {
+    "passage": "Acte III, scène 3 : Perdican courtise Rosette sous les yeux de Camille cachée",
+    "pistes": "1. Un dispositif de théâtre dans le théâtre (didascalie « à haute voix, de manière que Camille l’entende », apartés de Camille). 2. Des gestes symboliques : la chaîne d’or, la bague jetée dans l’eau, le reflet troublé de la fontaine. 3. Un lyrisme au service de la vengeance, et une victime innocente (Rosette, « je vous aimerai comme je pourrai »)."
+   },
+   {
+    "passage": "Acte III, scène 8 : l’oratoire, de la prière de Camille à la dernière réplique",
+    "pistes": "1. La détresse de Camille et l’apostrophe de Perdican à l’orgueil. 2. L’aveu lyrique (« Insensés que nous sommes ! nous nous aimons ») et l’illusion du bonheur retrouvé. 3. La catastrophe : le cri, la culpabilité, la sobriété tragique de « Elle est morte. Adieu, Perdican ! »."
+   }
+  ],
+  "erreurs": [
+   "Dire que Camille et Perdican sont frère et sœur, ou que Rosette est la sœur de Camille : les jeunes gens sont cousins, et Rosette est sa sœur de lait (nourrie par la même femme).",
+   "Attribuer à Camille la tirade « Tous les hommes sont menteurs… » : c’est Perdican qui la prononce, à la fin de l’acte II.",
+   "Croire que le baron s’oppose au mariage de Camille et Perdican : c’est lui qui l’a organisé ; il s’oppose seulement au mariage avec Rosette.",
+   "Présenter la pièce comme une tragédie classique ou un drame en vers : c’est une comédie en prose, un proverbe, qui bascule dans le tragique.",
+   "Affirmer que Rosette se suicide : le texte ne fait entendre qu’un cri derrière l’autel, puis l’annonce de sa mort.",
+   "Lire la pièce comme un simple récit de la liaison Musset-Sand : la correspondance est une source réelle, mais l’intrigue est inventée.",
+   "Dire que la pièce a été jouée dès 1834 : elle a été écrite pour la lecture et créée seulement en 1861."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "On ne badine pas avec l’amour est-elle une comédie ou une tragédie ?",
+   "analyse": "Le sujet oppose deux genres. La comédie se définit par des personnages ordinaires ou ridicules, le rire et un dénouement heureux (souvent un mariage) ; la tragédie par des passions destructrices, la fatalité et une issue funeste. Or la pièce de Musset, publiée comme comédie dans un recueil de « proverbes », se termine par une mort. Il ne faut pas choisir trop vite : la pièce passe de l’un à l’autre, et c’est ce mélange qui fait sa singularité romantique.",
+   "problematique": "Comment Musset, en partant de la comédie, conduit-il sa pièce jusqu’à la tragédie, et que gagne-t-il à ce mélange des genres ?",
+   "plan": [
+    {
+     "titre": "I. Une comédie : fantaisie, grotesque et jeux d’amour",
+     "arguments": [
+      "A. Des personnages comiques : le baron et ses répétitions (« Cela est impossible »), Blazius l’ivrogne (« un coup de vin, je veux dire un verre d’eau »), Bridaine le glouton, dame Pluche la prude : comique de caractère et de répétition.",
+      "B. Une intrigue de comédie : projet de mariage arrangé par un père, obstacles, dépits amoureux, lettres et quiproquos (Blazius croit à une « correspondance secrète »).",
+      "C. Le badinage des amoureux : répliques spirituelles, persiflage de Camille en III, 7 (« Je suis curieuse de danser à vos noces ! »), jeux de cache-cache (III, 3 et III, 6), proches du marivaudage."
+     ]
+    },
+    {
+     "titre": "II. Une tragédie : passions destructrices et fatalité",
+     "arguments": [
+      "A. Un dénouement funeste : la mort de Rosette et la séparation définitive (« Elle est morte. Adieu, Perdican ! »), dans un lieu sacré, l’oratoire.",
+      "B. Une fatalité intérieure : l’orgueil, « le plus fatal des conseillers humains », joue le rôle du destin ; les personnages voient le malheur venir sans pouvoir l’empêcher.",
+      "C. Le registre tragique et pathétique : la tirade de Camille sur le couvent (« tout le reste attend la mort »), la culpabilité de Perdican (« mes mains sont couvertes de sang »), Rosette victime innocente comme une héroïne sacrifiée."
+     ]
+    },
+    {
+     "titre": "III. Un drame romantique fondé sur le mélange des genres",
+     "arguments": [
+      "A. Un glissement progressif : le Chœur disparaît après III, 4, les grotesques s’effacent, les scènes se raccourcissent ; le rire se fait grinçant (le baron qui veut s’enfermer « pour [s’]abandonner à [sa] douleur »).",
+      "B. L’esthétique romantique : liberté des lieux et du temps, mélange du grotesque et du sublime revendiqué par Hugo dans la préface de Cromwell, lyrisme de la prose.",
+      "C. Un proverbe qui devient leçon tragique : le titre annonce la morale ; le passage de la comédie à la tragédie illustre précisément le danger de jouer avec l’amour."
+     ]
+    }
+   ],
+   "introduction": "« On ne badine pas avec l’amour » : le titre de la pièce d’Alfred de Musset, publiée en 1834, est un proverbe, et la pièce appartient au genre léger du proverbe dramatique. Tout commence d’ailleurs comme une comédie : un baron ridicule veut marier son fils Perdican à sa nièce Camille, entourés de deux prêtres gloutons et d’une gouvernante prude. Pourtant, la pièce se termine par la mort d’une jeune paysanne innocente, Rosette, et par la séparation des deux amants. Faut-il alors parler de comédie ou de tragédie ? Comment Musset, en partant de la comédie, conduit-il sa pièce jusqu’à la tragédie, et que gagne-t-il à ce mélange des genres ? Nous verrons d’abord que la pièce possède tous les traits d’une comédie, puis qu’elle bascule dans la tragédie, avant de montrer qu’elle relève en réalité du drame romantique, fondé sur le mélange des genres.",
+   "conclusion": "On ne badine pas avec l’amour n’est donc ni une pure comédie ni une pure tragédie. La pièce emprunte à la comédie ses personnages grotesques, son intrigue de mariage et le badinage des amoureux ; elle emprunte à la tragédie sa fatalité, celle de l’orgueil, et son dénouement funeste. C’est précisément ce passage de l’une à l’autre qui donne son sens à l’œuvre : le jeu devient mortel, et le proverbe du titre se vérifie de la manière la plus cruelle. Musset réalise ainsi l’idéal romantique du mélange des genres. Lorenzaccio, écrit la même année, poussera plus loin encore ce mélange en l’élargissant à l’histoire et à la politique."
+  },
+  {
+   "sujet": "Dans Le Rire (1900), le philosophe Henri Bergson définit le comique comme « du mécanique plaqué sur du vivant ». Cette définition vous semble-t-elle éclairer On ne badine pas avec l’amour ?",
+   "analyse": "Pour Bergson, on rit quand un être vivant, qui devrait être souple et libre, se comporte comme une machine : répétitions, automatismes, raideur. Il faut confronter cette définition à la pièce : elle explique très bien le comique des grotesques. Mais elle peut aussi éclairer les jeux des deux amoureux, qui deviennent mécaniques (symétrie des vengeances). Enfin, il faut voir ses limites : quand la mécanique broie le vivant, on ne rit plus. La pièce dépasse alors le comique.",
+   "problematique": "Le comique d’On ne badine pas avec l’amour naît-il seulement de la raideur mécanique des personnages, et que devient le rire lorsque cette mécanique finit par détruire la vie ?",
+   "plan": [
+    {
+     "titre": "I. Les grotesques : des pantins mécaniques",
+     "arguments": [
+      "A. Le comique de répétition : le baron répète « Cela est impossible » et s’effondre à chaque nouvelle (« Tout est perdu ! — perdu sans ressource ! ») ; Blazius réclame toujours du vin.",
+      "B. Des personnages réduits à une manie : la gourmandise (Blazius et Bridaine, « tous deux ont pour ventre un tonneau »), la pruderie (Pluche), la vanité (le baron) : ils réagissent comme des automates.",
+      "C. La symétrie : Blazius et Bridaine se dénoncent l’un l’autre dans des scènes parallèles (I, 2 et I, 5), avec les mêmes formules ; leurs lamentations en III, 2 se répondent comme un mécanisme réglé."
+     ]
+    },
+    {
+     "titre": "II. Les amoureux pris eux aussi dans une mécanique",
+     "arguments": [
+      "A. Des réactions d’orgueil prévisibles : chaque blessure appelle une riposte (la lettre à Louise, la scène avec Rosette, la contre-scène de la tapisserie).",
+      "B. Des scènes construites en miroir : Perdican joue pour Camille cachée (III, 3), Camille joue pour Rosette cachée (III, 6) ; le procédé se répète, ce qui crée un effet comique et ironique.",
+      "C. Le langage figé : Camille récite les leçons du couvent (« je ne sois qu’un perroquet mal appris ») ; le persiflage de III, 7 devient un jeu automatique dont ils ne peuvent plus sortir."
+     ]
+    },
+    {
+     "titre": "III. Les limites de la définition : quand le mécanique tue le vivant",
+     "arguments": [
+      "A. Le vivant résiste : la nature, l’enfance, l’émotion sincère (la tirade de Perdican, l’aveu « nous nous aimons ») échappent à toute mécanique et ne font pas rire.",
+      "B. Le rire se fige : quand Rosette, être vivant et simple, est broyée par le jeu des deux cousins, le comique devient cruauté puis tragédie (« Elle est morte »).",
+      "C. Un mélange romantique : Musset utilise le comique mécanique pour mieux faire ressortir le pathétique ; la pièce montre que la mécanique de l’orgueil, comique chez les pantins, devient mortelle chez les êtres sensibles."
+     ]
+    }
+   ],
+   "introduction": "Pourquoi rit-on ? Dans Le Rire (1900), Henri Bergson propose une réponse célèbre : le comique serait « du mécanique plaqué sur du vivant », c’est-à-dire le spectacle d’êtres humains qui se comportent comme des machines. Cette définition semble faite pour les personnages grotesques d’On ne badine pas avec l’amour, la pièce qu’Alfred de Musset publie en 1834 : un baron qui répète les mêmes formules, deux prêtres gloutons interchangeables, une gouvernante figée dans sa pruderie. Mais la pièce raconte aussi l’amour de Camille et Perdican, qui se termine par la mort de Rosette. Le comique de la pièce naît-il seulement de la raideur mécanique des personnages, et que devient le rire lorsque cette mécanique finit par détruire la vie ? Nous verrons d’abord que les grotesques sont de véritables pantins, puis que les deux amoureux sont eux aussi pris dans une mécanique, avant de montrer les limites de la définition, lorsque le mécanique écrase le vivant.",
+   "conclusion": "La définition de Bergson éclaire donc efficacement la pièce de Musset : elle rend compte du comique des grotesques, véritables automates de la répétition, et même des jeux de dépit des amoureux, construits en miroir. Mais elle en montre aussi la profondeur : lorsque la mécanique de l’orgueil s’empare d’êtres sensibles et détruit une vie, le rire se change en effroi. Musset fait du comique un instrument du tragique. Au XXe siècle, le théâtre de l’absurde, chez Ionesco par exemple, jouera à son tour de ces automatismes de langage pour faire naître à la fois le rire et l’angoisse."
+  },
+  {
+   "sujet": "Au théâtre, la parole amoureuse sert-elle davantage à masquer les sentiments qu’à les révéler ? Vous répondrez en vous appuyant sur On ne badine pas avec l’amour et sur les textes étudiés dans le cadre du parcours « Les jeux du cœur et de la parole ».",
+   "analyse": "Le sujet oppose deux fonctions de la parole amoureuse : masquer (dissimuler, mentir, tester, provoquer) et révéler (avouer, exprimer). Le comparatif « davantage » invite à pondérer, non à choisir brutalement. Il faut penser aux spécificités du théâtre : double énonciation, personnages cachés, apartés, dialogue qui avance par malentendus. On peut aussi montrer que la parole révèle souvent malgré elle ce qu’elle veut cacher.",
+   "problematique": "Si, au théâtre, les amoureux parlent souvent pour se cacher et se défendre, leur parole ne finit-elle pas toujours par trahir la vérité du cœur, parfois trop tard ?",
+   "plan": [
+    {
+     "titre": "I. Une parole qui masque : pudeur, orgueil et stratégie",
+     "arguments": [
+      "A. Le refus de l’aveu : Camille oppose des maximes froides et des refus (« Je n’en ai nulle envie ») à Perdican ; Béatrice et Bénédict, chez Shakespeare, cachent leur amour sous les sarcasmes.",
+      "B. La parole comme arme et comme épreuve : interrogatoire de la fontaine, déclarations à Rosette destinées à Camille (III, 3), persiflage de III, 7 ; chez Marivaux, Silvia éprouve Dorante sous un déguisement.",
+      "C. Le mensonge assumé : Camille avoue qu’il faut « souvent jouer un rôle, souvent mentir » ; dans Cyrano de Bergerac, la déclaration du balcon est prononcée par un autre que celui qui la signe."
+     ]
+    },
+    {
+     "titre": "II. Une parole qui révèle malgré elle",
+     "arguments": [
+      "A. L’aveu involontaire : « En vérité, je vous ai aimé, Perdican » glisse au milieu du récit sur Louise (II, 5) ; Perdican avoue « Je t’aime Camille » en croyant se défendre (III, 6).",
+      "B. Les signes du trouble : silences, phrases inachevées (« Non, — non »), changement du « vous » au « tu » ; chez Marivaux, le trouble de Silvia trahit ses sentiments.",
+      "C. La double énonciation : le spectateur entend ce que les personnages ne s’avouent pas ; les apartés de Camille cachée (« Il a jeté ma bague dans l’eau ») révèlent sa douleur."
+     ]
+    },
+    {
+     "titre": "III. Une parole qui engage : du jeu à la vérité, parfois tragique",
+     "arguments": [
+      "A. Les mots ont des conséquences : Rosette prend au sérieux les paroles de Perdican (« Des mots sont des mots et des baisers sont des baisers ») et en meurt.",
+      "B. L’aveu final, enfin sincère, arrive trop tard : « Insensés que nous sommes ! nous nous aimons » précède immédiatement la catastrophe.",
+      "C. Le théâtre, art de la parole vraie à travers les masques : dans Le Jeu de l’amour et du hasard, le masque mène à un amour véritable ; chez Musset, il mène à la mort. Dans les deux cas, la parole finit par dire la vérité du cœur."
+     ]
+    }
+   ],
+   "introduction": "Au théâtre, l’amour n’existe que par la parole : pas de narrateur pour nous dire ce que ressentent les personnages, seulement des répliques. Or les amoureux de théâtre semblent souvent parler pour ne pas dire : ils se provoquent, se testent, se mentent. C’est le cas de Camille et Perdican dans On ne badine pas avec l’amour (1834) de Musset, qui s’aiment depuis l’enfance mais ne cessent de se blesser par les mots. La parole amoureuse sert-elle alors davantage à masquer les sentiments qu’à les révéler ? Si, au théâtre, les amoureux parlent souvent pour se cacher et se défendre, leur parole ne finit-elle pas toujours par trahir la vérité du cœur, parfois trop tard ? Nous verrons d’abord que la parole amoureuse masque souvent les sentiments, par pudeur, orgueil ou stratégie, puis qu’elle les révèle malgré elle, avant de montrer qu’elle engage les personnages, jusqu’à la vérité ou jusqu’à la tragédie.",
+   "conclusion": "Au théâtre, la parole amoureuse masque donc souvent les sentiments : les amoureux de Musset, de Marivaux ou de Shakespeare se défendent par l’ironie, l’épreuve ou le mensonge. Mais cette parole trahit presque toujours ce qu’elle veut cacher, à travers les aveux involontaires, les silences et la double énonciation qui met le spectateur dans la confidence. Surtout, elle engage : le jeu verbal a des conséquences réelles, heureuses chez Marivaux, tragiques chez Musset, où l’aveu sincère arrive trop tard. Le théâtre apparaît ainsi comme le lieu où les masques de la parole finissent par tomber. Au XXe siècle, Nathalie Sarraute, dans Pour un oui ou pour un non, montrera qu’une simple intonation suffit à révéler des blessures que les mots voulaient taire."
+  }
+ ],
+ "oral": {
+  "presentation": "On ne badine pas avec l’amour est une pièce en trois actes et en prose d’Alfred de Musset, publiée en 1834 dans la Revue des Deux Mondes puis dans Un spectacle dans un fauteuil, et créée seulement en 1861 à la Comédie-Française. Le baron veut marier son fils Perdican, jeune docteur, à sa nièce Camille, qui sort du couvent. Les deux cousins s’aiment depuis l’enfance, mais Camille, effrayée par les récits des religieuses, veut prendre le voile. Par orgueil, chacun cherche à blesser l’autre : Perdican courtise Rosette, une jeune paysanne, sous les yeux de Camille, qui riposte en lui tendant un piège. Quand ils s’avouent enfin leur amour, Rosette, cachée, l’entend et meurt. La pièce, qui commence comme une comédie avec des personnages grotesques, finit en tragédie : elle vérifie cruellement le proverbe du titre.",
+  "essentiels": [
+   "Auteur, date, genre : Musset, 1834, comédie-proverbe en trois actes et en prose, écrite pour la lecture, créée en 1861.",
+   "Les trois jeunes gens : Perdican (21 ans, docteur), Camille (18 ans, sortie du couvent), Rosette (sœur de lait de Camille).",
+   "Les grotesques : le baron, Blazius, Bridaine, dame Pluche ; le Chœur des paysans.",
+   "Scènes clés : la fontaine (II, 5), la bague (III, 3), la tapisserie (III, 6), l’oratoire (III, 8).",
+   "Deux citations à savoir : « Je veux aimer, mais je ne veux pas souffrir » ; « J’ai souffert souvent, je me suis trompé quelquefois, mais j’ai aimé ».",
+   "Le lien documenté avec la lettre de George Sand du 12 mai 1834.",
+   "Le parcours « Les jeux du cœur et de la parole » : la parole masque, teste, blesse, et finit par avouer, trop tard."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Camille refuse-t-elle d’épouser Perdican ?",
+    "reponse": "Parce qu’elle a peur de souffrir. Au couvent, les religieuses, et surtout sœur Louise, lui ont raconté leurs malheurs d’amour ; elle veut un amour éternel et sans blessure : « Je veux aimer, mais je ne veux pas souffrir » (II, 5). Elle choisit donc Dieu, en montrant son crucifix. Mais elle aime Perdican, et elle le laisse échapper (« je vous ai aimé »). Son refus est aussi une question d’orgueil : elle ne veut pas paraître céder."
+   },
+   {
+    "question": "Quel est le rôle de Rosette ?",
+    "reponse": "Rosette est la sœur de lait de Camille, une paysanne simple et sincère. Perdican l’utilise pour rendre Camille jalouse (III, 3) ; Camille la cache derrière une tapisserie pour démasquer Perdican (III, 6). Elle devient l’instrument du jeu des deux cousins, « un appât, un jouet », dit Camille. Elle est la seule à prendre les mots au sérieux, et elle en meurt : sa mort donne son sens au titre."
+   },
+   {
+    "question": "La pièce est-elle une comédie ou une tragédie ?",
+    "reponse": "Les deux. Elle commence comme une comédie : un mariage arrangé par un père, des personnages grotesques (le baron, Blazius, Bridaine, Pluche), un Chœur moqueur. Mais elle glisse vers le drame : le Chœur disparaît après III, 4, les scènes se raccourcissent, et l’aveu d’amour provoque la mort de Rosette. Ce mélange est typique du romantisme, qui refuse la séparation classique des genres."
+   },
+   {
+    "question": "Que pensez-vous de la tirade de Perdican à la fin de l’acte II ?",
+    "reponse": "C’est un discours très construit : Perdican accumule d’abord les défauts des hommes et des femmes, puis renverse l’argument par « mais » : l’union de deux êtres imparfaits reste « une chose sainte et sublime ». Il imagine enfin un mourant qui dit : « J’ai souffert souvent, je me suis trompé quelquefois, mais j’ai aimé. » Cette phrase reprend presque mot pour mot une lettre de George Sand à Musset (12 mai 1834). Le dernier mot, « orgueil », est ironique : c’est l’orgueil qui va perdre les deux amants."
+   },
+   {
+    "question": "Quel est le rôle des grotesques ?",
+    "reponse": "Le baron, Blazius, Bridaine et dame Pluche font rire par leurs manies (le vin, la table, la pruderie, les formules répétées comme « Cela est impossible »). Ils permettent une satire de l’éducation, du clergé et de l’autorité paternelle. Mais ils ont aussi un rôle dramatique : leurs espionnages et leurs dénonciations font circuler les lettres et les rumeurs. Enfin, leur effacement progressif fait ressortir le tragique de la fin."
+   },
+   {
+    "question": "Comment comprenez-vous le titre ?",
+    "reponse": "Badiner, c’est plaisanter, traiter avec légèreté. Le titre est un proverbe, et la pièce appartient au genre du proverbe dramatique, qui illustre une maxime. Ici, la maxime est vérifiée de façon tragique : Camille et Perdican ont joué avec l’amour comme avec un jeu d’orgueil, et Rosette en meurt. Perdican le reconnaît : « nous avons joué avec la vie et la mort »."
+   },
+   {
+    "question": "Pourquoi les lettres sont-elles importantes ?",
+    "reponse": "Elles font avancer l’action et créent les malentendus. Le billet de Camille fixe le rendez-vous de la fontaine (II, 5) ; Blazius croit à une « correspondance secrète » ; surtout, la lettre de Camille à sœur Louise, interceptée par Perdican (III, 2), déclenche sa vengeance. Les lettres montrent que les deux cousins se parlent à distance, mais jamais directement : elles éloignent plus qu’elles ne rapprochent."
+   },
+   {
+    "question": "Quel lien faites-vous avec le parcours « Les jeux du cœur et de la parole » ?",
+    "reponse": "La pièce montre toutes les formes de la parole amoureuse : l’interrogatoire, la tirade, la déclaration jouée pour une autre, le défi, l’aveu. La parole sert à se cacher et à blesser, mais elle trahit aussi les sentiments (l’aveu involontaire de Camille). On peut la comparer à Marivaux, où le jeu des masques mène à un amour heureux : chez Musset, il mène à la mort."
+   }
+  ],
+  "liens": "Objet d’étude : le théâtre du XVIIe au XXIe siècle. Parcours : Les jeux du cœur et de la parole. Œuvres à rapprocher : Marivaux (Le Jeu de l’amour et du hasard, Les Fausses Confidences, La Dispute), Musset lui-même (Les Caprices de Marianne, Il faut qu’une porte soit ouverte ou fermée), Shakespeare (Beaucoup de bruit pour rien), Rostand (Cyrano de Bergerac, la scène du balcon). Dans d’autres genres : La Confession d’un enfant du siècle et Les Nuits de Musset (le mal du siècle, la souffrance amoureuse), la correspondance de George Sand et de Musset.",
+  "reflexion": [
+   {
+    "question": "Qui vous paraît le plus responsable de la mort de Rosette ?",
+    "pistes": "Perdican, qui l’a utilisée et lui a promis le mariage ? Camille, qui l’a cachée et a lancé le défi ? Les deux, par orgueil ? Ou l’éducation reçue par Camille ? Appuyez-vous sur III, 3, III, 6 et III, 8."
+   },
+   {
+    "question": "Camille a-t-elle raison de vouloir un amour sans souffrance ?",
+    "pistes": "On peut comprendre sa peur (les récits de Louise) et son exigence d’absolu, mais aussi suivre Perdican, pour qui une vie sans risque est « factice ». Votre avis peut être nuancé."
+   },
+   {
+    "question": "Le jeu amoureux est-il toujours dangereux ?",
+    "pistes": "Comparer avec Marivaux, où le jeu mène à la vérité et au mariage. Réfléchir à ce qui rend le jeu cruel chez Musset : l’orgueil, et la présence d’une tierce personne qui n’est pas dans la confidence."
+   },
+   {
+    "question": "La pièce vous semble-t-elle encore actuelle ?",
+    "pistes": "La peur de s’engager, la fierté qui empêche d’avouer ses sentiments, l’usage d’une autre personne pour rendre jaloux : ces situations peuvent parler aux lecteurs d’aujourd’hui. Mais le couvent, le mariage arrangé ou le rang social appartiennent à une autre époque."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L’ouverture : le Chœur, Blazius et dame Pluche",
+   "reference": "Acte I, scène 1 : sur la place, le Chœur accueille les deux gouverneurs, qui annoncent le retour de Perdican et de Camille.",
+   "enjeu": "Comment cette scène d’exposition originale mêle-t-elle le grotesque et la poésie pour présenter les personnages et annoncer les enjeux de la pièce ?",
+   "mouvements": [
+    "Mouvement 1 : l’arrivée de maître Blazius. Le Chœur décrit le personnage comme un tableau (comparaison « Comme un poupon sur l’oreiller », image de l’« amphore antique ») : portrait caricatural d’un ivrogne. Blazius fait de Perdican un éloge hyperbolique (« un diamant fin des pieds à la tête ») qui le flatte lui-même ; il réclame du vin à chaque réplique : comique de caractère.",
+    "Mouvement 2 : l’arrivée de dame Pluche. Portrait symétrique et inverse (maigreur, « mains osseuses », âne essoufflé) ; l’éloge de Camille accumule les termes de pureté religieuse (« de si ange, de si agneau et de si colombe »), ce qui annonce la jeune fille formée par le couvent. Le Chœur répond par une ironie mordante (« nos blés sont secs comme vos tibias »).",
+    "Mouvement 3 : la fonction du Chœur. Inspiré de la tragédie antique, mais familier et moqueur, le Chœur est à la fois spectateur et commentateur ; son vœu (« Puissions-nous retrouver l’enfant dans le cœur de l’homme ! ») introduit les thèmes de l’enfance et du temps. Le mélange des registres (lyrique, burlesque, satirique) annonce l’esthétique romantique de la pièce."
+   ]
+  },
+  {
+   "titre": "Les retrouvailles manquées",
+   "reference": "Acte I, scène 2 (fin) et scène 3 : le baron réunit les deux jeunes gens ; Camille refuse le baiser puis la promenade proposée par Perdican.",
+   "enjeu": "Comment Musset fait-il de ces retrouvailles une scène d’échec, à la fois comique par le baron et inquiétante par la froideur de Camille ?",
+   "mouvements": [
+    "Mouvement 1 : la mise en scène du baron. Le baron a tout organisé (« Ma nièce sera introduite par cette porte à gauche, et mon fils par cette porte à droite ») : il se fait metteur en scène, mais la scène lui échappe. Perdican est enthousiaste (exclamations, « Comme te voilà grande, Camille ! »), Camille glaciale (« Mon père et mon cousin, je vous salue »).",
+    "Mouvement 2 : le refus du baiser. Réplique sentencieuse de Camille (« L’amitié ni l’amour ne doivent recevoir que ce qu’ils peuvent rendre ») ; apartés du baron et de Bridaine, phrases hachées par les tirets (« Je suis choqué, — blessé. ») : comique de caractère. Les deux jeunes gens se tournent le dos, l’une devant le portrait d’une religieuse, l’autre devant une fleur : objets symboliques de leurs choix (le cloître contre la nature).",
+    "Mouvement 3 : le refus du passé (I, 3). Perdican multiplie les propositions et les souvenirs (le bateau, la prairie, « Toute notre vie est là ») ; Camille répond par des refus brefs (« Non, pas ce soir »), presque une stichomythie déséquilibrée, puis par une formule cinglante (« Je ne suis pas assez jeune pour m’amuser de mes poupées, ni assez vieille pour aimer le passé »). L’échec est total : « Ils sortent chacun de leur côté »."
+   ]
+  },
+  {
+   "titre": "La scène de la fontaine : le débat sur l’amour",
+   "reference": "Acte II, scène 5 : Camille a donné rendez-vous à Perdican près de la fontaine ; elle lui annonce qu’elle va prendre le voile.",
+   "enjeu": "Comment ce dialogue, qui ressemble à un procès, devient-il un affrontement de deux conceptions de l’amour et révèle-t-il malgré eux les sentiments des personnages ?",
+   "mouvements": [
+    "Mouvement 1 : l’interrogatoire. Camille pose une série de questions directes (« avez-vous eu des maîtresses ? », « Les avez-vous aimées ? ») et Perdican répond brièvement : rythme de stichomythie, renversement des rôles (la jeune fille du couvent interroge le jeune homme expérimenté). Les hypothèses (le curé qui souffle sur un verre d’eau) montrent un raisonnement presque juridique. Perdican sent qu’elle répète une leçon apprise (« Comme elles t’ont fait la leçon ! »).",
+    "Mouvement 2 : la confidence et l’aveu. Récit de l’histoire de sœur Louise, évocation pathétique du couvent (« un petit nombre de ces femmes ne connaîtra jamais la vie ; et tout le reste attend la mort »). Aveu glissé presque malgré elle : « En vérité, je vous ai aimé, Perdican. » Puis profession de foi (« Je veux aimer, mais je ne veux pas souffrir ») et réquisitoire contre Perdican : métaphore de la monnaie, vocabulaire du corps et du désir. Le geste du crucifix (« Voilà mon amant ») est un coup de théâtre.",
+    "Mouvement 3 : la riposte de Perdican. Questions rhétoriques en cascade (« Es-tu sûre que… ? »), images violentes (les nonnes « ont coloré ta pensée virginale des gouttes de leur sang »), accusation du « mensonge de l’amour divin ». La tirade finale oppose une double accumulation péjorative (« Tous les hommes sont menteurs… ») à l’éloge de l’union amoureuse, « chose sainte et sublime ». Le « mais » et la prosopopée du mourant (« J’ai souffert souvent… mais j’ai aimé ») donnent à la tirade une force lyrique et argumentative."
+   ]
+  },
+  {
+   "titre": "La bague dans la fontaine",
+   "reference": "Acte III, scène 3 : Perdican courtise Rosette en sachant que Camille, cachée derrière un arbre, l’écoute.",
+   "enjeu": "Comment Perdican transforme-t-il une déclaration d’amour en spectacle de vengeance, et quelle cruauté révèle ce jeu à double destinataire ?",
+   "mouvements": [
+    "Mouvement 1 : le dispositif théâtral. Camille se cache et commente en aparté (« Que veut dire cela ? ») ; la didascalie précise que Perdican parle « à haute voix, de manière que Camille l’entende » : double destinataire et ironie dramatique. Le spectateur sait que la scène est une mise en scène, Rosette l’ignore.",
+    "Mouvement 2 : le geste symbolique. Perdican offre sa chaîne d’or à Rosette et jette dans l’eau la bague de Camille ; il décrit le reflet troublé de la fontaine qui retrouve son calme (« de grands cercles noirs courent à sa surface ») : métaphore de l’effacement de Camille et de la fragilité de l’amour. Aparté douloureux de Camille : « Il a jeté ma bague dans l’eau. »",
+    "Mouvement 3 : le lyrisme mensonger. Perdican célèbre l’amour et la nature (apostrophes, « Par la lumière du ciel, par le soleil que voilà, je t’aime ! ») et attaque indirectement Camille à travers « ces pâles statues fabriquées par les nonnes, qui ont la tête à la place du cœur ». Rosette répond avec humilité (« je vous aimerai comme je pourrai ») : le décalage entre ses paroles simples et l’éloquence de Perdican fait d’elle une victime. Le lyrisme sincère en apparence est un instrument de vengeance."
+   ]
+  },
+  {
+   "titre": "La revanche de Camille",
+   "reference": "Acte III, scène 6 : Camille a caché Rosette derrière une tapisserie et reçoit Perdican dans sa chambre.",
+   "enjeu": "Comment Camille retourne-t-elle contre Perdican son propre procédé, et comment la scène bascule-t-elle du jeu galant à l’affrontement ?",
+   "mouvements": [
+    "Mouvement 1 : la coquetterie et la bague rendue. Camille, en robe neuve, multiplie les provocations légères (« Je voudrais qu’on me fît la cour ») ; aparté de Perdican qui la sait menteuse. Elle lui rend la bague repêchée : « petit hochet d’enfant », symbole du jeu. Perdican, troublé, l’interroge sur ses contradictions (comparaison avec la pierre de la bague qui change de couleur).",
+    "Mouvement 2 : la réflexion sur la parole féminine et le piège. Camille défend les femmes contraintes de « jouer un rôle, souvent mentir ». Perdican affirme « je ne mens jamais » et avoue : « Je t’aime Camille ». Coup de théâtre : Camille lève la tapisserie et montre Rosette évanouie. C’est une mise en abyme : Camille a monté une scène dont Rosette était la spectatrice cachée.",
+    "Mouvement 3 : l’affrontement. Anaphore accusatrice (« je n’ai pas… », répétée), passage du « vous » au « tu » qui trahit l’émotion, métaphore de la « flèche empoisonnée » qui traverse Rosette. Ultimatum : « tu m’aimes, entends-tu ; mais tu épouseras cette fille, ou tu n’es qu’un lâche ! » Perdican, piqué au vif, accepte (« Oui, je l’épouserai ») : l’orgueil des deux cousins engage Rosette dans un destin qui n’est pas le sien."
+   ]
+  },
+  {
+   "titre": "Le dénouement tragique dans l’oratoire",
+   "reference": "Acte III, scène 8 : Camille prie seule ; Perdican la rejoint ; ils s’avouent leur amour ; Rosette, cachée, pousse un cri.",
+   "enjeu": "Comment Musset fait-il basculer la comédie dans la tragédie, au moment même où l’amour est enfin avoué ?",
+   "mouvements": [
+    "Mouvement 1 : la prière de Camille et l’apostrophe à l’orgueil. Monologue de Camille en détresse : questions à Dieu (« M’avez-vous abandonnée, ô mon Dieu ? »), paradoxe (« pourquoi faites-vous mentir la vérité elle-même ? »). Perdican, sans la voir d’abord, accuse l’orgueil personnifié, « le plus fatal des conseillers humains » : le vocabulaire du destin entre dans la pièce.",
+    "Mouvement 2 : l’aveu lyrique. Exclamation centrale répétée (« Insensés que nous sommes ! nous nous aimons ») qui encadre la tirade ; métaphores du bonheur comme « perle si rare » et du « vert sentier » qui menait l’un à l’autre ; lucidité amère (« il a bien fallu que nous nous fissions du mal, car nous sommes des hommes »). Réponse de Camille, enfin apaisée (« il y a quinze ans qu’il le sait »). Le bonheur semble atteint.",
+    "Mouvement 3 : la catastrophe. Le « grand cri » (didascalie) brise l’élan ; sensation de culpabilité de Perdican (« il me semble que mes mains sont couvertes de sang »), prière désespérée (« ne faites pas de moi un meurtrier ! »), aveu final : « nous avons joué avec la vie et la mort ». Les deux dernières phrases de Camille, d’une sobriété tragique (« Elle est morte. Adieu, Perdican ! »), scellent la séparation : ironie tragique, car l’aveu d’amour a causé la mort."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Musset, 1834 : comédie-proverbe en trois actes et en prose, écrite pour la lecture (Un spectacle dans un fauteuil), créée en 1861.",
+   "Camille et Perdican s’aiment depuis l’enfance ; l’obstacle est intérieur : la peur de souffrir et l’orgueil.",
+   "La scène de la fontaine (II, 5) oppose deux conceptions de l’amour : l’absolu sans souffrance (Camille) et l’amour imparfait mais vécu (Perdican).",
+   "Le jeu des personnages cachés (III, 3 ; III, 6 ; III, 8) fait de la parole une arme à double destinataire.",
+   "Rosette, paysanne sincère, est la victime du badinage des deux cousins ; elle meurt en entendant leur aveu.",
+   "Le mélange des genres (grotesques, Chœur, lyrisme, tragique) est typiquement romantique.",
+   "La tirade de Perdican reprend une phrase d’une lettre de George Sand (12 mai 1834).",
+   "Le titre-proverbe se vérifie tragiquement : « nous avons joué avec la vie et la mort »."
+  ],
+  "citations": [
+   6,
+   7,
+   10,
+   12,
+   14,
+   15,
+   17
+  ],
+  "pieges": [
+   "Camille et Perdican sont cousins ; Rosette est la sœur de lait de Camille.",
+   "La tirade « Tous les hommes sont menteurs… » est de Perdican, pas de Camille ; le texte dit « orgueilleux ou lâches ».",
+   "Le baron veut le mariage des cousins ; il refuse seulement celui de Perdican avec Rosette.",
+   "Pièce publiée en 1834, jouée en 1861.",
+   "Ne pas dire que Rosette se suicide : le texte ne le précise pas."
+  ],
+  "synthese": "On ne badine pas avec l’amour (1834) raconte l’échec amoureux de deux cousins qui s’aiment mais ne savent pas se le dire. Camille, formée au couvent, veut un amour sans souffrance ; Perdican défend l’amour imparfait mais vécu. Par orgueil, chacun joue un rôle pour blesser l’autre, et utilise Rosette, la paysanne sincère, comme un instrument. Quand l’aveu arrive enfin, dans l’oratoire, Rosette l’entend et meurt. Musset part de la comédie (grotesques, Chœur, mariage arrangé) pour aboutir à la tragédie : le badinage, ressort comique, devient fatalité. La pièce illustre le romantisme par son mélange des genres et son lyrisme, et le parcours par sa réflexion sur une parole qui masque, blesse et avoue trop tard."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Proverbe dramatique",
+   "definition": "Courte comédie qui illustre un proverbe, souvent donné en titre. Musset en fait un genre ambitieux : ici, le proverbe du titre se vérifie tragiquement au dénouement."
+  },
+  {
+   "terme": "Chœur",
+   "definition": "Dans la tragédie grecque, groupe de personnages qui commente l’action. Chez Musset, le Chœur est formé de paysans ; il présente les personnages (I, 1), se moque des grotesques et s’inquiète pour Rosette (III, 4)."
+  },
+  {
+   "terme": "Mélange des genres",
+   "definition": "Principe romantique (Hugo, préface de Cromwell, 1827) qui associe dans une même pièce le comique et le tragique, le grotesque et le sublime. La pièce passe des facéties de Blazius à la mort de Rosette."
+  },
+  {
+   "terme": "Grotesque",
+   "definition": "Caricature qui exagère les défauts physiques et moraux jusqu’au ridicule. Le baron, Blazius, Bridaine et dame Pluche sont des personnages grotesques."
+  },
+  {
+   "terme": "Tirade",
+   "definition": "Longue réplique ininterrompue. La tirade de Perdican à la fin de l’acte II (« Tous les hommes sont menteurs… ») est la plus célèbre de la pièce."
+  },
+  {
+   "terme": "Monologue",
+   "definition": "Scène où un personnage seul parle à voix haute. Ex. : Perdican qui se demande s’il est amoureux (III, 1), Bridaine regrettant sa place à table (II, 2), Camille en prière (III, 8)."
+  },
+  {
+   "terme": "Aparté",
+   "definition": "Réplique qu’un personnage prononce pour lui-même, sans être entendu des autres, mais entendue du public. Ex. : Camille cachée : « Il a jeté ma bague dans l’eau » (III, 3)."
+  },
+  {
+   "terme": "Double énonciation",
+   "definition": "Le personnage parle à un autre personnage, mais l’auteur s’adresse aussi au public. En III, 3, Perdican parle à Rosette mais vise Camille cachée : la parole a même un triple destinataire."
+  },
+  {
+   "terme": "Théâtre dans le théâtre / mise en abyme",
+   "definition": "Scène où des personnages organisent un spectacle pour d’autres personnages. Perdican met en scène sa déclaration à Rosette (III, 3) ; Camille cache Rosette derrière une tapisserie pour qu’elle assiste à l’aveu de Perdican (III, 6)."
+  },
+  {
+   "terme": "Stichomythie",
+   "definition": "Échange rapide de répliques très courtes. L’interrogatoire de Camille à la fontaine (« Les avez-vous aimées ? — De tout mon cœur. ») en est un exemple."
+  },
+  {
+   "terme": "Ironie tragique",
+   "definition": "Situation où les personnages agissent en croyant atteindre le bonheur alors qu’ils provoquent leur malheur. L’aveu « nous nous aimons » (III, 8) cause la mort de Rosette, qui l’entend."
+  },
+  {
+   "terme": "Registre lyrique",
+   "definition": "Expression des sentiments personnels, souvent avec des images et un rythme poétique. La prose de Musset est très lyrique : évocation de la vallée (I, 4), du reflet dans la fontaine (III, 3), du « vert sentier » (III, 8)."
+  },
+  {
+   "terme": "Sœur de lait",
+   "definition": "Enfant nourri au sein par la même nourrice qu’un autre. Rosette, fille de la nourrice de Camille, est sa sœur de lait : un lien d’enfance, mais pas un lien de sang."
+  },
+  {
+   "terme": "Badiner",
+   "definition": "Plaisanter, traiter avec légèreté ce qui mérite le sérieux. Le titre affirme qu’on ne peut pas jouer impunément avec les sentiments."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Quel lien de parenté unit Camille et Perdican ?",
+   "choix": [
+    "Ils sont frère et sœur",
+    "Ils n’ont aucun lien de parenté",
+    "Camille est la tante de Perdican",
+    "Ils sont cousins"
+   ],
+   "reponse": 3,
+   "explication": "Camille est la nièce du baron, père de Perdican : ils sont cousins, élevés ensemble dans leur enfance."
+  },
+  {
+   "question": "D’où revient Camille au début de la pièce ?",
+   "choix": [
+    "D’un couvent",
+    "De Paris, où elle a passé son doctorat",
+    "De Venise",
+    "D’un pensionnat en Angleterre"
+   ],
+   "reponse": 0,
+   "explication": "Camille sort du couvent, où elle a été élevée ; c’est Perdican qui revient de Paris, reçu docteur."
+  },
+  {
+   "question": "Qui est Rosette ?",
+   "choix": [
+    "La sœur de Perdican",
+    "La gouvernante de Camille",
+    "La sœur de lait de Camille, une paysanne",
+    "Une religieuse amie de Camille"
+   ],
+   "reponse": 2,
+   "explication": "Rosette est une jeune paysanne, sœur de lait de Camille : elles ont été nourries par la même femme."
+  },
+  {
+   "question": "Qui est sœur Louise ?",
+   "choix": [
+    "La mère de Camille",
+    "La gouvernante de Rosette",
+    "La grand-tante dont Camille admire le portrait",
+    "Une religieuse amie de Camille, malheureuse en amour"
+   ],
+   "reponse": 3,
+   "explication": "Louise est une religieuse qui partage la cellule de Camille ; ses malheurs conjugaux ont nourri la peur de l’amour de Camille. Le portrait est celui de la grand-tante Isabelle."
+  },
+  {
+   "question": "Où se déroule la grande scène de l’acte II, où Camille et Perdican débattent de l’amour ?",
+   "choix": [
+    "Dans le salon du baron",
+    "Dans l’oratoire",
+    "Près d’une fontaine dans un bois",
+    "Sur la place du village"
+   ],
+   "reponse": 2,
+   "explication": "La scène II, 5 se déroule près de la petite fontaine, lieu des jeux de leur enfance, où Camille a donné rendez-vous à Perdican."
+  },
+  {
+   "question": "Qu’est-ce qui pousse Perdican à courtiser Rosette devant Camille ?",
+   "choix": [
+    "La lecture d’une lettre de Camille où elle se vante de l’avoir désespéré",
+    "Un ordre de son père",
+    "Un conseil de Blazius",
+    "Un pari avec Bridaine"
+   ],
+   "reponse": 0,
+   "explication": "Perdican lit la lettre de Camille à sœur Louise (« ce pauvre jeune homme a le poignard dans le cœur ») et veut prouver qu’il ne souffre pas."
+  },
+  {
+   "question": "Que fait Perdican de la bague de Camille en III, 3 ?",
+   "choix": [
+    "Il la donne à Rosette",
+    "Il la rend au baron",
+    "Il la jette dans la fontaine",
+    "Il la vend au village"
+   ],
+   "reponse": 2,
+   "explication": "Il la jette dans l’eau et commente le reflet troublé ; Camille la repêche et la lui rend en III, 6. À Rosette, il donne sa chaîne d’or."
+  },
+  {
+   "question": "Quel procédé Camille utilise-t-elle en III, 6 ?",
+   "choix": [
+    "Elle se déguise en paysanne",
+    "Elle cache Rosette derrière une tapisserie pour qu’elle entende Perdican",
+    "Elle écrit une fausse lettre",
+    "Elle fait intervenir le Chœur"
+   ],
+   "reponse": 1,
+   "explication": "Camille fait cacher Rosette, obtient de Perdican l’aveu « Je t’aime Camille », puis lève la tapisserie : Rosette s’est évanouie."
+  },
+  {
+   "question": "Que dénonce Perdican dans l’oratoire (III, 8) comme la cause du malheur ?",
+   "choix": [
+    "L’argent",
+    "Le baron",
+    "L’orgueil",
+    "Le couvent"
+   ],
+   "reponse": 2,
+   "explication": "« Orgueil, le plus fatal des conseillers humains, qu’es-tu venu faire entre cette fille et moi ? »"
+  },
+  {
+   "question": "Quand la pièce a-t-elle été représentée pour la première fois ?",
+   "choix": [
+    "En 1834, dès sa publication",
+    "En 1830, avec La Nuit vénitienne",
+    "En 1900",
+    "En 1861, après la mort de Musset"
+   ],
+   "reponse": 3,
+   "explication": "Publiée en 1834 pour être lue (Un spectacle dans un fauteuil), la pièce n’est jouée qu’en 1861, quatre ans après la mort de Musset."
+  },
+  {
+   "question": "D’où vient la phrase « J’ai souffert souvent, je me suis trompé quelquefois, mais j’ai aimé » ?",
+   "choix": [
+    "D’une maxime de La Rochefoucauld",
+    "D’une lettre de George Sand à Musset (12 mai 1834), reprise par Perdican",
+    "D’une réplique de Camille au couvent",
+    "D’un poème des Nuits"
+   ],
+   "reponse": 1,
+   "explication": "Musset reprend presque mot pour mot, dans la tirade de Perdican (II, 5), une phrase que George Sand lui avait écrite de Venise le 12 mai 1834."
+  },
+  {
+   "question": "Quel procédé Perdican utilise-t-il en III, 3 ?",
+   "choix": [
+    "Il se déguise en paysan",
+    "Il courtise Rosette à haute voix pour que Camille, cachée, l’entende",
+    "Il écrit une fausse lettre à Camille",
+    "Il demande au Chœur d’espionner Camille"
+   ],
+   "reponse": 1,
+   "explication": "La didascalie précise qu’il parle « à haute voix, de manière que Camille l’entende » : c’est un dispositif de théâtre dans le théâtre, avec une parole à double destinataire."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Musset, Œuvres complètes, t. 3, éd. Charpentier (On ne badine pas avec l’amour, variantes de 1861) — Project Gutenberg n° 20246",
+   "url": "https://www.gutenberg.org/ebooks/20246"
+  },
+  {
+   "titre": "On ne badine pas avec l’Amour, proverbe, Revue des Deux Mondes, 1834, t. 3 — Wikisource",
+   "url": "https://fr.wikisource.org/wiki/On_ne_badine_pas_avec_l%E2%80%99amour_(RDDM)"
+  },
+  {
+   "titre": "Eduscol, « On ne badine pas avec l’amour d’Alfred de Musset : la forme d’une pièce » (fiche 3, juin 2025) — lettre de Sand du 12 mai 1834, lettre de Musset à la princesse Belgiojoso, genèse",
+   "url": "https://eduscol.education.fr/document/66727/download"
+  },
+  {
+   "titre": "Encyclopædia Universalis, fiche de lecture « On ne badine pas avec l’amour » (G. Belzane)",
+   "url": "https://www.universalis.fr/encyclopedie/on-ne-badine-pas-avec-l-amour/"
+  },
+  {
+   "titre": "Bergson, Le Rire, chapitre I (« Du mécanique plaqué sur du vivant ») — Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_Rire._Essai_sur_la_signification_du_comique/Chapitre_I"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte de parution dans la Revue des Deux Mondes : la fiche indique 1834 (tome 3) ; le 1er juillet 1834 est souvent donné, sans que la fiche l’ait vérifié sur l’exemplaire.",
+  "Le détail des passages supprimés en 1861 n’a pas été relevé un à un ; la fiche s’en tient à l’indication de l’édition Charpentier.",
+  "L’identification de l’amie religieuse (trente ans, ancienne pairesse) dont Camille raconte l’histoire avec sœur Louise est l’interprétation courante ; le texte la désigne d’abord comme « une sœur » puis parle des « récits de Louise »."
+ ]
+}

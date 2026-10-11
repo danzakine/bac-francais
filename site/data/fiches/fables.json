@@ -1,0 +1,994 @@
+{
+ "id": "fables",
+ "accroche": "Un loup, un agneau, un renard flatteur… et derrière eux, la cour de Louis XIV : La Fontaine fait parler les animaux pour mieux juger les hommes.",
+ "identite": {
+  "auteur": "Jean de La Fontaine (1621-1695) naît à Château-Thierry, en Champagne, dans une famille de la bourgeoisie aisée. Après des études de théologie puis de droit, il exerce, comme son père, une charge de maître des eaux et forêts. Il se fait connaître comme poète grâce à la protection de Nicolas Fouquet, surintendant des finances. Lorsque Fouquet est arrêté sur ordre de Louis XIV en 1661, La Fontaine lui reste fidèle et écrit en sa faveur l’Élégie aux nymphes de Vaux, ce qui lui vaut une méfiance durable du pouvoir. Il vit ensuite sous la protection de grands personnages : la duchesse douairière d’Orléans, puis Mme de La Sablière. Il publie des Contes (à partir de 1665), les Fables (1668, 1678-1679, 1694) et Les Amours de Psyché et de Cupidon (1669). Il entre à l’Académie française en 1684 et meurt à Paris en 1695.",
+  "contexte": "Le premier recueil paraît en 1668, au début du règne personnel de Louis XIV (commencé en 1661). La monarchie absolue s’affirme : le roi concentre les pouvoirs, la noblesse vit à la cour, où règnent l’apparence, la flatterie et la recherche de la faveur. Le royaume est souvent en guerre (guerre de Dévolution en 1667-1668), et les paysans supportent l’essentiel des impôts. Sous le masque des animaux, La Fontaine peut peindre ces réalités sans attaquer nommément personne. C’est aussi l’époque des grands moralistes : La Rochefoucauld publie ses Maximes en 1665.",
+  "mouvement": "La Fontaine appartient au classicisme, esthétique dominante de la seconde moitié du XVIIe siècle : imitation des Anciens (Ésope, Phèdre), recherche de la clarté, de la mesure et du naturel, volonté de plaire et d’instruire à la fois (principe hérité du poète latin Horace, que La Fontaine reformule : « il faut instruire et plaire », VI, 1). Dans la querelle des Anciens et des Modernes, il se range du côté des Anciens. Il est aussi proche des moralistes (La Rochefoucauld, La Bruyère), qui observent les comportements humains sans illusion. Sa grande originalité est d’avoir fait de la fable, genre scolaire et sec, un véritable art poétique, avec des vers variés (vers libres ou « mêlés ») et une grande liberté de ton.",
+  "circonstances": "Le recueil paraît le 31 mars 1668 sous le titre Fables choisies, mises en vers par M. de La Fontaine. Il réunit 124 fables en six livres, précédées d’une préface en prose, d’une Vie d’Ésope et d’une dédicace en vers à Monseigneur le Dauphin, fils de Louis XIV, alors âgé de six ans, et suivies d’un épilogue. Dans la préface, La Fontaine explique qu’un « des maîtres de notre éloquence » lui avait déconseillé de mettre les fables en vers, et il défend son choix : Socrate lui-même, raconte Platon, aurait versifié des fables d’Ésope avant de mourir. Le succès est immédiat. La Fontaine publiera un second recueil en 1678-1679 (livres VII à XI), dédié à Mme de Montespan, puis un dernier livre en 1694 (livre XII), dédié au jeune duc de Bourgogne.",
+  "carriere": "Quand paraissent les premières Fables, La Fontaine a 46 ans. Il est connu surtout pour ses Contes et nouvelles en vers (1665), récits plaisants et lestes inspirés de Boccace et de l’Arioste. Les Fables font de lui un auteur respecté, que l’on peut mettre entre les mains d’un prince. L’épilogue du livre VI annonce le projet suivant : « Retournons à Psyché », c’est-à-dire Les Amours de Psyché et de Cupidon (1669). Le second recueil (1678-1679), plus long et plus philosophique, puise aussi à d’autres sources, comme le fabuliste indien Pilpay. Les Fables restent l’œuvre majeure de La Fontaine et l’un des textes les plus lus et appris de la littérature française."
+ },
+ "resumeCourt": "Le premier recueil des Fables de La Fontaine paraît en 1668. Il réunit 124 fables réparties en six livres et dédiées au Dauphin, fils de Louis XIV, alors âgé de six ans. La Fontaine reprend des fables antiques, surtout celles d’Ésope (Grec) et de Phèdre (Latin), mais il les transforme en petits récits vivants, en vers variés, pleins de dialogues, d’humour et de poésie. Chaque fable raconte une courte histoire et en tire une leçon, la morale, placée au début, à la fin ou laissée implicite. Les animaux y représentent les types humains : le lion puissant, le renard rusé, le loup brutal, l’agneau innocent. Sous une apparence légère, le recueil peint une société dominée par la force, la flatterie et l’intérêt, et enseigne la prudence, la lucidité et la modération. La Fontaine le résume lui-même : « Je me sers d’animaux pour instruire les hommes. »",
+ "resume": [
+  {
+   "titre": "Les textes d’ouverture : préface et dédicace au Dauphin",
+   "texte": "Dans sa préface en prose (absente du texte du site, consultable sur Wikisource), La Fontaine défend le genre de la fable : Socrate, selon Platon, aurait mis en vers des fables d’Ésope, et Platon voulait que les enfants les apprennent dès le berceau. Il définit l’apologue : « Le corps est la fable : l’âme, la moralité. » Il explique aussi qu’il a voulu « égayer l’ouvrage », en précisant : « Je n’appelle pas gaieté ce qui excite le rire ; mais un certain charme, un air agréable qu’on peut donner à toutes sortes de sujets, même les plus sérieux. » La dédicace en vers « À Monseigneur le Dauphin » annonce le projet : « Je me sers d’animaux pour instruire les hommes. »"
+  },
+  {
+   "titre": "Livre I : la loi du plus fort et les faiblesses humaines",
+   "texte": "Le livre s’ouvre sur « La Cigale et la Fourmi » (I, 1), qui oppose l’insouciance à la prévoyance, et « Le Corbeau et le Renard » (I, 2), leçon contre la vanité et la flatterie. « La Grenouille qui se veut faire aussi grosse que le Bœuf » (I, 3) se moque de ceux qui veulent imiter les grands. « Le Loup et le Chien » (I, 5) préfère la liberté affamée à l’esclavage bien nourri. « Le Loup et l’Agneau » (I, 10) montre la force qui triomphe du droit. « La Mort et le Bûcheron » (I, 16) peint la misère paysanne. « Le Chêne et le Roseau » (I, 22) clôt le livre sur la chute de l’orgueilleux."
+  },
+  {
+   "titre": "Livre II : ruse, entraide et revers de fortune",
+   "texte": "La fable d’ouverture, « Contre ceux qui ont le goût difficile » (II, 1), répond avec humour aux critiques du fabuliste. Le livre montre que les petits peuvent vaincre les grands : dans « Le Lion et le Moucheron » (II, 9), un insecte harcèle le roi des animaux ; dans « Le Lion et le Rat » (II, 11), le rat sauve le lion pris au filet : « On a souvent besoin d’un plus petit que soi. » La Fontaine annonce que « deux fables feront foi » de cette vérité : la suivante, « La Colombe et la Fourmi » (II, 12), en est la seconde preuve."
+  },
+  {
+   "titre": "Livre III : l’opinion des autres et le danger des apparences",
+   "texte": "« Le Meunier, son Fils et l’Âne » (III, 1) montre qu’il est impossible de plaire à tout le monde. « Les Membres et l’Estomac » (III, 2) réfléchit à l’utilité de chacun dans le corps social. « Le Renard et le Bouc » (III, 5) met en garde contre l’imprudence : « En toute chose il faut considérer la fin. » « Le Renard et les Raisins » (III, 11) se moque de celui qui méprise ce qu’il ne peut avoir."
+  },
+  {
+   "titre": "Livre IV : pouvoir, intérêts et sagesse",
+   "texte": "Ce livre accumule les leçons sur la vie en société : « Le Lion amoureux » (IV, 1) montre comment l’amour désarme le plus fort ; « Le Geai paré des plumes du Paon » (IV, 9) dénonce les imitateurs ; « Le Vieillard et ses Enfants » (IV, 18) fait l’éloge de l’union ; « L’Œil du maître » (IV, 21) rappelle que rien ne vaut la vigilance de celui qui est concerné."
+  },
+  {
+   "titre": "Livre V : travail, prudence et comédie humaine",
+   "texte": "Le livre s’ouvre sur une réflexion : « Le Pâtre et le Lion » (VI, 1) affirme qu’« il faut instruire et plaire », car « une morale nue apporte de l’ennui » ; La Fontaine y raconte la fable à la manière d’Ésope, puis, dans « Le Lion et le Chasseur » (VI, 2), à la manière d’un autre fabuliste antique. « Le Vieillard et l’Âne » (VI, 8) livre une leçon politique audacieuse : « Notre ennemi, c’est notre maître ». « Le Lièvre et la Tortue » (VI, 10) montre la persévérance qui l’emporte sur la vitesse. Un épilogue clôt ce premier recueil (« Bornons ici cette carrière ») et annonce un retour à Psyché ; La Fontaine prolongera les Fables en 1678-1679 (livres VII à XI) puis en 1694 (livre XII)."
+  },
+  {
+   "titre": "Livre VI : le pouvoir des fables et la fin du recueil",
+   "texte": "Le livre s’ouvre sur une réflexion : « Le Pâtre et le Lion » (VI, 1) affirme qu’il faut « instruire et plaire », car « une morale nue apporte de l’ennui ». « Le Vieillard et l’Âne » (VI, 8) livre une leçon politique audacieuse : « Notre ennemi, c’est notre maître ». « Le Lièvre et la Tortue » (VI, 10) montre la persévérance qui l’emporte sur la vitesse. Un épilogue clôt ce premier recueil, que La Fontaine prolongera en 1678-1679 (livres VII à XI) puis en 1694 (livre XII)."
+  }
+ ],
+ "structure": "Le premier recueil (1668) compte six livres et 124 fables, précédés, dans l’édition originale, d’une préface en prose, d’une Vie d’Ésope et d’une dédicace en vers au Dauphin (le texte du site donne la dédicace, les six livres et l’épilogue), et suivis d’un épilogue. Chaque livre s’ouvre souvent sur une fable qui réfléchit à l’art de la fable (II, 1 ; V, 1 ; VI, 1). Chaque fable a une structure double : un récit (le « corps ») et une morale (l’« âme »), placée au début (« Le Loup et l’Agneau »), à la fin (« Le Corbeau et le Renard ») ou laissée implicite. La Fontaine utilise des vers mêlés : alexandrins, octosyllabes, vers plus courts, dont l’alternance crée le rythme et souligne les effets. Les fables mêlent narration, description et dialogues, comme de petites comédies. Les citations sont données ici en orthographe modernisée lorsque le texte du site conserve des graphies anciennes (« étoit » pour « était »).",
+ "personnages": [
+  {
+   "nom": "Le Lion",
+   "role": "Roi des animaux, il représente le monarque et les puissants. Fier, parfois tyrannique, il peut aussi être vulnérable et avoir besoin des plus petits (« Le Lion et le Rat », « Le Lion et le Moucheron »).",
+   "relations": "Il domine tous les autres, mais dépend parfois des plus petits (le Rat qui le délivre, le Moucheron qui le harcèle). Le Renard le flatte, le Pâtre le redoute."
+  },
+  {
+   "nom": "Le Loup",
+   "role": "Figure de la force brutale et de la faim. Il abuse de son pouvoir contre l’Agneau, mais il incarne aussi, face au Chien, l’amour farouche de la liberté (« Le Loup et le Chien »).",
+   "relations": "Prédateur de l’Agneau, il est aussi, face au Chien, l’animal libre qui refuse le collier. Il s’oppose donc tantôt aux faibles, tantôt aux serviteurs bien nourris."
+  },
+  {
+   "nom": "Le Renard",
+   "role": "Le rusé, le beau parleur, le flatteur. Il trompe le Corbeau ou le Bouc par la parole : il représente le courtisan habile qui vit aux dépens des naïfs.",
+   "relations": "Il vit aux dépens des naïfs (le Corbeau, le Bouc) et se tire d’affaire par la parole ; il est l’ennemi des vaniteux."
+  },
+  {
+   "nom": "L’Agneau et les faibles",
+   "role": "L’Agneau, le Rat, la Grenouille, le Pot de terre : ce sont les petits, souvent victimes des grands. Leur innocence ou leur raison ne suffit pas toujours à les sauver.",
+   "relations": "Ils subissent la loi des forts (Loup, Pot de fer, Bœuf), mais peuvent aussi rendre service aux grands (le Rat sauve le Lion)."
+  },
+  {
+   "nom": "La Cigale et la Fourmi",
+   "role": "Deux attitudes opposées : l’insouciance artiste de la Cigale, la prévoyance avare de la Fourmi, qui « n’est pas prêteuse ». La Fontaine laisse au lecteur le soin de juger.",
+   "relations": "Leur dialogue est un face-à-face sans arbitre : la Fourmi a le dernier mot, mais le lecteur reste libre de juger."
+  },
+  {
+   "nom": "Le Chêne et le Roseau",
+   "role": "Des végétaux personnifiés : le Chêne orgueilleux et apparemment invincible, le Roseau humble mais souple, qui survit à la tempête.",
+   "relations": "Le Chêne protège, ou croit protéger, le Roseau ; la tempête renverse leur rapport de force."
+  },
+  {
+   "nom": "Les hommes",
+   "role": "Le Bûcheron, le Laboureur, le Meunier, le Vieillard : La Fontaine met aussi en scène des humains, souvent des paysans pauvres. Ils montrent la dureté de la condition humaine et la valeur du travail.",
+   "relations": "Ils sont soumis aux puissances qui les dépassent : la Mort, les dieux (Mercure, Jupiter), les impôts et les soldats."
+  },
+  {
+   "nom": "Le fabuliste",
+   "role": "Le narrateur intervient souvent : il annonce la morale, commente, s’adresse au lecteur ou au Dauphin. Sa voix ironique et complice guide la lecture.",
+   "relations": "Il s’adresse au Dauphin, aux lecteurs, à ses protecteurs (dédicaces de fables) et dialogue avec ses modèles, Ésope et Phèdre."
+  }
+ ],
+ "evolution": "Le premier recueil ne raconte pas une histoire suivie : l’évolution est celle d’un art et d’une pensée. Le livre I aligne des fables brèves, souvent proches d’Ésope, aux morales nettes. Au fil des livres, le fabuliste intervient davantage : les livres II, V et VI s’ouvrent sur des fables qui réfléchissent au genre (II, 1 ; V, 1 ; VI, 1), et La Fontaine y défend sa manière, qui consiste à « égayer » le récit et à tourner « le vice en ridicule » (V, 1). Les morales deviennent aussi plus amères et plus politiques : du constat de la loi du plus fort (I, 10) à la maxime « Notre ennemi, c’est notre maître » (VI, 8). L’épilogue enfin montre un poète qui refuse les « longs ouvrages » et passe à d’autres projets. Le second recueil (1678-1679), plus ample et plus philosophique, prolongera ce mouvement.",
+ "themes": [
+  {
+   "titre": "La loi du plus fort",
+   "texte": "La société des Fables est souvent injuste : « La raison du plus fort est toujours la meilleure » (« Le Loup et l’Agneau », I, 10). Le loup ne cherche pas la vérité, mais un prétexte pour manger l’agneau « sans autre forme de procès ». Le « Pot de terre » se brise contre le « Pot de fer » (V, 2). La Fontaine ne dit pas que c’est juste : il montre ce qui est, avec une ironie critique."
+  },
+  {
+   "titre": "La flatterie et le pouvoir de la parole",
+   "texte": "Le Renard flatte le Corbeau (« Que vous êtes joli ! que vous me semblez beau ! ») pour lui voler son fromage, puis lui enseigne que « tout flatteur / Vit aux dépens de celui qui l’écoute » (I, 2). La parole est une arme : elle trompe le Bouc (III, 5), mais elle permet aussi à l’Agneau de se défendre, en vain, par un raisonnement juste."
+  },
+  {
+   "titre": "La satire de la société et de la cour",
+   "texte": "Sous les animaux se cachent les hommes du XVIIe siècle : le roi (le Lion), les courtisans (le Renard), les bourgeois qui veulent imiter les nobles (« Tout bourgeois veut bâtir comme les grands seigneurs », I, 3). « La Mort et le Bûcheron » (I, 16) décrit la misère paysanne écrasée par « les soldats, les impôts ». « Le Vieillard et l’Âne » (VI, 8) ose une maxime presque subversive : « Notre ennemi, c’est notre maître »."
+  },
+  {
+   "titre": "La liberté",
+   "texte": "« Le Loup et le Chien » (I, 5) oppose la sécurité du chien, gras mais attaché par un collier, à la liberté du loup, maigre mais libre. Le loup refuse : il ne voudrait pas, à ce prix, même « un trésor ». La liberté vaut plus que le confort : leçon forte sous une monarchie absolue."
+  },
+  {
+   "titre": "La sagesse pratique : prudence, travail, modération",
+   "texte": "Les morales enseignent une sagesse concrète : réfléchir avant d’agir (« En toute chose il faut considérer la fin », III, 5), persévérer (« Rien ne sert de courir ; il faut partir à point », VI, 10), travailler (« Le Laboureur et ses enfants », V, 9), ne pas se croire invincible (« Le Chêne et le Roseau », I, 22), s’entraider (« On a souvent besoin d’un plus petit que soi », II, 11)."
+  },
+  {
+   "titre": "Plaire et instruire : l’art de la fable",
+   "texte": "La Fontaine réfléchit à son propre art : « Une morale nue apporte de l’ennui : / Le conte fait passer le précepte avec lui » (VI, 1). Le plaisir du récit (dialogues vifs, humour, vers variés) rend la leçon efficace. Les fables forment « une ample comédie à cent actes divers, / Et dont la scène est l’univers » (V, 1) : un théâtre du monde en miniature."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment un récit plaisant peut-il transmettre une leçon morale ?",
+   "Que nous apprennent les animaux sur les hommes et sur la société du XVIIe siècle ?",
+   "Les Fables enseignent-elles la vertu ou la prudence, c’est-à-dire l’art de survivre dans un monde injuste ?",
+   "Comment La Fontaine renouvelle-t-il un genre ancien, hérité d’Ésope et de Phèdre ?"
+  ],
+  "intentions": "La Fontaine a exposé ses intentions dans la préface de 1668 (texte de l’éd. 1874, Wikisource) et dans plusieurs fables. Il veut instruire : la fable est « un tableau où chacun de nous se trouve dépeint », et la dédicace au Dauphin annonce : « Je me sers d’animaux pour instruire les hommes. » Il veut aussi plaire : ne pouvant égaler la brièveté de Phèdre, il a choisi d’« égayer l’ouvrage », la gaieté étant « un certain charme, un air agréable ». Il défend enfin la liberté de sa méthode : « On ne considère en France que ce qui plaît : c’est la grande règle ». Dans « Le Bûcheron et Mercure » (V, 1), il précise sa cible : « Je tâche d’y tourner le vice en ridicule ». Ces déclarations montrent une ambition morale réelle, mais elles ne disent pas qu’il visait telle ou telle personne : les rapprochements avec la cour de Louis XIV relèvent de l’interprétation.",
+  "procedes": [
+   {
+    "nom": "La personnification (animaux, objets et végétaux qui parlent)",
+    "explication": "Chaque animal incarne un type humain ; le lecteur reconnaît les hommes sous les masques, sans qu’aucune personne réelle soit nommée.",
+    "exemple": "Le Loup s’adresse à l’Agneau en maître et l’Agneau lui répond « Sire, […] Votre Majesté » (I, 10) : un rapport de cour entre deux bêtes."
+   },
+   {
+    "nom": "Les vers mêlés",
+    "explication": "La Fontaine alterne librement alexandrins, octosyllabes et vers très courts ; le changement de mètre souligne une rupture, une chute ou une réplique.",
+    "exemple": "Dans « Le Loup et l’Agneau », l’alexandrin de la morale (« La raison du plus fort est toujours la meilleure ») est suivi d’un octosyllabe rapide : « Nous l’allons montrer tout à l’heure »."
+   },
+   {
+    "nom": "Le dialogue théâtral",
+    "explication": "Les fables sont de petites scènes de comédie : répliques rapides, tirets, interruptions, mots de la fin.",
+    "exemple": "« Qu’est-ce là ? lui dit-il. — Rien. — Quoi ! rien ? — Peu de chose. » (« Le Loup et le Chien », I, 5)."
+   },
+   {
+    "nom": "La morale (explicite, déplacée ou implicite)",
+    "explication": "La leçon peut ouvrir la fable, la clore, être prononcée par un personnage ou laissée au lecteur.",
+    "exemple": "En tête dans « Le Loup et l’Agneau » ; dans la bouche du Renard dans « Le Corbeau et le Renard » ; absente dans « La Cigale et la Fourmi », qui s’achève sur « dansez maintenant »."
+   },
+   {
+    "nom": "L’ironie et les interventions du fabuliste",
+    "explication": "Le narrateur commente, juge à demi-mot, prend le lecteur à témoin ; le décalage entre le ton et la situation fait sourire et réfléchir.",
+    "exemple": "« Sans autre forme de procès » (I, 10) : la formule juridique souligne qu’aucun procès n’a eu lieu ; « La fourmi n’est pas prêteuse ; / C’est là son moindre défaut » (I, 1)."
+   },
+   {
+    "nom": "Les effets de rythme et de sonorité",
+    "explication": "Accumulations, rejets, sonorités imitatives donnent vie au récit et le rendent facile à mémoriser.",
+    "exemple": "« Mes gens s’en vont à trois pieds, / Clopin clopant » (V, 2) ; « L’arbre tient bon, le roseau plie » (I, 22), vers coupé en deux comme le combat."
+   }
+  ],
+  "style": "La Fontaine écrit une poésie qui semble naturelle et parlée : phrases courtes, tutoiement ou vouvoiement selon les rapports de force, exclamations, mots familiers (« Clopin clopant », « pécore ») voisinant avec des mots nobles (« aquilon », « zéphyr »). Ce mélange crée un effet comique (le Loup appelé « Sire loup », le Rat « Sire rat ») et donne aux animaux la dignité ou le ridicule des hommes. Les vers mêlés, les rimes variées et les changements de rythme épousent le mouvement du récit. La concision est constante : en quelques vers, une situation, un dialogue et une leçon.",
+  "registres": [
+   {
+    "nom": "Didactique",
+    "explication": "La fable enseigne : la morale formule une règle de conduite (« En toute chose il faut considérer la fin », III, 5)."
+   },
+   {
+    "nom": "Comique",
+    "explication": "Comique de situation (le Corbeau qui ouvre le bec), de mots (« Clopin clopant ») et de caractère (la Grenouille qui « s’enfla si bien qu’elle creva »)."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Critique moqueuse des vaniteux, des flatteurs et des puissants (« Tout bourgeois veut bâtir comme les grands seigneurs », I, 3)."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Certaines fables émeuvent : la misère du bûcheron « Sous le faix du fagot aussi bien que des ans » (I, 16)."
+   },
+   {
+    "nom": "Épique (parodié)",
+    "explication": "La Fontaine emprunte le ton de l’épopée pour des sujets modestes : le vent du « Chêne et le Roseau », « Le plus terrible des enfants / Que le Nord eût portés »."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le premier recueil reprend surtout des sujets d’Ésope et de Phèdre, que La Fontaine transforme par le récit, le dialogue et les vers mêlés.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le Lion représente le roi et le Renard le courtisan : la Fontaine ne le dit pas explicitement, mais la lecture politique des Fables est ancienne et largement partagée.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "« La Cigale et la Fourmi » donne-t-elle raison à la Fourmi prévoyante ou dénonce-t-elle son avarice ? La fable n’a pas de morale explicite et les lectures divergent.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Les Fables enseignent-elles une morale de la vertu ou une morale de la prudence, voire de la ruse ? Rousseau, dans l’Émile (1762), leur reproche de proposer aux enfants des modèles douteux.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La fidélité de La Fontaine à Fouquet expliquerait la méfiance de Louis XIV et certaines morales sévères pour les puissants : rapprochement possible, mais non démontré fable par fable.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Les Fables illustrent l’esthétique classique : imitation des Anciens (Ésope, Phèdre), clarté, naturel, idéal de plaire et d’instruire. Elles rejoignent les moralistes du temps (La Rochefoucauld, plus tard La Bruyère) par leur regard lucide sur l’amour-propre, la flatterie et l’intérêt. Le contexte de la monarchie absolue éclaire la prudence du genre : l’apologue permet de critiquer sans nommer. La Fontaine affirme toutefois sa liberté face aux règles (« On ne considère en France que ce qui plaît », préface)."
+ },
+ "citations": [
+  {
+   "texte": "Je me sers d’animaux pour instruire les hommes.",
+   "locuteur": "Le fabuliste",
+   "reference": "Dédicace en vers « À Monseigneur le Dauphin » (en tête du livre I)",
+   "situation": "Dernier vers du premier mouvement de la dédicace au fils de Louis XIV, alors âgé de six ans.",
+   "sens": "Les animaux ne sont qu’un moyen : la vraie cible, c’est l’homme.",
+   "procedes": "Antithèse animaux / hommes, verbe « instruire » qui affirme la visée didactique.",
+   "demontre": "Le projet du recueil : la fable est un apologue, un récit qui enseigne.",
+   "usage": "Pour toute question sur la définition et le but de la fable.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "L’apologue est composé de deux parties, dont on peut appeler l’une le corps, l’autre l’âme. Le corps est la fable : l’âme, la moralité.",
+   "locuteur": "La Fontaine",
+   "reference": "Préface du premier recueil (1668)",
+   "situation": "La Fontaine explique, à la fin de la préface, comment il a conduit son ouvrage.",
+   "sens": "Le récit est la partie visible ; la morale en est le sens profond.",
+   "procedes": "Métaphore du corps et de l’âme, définition en deux temps.",
+   "demontre": "La structure double de la fable, récit et leçon.",
+   "usage": "Pour définir l’apologue en introduction ou à l’oral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Wikisource, Fables de La Fontaine (éd. 1874, Bernardin-Béchet), « Préface » : https://fr.wikisource.org/wiki/Fables_de_La_Fontaine_(%C3%A9d._1874)/Pr%C3%A9face (la préface ne figure pas dans le texte du site)",
+    "note": "Citation vérifiée mot pour mot sur Wikisource (éd. 1874, orthographe modernisée par l’éditeur)."
+   }
+  },
+  {
+   "texte": "Apprenez que tout flatteur / Vit aux dépens de celui qui l’écoute",
+   "locuteur": "Le Renard",
+   "reference": "Livre I, fable 2, « Le Corbeau et le Renard »",
+   "situation": "Le Renard vient de s’emparer du fromage et tire lui-même la leçon.",
+   "sens": "Le flatteur profite de la vanité de celui qui l’écoute.",
+   "procedes": "Morale au discours direct, impératif ironique, présent de vérité générale.",
+   "demontre": "La puissance trompeuse de la parole et la satire de la flatterie.",
+   "usage": "Pour le thème de la flatterie et des courtisans.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Cette leçon vaut bien un fromage, sans doute.",
+   "locuteur": "Le Renard",
+   "reference": "Livre I, fable 2, « Le Corbeau et le Renard »",
+   "situation": "Vers qui suit la morale : le Renard justifie son vol.",
+   "sens": "La leçon est le « prix » du fromage : le trompeur se présente en professeur.",
+   "procedes": "Ironie, chute comique, renversement des rôles.",
+   "demontre": "L’ironie de La Fontaine : la morale est donnée par le personnage le moins moral.",
+   "usage": "Pour montrer l’ambiguïté morale des Fables.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "La raison du plus fort est toujours la meilleure : / Nous l’allons montrer tout à l’heure.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre I, fable 10, « Le Loup et l’Agneau »",
+   "situation": "Morale placée en tête de la fable, avant le récit.",
+   "sens": "La force l’emporte sur le droit ; le récit va le prouver.",
+   "procedes": "Morale en ouverture, « meilleure » au sens de : qui l’emporte, alternance alexandrin / octosyllabe.",
+   "demontre": "La loi du plus fort et l’ironie critique du fabuliste.",
+   "usage": "Pour le thème de l’injustice et de la critique du pouvoir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Le loup l’emporte, et puis le mange, / Sans autre forme de procès.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre I, fable 10, « Le Loup et l’Agneau »",
+   "situation": "Derniers vers : le Loup, à court d’arguments, passe à l’acte.",
+   "sens": "Le faux procès s’achève sans jugement : la violence remplace la justice.",
+   "procedes": "Brièveté du dénouement, formule juridique ironique, octosyllabes rapides.",
+   "demontre": "La parole et la raison ne pèsent rien face à la force.",
+   "usage": "Pour analyser un dénouement et l’ironie de la fable.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Et ne voudrais pas même à ce prix un trésor. / Cela dit, maître loup s’enfuit, et court encor.",
+   "locuteur": "Le Loup, puis le fabuliste",
+   "reference": "Livre I, fable 5, « Le Loup et le Chien »",
+   "situation": "Le Loup vient de découvrir que le Chien porte un collier.",
+   "sens": "Aucune richesse ne vaut la perte de la liberté ; le Loup fuit pour toujours.",
+   "procedes": "Hyperbole (« un trésor »), présent « court encor » qui prolonge la fuite jusqu’à aujourd’hui.",
+   "demontre": "L’éloge de la liberté contre le confort de la servitude.",
+   "usage": "Pour le thème de la liberté ; utile aussi en littérature d’idées.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Orthographe modernisée (le texte du site conserve « oi » pour « ai » : « voudrois », « disoit »…), vérifiée mot à mot."
+   }
+  },
+  {
+   "texte": "Point de pain quelquefois, et jamais de repos : / Sa femme, ses enfants, les soldats, les impôts",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre I, fable 16, « La Mort et le Bûcheron »",
+   "situation": "Le fabuliste dresse le tableau des malheurs du bûcheron épuisé.",
+   "sens": "Le paysan manque de tout et subit toutes les charges.",
+   "procedes": "Accumulation, antithèse « quelquefois / jamais », énumération sans hiérarchie.",
+   "demontre": "La peinture réaliste de la misère paysanne au XVIIe siècle.",
+   "usage": "Pour montrer la portée sociale des Fables.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Plutôt souffrir que mourir, / C’est la devise des hommes.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre I, fable 16, « La Mort et le Bûcheron »",
+   "situation": "Morale finale : appelée, la Mort arrive, et le bûcheron lui demande seulement de l’aider à recharger son bois.",
+   "sens": "Malgré la misère, l’homme tient à la vie.",
+   "procedes": "Maxime au présent de vérité générale, vers courts, chiasme implicite souffrir / mourir.",
+   "demontre": "Une morale lucide, qui constate plus qu’elle ne juge.",
+   "usage": "Pour montrer que la morale peut être un simple constat.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je plie, et ne romps pas.",
+   "locuteur": "Le Roseau",
+   "reference": "Livre I, fable 22, « Le Chêne et le Roseau »",
+   "situation": "Le Roseau répond à la fausse pitié du Chêne.",
+   "sens": "La souplesse protège mieux que la force rigide.",
+   "procedes": "Formule brève, antithèse plier / rompre, présent de vérité générale.",
+   "demontre": "La revanche du faible et la leçon d’humilité.",
+   "usage": "Pour opposer orgueil et sagesse.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "On a souvent besoin d’un plus petit que soi.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre II, fable 11, « Le Lion et le Rat »",
+   "situation": "Morale placée en tête de la fable.",
+   "sens": "Les puissants ne doivent pas mépriser les faibles.",
+   "procedes": "Maxime, pronom « on » à valeur générale, antithèse implicite grand / petit.",
+   "demontre": "La solidarité et le renversement des rapports de force.",
+   "usage": "Pour le thème des petits et des grands.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Patience et longueur de temps / Font plus que force ni que rage.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre II, fable 11, « Le Lion et le Rat »",
+   "situation": "Morale finale : le Rat a rongé une à une les mailles du filet.",
+   "sens": "La persévérance réussit là où la violence échoue.",
+   "procedes": "Opposition de deux couples de mots, octosyllabes frappants.",
+   "demontre": "La valeur de la patience face à la force.",
+   "usage": "Pour montrer qu’une fable peut avoir deux morales.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Tout bourgeois veut bâtir comme les grands seigneurs",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre I, fable 3, « La Grenouille qui se veut faire aussi grosse que le Bœuf »",
+   "situation": "Morale qui applique l’histoire de la Grenouille à la société.",
+   "sens": "Chacun veut imiter ceux qui sont au-dessus de lui.",
+   "procedes": "Anaphore de « Tout » (bourgeois, petit prince, marquis), généralisation satirique.",
+   "demontre": "La satire sociale : vanité et désir de paraître.",
+   "usage": "Pour montrer la portée sociale de la morale.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Une ample comédie à cent actes divers, / Et dont la scène est l’univers.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre V, fable 1, « Le Bûcheron et Mercure »",
+   "situation": "Prologue adressé à un protecteur (« À M. le C. D. B. ») où La Fontaine définit son œuvre.",
+   "sens": "Le recueil est un théâtre du monde.",
+   "procedes": "Métaphore filée du théâtre, hyperbole « cent actes », rime divers / univers.",
+   "demontre": "L’ambition universelle des Fables.",
+   "usage": "Pour une conclusion ou une question sur l’unité du recueil.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je tâche d’y tourner le vice en ridicule, / Ne pouvant l’attaquer avec des bras d’Hercule.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre V, fable 1, « Le Bûcheron et Mercure »",
+   "situation": "Même prologue : La Fontaine décrit sa méthode.",
+   "sens": "Il combat le vice par le rire, non par la force.",
+   "procedes": "Antithèse ridicule / bras d’Hercule, modestie ironique.",
+   "demontre": "La fonction satirique et morale du rire.",
+   "usage": "Pour relier les Fables à la satire et à la comédie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Une morale nue apporte de l’ennui : / Le conte fait passer le précepte avec lui.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre VI, fable 1, « Le Pâtre et le Lion »",
+   "situation": "Ouverture du livre VI : réflexion sur l’art de la fable.",
+   "sens": "La leçon seule ennuie ; le récit la fait accepter.",
+   "procedes": "Personnification de la morale « nue », opposition morale / conte.",
+   "demontre": "Le principe d’instruire en plaisant.",
+   "usage": "Pour un sujet sur l’argumentation indirecte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Notre ennemi, c’est notre maître : / Je vous le dis en bon françois.",
+   "locuteur": "L’Âne",
+   "reference": "Livre VI, fable 8, « Le Vieillard et l’Âne »",
+   "situation": "L’Âne refuse de fuir devant l’ennemi qui approche.",
+   "sens": "Changer de maître ne change rien pour celui qui porte le bât.",
+   "procedes": "Maxime frappante, présentatif « c’est », vers final familier.",
+   "demontre": "Une critique audacieuse de la condition des sujets.",
+   "usage": "Pour la dimension politique des Fables.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site (« françois » est la graphie d’époque de « français », qui rime ici avec « sois »)."
+   }
+  },
+  {
+   "texte": "Rien ne sert de courir ; il faut partir à point.",
+   "locuteur": "Le fabuliste",
+   "reference": "Livre VI, fable 10, « Le Lièvre et la Tortue »",
+   "situation": "Morale placée en tête de la fable.",
+   "sens": "Il vaut mieux commencer à temps que compter sur sa vitesse.",
+   "procedes": "Maxime en deux temps, rythme binaire.",
+   "demontre": "La sagesse pratique des Fables.",
+   "usage": "Pour illustrer la morale en ouverture.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Vous chantiez ! j’en suis fort aise. / Hé bien ! dansez maintenant.",
+   "locuteur": "La Fourmi",
+   "reference": "Livre I, fable 1, « La Cigale et la Fourmi »",
+   "situation": "Derniers vers de la fable : la Fourmi refuse de prêter.",
+   "sens": "La Fourmi renvoie la Cigale à son insouciance.",
+   "procedes": "Ironie cruelle, impératif, absence de morale explicite.",
+   "demontre": "L’ambiguïté de la leçon : prévoyance ou dureté ?",
+   "usage": "Pour une réflexion sur la morale implicite.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : La Fontaine, Fables, livres I à VI (1668), éd. illustrée par J.-J. Grandville, Garnier frères (Project Gutenberg n° 56327)",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Instruire et plaire : la fable, une poésie qui fait réfléchir",
+  "explication": "Les Fables (livres I à VI) sont présentées ici comme une œuvre complémentaire de culture littéraire : le programme de seconde n’impose aucune œuvre, et ce recueil ne figure sur aucune liste officielle. Elles se rattachent naturellement à l’objet d’étude « La poésie du Moyen Âge au XVIIIe siècle », dont le programme cite le classicisme parmi les mouvements qui peuvent éclairer le corpus. Le parcours « Instruire et plaire : la fable, une poésie qui fait réfléchir » est une proposition du site, pas un intitulé officiel. Il invite à étudier comment la poésie (vers, rythme, sonorités) se met au service d’une réflexion sur l’homme et la société, et comment le plaisir du récit rend la leçon plus convaincante que l’argumentation directe.\n\nLes Fables répondent idéalement à ce parcours : La Fontaine affirme qu’« il faut instruire et plaire » dans « Le Pâtre et le Lion » (VI, 1). Ses vers mêlés donnent du rythme aux dialogues ; ses animaux rendent visibles des vérités humaines ; son ironie fait réfléchir sans prêcher. La morale, explicite ou implicite, oblige le lecteur à interpréter : faut-il approuver la Fourmi ? admirer le Loup ?\n\nLe recueil peut aussi éclairer l’objet d’étude « La littérature d’idées et la presse du XIXe siècle au XXIe siècle », car la fable est une manière indirecte d’argumenter. Les textes complémentaires montrent l’héritage antique du genre, ses contemporains, la critique qu’on en a faite et sa postérité.",
+  "textesComplementaires": [
+   {
+    "titre": "Fables, « Le Loup et l’Agneau »",
+    "auteur": "Ésope (VIe siècle av. J.-C.) et Phèdre (Ier siècle)",
+    "interet": "Comparer les versions antiques, brèves et sèches, avec la réécriture de La Fontaine permet de mesurer son apport : dialogues, ironie, poésie."
+   },
+   {
+    "titre": "Les Caractères, « De la cour »",
+    "auteur": "Jean de La Bruyère (1688)",
+    "interet": "Un moraliste contemporain qui peint, en prose et sans animaux, les mêmes courtisans flatteurs et hypocrites que La Fontaine."
+   },
+   {
+    "titre": "Émile ou De l’éducation, livre II (critique du « Corbeau et le Renard »)",
+    "auteur": "Jean-Jacques Rousseau (1762)",
+    "interet": "Rousseau reproche aux fables d’enseigner aux enfants la ruse plutôt que la vertu : un débat sur la valeur morale des Fables."
+   },
+   {
+    "titre": "Fables, « Le Grillon »",
+    "auteur": "Jean-Pierre Claris de Florian (1792)",
+    "interet": "Un fabuliste du XVIIIe siècle qui prolonge le genre, avec une morale de la vie cachée et heureuse."
+   },
+   {
+    "titre": "Fables, « Le Chêne et le Roseau »",
+    "auteur": "Jean Anouilh (1962)",
+    "interet": "Une réécriture du XXe siècle qui discute la morale de La Fontaine et réhabilite le Chêne : on voit qu’une fable peut être contestée par une autre fable."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "La fable est un apologue : un récit (le « corps ») au service d’une leçon (l’« âme »).",
+   "Les animaux sont des types humains ; la société des Fables ressemble à celle de Louis XIV.",
+   "La morale peut être explicite, déplacée, prononcée par un personnage ou absente.",
+   "La Fontaine veut instruire et plaire : le plaisir du récit rend la leçon efficace.",
+   "Les Fables enseignent souvent la prudence plus que la vertu : elles décrivent le monde tel qu’il est."
+  ],
+  "axes": [
+   "Un récit vivant et théâtral (dialogues, rythme, vers mêlés).",
+   "Une critique de la société et du pouvoir sous le masque animal.",
+   "Une morale ambiguë qui fait réfléchir le lecteur.",
+   "Une réflexion sur l’art de la fable (II, 1 ; V, 1 ; VI, 1)."
+  ],
+  "problematiques": [
+   "Comment La Fontaine fait-il du récit animalier un instrument de réflexion sur l’homme ?",
+   "En quoi les Fables sont-elles à la fois une œuvre poétique et une œuvre argumentative ?",
+   "Les Fables enseignent-elles à être bon ou à être habile ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "« Le Loup et l’Agneau » (I, 10) : l’Agneau argumente avec logique (« Plus de vingt pas au-dessous d’elle »), le Loup change d’accusation.",
+    "utilisation": "Montrer que la raison ne pèse rien face à la force et analyser l’ironie de la morale."
+   },
+   {
+    "exemple": "« Le Corbeau et le Renard » (I, 2) : discours flatteur et morale donnée par le Renard.",
+    "utilisation": "Illustrer le pouvoir de la parole et l’ambiguïté d’une morale prononcée par le trompeur."
+   },
+   {
+    "exemple": "« Le Loup et le Chien » (I, 5) : le cou pelé et le collier.",
+    "utilisation": "Montrer comment un détail concret rend visible une idée abstraite (la servitude)."
+   },
+   {
+    "exemple": "« La Mort et le Bûcheron » (I, 16) : « les soldats, les impôts ».",
+    "utilisation": "Prouver la portée sociale et réaliste des Fables."
+   },
+   {
+    "exemple": "« Le Bûcheron et Mercure » (V, 1) : « tourner le vice en ridicule », « Une ample comédie à cent actes divers ».",
+    "utilisation": "Appuyer une réflexion sur les intentions de La Fontaine et l’unité du recueil."
+   },
+   {
+    "exemple": "« Le Vieillard et l’Âne » (VI, 8) : « Notre ennemi, c’est notre maître ».",
+    "utilisation": "Montrer l’audace politique de certaines morales."
+   }
+  ],
+  "liens": "Les personnages relient les thèmes : le Loup incarne à la fois la loi du plus fort (I, 10) et la liberté (I, 5) ; le Renard relie la flatterie (I, 2) et la ruse (III, 5). Les procédés servent l’argumentation : le dialogue théâtral met en scène un rapport de force, la morale en tête ou en fin oriente la lecture, les vers mêlés soulignent les chutes. Les fables d’ouverture des livres II, V et VI relient l’œuvre à une réflexion sur son propre art.",
+  "sujetsCommentaire": [
+   {
+    "passage": "« Le Loup et l’Agneau » (livre I, fable 10)",
+    "pistes": "Une morale paradoxale placée en tête ; un procès truqué où l’on oppose la logique de l’Agneau à la mauvaise foi du Loup ; un dénouement brutal et ironique (« Sans autre forme de procès »)."
+   },
+   {
+    "passage": "« Le Chêne et le Roseau » (livre I, fable 22)",
+    "pistes": "Le discours orgueilleux du Chêne ; la réponse brève et sage du Roseau ; la tempête au ton épique et la chute du puissant ; la leçon d’humilité."
+   },
+   {
+    "passage": "« La Mort et le Bûcheron » (livre I, fable 16)",
+    "pistes": "Un tableau pathétique et réaliste de la misère paysanne ; le retournement comique de l’appel à la Mort ; une morale lucide sur l’attachement à la vie."
+   }
+  ],
+  "erreurs": [
+   "Croire que La Fontaine a inventé les sujets de ses fables : il les reprend surtout d’Ésope et de Phèdre, et c’est la manière de raconter qui est neuve.",
+   "Penser que la morale est toujours à la fin : elle est parfois au début (I, 10 ; II, 11 ; V, 9 ; VI, 10) ou absente (I, 1).",
+   "Lire « La raison du plus fort est toujours la meilleure » comme une approbation : « meilleure » signifie ici : qui l’emporte, et le ton est ironique.",
+   "Réduire les Fables à des histoires pour enfants : la dédicace au Dauphin n’empêche pas une critique sociale et politique.",
+   "Affirmer que tel animal est tel personnage historique (le Lion = Louis XIV) comme une certitude : c’est une interprétation.",
+   "Attribuer au premier recueil « Les Animaux malades de la peste » : cette fable célèbre ouvre le livre VII (1678)."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Les Fables de La Fontaine sont-elles seulement destinées aux enfants ?",
+   "analyse": "Le recueil est dédié au Dauphin, un enfant de six ans, et on apprend les fables à l’école primaire. Le mot « seulement » invite à montrer que les fables s’adressent aussi aux adultes : elles contiennent une critique sociale et politique, une réflexion morale et un art poétique raffiné.",
+   "problematique": "Sous leur apparence de récits simples pour enfants, les Fables ne s’adressent-elles pas aussi aux adultes, à qui elles livrent une peinture lucide et critique de la société ?",
+   "plan": [
+    {
+     "titre": "I. Des récits qui s’adressent d’abord aux enfants",
+     "arguments": [
+      "A. Une dédicace au Dauphin et un projet éducatif (« Je me sers d’animaux pour instruire les hommes »).",
+      "B. Des histoires courtes, vivantes, avec des animaux familiers et des dialogues amusants (« Le Corbeau et le Renard »).",
+      "C. Des morales simples et mémorisables (« Rien ne sert de courir ; il faut partir à point »)."
+     ]
+    },
+    {
+     "titre": "II. Une peinture critique de la société qui vise les adultes",
+     "arguments": [
+      "A. La loi du plus fort et l’injustice du pouvoir (« Le Loup et l’Agneau »).",
+      "B. La satire de la cour et des flatteurs (le Renard, courtisan) et des ambitieux (« Tout bourgeois veut bâtir comme les grands seigneurs »).",
+      "C. La misère du peuple et une critique politique audacieuse (« La Mort et le Bûcheron » ; « Notre ennemi, c’est notre maître »)."
+     ]
+    },
+    {
+     "titre": "III. Une œuvre d’art et de réflexion pour tous les âges",
+     "arguments": [
+      "A. Des morales ambiguës qui obligent à réfléchir (la Fourmi a-t-elle raison ?).",
+      "B. Une poésie savante : vers mêlés, rythmes, sonorités (« Le Chêne et le Roseau »).",
+      "C. Une réflexion sur l’art même de la fable (« Une morale nue apporte de l’ennui », VI, 1)."
+     ]
+    }
+   ],
+   "introduction": "Tout le monde a appris, enfant, « Le Corbeau et le Renard » ou « La Cigale et la Fourmi ». Les Fables de La Fontaine, dont le premier recueil paraît en 1668 et qui sont dédiées au Dauphin, alors âgé de six ans, semblent donc d’abord destinées aux enfants. Pourtant, derrière les animaux qui parlent, on reconnaît la cour de Louis XIV, ses puissants et ses flatteurs, et la misère du peuple. On peut donc se demander si, sous leur apparence de récits simples pour enfants, les Fables ne s’adressent pas aussi aux adultes. Nous verrons d’abord que ces récits s’adressent bien aux enfants, puis qu’ils proposent une peinture critique de la société destinée aux adultes, enfin qu’ils constituent une œuvre d’art et de réflexion pour tous les âges.",
+   "conclusion": "Les Fables ont bien une dimension éducative destinée aux enfants : récits courts, animaux familiers, morales faciles à retenir. Mais elles s’adressent tout autant aux adultes, auxquels elles montrent sans illusion une société dominée par la force, la flatterie et l’injustice. Leur ambiguïté et leur art poétique en font une œuvre qui grandit avec son lecteur : on la relit à chaque âge avec un regard nouveau. Rousseau, au XVIIIe siècle, jugera d’ailleurs que les fables sont trop complexes, voire dangereuses, pour les enfants : preuve qu’elles disent bien plus qu’il n’y paraît."
+  },
+  {
+   "sujet": "Pour convaincre, vaut-il mieux raconter une histoire qu’exposer directement des idées ? Vous répondrez en vous appuyant sur les Fables de La Fontaine.",
+   "analyse": "Le sujet oppose deux manières d’argumenter : l’argumentation indirecte (récit, apologue) et l’argumentation directe (essai, discours). Il faut montrer les avantages du récit (plaisir, exemple concret, contournement de la censure) mais aussi ses limites (ambiguïté, risque de mauvaise interprétation).",
+   "problematique": "Le récit est-il plus efficace que le discours direct pour faire passer une leçon, comme le prétend La Fontaine ?",
+   "plan": [
+    {
+     "titre": "I. Le récit séduit et rend la leçon plus efficace",
+     "arguments": [
+      "A. Le plaisir de l’histoire capte l’attention : « Le conte fait passer le précepte avec lui » (VI, 1).",
+      "B. L’exemple concret rend l’idée visible et mémorable (le collier du Chien, I, 5).",
+      "C. Les animaux permettent de critiquer les puissants sans danger, en contournant la censure."
+     ]
+    },
+    {
+     "titre": "II. Mais le récit a ses limites",
+     "arguments": [
+      "A. La morale peut être ambiguë ou mal comprise (« La Cigale et la Fourmi » : faut-il admirer la Fourmi ?).",
+      "B. Le lecteur peut se contenter du plaisir de l’histoire et oublier la leçon.",
+      "C. Certaines idées complexes demandent un raisonnement direct (la préface en prose de La Fontaine, les essais des moralistes)."
+     ]
+    },
+    {
+     "titre": "III. L’idéal : unir le récit et la réflexion",
+     "arguments": [
+      "A. La Fontaine associe récit et morale explicite (« le corps » et « l’âme » de l’apologue).",
+      "B. Le récit fait réfléchir activement : le lecteur tire lui-même la conclusion (« Le Loup et l’Agneau »).",
+      "C. La complémentarité des formes : fables et préface, récit et maximes, « instruire et plaire »."
+     ]
+    }
+   ],
+   "introduction": "« Une morale nue apporte de l’ennui » : c’est ce qu’affirme La Fontaine au début du livre VI de ses Fables (1668). Pour lui, une leçon exposée directement ennuie, alors qu’une histoire la fait passer en douceur. Pourtant, on peut aussi penser qu’un raisonnement clair et direct convainc plus sûrement qu’un récit, toujours susceptible d’être mal interprété. Pour convaincre, vaut-il donc mieux raconter une histoire qu’exposer directement des idées ? Nous verrons d’abord que le récit séduit et rend la leçon plus efficace, puis qu’il présente cependant des limites, enfin que l’idéal, selon La Fontaine lui-même, est d’unir le récit et la réflexion.",
+   "conclusion": "Le récit possède une force de persuasion réelle : il plaît, il rend les idées concrètes et il permet de critiquer sans danger. Mais il comporte des risques d’ambiguïté et de malentendu. La Fontaine l’a compris : en unissant le « corps » de la fable et son « âme », la moralité, il fait du récit un instrument de réflexion. C’est le principe même de l’apologue, que Voltaire reprendra au siècle suivant dans ses contes philosophiques comme Candide."
+  }
+ ],
+ "oral": {
+  "presentation": "Les Fables de La Fontaine, dont le premier recueil paraît en 1668, réunissent 124 fables en six livres, dédiées au Dauphin, le fils de Louis XIV. La Fontaine y reprend des sujets d’Ésope et de Phèdre, mais il les transforme en petites comédies en vers mêlés, pleines de dialogues, d’humour et d’ironie. Chaque fable est un apologue : un récit, le « corps », et une leçon, l’« âme ». Sous les masques des animaux, le lion puissant, le renard flatteur, le loup brutal, La Fontaine peint la société de son temps, dominée par la force, la flatterie et l’intérêt. Son principe est d’instruire en plaisant : « Une morale nue apporte de l’ennui ».",
+  "essentiels": [
+   "Dates : 1668 (livres I à VI), 1678-1679 (livres VII à XI), 1694 (livre XII).",
+   "Sources : Ésope (fabuliste grec) et Phèdre (fabuliste latin).",
+   "Définition de l’apologue : le corps (le récit) et l’âme (la moralité).",
+   "Fables à savoir expliquer : I, 2 ; I, 5 ; I, 10 ; I, 22 ; I, 16.",
+   "Notions : apologue, morale, personnification, vers mêlés, ironie, classicisme, moraliste."
+  ],
+  "questions": [
+   {
+    "question": "Qu’est-ce qu’un apologue ? Montrez-le sur une fable précise.",
+    "reponse": "C’est un court récit qui illustre une leçon. La Fontaine le définit dans sa préface : « Le corps est la fable : l’âme, la moralité. » Dans « Le Lion et le Rat » (II, 11), la morale est posée d’abord (« On a souvent besoin d’un plus petit que soi »), puis le récit la prouve : le lion épargne le rat, qui le délivre ensuite du filet."
+   },
+   {
+    "question": "La Fontaine a-t-il inventé ses fables ?",
+    "reponse": "Non : il reprend surtout Ésope et Phèdre, et il le dit lui-même, par exemple dans « Le Pâtre et le Lion » (VI, 1), où il raconte la fable « comme, à peu près, Ésope le raconte ». Son originalité est ailleurs : il développe le récit, invente des dialogues, varie les vers et ajoute l’ironie du narrateur. Il dit avoir voulu « égayer l’ouvrage »."
+   },
+   {
+    "question": "Pourquoi La Fontaine utilise-t-il des animaux ?",
+    "reponse": "Parce que chaque animal représente un type humain que le lecteur reconnaît : la force du Lion, la ruse du Renard, la brutalité du Loup. Les animaux rendent la leçon concrète et plaisante, et permettent de critiquer sans nommer personne. La dédicace le dit nettement : « Je me sers d’animaux pour instruire les hommes. »"
+   },
+   {
+    "question": "La morale du « Loup et l’Agneau » approuve-t-elle la loi du plus fort ?",
+    "reponse": "Non. « Meilleure » signifie ici : celle qui l’emporte. Le récit montre que l’Agneau a raison (il boit « Plus de vingt pas au-dessous » du Loup) mais qu’il est quand même mangé « Sans autre forme de procès ». La Fontaine constate une injustice avec ironie : il ne la justifie pas."
+   },
+   {
+    "question": "Les Fables critiquent-elles le pouvoir ?",
+    "reponse": "Indirectement, oui. « La Mort et le Bûcheron » nomme « les soldats, les impôts » parmi les malheurs du paysan ; « Le Vieillard et l’Âne » affirme : « Notre ennemi, c’est notre maître ». Mais La Fontaine ne vise personne ouvertement : la fable lui permet de faire réfléchir sans attaquer directement le roi."
+   },
+   {
+    "question": "Pourquoi la Cigale et la Fourmi n’a-t-elle pas de morale explicite ?",
+    "reponse": "La fable s’arrête sur la réplique de la Fourmi : « Hé bien ! dansez maintenant. » Le lecteur doit juger. Le narrateur glisse seulement que la Fourmi « n’est pas prêteuse ; / C’est là son moindre défaut », ce qui la rend peu sympathique. On peut donc y lire un éloge de la prévoyance ou une critique de l’égoïsme."
+   },
+   {
+    "question": "Quel rôle joue le fabuliste dans ses fables ?",
+    "reponse": "Il intervient souvent : il annonce la morale, commente (« C’est là son moindre défaut »), s’adresse au lecteur ou à un protecteur, comme dans « Le Bûcheron et Mercure » (V, 1), où il explique qu’il veut « tourner le vice en ridicule ». Cette voix ironique guide la lecture et rend le recueil très personnel."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), à rattacher à l’objet d’étude de seconde « La poésie du Moyen Âge au XVIIIe siècle » ; parcours proposé par le site (non officiel) : instruire et plaire. Liens possibles avec « La littérature d’idées » (argumentation indirecte). Autres œuvres : Ésope et Phèdre (sources), La Rochefoucauld et La Bruyère (moralistes), Rousseau, Émile (critique des fables), Voltaire, Candide (apologue en prose), Anouilh, Fables (réécriture).",
+  "reflexion": [
+   {
+    "question": "Quelle fable vous semble la plus actuelle, et pourquoi ?",
+    "pistes": "La flatterie sur les réseaux sociaux (I, 2) ; la loi du plus fort dans les rapports économiques (I, 10) ; le choix entre sécurité et liberté (I, 5)."
+   },
+   {
+    "question": "Faut-il donner raison à la Fourmi ?",
+    "pistes": "Distinguer prévoyance et égoïsme ; se demander si l’art (le chant de la Cigale) a une valeur ; remarquer qu’aucune morale explicite n’impose une réponse."
+   },
+   {
+    "question": "Une histoire convainc-elle mieux qu’un raisonnement ?",
+    "pistes": "Le plaisir et la mémoire du récit ; le risque de mauvaise interprétation ; l’exemple de la préface (Crassus et le bouc)."
+   },
+   {
+    "question": "Les Fables sont-elles à leur place à l’école primaire ?",
+    "pistes": "Leur simplicité apparente ; la critique de Rousseau ; ce qu’un adulte découvre en les relisant."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "« Le Loup et l’Agneau » (I, 10)",
+   "reference": "Livre I, fable 10 : la morale en tête, puis le procès truqué",
+   "enjeu": "Comment La Fontaine met-il en scène un faux procès pour dénoncer la loi du plus fort ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1-6) : la morale et la mise en place. La morale annoncée d’emblée crée une attente ironique ; l’« onde pure » et l’agneau qui « se désaltérait » s’opposent au loup « à jeun » qui « cherchait aventure » : innocence contre menace (graphie du site : « désaltéroit », « cherchoit »).",
+    "Mouvement 2 (v. 7-26) : le dialogue, un procès inégal. Le Loup accuse avec violence (tutoiement, « plein de rage ») ; l’Agneau se défend avec politesse (« Sire », « Votre Majesté ») et logique (« Plus de vingt pas au-dessous d’elle ») ; le Loup change sans cesse d’accusation (« Si ce n’est toi, c’est donc ton frère »).",
+    "Mouvement 3 (v. 27-29) : le dénouement brutal. En trois vers courts, le Loup emporte et mange l’agneau « Sans autre forme de procès » : la formule juridique, ironique, confirme que la raison n’a servi à rien face à la force."
+   ]
+  },
+  {
+   "titre": "« Le Corbeau et le Renard » (I, 2)",
+   "reference": "Livre I, fable 2 : la flatterie récompensée",
+   "enjeu": "Comment cette fable très courte transforme-t-elle une scène comique en leçon sur le pouvoir de la parole flatteuse ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1-4) : la situation. Parallélisme « Maître corbeau / Maître renard », opposition entre celui qui possède (le fromage) et celui qui désire (« par l’odeur alléché ») ; le décor est posé en quatre vers.",
+    "Mouvement 2 (v. 5-12) : la flatterie et sa réussite. Discours du Renard plein d’exclamations et d’hyperboles (« le phénix des hôtes de ces bois »), rime ramage/plumage ; le Corbeau, vaniteux, ouvre le bec et « laisse tomber sa proie ».",
+    "Mouvement 3 (v. 13-18) : la morale et la honte. Le Renard tire lui-même la leçon (« Apprenez que tout flatteur / Vit aux dépens de celui qui l’écoute ») ; le Corbeau, « honteux et confus », jure « un peu tard » : ironie du narrateur."
+   ]
+  },
+  {
+   "titre": "« Le Loup et le Chien » (I, 5)",
+   "reference": "Livre I, fable 5 : le prix de la liberté",
+   "enjeu": "Comment la fable fait-elle de la rencontre entre un loup affamé et un chien bien nourri un éloge de la liberté ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1-12) : la rencontre. Portrait contrasté du loup qui n’a « que les os et la peau » et du dogue « gras, poli » ; le loup, trop faible pour attaquer, l’aborde « humblement ».",
+    "Mouvement 2 (v. 13-31) : la tentation. Le Chien fait l’éloge de sa condition : repas assurés, « os de poulets, os de pigeons », caresses ; mais ses devoirs révèlent une servitude (« Flatter ceux du logis, à son maître complaire »). Le Loup « se forge une félicité ».",
+    "Mouvement 3 (v. 32-41) : la découverte du collier et le refus. Dialogue haché (« Qu’est-ce là ? lui dit-il. — Rien. — Quoi ! rien ! »), révélation du « collier » ; le Loup refuse tout, même « un trésor », et la chute (« maître loup s’enfuit, et court encor ») célèbre une liberté sans prix."
+   ]
+  },
+  {
+   "titre": "« Le Chêne et le Roseau » (I, 22)",
+   "reference": "Livre I, fable 22 : la dernière fable du premier livre",
+   "enjeu": "Comment la fable renverse-t-elle le rapport de force entre le grand et le petit pour donner une leçon d’humilité ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1-17) : le discours orgueilleux du Chêne. Fausse pitié pour le Roseau, comparaison hyperbolique (« mon front, au Caucase pareil »), antithèse « Tout vous est aquilon, tout me semble zéphyr » : le Chêne se croit invincible.",
+    "Mouvement 2 (v. 18-24) : la réponse du Roseau. Politesse et sagesse : « Je plie et ne romps pas » ; puis l’annonce sobre et menaçante : « Mais attendons la fin ».",
+    "Mouvement 3 (v. 24-32) : la tempête et la chute. Personnification épique du vent (« Le plus terrible des enfants / Que le Nord eût portés »), opposition « L’arbre tient bon, le roseau plie », puis déracinement du Chêne décrit en deux vers majestueux qui reprennent son orgueil (« la tête au ciel », « l’empire des morts »)."
+   ]
+  },
+  {
+   "titre": "« La Mort et le Bûcheron » (I, 16)",
+   "reference": "Livre I, fable 16 : la misère et l’attachement à la vie",
+   "enjeu": "Comment la fable passe-t-elle du tableau pathétique de la misère à une morale lucide sur la nature humaine ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1-6) : le portrait du bûcheron. Accumulation de signes de pauvreté et de fatigue (« tout couvert de ramée », « Gémissant et courbé », « chaumine enfumée ») ; le double fardeau « du fagot aussi bien que des ans ».",
+    "Mouvement 2 (v. 7-12) : le bilan d’une vie. Questions rhétoriques, puis énumération des charges (« Sa femme, ses enfants, les soldats, les impôts, / Le créancier et la corvée ») : un véritable document sur la condition paysanne.",
+    "Mouvement 3 (v. 13-16) : l’appel à la Mort et le retournement. La Mort « vient sans tarder » ; le bûcheron lui demande seulement de l’aider « A recharger ce bois » : chute comique et humaine à la fois.",
+    "Mouvement 4 (morale) : « Plutôt souffrir que mourir, / C’est la devise des hommes » : une sagesse sans illusion, qui constate l’attachement à la vie."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Premier recueil des Fables : 1668, livres I à VI, dédié au Dauphin ; sources : Ésope et Phèdre.",
+   "La fable est un apologue : un récit (le « corps ») et une morale (l’« âme »), explicite ou implicite.",
+   "« Je me sers d’animaux pour instruire les hommes » : les animaux sont des masques des types humains.",
+   "Principe classique : instruire et plaire (« Une morale nue apporte de l’ennui », VI, 1).",
+   "Grands thèmes : loi du plus fort, flatterie, satire de la cour, liberté, sagesse pratique.",
+   "Une poésie vivante : vers mêlés, dialogues, ironie du narrateur.",
+   "Fables à connaître : « Le Loup et l’Agneau », « Le Corbeau et le Renard », « Le Loup et le Chien », « Le Chêne et le Roseau ».",
+   "La morale est souvent ironique ou ambiguë : elle oblige le lecteur à réfléchir."
+  ],
+  "citations": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   10,
+   13,
+   15,
+   16
+  ],
+  "pieges": [
+   "« La raison du plus fort est toujours la meilleure » n’est pas une approbation mais un constat ironique.",
+   "« Les Animaux malades de la peste » n’appartient pas au premier recueil (livre VII, 1678).",
+   "La morale n’est pas toujours à la fin, et elle est parfois absente.",
+   "La Fontaine n’a pas inventé ses sujets : il les emprunte à Ésope et Phèdre."
+  ],
+  "synthese": "Les Fables (1668, livres I à VI) sont des apologues en vers : un récit (le corps) et une leçon (l’âme). La Fontaine reprend Ésope et Phèdre mais invente un style : dialogues théâtraux, vers mêlés, ironie du narrateur. Sous les animaux se cache la société de Louis XIV : loi du plus fort, flatterie, misère des paysans, vanité. Son principe : instruire et plaire, car « une morale nue apporte de l’ennui ». Ses morales, souvent ironiques ou absentes, invitent le lecteur à juger par lui-même."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Apologue",
+   "definition": "Court récit qui illustre une leçon morale (fable, conte philosophique). « Le corps est la fable : l’âme, la moralité » (préface de 1668)."
+  },
+  {
+   "terme": "Morale",
+   "definition": "Leçon tirée du récit, explicite ou implicite, placée au début ou à la fin. Exemple : « On a souvent besoin d’un plus petit que soi » (II, 11)."
+  },
+  {
+   "terme": "Personnification",
+   "definition": "Figure qui attribue des caractéristiques humaines à un animal, un objet ou une idée. Exemple : le Chêne et le Roseau qui dialoguent."
+  },
+  {
+   "terme": "Vers mêlés (ou vers libres classiques)",
+   "definition": "Alternance de vers de longueurs différentes (alexandrins, octosyllabes…). Exemple : « Le Loup et l’Agneau » alterne alexandrins et octosyllabes."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Procédé qui consiste à dire le contraire de ce qu’on pense ou à laisser entendre une critique. Exemple : « La raison du plus fort est toujours la meilleure »."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Critique moqueuse des mœurs d’une société. Les Fables font la satire de la cour, des flatteurs et des puissants."
+  },
+  {
+   "terme": "Classicisme",
+   "definition": "Esthétique de la seconde moitié du XVIIe siècle fondée sur l’imitation des Anciens, la clarté, la mesure et l’idéal d’instruire en plaisant (« il faut instruire et plaire », VI, 1)."
+  },
+  {
+   "terme": "Moraliste",
+   "definition": "Écrivain qui observe et décrit les mœurs et les comportements humains (La Fontaine, La Rochefoucauld, La Bruyère)."
+  },
+  {
+   "terme": "Discours direct",
+   "definition": "Paroles rapportées telles quelles, avec leur ponctuation. Les fables sont riches en dialogues au discours direct, qui les rendent vivantes comme du théâtre."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "En quelle année paraît le premier recueil des Fables ?",
+   "choix": [
+    "1661",
+    "1668",
+    "1678",
+    "1694"
+   ],
+   "reponse": 1,
+   "explication": "Le premier recueil (livres I à VI) paraît en 1668."
+  },
+  {
+   "question": "À qui le premier recueil est-il dédié ?",
+   "choix": [
+    "Louis XIV",
+    "Fouquet",
+    "Le Dauphin",
+    "Madame de Montespan"
+   ],
+   "reponse": 2,
+   "explication": "Il est dédié à Monseigneur le Dauphin, fils de Louis XIV, alors âgé de six ans."
+  },
+  {
+   "question": "Quel fabuliste grec est la principale source de La Fontaine ?",
+   "choix": [
+    "Homère",
+    "Ésope",
+    "Platon",
+    "Sophocle"
+   ],
+   "reponse": 1,
+   "explication": "Ésope (VIe siècle av. J.-C.) est le père de la fable ; La Fontaine s’inspire aussi du Latin Phèdre."
+  },
+  {
+   "question": "Quelle est la morale du « Loup et l’Agneau » ?",
+   "choix": [
+    "Rien ne sert de courir",
+    "La raison du plus fort est toujours la meilleure",
+    "Tout flatteur vit aux dépens de celui qui l’écoute",
+    "Patience et longueur de temps…"
+   ],
+   "reponse": 1,
+   "explication": "Elle est placée en tête de la fable : « La raison du plus fort est toujours la meilleure »."
+  },
+  {
+   "question": "Dans « Le Loup et le Chien », qu’est-ce qui fait fuir le Loup ?",
+   "choix": [
+    "Le maître du Chien",
+    "La faim",
+    "Le collier",
+    "Un chasseur"
+   ],
+   "reponse": 2,
+   "explication": "Le cou pelé du Chien révèle le collier : le Loup refuse la servitude et « s’enfuit, et court encor »."
+  },
+  {
+   "question": "Comment La Fontaine appelle-t-il les deux parties de l’apologue dans sa préface ?",
+   "choix": [
+    "Le récit et la leçon",
+    "Le corps et l’âme",
+    "La forme et le fond",
+    "Le début et la fin"
+   ],
+   "reponse": 1,
+   "explication": "« Le corps est la fable : l’âme, la moralité »."
+  },
+  {
+   "question": "Quel personnage protecteur de La Fontaine est arrêté en 1661 ?",
+   "choix": [
+    "Colbert",
+    "Mazarin",
+    "Fouquet",
+    "Richelieu"
+   ],
+   "reponse": 2,
+   "explication": "Nicolas Fouquet, surintendant des finances, est arrêté sur ordre de Louis XIV ; La Fontaine lui reste fidèle."
+  },
+  {
+   "question": "Quelle formule de La Fontaine (VI, 1) résume l’ambition des Fables ?",
+   "choix": [
+    "Carpe diem",
+    "Il faut instruire et plaire",
+    "Connais-toi toi-même",
+    "Rien de trop"
+   ],
+   "reponse": 1,
+   "explication": "« En ces sortes de feinte il faut instruire et plaire » (« Le Pâtre et le Lion », VI, 1) : La Fontaine reprend un principe hérité d’Horace."
+  },
+  {
+   "question": "Combien de fables compte le premier recueil (livres I à VI) ?",
+   "choix": [
+    "52",
+    "124",
+    "240",
+    "365"
+   ],
+   "reponse": 1,
+   "explication": "Le recueil de 1668 compte 124 fables (22, 20, 18, 22, 21 et 21 selon les livres)."
+  },
+  {
+   "question": "Dans « Le Corbeau et le Renard », qui énonce la morale ?",
+   "choix": [
+    "Le fabuliste",
+    "Le Corbeau",
+    "Le Renard",
+    "Personne : elle est implicite"
+   ],
+   "reponse": 2,
+   "explication": "C’est le Renard qui dit : « Apprenez que tout flatteur / Vit aux dépens de celui qui l’écoute »."
+  },
+  {
+   "question": "Que demande le bûcheron à la Mort quand elle arrive ?",
+   "choix": [
+    "De l’emporter",
+    "De l’aider à recharger son bois",
+    "De lui donner de l’argent",
+    "De punir les soldats"
+   ],
+   "reponse": 1,
+   "explication": "« C’est, dit-il, afin de m’aider / A recharger ce bois » : il préfère finalement vivre (I, 16)."
+  },
+  {
+   "question": "Comment appelle-t-on l’alternance de vers de longueurs différentes dans une fable ?",
+   "choix": [
+    "Les vers mêlés",
+    "Le sonnet",
+    "Les vers blancs",
+    "La rime embrassée"
+   ],
+   "reponse": 0,
+   "explication": "La Fontaine mêle alexandrins, octosyllabes et vers plus courts pour varier le rythme."
+  },
+  {
+   "question": "Quelle métaphore La Fontaine emploie-t-il pour son recueil dans « Le Bûcheron et Mercure » (V, 1) ?",
+   "choix": [
+    "Un miroir",
+    "Un jardin",
+    "Une ample comédie",
+    "Un tribunal"
+   ],
+   "reponse": 2,
+   "explication": "« Une ample comédie à cent actes divers, / Et dont la scène est l’univers »."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Project Gutenberg n° 56327 – La Fontaine, Fables, éd. illustrée par Grandville (texte du site)",
+   "url": "https://www.gutenberg.org/ebooks/56327"
+  },
+  {
+   "titre": "Wikisource – Fables de La Fontaine (éd. 1874), Préface",
+   "url": "https://fr.wikisource.org/wiki/Fables_de_La_Fontaine_(%C3%A9d._1874)/Pr%C3%A9face"
+  }
+ ],
+ "aVerifier": [
+  "Réécriture d’Anouilh (« Le Chêne et le Roseau », Fables, 1962) : intérêt résumé de mémoire, texte protégé non consulté.",
+  "Identification des animaux à des personnages réels (Lion = Louis XIV, etc.) : lecture interprétative, non attestée par La Fontaine.",
+  "Identité d’« un des maîtres de notre éloquence », cité dans la préface (traditionnellement Olivier Patru, selon les notes des éditeurs) : non nommé par La Fontaine."
+ ]
+}

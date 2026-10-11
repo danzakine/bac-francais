@@ -1,0 +1,642 @@
+[
+ {
+  "id": "chevalier-charrette",
+  "titre": "Le Chevalier de la charrette",
+  "titreComplet": "Le Chevalier de la charrette (Lancelot)",
+  "auteur": "chretien-de-troyes",
+  "date": "vers 1177-1181",
+  "siecle": 12,
+  "genre": "Roman de chevalerie (roman courtois en vers)",
+  "objet": "roman",
+  "mouvements": [
+   "litterature-courtoise"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": false,
+   "droits": "domaine-public",
+   "droitsDetail": "L'œuvre médiévale est dans le domaine public, mais la transcription disponible (Wikisource) reprend en grande partie l'édition critique Foulet-Uitti (Bordas, 1989), encore protégée. Le texte est retiré de la liseuse en attendant une transcription vérifiée de l'édition Jonckbloet (1850), du domaine public.",
+   "edition": "Texte en ancien français, éd. W. J. A. Jonckbloet (La Haye, Belinfante, 1850), d'après le ms. BnF fr. 794 ; transcription mêlée par endroits à l'éd. Foulet-Uitti.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette_(%C3%89dition_Belinfante)",
+   "consulte": "2026-10-11",
+   "restrictions": "Texte retiré le 2026-10-11 par précaution (droits de l'édition Foulet-Uitti)."
+  },
+  "fiche": true,
+  "acquerir": "Le programme demande une édition bilingue (ancien français et traduction moderne) : plusieurs éditions de poche existent, demande la référence à ton professeur. Empruntable au CDI et en bibliothèque."
+ },
+ {
+  "id": "pot-bouille",
+  "titre": "Pot-Bouille",
+  "titreComplet": "Pot-Bouille (Les Rougon-Macquart, X)",
+  "auteur": "zola",
+  "date": "1882",
+  "siecle": 19,
+  "genre": "Roman",
+  "objet": "roman",
+  "mouvements": [
+   "naturalisme"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Émile Zola est mort en 1902 : œuvre dans le domaine public.",
+   "edition": "Texte de Project Gutenberg (n° 8907).",
+   "source": "Project Gutenberg n° 8907",
+   "url": "https://www.gutenberg.org/ebooks/8907",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "therese-raquin",
+  "titre": "Thérèse Raquin",
+  "titreComplet": "Thérèse Raquin",
+  "auteur": "zola",
+  "date": "1867",
+  "siecle": 19,
+  "genre": "Roman",
+  "objet": "roman",
+  "mouvements": [
+   "naturalisme"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Émile Zola est mort en 1902 : œuvre dans le domaine public.",
+   "edition": "Texte de Project Gutenberg (n° 7461) ; préface de la 2e édition (1868) d'après Wikisource.",
+   "source": "Project Gutenberg n° 7461 + Wikisource",
+   "url": "https://www.gutenberg.org/ebooks/7461",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "telumee-miracle",
+  "titre": "Pluie et vent sur Télumée Miracle",
+  "titreComplet": "Pluie et vent sur Télumée Miracle",
+  "auteur": "schwarz-bart",
+  "date": "1972",
+  "siecle": 20,
+  "genre": "Roman",
+  "objet": "roman",
+  "mouvements": [
+   "litterature-antillaise"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": false,
+   "droits": "protege",
+   "droitsDetail": "Simone Schwarz-Bart est morte en 2023 : œuvre protégée par le droit d'auteur (jusqu’à fin 2093). Texte non reproduit."
+  },
+  "acquerir": "Éditions du Seuil (1972), disponible en poche (coll. Points). Empruntable au CDI et en bibliothèque.",
+  "fiche": true
+ },
+ {
+  "id": "cahier-douai",
+  "titre": "Cahier de Douai",
+  "titreComplet": "Cahier de Douai (« Recueil Demeny »)",
+  "auteur": "rimbaud",
+  "date": "1870 (manuscrits)",
+  "siecle": 19,
+  "genre": "Recueil poétique",
+  "objet": "poesie",
+  "mouvements": [
+   "parnasse",
+   "symbolisme"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Arthur Rimbaud est mort en 1891 : poèmes dans le domaine public. Texte établi par P. Hartmann (1958) : l'établissement d'un texte ancien ne crée pas de droits sur les poèmes eux-mêmes ; aucun apparat critique n'est repris.",
+   "edition": "22 poèmes dans l'ordre du « Cahier de Douai », texte établi par Paul Hartmann (Mercure de France, 1958) d'après les manuscrits.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/%C5%92uvres_(Rimbaud)",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "rage-expression",
+  "titre": "La Rage de l'expression",
+  "titreComplet": "La Rage de l'expression",
+  "auteur": "ponge",
+  "date": "1952",
+  "siecle": 20,
+  "genre": "Recueil poétique (poèmes en prose)",
+  "objet": "poesie",
+  "mouvements": [
+   "poesie-contemporaine"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": false,
+   "droits": "protege",
+   "droitsDetail": "Francis Ponge est mort en 1988 : œuvre protégée jusqu'en 2058. Texte non reproduit."
+  },
+  "acquerir": "Éditions Gallimard, coll. « Poésie/Gallimard ». Empruntable au CDI et en bibliothèque.",
+  "fiche": true
+ },
+ {
+  "id": "mes-forets",
+  "titre": "Mes forêts",
+  "titreComplet": "Mes forêts",
+  "auteur": "dorion",
+  "date": "2021",
+  "siecle": 21,
+  "genre": "Recueil poétique",
+  "objet": "poesie",
+  "mouvements": [
+   "poesie-contemporaine"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": false,
+   "droits": "protege",
+   "droitsDetail": "Hélène Dorion est vivante : œuvre protégée. Texte non reproduit."
+  },
+  "acquerir": "Éditions Bruno Doucey (2021). Empruntable au CDI et en bibliothèque.",
+  "fiche": true
+ },
+ {
+  "id": "servitude-volontaire",
+  "titre": "Discours de la servitude volontaire",
+  "titreComplet": "Discours de la servitude volontaire",
+  "auteur": "la-boetie",
+  "date": "rédigé vers 1548, publié en 1576",
+  "siecle": 16,
+  "genre": "Discours (essai argumentatif)",
+  "objet": "idees",
+  "mouvements": [
+   "humanisme"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Œuvre du XVIe siècle ; édition Bonnefon (1922) dans le domaine public.",
+   "edition": "Orthographe modernisée, éd. Paul Bonnefon (Bossard, 1922) ; notes de l'éditeur retirées ; intertitres ajoutés pour le site.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/%C3%89dition_1922/Discours",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "pluralite-mondes",
+  "titre": "Entretiens sur la pluralité des mondes",
+  "titreComplet": "Entretiens sur la pluralité des mondes",
+  "auteur": "fontenelle",
+  "date": "1686",
+  "siecle": 17,
+  "genre": "Dialogue de vulgarisation scientifique",
+  "objet": "idees",
+  "mouvements": [
+   "classicisme",
+   "lumieres"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Fontenelle est mort en 1757 : œuvre dans le domaine public.",
+   "edition": "Édition Leroy (Lyon, 1800), orthographe de l'édition : préface, épître, six soirs.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "lettres-peruvienne",
+  "titre": "Lettres d'une Péruvienne",
+  "titreComplet": "Lettres d'une Péruvienne",
+  "auteur": "graffigny",
+  "date": "1747 ; édition augmentée 1752",
+  "siecle": 18,
+  "genre": "Roman épistolaire",
+  "objet": "idees",
+  "mouvements": [
+   "lumieres"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Françoise de Graffigny est morte en 1758 : œuvre dans le domaine public.",
+   "edition": "Lettres et Avertissement : 1re édition (1747, 38 lettres). Introduction historique : édition de 1752 retranscrite d'après OCR. ATTENTION : le programme porte sur l'édition de 1752 (41 lettres) ; les lettres ajoutées en 1752 manquent encore.",
+   "source": "Wikisource (1747) + Internet Archive (1752)",
+   "url": "https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "le-menteur",
+  "titre": "Le Menteur",
+  "titreComplet": "Le Menteur",
+  "auteur": "corneille",
+  "date": "1644",
+  "siecle": 17,
+  "genre": "Comédie",
+  "objet": "theatre",
+  "mouvements": [
+   "baroque"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Pierre Corneille est mort en 1684 : œuvre dans le domaine public.",
+   "edition": "Œuvres de Corneille, éd. Ch. Marty-Laveaux, t. IV (1862), orthographe du XVIIe siècle ; notes et variantes retirées.",
+   "source": "Project Gutenberg n° 39739",
+   "url": "https://www.gutenberg.org/ebooks/39739",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "on-ne-badine-pas",
+  "titre": "On ne badine pas avec l'amour",
+  "titreComplet": "On ne badine pas avec l'amour",
+  "auteur": "musset",
+  "date": "1834",
+  "siecle": 19,
+  "genre": "Proverbe dramatique (drame romantique)",
+  "objet": "theatre",
+  "mouvements": [
+   "romantisme"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Alfred de Musset est mort en 1857 : œuvre dans le domaine public.",
+   "edition": "Œuvres complètes, t. 3 (éd. Charpentier) ; passages coupés à la représentation de 1861 réintégrés (texte de 1834).",
+   "source": "Project Gutenberg n° 20246",
+   "url": "https://www.gutenberg.org/ebooks/20246",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "pour-un-oui",
+  "titre": "Pour un oui ou pour un non",
+  "titreComplet": "Pour un oui ou pour un non",
+  "auteur": "sarraute",
+  "date": "1982",
+  "siecle": 20,
+  "genre": "Pièce de théâtre",
+  "objet": "theatre",
+  "mouvements": [
+   "nouveau-roman"
+  ],
+  "classe": "1re",
+  "statut": "programme",
+  "texte": {
+   "disponible": false,
+   "droits": "protege",
+   "droitsDetail": "Nathalie Sarraute est morte en 1999 : œuvre protégée jusqu'en 2069. Texte non reproduit."
+  },
+  "acquerir": "Éditions Gallimard (1982), disponible en poche (coll. Folio). Empruntable au CDI et en bibliothèque.",
+  "fiche": true
+ },
+ {
+  "id": "les-amours",
+  "titre": "Les Amours (choix de poèmes)",
+  "titreComplet": "Les Amours (choix de poèmes)",
+  "auteur": "ronsard",
+  "date": "1552-1578",
+  "siecle": 16,
+  "genre": "Recueil poétique (sonnets, odes)",
+  "objet": "poesie",
+  "mouvements": [
+   "humanisme",
+   "pleiade"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Ronsard est mort en 1585 : œuvre dans le domaine public.",
+   "edition": "Choix de 32 poèmes : Œuvres complètes, éd. Vaganay (Garnier, 1923) ; Sonnets pour Hélène, éd. Sorg (Bossard, 1921) ; orthographe d'époque.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Pierre_de_Ronsard",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "les-regrets",
+  "titre": "Les Regrets",
+  "titreComplet": "Les Regrets",
+  "auteur": "du-bellay",
+  "date": "1558",
+  "siecle": 16,
+  "genre": "Recueil poétique (sonnets)",
+  "objet": "poesie",
+  "mouvements": [
+   "humanisme",
+   "pleiade"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Du Bellay est mort en 1560 : œuvre dans le domaine public.",
+   "edition": "Œuvres complètes, t. 3, éd. L. Séché (1903), orthographe d'époque ; 191 sonnets.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Les_Regrets_(du_Bellay)",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "fables",
+  "titre": "Fables (livres I à VI)",
+  "titreComplet": "Fables (livres I à VI)",
+  "auteur": "la-fontaine",
+  "date": "1668",
+  "siecle": 17,
+  "genre": "Fables en vers",
+  "objet": "poesie",
+  "mouvements": [
+   "classicisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "La Fontaine est mort en 1695 : œuvre dans le domaine public.",
+   "edition": "Édition illustrée par Grandville (Garnier).",
+   "source": "Project Gutenberg n° 56327",
+   "url": "https://www.gutenberg.org/ebooks/56327",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "claude-gueux",
+  "titre": "Claude Gueux",
+  "titreComplet": "Claude Gueux",
+  "auteur": "hugo",
+  "date": "1834",
+  "siecle": 19,
+  "genre": "Récit à visée argumentative",
+  "objet": "idees",
+  "mouvements": [
+   "romantisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Victor Hugo est mort en 1885 : œuvre dans le domaine public.",
+   "edition": "Éd. Gustave Simon (Imprimerie nationale / Ollendorff, 1910) ; découpage en 3 parties ajouté pour le site.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Claude_Gueux",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "j-accuse",
+  "titre": "« J'accuse…! »",
+  "titreComplet": "« J'accuse…! » — Lettre au Président de la République",
+  "auteur": "zola",
+  "date": "1898",
+  "siecle": 19,
+  "genre": "Article de presse (lettre ouverte)",
+  "objet": "idees",
+  "mouvements": [],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Émile Zola est mort en 1902 : texte dans le domaine public.",
+   "edition": "L'Aurore n° 87, 13 janvier 1898 (transcription d'après Gallica) : lettre seule.",
+   "source": "Project Gutenberg n° 76045",
+   "url": "https://www.gutenberg.org/ebooks/76045",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true,
+  "sansMouvement": "Article de presse polémique : il n'appartient pas à un mouvement littéraire (Zola est par ailleurs le chef de file du naturalisme)."
+ },
+ {
+  "id": "candide",
+  "titre": "Candide ou l'Optimisme",
+  "titreComplet": "Candide ou l'Optimisme",
+  "auteur": "voltaire",
+  "date": "1759",
+  "siecle": 18,
+  "genre": "Conte philosophique",
+  "objet": "roman",
+  "mouvements": [
+   "lumieres"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Voltaire est mort en 1778 : œuvre dans le domaine public.",
+   "edition": "Œuvres de Voltaire, éd. Beuchot, t. XXXIII (1829) ; notes de l'éditeur retirées.",
+   "source": "Project Gutenberg n° 4650",
+   "url": "https://www.gutenberg.org/ebooks/4650",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "pere-goriot",
+  "titre": "Le Père Goriot",
+  "titreComplet": "Le Père Goriot",
+  "auteur": "balzac",
+  "date": "1835",
+  "siecle": 19,
+  "genre": "Roman",
+  "objet": "roman",
+  "mouvements": [
+   "realisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Balzac est mort en 1850 : œuvre dans le domaine public.",
+   "edition": "Éd. Calmann-Lévy (1910), en 4 parties.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_P%C3%A8re_Goriot_(1910)",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "bel-ami",
+  "titre": "Bel-Ami",
+  "titreComplet": "Bel-Ami",
+  "auteur": "maupassant",
+  "date": "1885",
+  "siecle": 19,
+  "genre": "Roman",
+  "objet": "roman",
+  "mouvements": [
+   "realisme",
+   "naturalisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Maupassant est mort en 1893 : œuvre dans le domaine public.",
+   "edition": "Œuvres complètes, vol. 13 (Conard, 1910) ; appendice et variantes retirés.",
+   "source": "Project Gutenberg n° 57430",
+   "url": "https://www.gutenberg.org/ebooks/57430",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "le-horla",
+  "titre": "Le Horla",
+  "titreComplet": "Le Horla",
+  "auteur": "maupassant",
+  "date": "1887",
+  "siecle": 19,
+  "genre": "Nouvelle fantastique",
+  "objet": "roman",
+  "mouvements": [
+   "realisme",
+   "naturalisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Maupassant est mort en 1893 : œuvre dans le domaine public.",
+   "edition": "Version de 1887 (journal), éd. Ollendorff ; découpage en 5 parties ajouté pour le site.",
+   "source": "Project Gutenberg n° 10775",
+   "url": "https://www.gutenberg.org/ebooks/10775",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "le-misanthrope",
+  "titre": "Le Misanthrope",
+  "titreComplet": "Le Misanthrope",
+  "auteur": "moliere",
+  "date": "1666",
+  "siecle": 17,
+  "genre": "Comédie",
+  "objet": "theatre",
+  "mouvements": [
+   "classicisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Molière est mort en 1673 : œuvre dans le domaine public.",
+   "edition": "Œuvres complètes, t. 3, éd. É. Chasles (Calmann Lévy, 1887) ; notes retirées.",
+   "source": "Project Gutenberg n° 50173",
+   "url": "https://www.gutenberg.org/ebooks/50173",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ },
+ {
+  "id": "phedre",
+  "titre": "Phèdre",
+  "titreComplet": "Phèdre",
+  "auteur": "racine",
+  "date": "1677",
+  "siecle": 17,
+  "genre": "Tragédie",
+  "objet": "theatre",
+  "mouvements": [
+   "classicisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Racine est mort en 1699 : œuvre dans le domaine public.",
+   "edition": "Éd. Firmin-Didot (1854) ; préface non reprise.",
+   "source": "Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854",
+   "consulte": "2026-10-11",
+   "restrictions": "Transcription Wikisource sous licence CC BY-SA ; texte de l'œuvre dans le domaine public."
+  },
+  "fiche": true
+ },
+ {
+  "id": "ruy-blas",
+  "titre": "Ruy Blas",
+  "titreComplet": "Ruy Blas",
+  "auteur": "hugo",
+  "date": "1838",
+  "siecle": 19,
+  "genre": "Drame romantique",
+  "objet": "theatre",
+  "mouvements": [
+   "romantisme"
+  ],
+  "classe": "2nde",
+  "statut": "complementaire",
+  "texte": {
+   "disponible": true,
+   "droits": "domaine-public",
+   "droitsDetail": "Victor Hugo est mort en 1885 : œuvre dans le domaine public.",
+   "edition": "Ruy Blas, drame (1838) ; préface non reprise.",
+   "source": "Project Gutenberg n° 60354",
+   "url": "https://www.gutenberg.org/ebooks/60354",
+   "consulte": "2026-10-11",
+   "restrictions": "Licence Project Gutenberg retirée du texte (autorisée pour les œuvres du domaine public) ; texte libre de droits."
+  },
+  "fiche": true
+ }
+]

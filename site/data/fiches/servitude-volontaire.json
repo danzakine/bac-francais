@@ -1,0 +1,1043 @@
+{
+ "id": "servitude-volontaire",
+ "accroche": "Et si le tyran ne tenait que parce que nous le portons ? À 18 ans à peine, La Boétie pose la question la plus dérangeante de la pensée politique.",
+ "identite": {
+  "auteur": "Étienne de La Boétie (1530-1563) naît à Sarlat, dans le Périgord, dans une famille de magistrats. Orphelin jeune, il est élevé par son oncle, prêtre et lettré, puis fait son droit à Orléans. Humaniste brillant, il traduit Xénophon et Plutarque et compose des sonnets. En 1554, il devient conseiller au Parlement de Bordeaux, où il rencontre Michel de Montaigne : leur amitié devient légendaire. Il meurt à 32 ans, probablement de la peste ou de la dysenterie, et lègue ses livres à Montaigne. Selon Montaigne (Essais, I, 28, « De l'amitié »), il l'écrivit « par manière d'essai, en sa première jeunesse » et parle de « ce garçon de seize ans » : on situe donc la rédaction vers 1546-1548, avec une possible révision plus tardive (la date exacte est discutée). On lui attribue aussi un Mémoire sur l'édit de janvier 1562, retrouvé et publié au début du XXe siècle, qui cherche une voie de paix civile entre catholiques et protestants.",
+  "contexte": "La Boétie écrit sous François Ier et Henri II, au moment où la monarchie française se renforce et se pense comme absolue. En 1548, la révolte contre l'impôt du sel (la gabelle) en Guyenne est durement réprimée à Bordeaux par le connétable de Montmorency : beaucoup de lecteurs ont rapproché le Discours de ce traumatisme, même si le texte ne le mentionne jamais. Après la mort de l'auteur, la France plonge dans les guerres de Religion. Après le massacre de la Saint-Barthélemy (1572), les protestants publient des pamphlets contre la tyrannie royale : un extrait du Discours paraît en 1574 dans le Réveille-matin des Français, puis le texte complet en 1576 dans les Mémoires de l'État de France sous Charles IX, recueil réuni par Simon Goulart. Le texte devient alors une arme politique, au point que Montaigne renonce à le publier au centre de ses Essais et le remplace par 29 sonnets de son ami. Montaigne rapporte que ceux qui ne connaissaient pas son titre l'avaient « rebaptisé Le Contre Un » (orthographe modernisée).",
+  "mouvement": "Le Discours appartient à l'humanisme de la Renaissance : retour aux auteurs grecs et latins, confiance dans la raison et l'éducation, réflexion sur la dignité de l'homme. C'est une déclamation au sens humaniste, c'est-à-dire un exercice d'éloquence argumentative hérité de Cicéron, adressé à un destinataire (« ô Longa ») et nourri d'exemples historiques (les exempla) tirés d'Hérodote, de Plutarque, de Xénophon ou de Tacite. Le texte relève de la littérature d'idées : il mêle raisonnement, indignation, apostrophes au lecteur, anecdotes et images frappantes. La Boétie y défend une idée humaniste essentielle : la liberté est naturelle et l'homme peut, par la connaissance, retrouver ce que la coutume lui a fait oublier. On le lit aujourd'hui en orthographe modernisée ; le texte original est en moyen français.",
+  "circonstances": "Le Discours n'a pas été publié par son auteur. Il a d'abord circulé en manuscrit : Montaigne dit l'avoir lu avant de connaître La Boétie, et que c'est ce texte qui lui a donné envie de le rencontrer. Après la mort de La Boétie (1563), Montaigne publie ses traductions et ses vers (1571-1572), mais pas le Discours. Ce sont les protestants, après la Saint-Barthélemy (1572), qui s'en emparent : un extrait paraît en 1574 dans le Réveille-matin des Français, le texte complet en 1576 dans les Mémoires de l'État de France sous Charles IX de Simon Goulart. Montaigne, qui voulait placer le Discours au centre du premier livre des Essais (1580), y renonce, parce que l'ouvrage a été « mis en lumière, et à mauvaise fin, par ceux qui cherchent à troubler et changer l'état de notre police » (I, 28, orthographe modernisée) : il le remplace par vingt-neuf sonnets de son ami (I, 29). Le texte que lit le lycéen est celui des manuscrits et éditions anciennes, établi au XXe siècle par Paul Bonnefon, en orthographe modernisée.",
+  "carriere": "Le Discours est une œuvre de jeunesse, écrite avant la carrière de magistrat de La Boétie. Le reste de son œuvre est modeste et dispersé : traductions de Xénophon et de Plutarque, sonnets en français, vers latins, et le Mémoire sur l'édit de janvier 1562 qu'on lui attribue. Il est mort à 32 ans sans rien publier lui-même. Sa gloire posthume tient à deux choses : ce Discours, relu à chaque époque de crise politique, et l'amitié que Montaigne a immortalisée dans les Essais. Paradoxe : l'œuvre d'un futur serviteur loyal de la monarchie (conseiller au Parlement, chargé de missions pour apaiser les troubles religieux en Guyenne) est devenue l'un des textes fondateurs de la critique de la tyrannie."
+ },
+ "resumeCourt": "Le Discours de la servitude volontaire part d'une énigme : comment des millions d'hommes peuvent-ils obéir à un seul tyran, qui n'a d'autre puissance que celle qu'ils lui donnent ? La Boétie refuse d'y voir de la lâcheté : c'est un « malheureux vice » sans nom, un consentement à sa propre servitude. Or la liberté est naturelle : la nature nous a faits égaux, « pour compagnons ou plutôt pour frères », et même les bêtes résistent à la captivité. Il suffirait donc de cesser de servir pour que le tyran s'effondre « comme un grand colosse à qui on a dérobé sa base ». L'auteur explique alors les causes de cette servitude : la coutume d'abord, puis l'abrutissement par les jeux et les largesses, le prestige religieux et le mystère du pouvoir, et surtout la chaîne des complices, les « tyranneaux », qui tiennent le peuple par intérêt. Le texte s'achève sur la misère des favoris, qui ne sont pas des amis mais des complices, et sur un appel à « bien faire ». Écrit dans la jeunesse de l'auteur, publié après sa mort par des protestants en lutte contre la monarchie, ce petit traité est devenu un classique de la réflexion sur la liberté.",
+ "resume": [
+  {
+   "titre": "1. L'exorde : l'énigme d'« un seul »",
+   "texte": "La Boétie s'ouvre sur deux vers qu'Homère prête à Ulysse : « D'avoir plusieurs seigneurs aucun bien je n'y voi : / Qu'un, sans plus, soit le maître et qu'un seul soit le roi ». Il corrige aussitôt Ulysse : être soumis à un maître est toujours un malheur, puisque le maître peut devenir mauvais quand il le veut. Puis il écarte la question classique du meilleur régime pour poser la sienne : comprendre « comme il se peut faire que tant d'hommes, tant de bourgs, tant de villes, tant de nations endurent quelquefois un tyran seul, qui n'a puissance que celle qu'ils lui donnent ». Tout le Discours est contenu dans ce paradoxe."
+  },
+  {
+   "titre": "2. Le scandale : un vice qui n'a pas de nom",
+   "texte": "L'auteur distingue les cas excusables (céder à la force d'une armée, faire confiance à un grand homme qui a fait ses preuves) du cas scandaleux : « Voir un nombre infini de personnes non pas obéir, mais servir ; non pas être gouvernés, mais tyrannisés ». Ce n'est pas de la lâcheté : deux hommes peuvent en craindre un, pas un million. Il s'agit d'un « monstre de vice » que « la langue refuse de nommer ». Les exemples des Grecs à Marathon, aux Thermopyles et à Salamine (Miltiade, Léonidas, Thémistocle) montrent au contraire quelle vaillance la liberté met au cœur de ceux qui la défendent."
+  },
+  {
+   "titre": "3. La thèse : il suffit de ne plus servir",
+   "texte": "Le tyran n'a pas besoin d'être combattu : « il est de soi-même défait, mais que le pays ne consente à sa servitude ». C'est donc le peuple qui « s'asservit, qui se coupe la gorge ». La Boétie s'adresse directement aux « pauvres et misérables peuples insensés » : le tyran n'a que deux yeux, deux mains, un corps ; ses yeux, ses mains, ses pieds, il les prend aux sujets eux-mêmes. D'où l'injonction centrale : « Soyez résolus de ne servir plus, et vous voilà libres. » Il ne s'agit pas de renverser le tyran, mais de cesser de le soutenir, et il tombera de lui-même comme un colosse privé de sa base. Mais le peuple semble atteint d'une maladie mortelle : il faut donc chercher les causes de cette « opiniâtre volonté de servir »."
+  },
+  {
+   "titre": "4. La liberté est naturelle",
+   "texte": "Si nous vivions selon la nature, nous serions « obéissants aux parents, sujets à la raison, et serfs de personne ». La nature nous a faits « de même forme » et « à même moule », « afin de nous entreconnaître tous pour compagnons ou plutôt pour frères » ; elle nous a donné la parole pour mettre en commun nos pensées. Les inégalités de force ou d'esprit ne servent pas à dominer, mais à s'entraider. Pour convaincre les hommes « abâtardis », l'auteur fait parler les bêtes, qui crient « Vive liberté ! » : l'éléphant brise ses défenses pour payer sa rançon, le cheval mord le frein, les bœufs « geignent » sous le joug. Quel « malencontre » a donc pu « tant dénaturer l'homme », seul né pour vivre libre ?"
+  },
+  {
+   "titre": "5. Trois sortes de tyrans, une même tyrannie",
+   "texte": "Les tyrans tiennent leur pouvoir de l'élection du peuple, de la force des armes ou de la succession. Les moyens d'accéder au trône diffèrent, mais la façon de régner est presque la même : les élus traitent leurs sujets comme des taureaux à dompter, les conquérants comme une proie, les héritiers comme des esclaves naturels. Des hommes « tout neufs », ignorant aussi bien la servitude que la liberté, choisiraient sans hésiter d'obéir à la raison plutôt que de servir un homme. Mais on perd sa liberté soit par contrainte, soit par tromperie, et le plus souvent on se trompe soi-même, comme les Syracusains qui firent de Denys un chef de guerre, puis un tyran."
+  },
+  {
+   "titre": "6. Première cause : la coutume",
+   "texte": "Ceux qui naissent sous le joug « prennent pour leur naturel l'état de leur naissance ». La coutume nous apprend à avaler le « venin de la servitude », comme Mithridate s'habituait au poison. Exemples à l'appui : les Vénitiens, éduqués à la liberté, opposés aux sujets du « Grand Seigneur » turc ; les deux chiens de Lycurgue, frères mais éduqués différemment ; les Spartiates Sperte et Bulis répondant au Perse Indarne qu'il ne sait pas « quel goût » a la liberté ; le jeune Caton voulant poignarder Sylla. Conclusion : « la première raison de la servitude volontaire, c'est la coutume ». Seuls quelques « mieux nés », éclairés par l'étude et les livres, gardent le souvenir de la liberté : c'est pourquoi le tyran se méfie des savants et empêche ces esprits libres de se reconnaître entre eux."
+  },
+  {
+   "titre": "7. Deuxième cause : abrutir et amuser le peuple",
+   "texte": "Sous les tyrans, les hommes deviennent lâches et sans ressort, et les tyrans s'en servent. Cyrus, pour tenir les Lydiens révoltés, installa chez eux maisons de débauche, tavernes et jeux publics : il n'eut plus jamais besoin de tirer l'épée. « Les théâtres, les jeux, les farces, les spectacles, les gladiateurs, les bêtes étranges, les médailles, les tableaux et autres telles drogueries, c'étaient aux peuples anciens les appâts de la servitude ». Les empereurs romains distribuaient blé, vin et argent : on criait « Vive le roi ! » sans voir qu'on ne recevait qu'une part de son propre bien. Le peuple romain faillit porter le deuil de Néron, et honora César, dont la « venimeuse douceur » « sucra la servitude »."
+  },
+  {
+   "titre": "8. Troisième cause : le mystère et la religion",
+   "texte": "Les tyrans se rendent invisibles pour paraître plus qu'humains (les rois d'Assyrie et de Médie), se donnent un air étrange (les rois d'Égypte), se font attribuer des miracles (le doigt de Pyrrhus, les guérisons de Vespasien) ou se mettent sous la protection de la religion « pour gardecorps ». Salmonée, qui imitait la foudre de Jupiter, en est puni aux enfers. La Boétie évoque prudemment les légendes de la monarchie française (fleurs de lis, sainte ampoule, oriflamme), qu'il ne veut pas « mécroire » : il les laisse à la poésie de Ronsard, Baïf et du Bellay, dont il fait l'éloge. L'ironie est discrète mais réelle."
+  },
+  {
+   "titre": "9. Le « ressort » de la domination : les tyranneaux",
+   "texte": "Voici le « secret de la domination » : ce ne sont pas les gardes qui protègent le tyran, mais « toujours quatre ou cinq » complices. Ces six en tiennent six cents, qui en tiennent six mille, et ainsi jusqu'aux millions, liés au tyran comme par une chaîne. Les ambitieux et les avides s'amassent autour de lui pour avoir part au butin et devenir, « sous le grand tyran, tyranneaux eux-mêmes ». Ainsi, « pour fendre du bois il fait des coins du bois même » : le tyran asservit les sujets les uns par le moyen des autres."
+  },
+  {
+   "titre": "10. La misère des favoris et l'impossible amitié",
+   "texte": "Les courtisans sont plus esclaves que les paysans : ils doivent non seulement faire ce que veut le tyran, mais « qu'ils pensent ce qu'il veut ». « Cela est-ce vivre heureusement ? » Les exemples de Sénèque, Burrus et Thraséa, mais aussi de Poppée, Agrippine ou Messaline, montrent que la faveur du tyran finit dans la mort. C'est que le tyran « n'est jamais aimé ni n'aime » : l'amitié, « nom sacré », suppose l'égalité et la vertu ; entre méchants, « ils ne sont pas amis, mais ils sont complices ». Fable du renard et du lion, image du papillon qui se brûle à la flamme : les favoris courent à leur perte."
+  },
+  {
+   "titre": "11. La péroraison : apprendre à bien faire",
+   "texte": "Le peuple accuse rarement le tyran lui-même ; il réserve sa haine aux favoris, ces « mange-peuples » dont la postérité noircira le nom « de l'encre de mille plumes ». La Boétie conclut par une exhortation morale et religieuse : « Apprenons donc quelquefois, apprenons à bien faire ». Il est sûr que Dieu, « tout libéral et débonnaire », réserve aux tyrans et à leurs complices une peine particulière."
+  }
+ ],
+ "structure": "Le Discours est un texte continu, sans chapitres, mais sa progression est rigoureuse et suit le plan d'un discours classique. L'exorde (citation d'Ulysse) pose le problème : pourquoi tant d'hommes obéissent-ils à un seul ? La première partie établit le scandale et la thèse : la servitude est volontaire, il suffit de ne plus servir pour être libre. La deuxième partie démontre que la liberté est naturelle (nature, parole, exemple des bêtes). La troisième, la plus longue, analyse les causes de la servitude : la coutume et l'éducation, l'abrutissement par les plaisirs, le prestige religieux, puis le « ressort » secret, la pyramide des complices. La péroraison décrit la misère des favoris, oppose l'amitié à la complicité et se termine par une exhortation morale. L'auteur reconnaît lui-même ses digressions (« pour revenir à notre propos, duquel je m'étais quasi perdu ») : le texte avance comme une conversation savante, d'exemple en exemple.",
+ "personnages": [
+  {
+   "nom": "Le tyran (« un seul »)",
+   "role": "Figure centrale mais vide : il « n'a que deux yeux, n'a que deux mains, n'a qu'un corps ». Le texte le réduit à un « hommeau », souvent « le plus lâche » de la nation. Sa puissance n'est qu'une illusion produite par l'obéissance des autres. Il n'aime personne et n'est aimé de personne. La Boétie ne vise pas un roi précis : le tyran est un type universel, illustré par Néron, César, Denys ou Sylla.",
+   "relations": "Il n'existe que par le peuple qui le soutient et par la chaîne des « tyranneaux » qui le servent par intérêt ; il ne peut avoir aucun ami, seulement des complices qui le craignent et qu'il craint."
+  },
+  {
+   "nom": "Le peuple (« populas »)",
+   "role": "Le véritable sujet du Discours, à la fois victime et responsable. C'est lui qui « s'asservit » et « consent à son mal ». L'auteur le blâme durement (« peuples insensés », « lourdauds ») mais veut le réveiller : son mépris est le revers d'un appel à la liberté.",
+   "relations": "Face au tyran, il est à la fois victime et soutien ; il est tenu par les complices (les six cents, les six mille) et par les appâts du divertissement ; les « mieux nés » sont la part de lui qui garde la mémoire de la liberté."
+  },
+  {
+   "nom": "Les « tyranneaux » (favoris et complices)",
+   "role": "Les quatre ou cinq proches du tyran, puis les six cents et les six mille qui profitent du système : ils sont « le ressort et le secret de la domination ». Ils servent par ambition et par avidité, deviennent de petits tyrans à leur tour, mais vivent dans la peur et finissent souvent victimes du maître qu'ils ont servi.",
+   "relations": "Intermédiaires entre le tyran et le peuple : ils tiennent le peuple sous eux et sont tenus par le maître au-dessus d'eux ; le peuple leur réserve sa haine, tandis que le tyran peut les sacrifier à tout moment."
+  },
+  {
+   "nom": "Les « mieux nés »",
+   "role": "Ceux qui, « ayant l'entendement net et l'esprit clairvoyant », gardent la mémoire de la liberté grâce à l'étude et aux livres. Ils sont l'espoir du texte, mais restent isolés parce que le tyran les empêche de « s'entreconnaître ». Brutus et Cassius, libérateurs de Rome, en sont les modèles.",
+   "relations": "Ils s'opposent à la masse habituée à servir ; le tyran les surveille et les empêche de communiquer ; ils sont proches de La Boétie lui-même, lettré qui garde la mémoire des Anciens."
+  },
+  {
+   "nom": "Longa (le destinataire)",
+   "role": "Le Discours est adressé à un ami, « ô Longa », sans doute Guillaume de Lur-Longa, prédécesseur de La Boétie au Parlement de Bordeaux. Ce destinataire crée une situation de dialogue amical et cultivé : La Boétie lui cite même ses propres vers. L'identification avec Guillaume de Lur-Longa est la plus courante, mais elle reste une hypothèse.",
+   "relations": "Ami et collègue de l'auteur : la relation amicale entre égaux qu'il incarne annonce l'éloge final de l'amitié."
+  },
+  {
+   "nom": "Michel de Montaigne",
+   "role": "Absent du texte, il en est le premier lecteur, l'héritier et le témoin. Dans « De l'amitié » (Essais, I, 28), il raconte qu'il a connu La Boétie grâce à ce Discours et explique pourquoi il ne le publie pas. Leur amitié incarne l'idéal décrit à la fin du texte : une relation entre égaux, fondée sur la vertu.",
+   "relations": "Ami de La Boétie, il devient son héritier littéraire ; il fait connaître le Discours tout en refusant qu'il serve d'arme aux protestants."
+  },
+  {
+   "nom": "Ulysse (Homère)",
+   "role": "Figure d'ouverture et contre-modèle : il fait l'éloge du gouvernement d'« un seul ». La Boétie l'excuse (il voulait calmer une armée révoltée) tout en le corrigeant. Plus loin, Ulysse cherchant la fumée de sa maison devient au contraire l'image de ceux qui n'oublient pas leur liberté d'origine.",
+   "relations": "Interlocuteur symbolique que l'auteur discute, puis réutilise comme modèle de ceux qui n'oublient pas leur patrie et leur liberté."
+  },
+  {
+   "nom": "Les Spartiates Sperte et Bulis",
+   "role": "Exemple vivant de l'homme libre : envoyés se livrer à Xerxès, ils refusent les promesses du Perse Indarne en lui disant qu'il ne sait pas « quel goût » a la liberté. Ils illustrent le rôle de l'éducation : chacun parle « comme il avait été nourri ».",
+   "relations": "Ils s'opposent au Perse Indarne, serviteur heureux du roi Xerxès : deux éducations, deux rapports à la liberté."
+  },
+  {
+   "nom": "Les bêtes",
+   "role": "Témoins de la nature mise « en chaire » : l'éléphant, le cheval, les bœufs et les oiseaux protestent contre la captivité et crient « Vive liberté ! ». Elles servent d'argument a fortiori : si les bêtes refusent la servitude, l'homme, né pour être libre, le devrait encore plus.",
+   "relations": "Elles forment un contre-modèle pour les hommes « abâtardis » : leur cri « Vive liberté ! » s'oppose au « Vive le roi ! » du peuple acheté par les largesses."
+  }
+ ],
+ "evolution": "Le Discours n'a pas de personnages qui évoluent, mais une pensée qui avance et un ton qui change. 1) De la stupeur à la thèse : l'auteur part d'un étonnement (comment un million d'hommes peuvent-ils servir un seul ?), écarte les explications faciles (la force, la lâcheté), puis formule la thèse : la servitude est voulue, et il suffit de ne plus servir. 2) De l'accusation à l'explication : après l'apostrophe indignée aux « peuples insensés », La Boétie change de posture et annonce : « Cherchons donc par conjecture » les causes : nature, coutume, divertissements, religion, complices. Le peuple, d'abord blâmé, devient presque excusable (il faut avoir « pitié » de ceux qui sont nés sous le joug). 3) Du peuple au tyran et à ses favoris : la dernière partie déplace le regard vers le sommet de la pyramide et montre que même ceux qui profitent de la tyrannie sont malheureux, faute d'amitié. 4) Du politique au moral et au religieux : la péroraison (« apprenons à bien faire ») et l'évocation du jugement divin transforment l'analyse politique en leçon morale. L'image du peuple évolue donc : bloc aveugle au début, il se divise ensuite entre la masse habituée, les « mieux nés » qui se souviennent et les complices qui profitent.",
+ "themes": [
+  {
+   "titre": "Le paradoxe de la servitude volontaire",
+   "texte": "Le titre est un oxymore : la servitude devrait être subie, elle est ici voulue. Tout le texte repose sur ce renversement : le tyran « n'a puissance que celle qu'ils lui donnent ». La Boétie le démontre par une série de questions rhétoriques (« D'où a-t-il pris tant d'yeux, dont il vous épie, si vous ne les lui baillez ? ») et par des images : le feu qui s'éteint quand on cesse de l'alimenter, la branche qui sèche quand la racine n'a plus de sève, le colosse qui s'effondre quand on lui retire sa base. La conséquence est révolutionnaire : la liberté ne s'arrache pas par la violence, elle se reprend par un refus, puisqu'il suffit de « ne lui donner rien »."
+  },
+  {
+   "titre": "La liberté naturelle et la fraternité",
+   "texte": "Pour La Boétie, la liberté n'est pas un privilège mais notre état naturel. La nature, « bonne mère », nous a tous faits « à même moule », nous a donné la même terre pour demeure et la parole pour « fraterniser ». Elle a voulu « nous faire tous unis » et même « tous uns ». Les inégalités de talents ne justifient pas la domination : elles doivent faire place à « la fraternelle affection ». Ce passage annonce les grandes déclarations des droits : l'égalité naturelle fonde la liberté de chacun."
+  },
+  {
+   "titre": "La coutume et l'éducation : entretenir ou perdre la liberté",
+   "texte": "La coutume est « la première raison de la servitude volontaire » : on ne regrette pas ce qu'on n'a jamais connu, comme les Cimmériens nés dans une nuit de six mois ne désirent pas la lumière. Mais l'éducation peut aussi entretenir la liberté : les Vénitiens, « nés et nourris » libres, ne la céderaient pour rien au monde ; Lycurgue montre avec ses deux chiens que « les hommes sont tels que la nourriture les fait ». C'est le cœur du parcours : la liberté ne se défend pas une fois pour toutes, elle s'entretient par la mémoire, l'étude et les livres, ce que les tyrans savent bien puisqu'ils se méfient des savants."
+  },
+  {
+   "titre": "Les techniques du pouvoir : amuser, éblouir, corrompre",
+   "texte": "La Boétie démonte les mécanismes concrets de la domination. Le divertissement : jeux, théâtres et gladiateurs sont « les appâts de la servitude, le prix de leur liberté, les outils de la tyrannie ». La fausse générosité : les distributions de blé et de vin font crier « Vive le roi ! » à ceux qu'on a d'abord dépouillés. Le sacré : les rois se cachent, se prétendent thaumaturges ou se placent sous la protection des dieux. Enfin la corruption organisée : la pyramide des « tyranneaux » intéresse des milliers de personnes au maintien de la tyrannie. L'analyse reste d'une étonnante actualité (on pense à la formule de Juvénal sur le pain et les jeux du cirque, ou à la propagande)."
+  },
+  {
+   "titre": "Amitié contre complicité",
+   "texte": "La fin du Discours oppose deux types de liens. Autour du tyran règne la peur : les favoris doivent « rire à chacun et néanmoins se craindre de tous ». Le tyran ne peut avoir d'amis, car l'amitié « a son vrai gibier en l'équalité » et ne se fonde que sur l'estime et la vertu ; entre méchants, « ils ne sont pas amis, mais ils sont complices ». Cette page fait écho à l'amitié de La Boétie et de Montaigne et montre que la liberté politique et la qualité des liens humains sont inséparables."
+  },
+  {
+   "titre": "L'éloquence au service de la liberté",
+   "texte": "Le Discours n'est pas un traité froid : il veut réveiller. La Boétie multiplie les apostrophes (« Pauvres et misérables peuples insensés »), les exclamations indignées (« Mais, ô bon Dieu ! que peut être cela ? »), les gradations (« si cent, si mille », « cent pays, mille villes, un million d'hommes ») et les exemples tirés de l'histoire antique. Il cite Homère, Virgile, Térence, ses propres vers, et fait l'éloge des poètes de la Pléiade. Défendre la liberté, c'est aussi défendre la langue et la culture qui permettent de la penser."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comprendre un paradoxe politique : pourquoi des peuples entiers obéissent-ils à un seul homme qui n'a d'autre force que celle qu'ils lui donnent ?",
+   "Fonder la liberté sur la nature : si les hommes sont nés égaux et « compagnons », aucune servitude n'est naturelle.",
+   "Expliquer la perte de la liberté sans violence apparente : coutume, éducation, divertissements, propagande religieuse, réseau d'intérêts.",
+   "Penser une résistance non violente : cesser de servir plutôt que renverser le tyran par les armes.",
+   "Opposer deux formes de lien social : la complicité fondée sur la peur et l'intérêt, l'amitié fondée sur l'égalité et la vertu."
+  ],
+  "intentions": "La Boétie n'a laissé aucune préface ni aucune déclaration sur son Discours. Le seul témoignage direct est celui de Montaigne (Essais, I, 28, « De l'amitié ») : son ami l'aurait écrit « par manière d'essai, en sa première jeunesse, à l'honneur de la liberté contre les tyrans » (orthographe modernisée). Montaigne ajoute ailleurs, dans le même chapitre, que La Boétie était profondément attaché aux lois de son pays et n'aurait pas voulu servir les troubles : ce témoignage, écrit après la récupération du texte par les protestants, est sans doute aussi une défense de la mémoire de son ami. Il faut donc distinguer ce que dit le texte (un éloge de la liberté et une analyse de la servitude) et les intentions politiques qu'on lui a prêtées (appel à la révolte), qui ne sont pas documentées.",
+  "procedes": [
+   {
+    "nom": "L'apostrophe et la question rhétorique",
+    "explication": "La Boétie interpelle directement les peuples et multiplie les questions dont la réponse est évidente : le lecteur est obligé de reconnaître lui-même sa responsabilité.",
+    "exemple": "« Pauvres et misérables peuples insensés » ; « D'où a-t-il pris tant d'yeux, dont il vous épie, si vous ne les lui baillez ? »"
+   },
+   {
+    "nom": "La gradation et le raisonnement par les nombres",
+    "explication": "Les nombres croissants rendent sensible la disproportion entre un seul et la multitude, puis la mécanique de la pyramide des complices.",
+    "exemple": "« si cent, si mille », puis « ce sont toujours quatre ou cinq qui maintiennent le tyran » ; les six, six cents, six mille."
+   },
+   {
+    "nom": "L'exemplum (exemple historique)",
+    "explication": "Le raisonnement s'appuie sur des exemples tirés de l'histoire antique, selon la pratique humaniste : ils servent de preuves et d'autorités.",
+    "exemple": "Les deux chiens de Lycurgue, Sperte et Bulis face à Indarne, Cyrus qui amollit les Lydiens par les tavernes et les jeux."
+   },
+   {
+    "nom": "L'image concrète (comparaison, métaphore filée)",
+    "explication": "Les idées abstraites (consentement, habitude, intérêt) deviennent visibles grâce à des images du corps, de la chasse ou du travail du bois.",
+    "exemple": "Le tyran « comme un grand colosse à qui on a dérobé sa base » ; « pour fendre du bois il fait des coins du bois même »."
+   },
+   {
+    "nom": "L'antithèse et le parallélisme",
+    "explication": "Des oppositions symétriques définissent les notions et frappent la mémoire.",
+    "exemple": "« non pas obéir, mais servir ; non pas être gouvernés, mais tyrannisés » ; « ils ne sont pas amis, mais ils sont complices »."
+   },
+   {
+    "nom": "La prosopopée et l'argument a fortiori",
+    "explication": "L'auteur fait parler les bêtes pour faire honte aux hommes : si même les animaux refusent la captivité, l'homme le devrait encore plus.",
+    "exemple": "« Les bêtes, ce maid' Dieu ! si les hommes ne font trop les sourds, leur crient : Vive liberté ! »"
+   }
+  ],
+  "style": "Le style est celui d'une déclamation humaniste : de longues périodes oratoires, construites sur des accumulations et des subordonnées, alternent avec des formules courtes qui claquent comme des sentences (« Soyez résolus de ne servir plus, et vous voilà libres »). La langue, même modernisée, garde des traces du XVIe siècle : mots anciens (« bailler » pour donner, « hommeau », « gourmander », « malencontre »), tours de phrase latins, inversions. Le texte avance par digressions et reprises, comme une conversation savante avec Longa ; l'auteur l'avoue (« pour revenir à notre propos, duquel je m'étais quasi perdu »). Les citations d'Homère, de Virgile et de ses propres vers, l'éloge de Ronsard, Baïf et du Bellay montrent un jeune lettré nourri des Anciens et attentif à la poésie française de son temps.",
+  "registres": [
+   {
+    "nom": "Polémique",
+    "explication": "Attaque du tyran et des complices : vocabulaire dévalorisant (« hommeau », « mange-peuples »), ironie contre les « lourdauds » qui crient « Vive le roi ! »."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Tableau de la dépossession des sujets (champs pillés, enfants menés à la guerre) et indignation (« Mais, ô bon Dieu ! que peut être cela ? ») pour émouvoir le lecteur."
+   },
+   {
+    "nom": "Épidictique (éloge et blâme)",
+    "explication": "Éloge de la liberté, de la nature « bonne mère », des Grecs de Marathon, de l'amitié ; blâme des tyrans et des favoris."
+   },
+   {
+    "nom": "Didactique",
+    "explication": "Recherche méthodique des causes (« Cherchons donc par conjecture »), classement des tyrans en trois sortes, conclusions explicites (« la première raison de la servitude volontaire, c'est la coutume »)."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le Discours est une œuvre de jeunesse, rédigée vers 1546-1548 selon le témoignage de Montaigne.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le texte a été publié pour la première fois en entier en 1576 par des protestants, qui en ont fait une arme contre la monarchie après la Saint-Barthélemy.",
+    "nature": "fait"
+   },
+   {
+    "texte": "La Boétie aurait écrit sous le choc de la répression de la révolte de la gabelle à Bordeaux (1548) : rapprochement fréquent, mais le texte ne mentionne jamais cet événement.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le Discours est-il un appel politique à la désobéissance ou un exercice rhétorique d'école ? Montaigne le présente comme un « essai » de jeunesse ; ses lecteurs protestants, puis révolutionnaires, et plus tard les théoriciens de la désobéissance civile y ont vu un programme.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le tyran du Discours vise-t-il les rois de France ? La Boétie parle de tyrans antiques et ménage les légendes de la monarchie française (fleurs de lis, sainte ampoule), mais cette prudence peut être lue comme de l'ironie.",
+    "nature": "debat"
+   },
+   {
+    "texte": "L'analyse de la servitude volontaire annonce des réflexions modernes sur le consentement au pouvoir et sur les régimes autoritaires ; ces rapprochements sont ceux des lecteurs, non de l'auteur.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Le Discours est typique de l'humanisme : retour aux Anciens (Homère, Plutarque, Xénophon, Tacite), confiance dans la raison, l'étude et les livres (les « mieux nés » gardent la liberté grâce à eux), idée d'une nature humaine commune et digne. Il s'inscrit aussi dans le contexte du renforcement de la monarchie au XVIe siècle et dans celui, après la mort de l'auteur, des guerres de Religion : c'est la réception protestante, les monarchomaques, qui contestent le pouvoir absolu des rois, qui lui a donné sa portée politique. Par son éloge de l'amitié entre égaux, il dialogue avec les Essais de Montaigne ; par son idée d'une liberté naturelle, il annonce les Lumières (Rousseau)."
+ },
+ "citations": [
+  {
+   "texte": "Pour ce coup, je ne voudrais sinon entendre comme il se peut faire que tant d'hommes, tant de bourgs, tant de villes, tant de nations endurent quelquefois un tyran seul, qui n'a puissance que celle qu'ils lui donnent",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le mystère de la servitude volontaire » (intertitre du site)",
+   "situation": "Après avoir discuté les vers d'Ulysse, l'auteur écarte la question du meilleur régime et pose la sienne.",
+   "sens": "La Boétie veut seulement comprendre comment des peuples entiers supportent un seul tyran, dont toute la puissance vient d'eux.",
+   "procedes": "Accumulation et anaphore de « tant de » opposées au singulier « un tyran seul » ; relative restrictive « qui n'a puissance que celle qu'ils lui donnent ».",
+   "demontre": "Le paradoxe fondateur : le pouvoir du tyran est un pouvoir donné, donc reprenable.",
+   "usage": "Citation d'introduction idéale pour toute dissertation sur l'œuvre ou sur le consentement au pouvoir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Voir un nombre infini de personnes non pas obéir, mais servir ; non pas être gouvernés, mais tyrannisés",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le mystère de la servitude volontaire » (intertitre du site)",
+   "situation": "L'auteur s'indigne devant le spectacle de la servitude, qu'il distingue des cas excusables.",
+   "sens": "Il ne condamne pas toute obéissance : il dénonce le moment où obéir devient servir, où être gouverné devient être tyrannisé.",
+   "procedes": "Double correction en « non pas... mais », parallélisme, gradation dans chaque couple.",
+   "demontre": "La Boétie n'est pas un ennemi de toute autorité : il distingue gouvernement légitime et tyrannie.",
+   "usage": "Utile pour nuancer l'idée d'un La Boétie anarchiste ; pour définir les mots servitude et tyrannie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Ce sont donc les peuples mêmes qui se laissent ou plutôt se font gourmander, puisqu'en cessant de servir ils en seraient quittes",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « « Soyez résolus de ne servir plus, et vous voilà libres » » (intertitre du site)",
+   "situation": "Conclusion de la démonstration : le tyran tombe de lui-même si le pays ne consent pas à sa servitude.",
+   "sens": "Les peuples ne subissent pas seulement la domination, ils la produisent ; il suffirait d'arrêter de servir.",
+   "procedes": "Épanorthose (« se laissent ou plutôt se font ») ; connecteur logique « donc » ; subordonnée causale.",
+   "demontre": "La responsabilité des dominés : c'est le cœur de la thèse de la servitude volontaire.",
+   "usage": "Pour une partie sur le déplacement de l'accusation du tyran vers le peuple.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Soyez résolus de ne servir plus, et vous voilà libres.",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « « Soyez résolus de ne servir plus, et vous voilà libres » » (intertitre du site)",
+   "situation": "Au terme de l'apostrophe aux « pauvres et misérables peuples insensés », après le démontage du corps du tyran.",
+   "sens": "La liberté dépend d'une décision : il suffit de cesser de servir pour être libre.",
+   "procedes": "Impératif, brièveté sentencieuse, présentatif « vous voilà » qui rend l'effet immédiat.",
+   "demontre": "La solution proposée est un refus, non une bataille : une résistance non violente.",
+   "usage": "La phrase la plus célèbre : pour « défendre » la liberté par le refus ; à rapprocher de la désobéissance civile.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Je ne veux pas que vous le poussiez ou l'ébranliez, mais seulement ne le soutenez plus, et vous le verrez, comme un grand colosse à qui on a dérobé sa base, de son poids même fondre en bas et se rompre.",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « « Soyez résolus de ne servir plus, et vous voilà libres » » (intertitre du site)",
+   "situation": "Suite immédiate de l'injonction précédente : l'auteur précise la nature du refus qu'il propose.",
+   "sens": "Il n'est pas nécessaire de renverser le tyran : privé de soutien, il s'effondre sous son propre poids.",
+   "procedes": "Correction (« Je ne veux pas... mais seulement ») ; comparaison du colosse ; verbes de chute (« fondre en bas et se rompre »).",
+   "demontre": "La grandeur du tyran est une fragilité : elle ne repose que sur ceux qui le portent.",
+   "usage": "Image à citer pour illustrer la non-violence de la solution et la fragilité des pouvoirs.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "D'où a-t-il pris tant d'yeux, dont il vous épie, si vous ne les lui baillez ?",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « « Soyez résolus de ne servir plus, et vous voilà libres » » (intertitre du site)",
+   "situation": "Dans l'apostrophe aux peuples, au début d'une série de questions sur le corps du tyran.",
+   "sens": "Les espions, les soldats, les serviteurs du tyran sont pris au peuple lui-même : sans eux, il n'a que deux yeux.",
+   "procedes": "Question rhétorique ; métaphore du corps du pouvoir ; « bailler » (donner) en fin de phrase.",
+   "demontre": "Le pouvoir est un corps collectif fabriqué avec les membres des sujets.",
+   "usage": "Pour analyser la rhétorique de l'apostrophe ou la notion de consentement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "la nature, le ministre de Dieu, la gouvernante des hommes, nous a tous faits de même forme, et, comme il semble, à même moule, afin de nous entreconnaître tous pour compagnons ou plutôt pour frères",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « La liberté est naturelle » (intertitre du site)",
+   "situation": "Début de la démonstration de la liberté naturelle.",
+   "sens": "La nature a fait tous les hommes semblables pour qu'ils se reconnaissent comme égaux et même comme frères.",
+   "procedes": "Personnification de la nature (apposition « le ministre de Dieu, la gouvernante des hommes ») ; épanorthose « pour compagnons ou plutôt pour frères ».",
+   "demontre": "La liberté est fondée sur l'égalité naturelle et la fraternité.",
+   "usage": "Pour une partie sur la liberté naturelle ; rapprochement avec Rousseau et les déclarations des droits.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Les bêtes, ce maid' Dieu ! si les hommes ne font trop les sourds, leur crient : Vive liberté !",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « La liberté est naturelle » (intertitre du site)",
+   "situation": "L'auteur fait intervenir les animaux pour convaincre les hommes « abâtardis ».",
+   "sens": "Même les bêtes protestent contre la captivité : les hommes devraient l'entendre.",
+   "procedes": "Prosopopée (les bêtes parlent) ; juron familier « ce maid' Dieu » (c'est-à-dire : Dieu m'aide) ; exclamation.",
+   "demontre": "Argument a fortiori : la liberté est si naturelle que les animaux la réclament.",
+   "usage": "À opposer au « Vive le roi ! » du peuple acheté par les largesses.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "ainsi la première raison de la servitude volontaire, c'est la coutume",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Les trois sortes de tyrans ; la force de la coutume » (intertitre du site)",
+   "situation": "Conclusion de la réflexion sur ceux qui naissent sous le joug, avant la comparaison avec les chevaux dressés.",
+   "sens": "On ne regrette pas une liberté que l'on n'a jamais connue : l'habitude fait paraître naturelle la servitude.",
+   "procedes": "Formule-bilan avec le connecteur « ainsi » et le présentatif « c'est » ; numérotation (« la première raison »).",
+   "demontre": "L'habitude est plus forte que la nature : d'où l'importance de l'éducation.",
+   "usage": "Pour le verbe « entretenir » du parcours : la liberté se perd par l'oubli.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Les théâtres, les jeux, les farces, les spectacles, les gladiateurs, les bêtes étranges, les médailles, les tableaux et autres telles drogueries, c'étaient aux peuples anciens les appâts de la servitude, le prix de leur liberté, les outils de la tyrannie.",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Comment les tyrans abêtissent leurs sujets : jeux, plaisirs et largesses » (intertitre du site)",
+   "situation": "Après l'exemple de Cyrus et des Lydiens, l'auteur généralise sur les divertissements offerts par les tyrans.",
+   "sens": "Les divertissements servent à endormir les peuples et à leur faire accepter la domination.",
+   "procedes": "Énumération ; terme dépréciatif « drogueries » ; rythme ternaire final (« appâts », « prix », « outils »).",
+   "demontre": "La domination passe par le plaisir autant que par la force.",
+   "usage": "Exemple très utile pour l'actualité du texte (divertissement, propagande) ; à rapprocher d'Orwell.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "ce sont toujours quatre ou cinq qui maintiennent le tyran, quatre ou cinq qui tiennent tout le pays en servage.",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le ressort de la tyrannie : la chaîne des complices » (intertitre du site)",
+   "situation": "Le « ressort et le secret de la domination », annoncé comme une vérité surprenante.",
+   "sens": "Ce ne sont pas les armes qui protègent le tyran, mais quelques complices, eux-mêmes relayés par des milliers d'autres.",
+   "procedes": "Répétition de « quatre ou cinq » ; début d'une gradation arithmétique (six cents, six mille...).",
+   "demontre": "La tyrannie est un système d'intérêts partagés, une pyramide de complices.",
+   "usage": "Pour montrer que la servitude volontaire est organisée et que chacun peut devenir un rouage.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "pour fendre du bois il fait des coins du bois même",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le ressort de la tyrannie : la chaîne des complices » (intertitre du site)",
+   "situation": "Conclusion du développement sur les « tyranneaux » ; l'auteur reprend un proverbe (« comme on dit »).",
+   "sens": "Le tyran asservit les sujets les uns par les autres, comme on fend une bûche avec des coins taillés dans le même bois.",
+   "procedes": "Image proverbiale, répétition du mot « bois », raccourci frappant.",
+   "demontre": "Le peuple est dominé par une partie de lui-même.",
+   "usage": "Formule mémorable pour résumer la chaîne des complices.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "ils ne s'entraiment pas, mais ils s'entrecraignent ; ils ne sont pas amis, mais ils sont complices.",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le tyran n’aime ni n’est aimé : l’amitié » (intertitre du site)",
+   "situation": "Dans la dernière partie, sur les relations entre le tyran et ses favoris, opposées à l'amitié véritable.",
+   "sens": "Autour du tyran, il n'y a pas d'affection mais de la peur réciproque, pas d'amitié mais de la complicité.",
+   "procedes": "Parallélisme et antithèses ; verbes formés avec le préfixe entre- (réciprocité) ; balancement binaire.",
+   "demontre": "L'amitié suppose l'égalité et la vertu : elle est impossible dans la tyrannie.",
+   "usage": "Pour la fin du Discours et le lien avec l'amitié La Boétie-Montaigne.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "il ne faut pas faire doute que nous ne soyons naturellement libres, puisque nous sommes tous compagnons",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « La liberté est naturelle » (intertitre du site)",
+   "situation": "Conclusion de la démonstration sur la nature : après la voix, la parole et la terre commune.",
+   "sens": "La liberté découle logiquement de l'égalité : puisque nous sommes tous compagnons, nous sommes tous libres.",
+   "procedes": "Double négation (« ne faut pas faire doute que nous ne soyons ») ; subordonnée causale « puisque ».",
+   "demontre": "Le raisonnement est déductif : l'égalité naturelle fonde la liberté naturelle.",
+   "usage": "Citation-thèse pour une partie sur la liberté naturelle.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "Apprenons donc quelquefois, apprenons à bien faire",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Conclusion » (intertitre du site)",
+   "situation": "Début de la péroraison, après l'évocation de la haine que la postérité réserve aux favoris.",
+   "sens": "L'auteur termine par une exhortation morale : il faut apprendre à faire le bien.",
+   "procedes": "Impératif à la première personne du pluriel (l'auteur s'inclut) ; répétition de « apprenons ».",
+   "demontre": "Le Discours s'achève sur une leçon morale et religieuse plus que sur un programme politique.",
+   "usage": "Pour nuancer la lecture purement politique de l'œuvre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  },
+  {
+   "texte": "le tyran n'est jamais aimé ni n'aime",
+   "locuteur": "La Boétie (le locuteur du Discours, qui s'adresse à son ami Longa)",
+   "reference": "Section « Le tyran n’aime ni n’est aimé : l’amitié » (intertitre du site)",
+   "situation": "Dans la dernière partie, avant la définition de l'amitié comme « nom sacré ».",
+   "sens": "Le tyran vit seul : il ne peut ni aimer ni être aimé.",
+   "procedes": "Chiasme (aimé / aime) et double négation « jamais... ni ».",
+   "demontre": "La tyrannie détruit les liens humains, même pour celui qui l'exerce.",
+   "usage": "Pour le blâme du tyran et pour l'opposition amitié / complicité.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Discours de la servitude volontaire, éd. Paul Bonnefon (Bossard, 1922), orthographe modernisée par l'éditeur — Wikisource (https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/Édition_1922/Discours)",
+    "note": "Orthographe modernisée par Bonnefon (1922) ; le texte original (publié en 1576) est en moyen français. Le Discours est d'un seul tenant : la référence renvoie aux intertitres ajoutés sur le site."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "« Défendre » et « entretenir » la liberté",
+  "explication": "Le parcours invite à réfléchir à deux gestes complémentaires. « Défendre » la liberté, c'est la protéger contre ce qui la menace : un tyran, une domination, une injustice. « Entretenir » la liberté, c'est la faire vivre au quotidien, la cultiver comme une flamme qui peut s'éteindre si on l'oublie. Les guillemets rappellent que ces deux verbes sont à interroger : qui défend la liberté, contre qui, et comment ?\n\nLe Discours de La Boétie répond de façon originale. Il ne propose ni révolte armée ni assassinat du tyran : la vraie défense de la liberté est un refus intérieur et collectif (« Soyez résolus de ne servir plus, et vous voilà libres »). Mais surtout, il montre que la liberté se perd moins par la force que par l'habitude, les plaisirs et l'intérêt. Pour l'entretenir, il faut donc lutter contre la coutume, garder la mémoire de la liberté, lire, étudier, se reconnaître entre esprits libres, et refuser d'entrer dans la chaîne des complices.\n\nPour les deux voies (générale et technologique), l'œuvre permet de travailler l'argumentation (thèse, exemples, causes), les registres polémique et pathétique, et la question de la responsabilité de chacun face au pouvoir. On peut la rapprocher de textes de toutes les époques : ceux des Lumières sur l'esprit critique, ceux des résistants du XXe siècle, ou des dystopies qui décrivent des peuples heureux de leur servitude.",
+  "textesComplementaires": [
+   {
+    "titre": "Essais, I, 28, « De l'amitié » (1580)",
+    "auteur": "Michel de Montaigne",
+    "interet": "Montaigne y raconte sa rencontre avec La Boétie, présente le Discours et définit l'amitié parfaite (« Parce que c'était lui, parce que c'était moi », orthographe modernisée). Indispensable pour comprendre la genèse du texte et l'idéal d'égalité de la fin du Discours."
+   },
+   {
+    "titre": "Le Prince (1532), chapitres XVII-XVIII",
+    "auteur": "Nicolas Machiavel",
+    "interet": "Le contrepoint parfait : Machiavel explique au prince comment conserver le pouvoir (être craint plutôt qu'aimé, savoir paraître). Là où Machiavel conseille le maître, La Boétie s'adresse aux sujets et révèle les mêmes ressorts pour les désarmer."
+   },
+   {
+    "titre": "Du contrat social (1762), livre I, chapitres 1 à 4",
+    "auteur": "Jean-Jacques Rousseau",
+    "interet": "« L'homme est né libre, et partout il est dans les fers. » Rousseau reprend l'idée d'une liberté naturelle et montre qu'aucun droit ne peut fonder l'esclavage. Le rapprochement fait voir ce que les Lumières doivent à La Boétie."
+   },
+   {
+    "titre": "Réponse à la question : qu'est-ce que les Lumières ? (1784)",
+    "auteur": "Emmanuel Kant",
+    "interet": "Kant explique que la plupart des hommes restent sous tutelle par paresse et par lâcheté, parce qu'il est confortable d'être guidé, et donne pour devise aux Lumières la formule latine Sapere aude, qu'il commente comme le courage de se servir de son propre entendement. Une réflexion qui prolonge l'idée d'une servitude que l'on choisit."
+   },
+   {
+    "titre": "De la liberté des Anciens comparée à celle des Modernes (1819)",
+    "auteur": "Benjamin Constant",
+    "interet": "Constant montre que la liberté moderne, tournée vers la jouissance privée, risque de faire oublier la participation politique. Excellent texte pour le verbe « entretenir » : la liberté exige une vigilance constante des citoyens."
+   },
+   {
+    "titre": "1984 (1949)",
+    "auteur": "George Orwell",
+    "interet": "Dans ce roman d'anticipation, le Parti maintient le peuple dans la soumission par la surveillance, la propagande et le divertissement, avec une hiérarchie de complices. Une illustration romanesque saisissante des « appâts de la servitude » et de la chaîne des tyranneaux."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le paradoxe central : le tyran n'a de pouvoir que celui que lui donnent ceux qu'il opprime ; la servitude est donc volontaire.",
+   "La solution est un refus et non une révolte armée : « Soyez résolus de ne servir plus, et vous voilà libres. »",
+   "La liberté est naturelle : la nature a fait les hommes égaux, « compagnons », et les bêtes elles-mêmes refusent la captivité.",
+   "La première cause de la servitude est la coutume : on ne désire pas une liberté qu'on n'a jamais connue ; l'éducation peut entretenir ou détruire la liberté.",
+   "Les tyrans endorment les peuples par les divertissements, les largesses et le prestige religieux.",
+   "Le « secret de la domination » est la chaîne des complices : quatre ou cinq, puis six cents, six mille, intéressés au maintien du tyran.",
+   "L'amitié, fondée sur l'égalité et la vertu, est impossible dans la tyrannie : il n'y a que des complices."
+  ],
+  "axes": [
+   "Une argumentation rigoureuse : énigme, thèse, preuves, causes, conclusion.",
+   "Une éloquence qui veut réveiller : apostrophes, questions rhétoriques, images, indignation.",
+   "Une réflexion humaniste : exempla antiques, confiance dans l'étude et dans la nature humaine.",
+   "Une analyse des mécanismes du pouvoir étonnamment moderne : consentement, divertissement, propagande, réseau d'intérêts.",
+   "Une pensée de la liberté comme bien à défendre (refuser de servir) et à entretenir (mémoire, éducation, amitié)."
+  ],
+  "problematiques": [
+   "Comment La Boétie transforme-t-il l'énigme de l'obéissance en un appel à la liberté ?",
+   "En quoi le Discours déplace-t-il la responsabilité de la tyrannie du tyran vers ceux qui le servent ?",
+   "Comment l'éloquence humaniste sert-elle une analyse politique ?",
+   "Défendre la liberté, est-ce combattre le tyran ou cesser de le servir ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L'exorde et la critique des vers d'Ulysse (début du Discours).",
+    "utilisation": "Montrer la méthode humaniste : partir d'une autorité antique pour la discuter et poser une question neuve."
+   },
+   {
+    "exemple": "La gradation chiffrée (deux, cent, mille, un million) qui écarte l'explication par la lâcheté.",
+    "utilisation": "Prouver que la servitude volontaire est un « vice » d'un autre ordre et analyser le raisonnement par les nombres."
+   },
+   {
+    "exemple": "L'apostrophe aux « pauvres et misérables peuples insensés » et l'image du colosse.",
+    "utilisation": "Illustrer la thèse du consentement et la solution non violente."
+   },
+   {
+    "exemple": "Les deux chiens de Lycurgue ; Sperte et Bulis face à Indarne.",
+    "utilisation": "Montrer le rôle de l'éducation : la liberté s'entretient et se transmet."
+   },
+   {
+    "exemple": "Cyrus et les Lydiens ; les « appâts de la servitude » ; le cri « Vive le roi ! ».",
+    "utilisation": "Analyser la domination par le plaisir et la fausse générosité ; actualiser le texte."
+   },
+   {
+    "exemple": "La pyramide des « tyranneaux » et le proverbe du bois fendu avec des coins du même bois.",
+    "utilisation": "Montrer que la tyrannie est un système d'intérêts qui rend chacun complice."
+   },
+   {
+    "exemple": "L'opposition finale entre amitié et complicité.",
+    "utilisation": "Relier politique et morale ; faire le lien avec Montaigne."
+   }
+  ],
+  "liens": "Les thèmes se tiennent : la liberté naturelle (nature, égalité) explique pourquoi la servitude est un scandale ; la coutume explique comment on l'oublie ; les techniques du pouvoir et les complices expliquent comment elle se maintient ; l'amitié montre ce que serait une société d'égaux. Les procédés suivent ce mouvement : questions rhétoriques et apostrophes pour le scandale, exempla pour les causes, images (colosse, coins de bois) pour les mécanismes, parallélismes pour l'opposition finale. Les « personnages » collectifs (tyran, peuple, tyranneaux, mieux nés) incarnent les rouages de cette analyse.",
+  "sujetsCommentaire": [
+   {
+    "passage": "L'apostrophe aux peuples, de « Pauvres et misérables peuples insensés » à « de son poids même fondre en bas et se rompre ».",
+    "pistes": "1) Un réquisitoire contre le peuple : apostrophe, adjectifs dévalorisants, énumération des pillages. 2) Le démontage du corps du tyran : restrictions (« n'a que deux yeux »), questions rhétoriques, anaphore en « vous ». 3) Une solution simple et non violente : impératif, présentatif, comparaison du colosse."
+   },
+   {
+    "passage": "L'éloge de la nature, de « Mais certes, s'il y a rien de clair ni d'apparent en la nature » à « nous ayant tous mis en compagnie ».",
+    "pistes": "1) Une nature personnifiée et bienveillante. 2) Les inégalités retournées en occasions de fraternité (concession, réfutation de la loi du plus fort). 3) Une conclusion logique : l'égalité fonde la liberté (accumulation en « si », jeu de mots « unis » / « uns »)."
+   },
+   {
+    "passage": "Le « ressort » de la domination, de « Mais maintenant je viens à un point » à « pour fendre du bois il fait des coins du bois même ».",
+    "pistes": "1) La réfutation d'une idée reçue (les gardes). 2) La révélation d'une pyramide (gradation arithmétique, image de la chaîne). 3) La nature des complices et la maxime finale : un système qui retourne le peuple contre lui-même."
+   }
+  ],
+  "erreurs": [
+   "Croire que La Boétie appelle à tuer le tyran : il demande seulement de cesser de le soutenir (« Je ne veux pas que vous le poussiez ou l'ébranliez »).",
+   "Faire de La Boétie un révolutionnaire protestant : ce sont les protestants qui ont publié le texte après sa mort ; lui-même était catholique et magistrat du roi.",
+   "Affirmer comme un fait que le Discours répond à la répression de la gabelle de 1548 : c'est une hypothèse, le texte n'en parle pas.",
+   "Dire que le tyran visé est Henri II ou un roi de France précis : les exemples sont antiques et la monarchie française est ménagée (fleurs de lis, sainte ampoule).",
+   "Oublier la dimension morale et religieuse de la fin (amitié, « apprenons à bien faire », jugement de Dieu).",
+   "Lire le texte comme un essai moderne : c'est une déclamation humaniste, adressée à Longa et nourrie d'exempla antiques."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Le Discours de la servitude volontaire n'est-il qu'un réquisitoire contre les tyrans ?",
+   "analyse": "Un « réquisitoire » est un discours d'accusation, comme celui du procureur au tribunal. Le sujet suggère que le texte serait seulement une attaque contre les tyrans. La restriction « n'est-il qu'... » invite à nuancer : La Boétie accuse-t-il vraiment les tyrans en priorité, ou plutôt les peuples qui consentent ? Et son texte se limite-t-il à accuser, ou cherche-t-il aussi à comprendre, à expliquer et à proposer ?",
+   "problematique": "En dénonçant la tyrannie, La Boétie ne déplace-t-il pas l'accusation vers ceux qui la rendent possible, pour faire de son Discours une analyse et un appel à la liberté ?",
+   "plan": [
+    {
+     "titre": "I. Un véritable réquisitoire contre la tyrannie",
+     "arguments": [
+      "A. Un portrait à charge du tyran : un « hommeau », « le plus lâche et femelin de la nation », qui pille, tue et envoie les enfants « à la boucherie » ; vocabulaire péjoratif (« boutefeu », « bourreau », « bête sauvage » pour Néron).",
+      "B. Des exempla historiques accablants : Denys de Syracuse, Sylla, César et sa « venimeuse douceur », Néron, les empereurs qui tuent leurs proches (Agrippine, Poppée, Messaline).",
+      "C. Une condamnation morale et religieuse : la péroraison annonce que Dieu réserve « pour les tyrans et leurs complices quelque peine particulière » ; le tyran « n'est jamais aimé ni n'aime »."
+     ]
+    },
+    {
+     "titre": "II. Mais l'accusation vise surtout ceux qui servent",
+     "arguments": [
+      "A. Le renversement central : le tyran « n'a puissance que celle qu'ils lui donnent » ; « c'est le peuple qui s'asservit, qui se coupe la gorge ». Les sujets sont « recéleurs du larron », « complices du meurtrier », « traîtres à vous-mêmes ».",
+      "B. La responsabilité des « tyranneaux » : la pyramide des quatre ou cinq, des six cents, des six mille montre que la tyrannie est un système d'intérêts partagés ; ils servent par « ambition » et « avarice ».",
+      "C. Un blâme qui veut réveiller : les apostrophes (« Pauvres et misérables peuples insensés ») et les comparaisons avec les bêtes, qui crient « Vive liberté ! », visent à faire honte aux hommes pour les faire réagir."
+     ]
+    },
+    {
+     "titre": "III. Plus qu'un réquisitoire : une analyse et un éloge de la liberté",
+     "arguments": [
+      "A. Un effort d'explication : La Boétie déclare : « Cherchons donc par conjecture » les causes (coutume, divertissements, religion, complicité). Il comprend autant qu'il juge : il demande même qu'on ait « pitié » de ceux qui sont nés sous le joug.",
+      "B. Un fondement philosophique : la liberté naturelle et l'égalité (« à même moule », « pour compagnons ou plutôt pour frères »), qui annoncent Rousseau et les droits de l'homme.",
+      "C. Une solution et une éthique : ne plus servir (« Soyez résolus de ne servir plus, et vous voilà libres »), cultiver l'étude comme les « mieux nés », préférer l'amitié entre égaux à la complicité. Le texte devient un appel à « bien faire »."
+     ]
+    }
+   ],
+   "introduction": "Quand on pense à la lutte contre la tyrannie, on imagine volontiers des révoltes, des barricades ou des complots contre un despote. Le Discours de la servitude volontaire d'Étienne de La Boétie déplace pourtant le regard. Écrit vers 1548 par un jeune humaniste de dix-huit ans, publié en 1576 par des protestants qui en firent une arme contre la monarchie, le texte est souvent lu comme un pamphlet contre la tyrannie. Mais ce Discours n'est-il qu'un réquisitoire contre les tyrans ? Un réquisitoire accuse ; or La Boétie semble moins attaquer le maître que s'étonner de ceux qui le servent. En dénonçant la tyrannie, ne déplace-t-il pas l'accusation vers ceux qui la rendent possible, pour faire de son texte une analyse et un appel à la liberté ? Nous verrons d'abord que le Discours est bien un réquisitoire contre la tyrannie, puis que l'accusation vise surtout le peuple et les complices du tyran, avant de montrer qu'il dépasse l'accusation pour devenir une analyse et un éloge de la liberté.",
+   "conclusion": "Le Discours de la servitude volontaire est bien un réquisitoire : le tyran y est rabaissé, les exemples historiques l'accablent et Dieu même le condamne. Mais La Boétie déplace l'accusation : le vrai scandale est le consentement des peuples et la complicité intéressée des « tyranneaux ». Surtout, il ne se contente pas d'accuser : il explique, fonde la liberté sur la nature et propose une solution simple et radicale, cesser de servir. C'est ce qui fait la modernité du texte : il ne nous laisse pas le confort de désigner un seul coupable. Plus de deux siècles plus tard, Kant fera un constat voisin dans Qu'est-ce que les Lumières ? : si tant d'hommes restent sous tutelle, c'est par paresse et par lâcheté."
+  },
+  {
+   "sujet": "Montaigne écrit que La Boétie composa ce Discours « par manière d'essai, en sa première jeunesse, à l'honneur de la liberté contre les tyrans » (Essais, I, 28, orthographe modernisée). Cette définition rend-elle compte de votre lecture de l'œuvre ?",
+   "analyse": "La citation contient trois idées. « Par manière d'essai » : un exercice, une tentative, peut-être un texte d'école plus qu'un programme politique. « En sa première jeunesse » : l'œuvre d'un jeune homme, avec la fougue mais aussi les limites de cet âge. « À l'honneur de la liberté contre les tyrans » : un éloge (genre épidictique) de la liberté et un blâme des tyrans. Montaigne, qui veut protéger la mémoire de son ami, semble aussi minimiser la portée politique d'un texte récupéré par les protestants. Il faut donc confirmer, puis discuter ce jugement.",
+   "problematique": "Le Discours est-il seulement un brillant exercice de jeunesse à la gloire de la liberté, ou une réflexion politique d'une portée bien plus durable ?",
+   "plan": [
+    {
+     "titre": "I. Un « essai » de jeunesse : un exercice d'éloquence humaniste",
+     "arguments": [
+      "A. Une déclamation savante : adresse à Longa, citations d'Homère, de Virgile, de Térence, exempla de Plutarque et d'Hérodote (Sperte et Bulis, Lycurgue, Cyrus) ; c'est la culture d'un brillant étudiant.",
+      "B. Une démarche d'« essai » : l'auteur cherche « par conjecture », avoue ses digressions (« duquel je m'étais quasi perdu ») et fait l'éloge de Ronsard, Baïf et du Bellay ; le texte avance comme une pensée en mouvement.",
+      "C. La fougue de la jeunesse : indignation, apostrophes (« Pauvres et misérables peuples insensés »), formules frappantes et parfois excessives (« lourdauds », « canaille »)."
+     ]
+    },
+    {
+     "titre": "II. Un éloge de la liberté et un blâme des tyrans",
+     "arguments": [
+      "A. L'éloge : la liberté est « un bien si grand et si plaisant » que, perdue, « tous les maux viennent à la file » ; exemples glorieux des Grecs à Marathon et aux Thermopyles.",
+      "B. La liberté naturelle : nature « bonne mère », hommes faits « à même moule », bêtes qui crient « Vive liberté ! ».",
+      "C. Le blâme des tyrans : portraits de Néron et de César, misère du tyran qui « n'est jamais aimé ni n'aime », châtiment divin final."
+     ]
+    },
+    {
+     "titre": "III. Mais une œuvre bien plus qu'un exercice : une analyse politique toujours actuelle",
+     "arguments": [
+      "A. Une découverte théorique : la servitude est volontaire, le pouvoir repose sur le consentement (« qui n'a puissance que celle qu'ils lui donnent ») ; c'est une idée que reprendront Rousseau et les théoriciens de la désobéissance civile.",
+      "B. Une analyse précise des mécanismes : coutume, divertissement (« les appâts de la servitude »), propagande religieuse, pyramide des « tyranneaux » ; ce n'est plus seulement contre « les tyrans » mais contre tout un système.",
+      "C. Un texte qui a échappé à son auteur : publié par les protestants en 1576, rebaptisé « Le Contre Un », selon Montaigne, relu à chaque époque de crise ; Montaigne lui-même reconnaît le danger en refusant de l'insérer dans ses Essais."
+     ]
+    }
+   ],
+   "introduction": "Dans le chapitre « De l'amitié » de ses Essais, Montaigne présente le texte qui lui a fait connaître Étienne de La Boétie : son ami l'aurait écrit « par manière d'essai, en sa première jeunesse, à l'honneur de la liberté contre les tyrans ». Le jugement est élogieux, mais il est aussi prudent : en 1580, le Discours de la servitude volontaire a déjà été publié par des protestants en guerre contre la monarchie, et Montaigne semble vouloir le ramener à un exercice d'étudiant. Cette définition rend-elle vraiment compte de l'œuvre ? Le Discours est-il seulement un brillant exercice de jeunesse à la gloire de la liberté, ou une réflexion politique d'une portée bien plus durable ? Nous verrons d'abord qu'il s'agit bien d'un essai de jeunesse, nourri d'éloquence humaniste, puis qu'il fait l'éloge de la liberté et le blâme des tyrans, avant de montrer qu'il dépasse largement l'exercice pour proposer une analyse politique toujours actuelle.",
+   "conclusion": "La définition de Montaigne est juste : le Discours est l'essai brillant d'un jeune humaniste, une déclamation savante qui célèbre la liberté et accable les tyrans. Mais elle est incomplète, et peut-être volontairement prudente. Car La Boétie a découvert une vérité dérangeante : la tyrannie repose sur le consentement, l'habitude et la complicité de beaucoup. C'est pourquoi le texte a échappé à son auteur et a été relu à chaque époque où la liberté était menacée. Défendre la liberté, chez La Boétie, ce n'est pas seulement chanter ses louanges : c'est apprendre à voir les chaînes que l'on porte. Au XXe siècle, le dissident tchèque Václav Havel, dans Le Pouvoir des sans-pouvoir (1978), prolongera cette idée : un régime oppressif a besoin de la participation quotidienne de ceux qu'il opprime."
+  },
+  {
+   "sujet": "Défendre la liberté, est-ce d'abord combattre un adversaire ? Vous répondrez en vous appuyant sur le Discours de la servitude volontaire et sur les textes étudiés dans le cadre du parcours « Défendre » et « entretenir » la liberté.",
+   "analyse": "« Défendre » appartient au vocabulaire militaire : on défend une ville contre un ennemi. Le sujet propose donc une conception de la liberté menacée de l'extérieur, qu'il faudrait protéger par la lutte. L'adverbe « d'abord » invite à hiérarchiser : le combat contre un adversaire (tyran, envahisseur, oppresseur) est-il premier ? Ou la liberté se perd-elle surtout de l'intérieur, par l'habitude, le confort, l'ignorance, ce qui ferait de sa défense un travail sur soi et un effort d'« entretien » ?",
+   "problematique": "La liberté se défend-elle surtout contre un ennemi extérieur, ou bien contre les renoncements intérieurs qui la font disparaître, ce qui exige de l'entretenir sans cesse ?",
+   "plan": [
+    {
+     "titre": "I. Défendre la liberté, c'est bien combattre un adversaire",
+     "arguments": [
+      "A. Il existe des oppresseurs réels : La Boétie décrit le tyran qui pille et tue ; les exemples de Brutus et Cassius, libérateurs de Rome, montrent qu'il faut parfois lutter contre lui.",
+      "B. La liberté donne le courage du combat : Marathon et les Thermopyles, « la victoire de la liberté sur la domination » ; les Spartiates veulent la défendre « avec les dents et les ongles ».",
+      "C. Dans le parcours, la littérature de combat : les poèmes de la Résistance (Éluard, « Liberté », 1942) ou les pamphlets des Lumières (Voltaire contre l'intolérance) désignent clairement un ennemi."
+     ]
+    },
+    {
+     "titre": "II. Mais l'adversaire principal est souvent intérieur",
+     "arguments": [
+      "A. La servitude est volontaire : le tyran « est de soi-même défait, mais que le pays ne consente à sa servitude » ; il suffit de « ne servir plus ». L'ennemi est donc le consentement.",
+      "B. La coutume, le confort et le plaisir : « la première raison de la servitude volontaire, c'est la coutume » ; les jeux et les largesses sont « les appâts de la servitude ». Kant expliquera que les hommes restent sous tutelle par paresse et par lâcheté.",
+      "C. La complicité intéressée : la pyramide des « tyranneaux » montre que chacun peut devenir un rouage de la domination ; combattre, c'est d'abord refuser d'en faire partie."
+     ]
+    },
+    {
+     "titre": "III. Défendre la liberté, c'est surtout l'entretenir",
+     "arguments": [
+      "A. Par la mémoire et la culture : les « mieux nés » gardent la liberté vivante grâce à l'« étude » et aux « livres », que le Grand Turc redoute ; la littérature elle-même entretient la liberté.",
+      "B. Par l'éducation : les Vénitiens « nés et nourris » libres, les deux chiens de Lycurgue ; une liberté apprise dès l'enfance se défend presque d'elle-même.",
+      "C. Par des liens entre égaux : l'amitié, « nom sacré », s'oppose à la complicité ; une société d'amis et de « frères » est le meilleur rempart. Benjamin Constant rappellera que la liberté moderne exige la vigilance permanente des citoyens."
+     ]
+    }
+   ],
+   "introduction": "Le mot « défendre » appartient d'abord au vocabulaire de la guerre : on défend une ville, une frontière, contre un ennemi qui l'assiège. Appliqué à la liberté, il suggère qu'elle serait menacée de l'extérieur et qu'il faudrait la protéger les armes à la main. Pourtant, en 1548, le jeune Étienne de La Boétie pose une question troublante dans son Discours de la servitude volontaire : comment tant d'hommes peuvent-ils obéir à un seul, « qui n'a puissance que celle qu'ils lui donnent » ? Défendre la liberté, est-ce alors d'abord combattre un adversaire ? La liberté se défend-elle surtout contre un ennemi extérieur, ou bien contre les renoncements intérieurs qui la font disparaître, ce qui exige de l'entretenir sans cesse ? Nous verrons d'abord que la défense de la liberté passe bien par le combat contre des oppresseurs, puis que l'adversaire principal est souvent intérieur, avant de montrer que défendre la liberté, c'est surtout l'entretenir.",
+   "conclusion": "Il existe bien des ennemis de la liberté, et l'histoire comme la littérature célèbrent ceux qui les ont combattus. Mais La Boétie montre que le tyran le plus redoutable ne tient que par notre consentement, notre habitude et notre intérêt : l'adversaire est d'abord en nous. Défendre la liberté, c'est donc moins livrer bataille que refuser de servir, et surtout l'entretenir par la mémoire, l'éducation, la lecture et l'amitié entre égaux. Les deux verbes du parcours se rejoignent : on ne défend durablement que ce que l'on entretient. C'est la leçon que reprendra Albert Camus dans L'Homme révolté : le premier geste de la liberté est le refus de l'esclave qui dit enfin non à son maître."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Discours de la servitude volontaire est l'œuvre d'Étienne de La Boétie, jeune humaniste du Périgord, écrite vers 1546-1548 et publiée après sa mort, en 1576, par des protestants qui en font une arme contre la monarchie. C'est une déclamation, un discours argumentatif adressé à un ami, Longa. La Boétie part d'une énigme : comment des millions d'hommes peuvent-ils obéir à un seul tyran, qui n'a d'autre pouvoir que celui qu'ils lui donnent ? Sa réponse est dérangeante : la servitude est volontaire, et il suffirait de cesser de servir pour être libre. Il cherche ensuite les causes de cet oubli de la liberté naturelle : la coutume, les divertissements, la religion et surtout la chaîne des complices intéressés. L'œuvre entre dans le parcours « Défendre » et « entretenir » la liberté : la défendre, c'est refuser de servir ; l'entretenir, c'est garder sa mémoire par l'étude et l'amitié.",
+  "essentiels": [
+   "Auteur : Étienne de La Boétie (1530-1563), magistrat bordelais, ami de Montaigne.",
+   "Date : rédigé vers 1546-1548 (selon Montaigne, dans sa première jeunesse) ; publié en 1576 dans un recueil protestant.",
+   "Genre : déclamation humaniste (discours argumentatif), adressée à Longa.",
+   "Thèse : le tyran n'a que la puissance qu'on lui donne ; « Soyez résolus de ne servir plus, et vous voilà libres. »",
+   "Causes de la servitude : coutume, divertissements et largesses, prestige religieux, pyramide des complices.",
+   "Fin : l'amitié, entre égaux, s'oppose à la complicité ; appel à « bien faire ».",
+   "Réception : Montaigne renonce à le publier dans les Essais ; texte relu à chaque époque de crise politique."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi parle-t-on de servitude « volontaire » ? N'est-ce pas contradictoire ?",
+    "reponse": "C'est en effet un oxymore, et c'est voulu. La Boétie constate que le tyran est un homme seul, qui « n'a puissance que celle qu'ils lui donnent ». Si des millions d'hommes lui obéissent, ce n'est pas qu'ils y soient contraints par une force supérieure : c'est qu'ils consentent, par habitude, par intérêt ou par plaisir. Le mot « volontaire » ne veut pas dire qu'on désire être esclave, mais que la servitude repose sur notre accord, même passif. D'où la conséquence : si elle est voulue, on peut cesser de la vouloir."
+   },
+   {
+    "question": "La Boétie appelle-t-il à la révolte ?",
+    "reponse": "Pas au sens d'une révolte armée. Il précise : « Je ne veux pas que vous le poussiez ou l'ébranliez, mais seulement ne le soutenez plus ». La libération passe par un refus collectif de servir ; le tyran tombe alors de lui-même, comme un colosse privé de sa base. Ce sont ses lecteurs protestants, après 1572, qui ont donné au texte une portée insurrectionnelle. On peut d'ailleurs y voir une anticipation de la désobéissance civile, mais c'est une lecture postérieure."
+   },
+   {
+    "question": "Quel rôle joue la coutume dans le Discours ?",
+    "reponse": "C'est « la première raison de la servitude volontaire ». Ceux qui naissent sous le joug prennent pour naturel l'état où ils sont nés : on ne regrette pas ce qu'on n'a jamais connu. La Boétie le montre avec les deux chiens de Lycurgue, frères mais élevés différemment, ou avec les Spartiates Sperte et Bulis, qui disent au Perse Indarne qu'il ne sait pas quel goût a la liberté. La coutume explique pourquoi la nature est oubliée ; elle montre aussi que l'éducation peut entretenir la liberté."
+   },
+   {
+    "question": "Quel passage vous paraît le plus actuel ?",
+    "reponse": "On peut choisir les « appâts de la servitude » : théâtres, jeux, gladiateurs sont « le prix de leur liberté, les outils de la tyrannie ». La Boétie montre qu'un pouvoir se maintient autant par le plaisir que par la peur, et que les largesses font crier « Vive le roi ! » à ceux qu'on a dépouillés. On peut penser aux régimes qui achètent la paix sociale par le divertissement ou la propagande. Il faut toutefois rappeler que l'exemple de La Boétie est antique (Cyrus, les empereurs romains) : c'est le lecteur qui actualise."
+   },
+   {
+    "question": "Qu'est-ce que les « tyranneaux » ?",
+    "reponse": "Ce sont les complices du tyran. La Boétie y voit « le ressort et le secret de la domination » : « quatre ou cinq » proches tiennent six cents subordonnés, qui en tiennent six mille, et ainsi de suite. Ils servent par ambition et par avidité, pour devenir eux-mêmes de petits tyrans. Le tyran se sert ainsi d'une partie du peuple pour tenir l'autre : « pour fendre du bois il fait des coins du bois même ». La servitude n'est donc pas seulement passive, elle est organisée par l'intérêt."
+   },
+   {
+    "question": "Pourquoi le Discours se termine-t-il sur l'amitié ?",
+    "reponse": "Parce que l'amitié est l'inverse de la tyrannie. Elle suppose l'égalité et l'estime réciproque ; or le tyran est au-dessus de tous, et ceux qui l'entourent le craignent : « ils ne sont pas amis, mais ils sont complices ». Cette fin relie la politique à la morale : une société libre est une société de compagnons. On pense évidemment à l'amitié de La Boétie et de Montaigne, même si le Discours a sans doute été écrit avant leur rencontre."
+   },
+   {
+    "question": "Quel est le rôle de Montaigne dans l'histoire de ce texte ?",
+    "reponse": "Montaigne dit avoir connu La Boétie grâce à ce Discours, qui circulait en manuscrit. Héritier de ses papiers, il publie ses traductions et ses vers, et prévoit d'insérer le Discours au cœur des Essais. Mais il y renonce parce que le texte a été publié « à mauvaise fin » par les protestants. Dans « De l'amitié », il le présente comme écrit « à l'honneur de la liberté contre les tyrans », par un jeune homme : un éloge, mais aussi une manière de protéger la mémoire de son ami."
+   },
+   {
+    "question": "En quoi ce texte est-il humaniste ?",
+    "reponse": "Par sa forme d'abord : c'est une déclamation à la manière des Anciens, nourrie de citations (Homère, Virgile) et d'exemples tirés d'Hérodote, de Plutarque ou de Xénophon. Par ses idées ensuite : confiance dans une nature humaine commune et digne, dans la raison et dans l'étude. Les « mieux nés » qui gardent la mémoire de la liberté sont ceux qui lisent : les livres entretiennent la liberté, et c'est pourquoi les tyrans se méfient des savants."
+   }
+  ],
+  "liens": "Parcours « Défendre » et « entretenir » la liberté : le Discours oppose une défense par le refus (ne plus servir) et un entretien par la mémoire, l'éducation et l'amitié. Objet d'étude : la littérature d'idées du XVIe au XVIIIe siècle ; le texte relève de l'argumentation directe, à comparer avec les formes indirectes (fables, contes, lettres fictives). Autres œuvres : Montaigne, « De l'amitié » et « Des cannibales » ; Machiavel, Le Prince (le point de vue du maître) ; Rousseau, Du contrat social (« L'homme est né libre, et partout il est dans les fers ») ; Kant, Qu'est-ce que les Lumières ? ; Orwell, 1984 ; les textes de la Résistance.",
+  "reflexion": [
+   {
+    "question": "Pensez-vous qu'il suffise d'être « résolus de ne servir plus » pour être libre ?",
+    "pistes": "La force de l'idée (un pouvoir sans soutien s'effondre) ; ses limites (la peur, la répression, la difficulté d'un refus collectif) ; des exemples historiques de désobéissance non violente que l'on peut discuter."
+   },
+   {
+    "question": "Les divertissements peuvent-ils aujourd'hui être des « appâts de la servitude » ?",
+    "pistes": "Distinguer plaisir et abrutissement ; montrer comment un divertissement peut détourner de la vie publique ; mais aussi rappeler que la culture et le jeu peuvent être des espaces de liberté."
+   },
+   {
+    "question": "Sommes-nous parfois, comme les « tyranneaux », complices de ce que nous critiquons ?",
+    "pistes": "Réfléchir aux petites complicités du quotidien (conformisme, intérêt, peur d'être exclu) ; la responsabilité individuelle dans un système ; l'éthique du refus."
+   },
+   {
+    "question": "L'école et la lecture protègent-elles la liberté ?",
+    "pistes": "Les « mieux nés » qui lisent ; le tyran qui se méfie des savants ; mais aussi les limites d'une culture réservée à quelques-uns."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'exorde : l'énigme du pouvoir d'un seul",
+   "reference": "Début du Discours, de « D'avoir plusieurs seigneurs aucun bien je n'y voi » à « puisqu'il est en leur endroit inhumain et sauvage ».",
+   "enjeu": "Comment La Boétie transforme-t-il une citation d'Homère en point de départ d'une question politique inédite et dérangeante ?",
+   "mouvements": [
+    "Mouvement 1 : la citation d'Ulysse et sa réfutation. La Boétie part d'une autorité (Homère) pour mieux la discuter : il distingue le premier vers, juste, du second, qui fait l'éloge du gouvernement d'un seul. Il excuse Ulysse par les circonstances (il fallait « apaiser la révolte de l'armée ») : c'est une concession. Puis il affirme sa propre position avec force : « c'est un extrême malheur d'être sujet à un maître » (hyperbole, vocabulaire du malheur).",
+    "Mouvement 2 : le refus de la question traditionnelle. Par une prétérition (« Si ne veux-je pas, pour cette heure, débattre cette question »), l'auteur écarte le débat classique sur le meilleur régime, tout en glissant une idée audacieuse : il est difficile de croire qu'il y ait « rien de public » dans la monarchie, « où tout est à un ». Le jeu sur « république » (chose publique) annonce une critique radicale.",
+    "Mouvement 3 : la formulation de l'énigme. La question véritable est posée avec une accumulation (« tant d'hommes, tant de bourgs, tant de villes, tant de nations ») opposée au « tyran seul ». Les trois relatives (« qui n'a puissance que celle qu'ils lui donnent ; qui n'a pouvoir de leur nuire, sinon qu'ils ont pouvoir de l'endurer... ») construisent un paradoxe : le pouvoir du tyran vient des victimes. Le champ lexical de la magie (« enchantés et charmés par le nom seul d'un ») suggère une illusion collective qu'il faudra dissiper."
+   ]
+  },
+  {
+   "titre": "L'innommable : quel « malheureux vice » ?",
+   "reference": "De « Mais, ô bon Dieu ! que peut être cela ? » à « que la nature désavoue avoir fait et la langue refuse de nommer ? »",
+   "enjeu": "Comment La Boétie fait-il de la servitude volontaire un scandale qui dépasse les catégories morales habituelles ?",
+   "mouvements": [
+    "Mouvement 1 : l'indignation. Les interjections et les questions rhétoriques en cascade (« que peut être cela ? comment dirons-nous que cela s'appelle ? quel malheur est celui-là ? ») traduisent la stupeur : le registre est pathétique et polémique. Les antithèses en « non pas... mais » (« non pas obéir, mais servir ») définissent la servitude.",
+    "Mouvement 2 : le portrait dégradant du tyran. Gradation descendante : non pas une armée, non pas « d'un Hercule ni d'un Samson », mais « un seul hommeau », « le plus lâche et femelin de la nation ». Le diminutif et l'opposition entre la « poudre des batailles » et le « sable des tournois » ridiculisent le maître pour montrer l'absurdité de l'obéissance.",
+    "Mouvement 3 : un raisonnement par les nombres. La Boétie teste l'hypothèse de la lâcheté (« Appellerons-nous cela lâcheté ? ») puis la réfute par une gradation chiffrée (deux, trois, quatre ; cent, mille ; « cent pays, mille villes, un million d'hommes »). Tout vice a une « borne » : au-delà, il ne s'agit plus de couardise. La conclusion est une hyperbole : ce « monstre de vice » est si énorme que « la langue refuse de nommer ». Le titre du Discours vient justement donner un nom à cet innommable."
+   ]
+  },
+  {
+   "titre": "« Soyez résolus de ne servir plus »",
+   "reference": "De « Pauvres et misérables peuples insensés » à « de son poids même fondre en bas et se rompre ».",
+   "enjeu": "Comment cette apostrophe aux peuples passe-t-elle du réquisitoire à un appel à la liberté fondé sur un simple refus ?",
+   "mouvements": [
+    "Mouvement 1 : l'apostrophe accusatrice. Les adjectifs dévalorisants (« pauvres et misérables », « insensés », « opiniâtres en votre mal et aveugles en votre bien ») et l'énumération des pillages (« piller vos champs, voler vos maisons ») dressent le tableau d'une dépossession totale. Le jeu sur le singulier (« non pas des ennemis, mais certes oui bien de l'ennemi ») désigne le tyran comme l'unique ennemi... que le peuple a lui-même fait si grand.",
+    "Mouvement 2 : le démontage du corps du tyran. Il « n'a que deux yeux, n'a que deux mains, n'a qu'un corps » (anaphore de la restriction). Les questions rhétoriques (« D'où a-t-il pris tant d'yeux... ? Comment a-t-il tant de mains... ? ») montrent que ses organes sont pris aux sujets. Puis une longue anaphore en « vous... afin que » (« Vous semez vos fruits, afin qu'il en fasse le dégât ») révèle l'absurdité d'un travail qui nourrit son propre bourreau : les sujets sont « recéleurs », « complices », « traîtres à vous-mêmes ».",
+    "Mouvement 3 : la solution. Après tant d'accusations, la phrase se raccourcit : « Soyez résolus de ne servir plus, et vous voilà libres. » L'impératif et le présentatif rendent la libération immédiate. La correction « Je ne veux pas que vous le poussiez ou l'ébranliez, mais seulement ne le soutenez plus » écarte la violence, et la comparaison du « grand colosse » privé de sa base donne une image inoubliable de l'effondrement d'un pouvoir qui ne repose que sur le consentement."
+   ]
+  },
+  {
+   "titre": "La nature nous a faits libres et frères",
+   "reference": "De « Mais certes, s'il y a rien de clair ni d'apparent en la nature » à « nous ayant tous mis en compagnie ».",
+   "enjeu": "Comment La Boétie fonde-t-il la liberté sur l'égalité naturelle et la fraternité ?",
+   "mouvements": [
+    "Mouvement 1 : l'évidence de l'égalité. La nature est personnifiée et glorifiée (« le ministre de Dieu, la gouvernante des hommes ») : elle nous a faits « de même forme » et « à même moule ». La gradation « pour compagnons ou plutôt pour frères » donne au raisonnement une dimension affective. La concession (elle a fait des inégalités de corps ou d'esprit) est aussitôt retournée.",
+    "Mouvement 2 : la réfutation de la loi du plus fort. Deux images négatives, le « camp clos » et les « brigands armés dans une forêt », montrent ce que la nature n'a pas voulu. Les inégalités servent au contraire à « faire place à la fraternelle affection » : les uns peuvent aider, les autres ont besoin d'aide. C'est un renversement de l'argument des partisans de la domination.",
+    "Mouvement 3 : la conclusion par accumulation. Une longue période en « si » (« si elle nous a donné à tous ce grand présent de la voix et de la parole... ») accumule les preuves : même terre, même patron, même parole, « communion de nos volontés ». Le jeu de mots (la nature « ne voulait pas tant nous faire tous unis que tous uns ») condense l'idée. La conclusion tombe : il ne faut pas douter « que nous ne soyons naturellement libres, puisque nous sommes tous compagnons ». La liberté découle logiquement de l'égalité."
+   ]
+  },
+  {
+   "titre": "Les « appâts de la servitude »",
+   "reference": "De « Ne pensez pas qu'il y ait nul oiseau qui se prenne mieux à la pipée » à « le tyran ne leur eut pu donner, si devant il ne l'avait ôté à eux-mêmes ».",
+   "enjeu": "Comment La Boétie dénonce-t-il le divertissement et la fausse générosité comme des instruments de domination ?",
+   "mouvements": [
+    "Mouvement 1 : la métaphore de la chasse. Le peuple est comparé à l'oiseau pris « à la pipée » et au poisson qui mord à l'« haim » (l'hameçon) : il se laisse prendre « par la moindre plume qu'on leur passe, comme l'on dit, devant la bouche ». La métaphore filée de l'appât transforme le plaisir en piège.",
+    "Mouvement 2 : l'énumération des divertissements. « Les théâtres, les jeux, les farces, les spectacles, les gladiateurs... » : l'accumulation mime l'abondance des distractions, et le mot dépréciatif « drogueries » prépare la chute ternaire : « les appâts de la servitude, le prix de leur liberté, les outils de la tyrannie ». La comparaison avec les enfants qui apprennent à lire grâce aux images montre que le peuple est infantilisé : il apprend à servir comme on apprend à lire.",
+    "Mouvement 3 : la largesse intéressée. Les distributions de blé, de vin et de sesterces font crier « Vive le roi ! », cri qui s'oppose au « Vive liberté ! » des bêtes. L'ironie (« Les lourdauds ne s'avisaient pas ») et le raisonnement final dévoilent l'escroquerie : le tyran ne fait que rendre une partie de ce qu'il a volé. L'exemple de Tibère et Néron, avec le contraste entre le festin d'un jour et la spoliation du lendemain, achève de montrer que le plaisir rend aveugle."
+   ]
+  },
+  {
+   "titre": "Le « ressort » de la domination : la pyramide des complices",
+   "reference": "De « Mais maintenant je viens à un point, lequel est à mon avis le ressort et le secret de la domination » à « pour fendre du bois il fait des coins du bois même ».",
+   "enjeu": "Comment La Boétie révèle-t-il que la tyrannie repose sur une chaîne d'intérêts qui rend chacun complice ?",
+   "mouvements": [
+    "Mouvement 1 : la réfutation d'une idée reçue. On croit que les gardes et les armes protègent le tyran ; l'auteur le nie (« à mon jugement se trompe fort ») et le prouve par l'histoire : les empereurs romains ont été plus souvent tués que sauvés par leurs gardes. L'anaphore négative (« Ce ne sont pas les bandes des gens à cheval, ce ne sont pas les compagnies des gens de pied, ce ne sont pas les armes ») prépare la révélation.",
+    "Mouvement 2 : la pyramide. La vérité est annoncée comme surprenante (« On ne le croira pas du premier coup ») : « ce sont toujours quatre ou cinq qui maintiennent le tyran ». Puis la progression arithmétique (six, six cents, six mille, cent mille, des millions) construit une gradation vertigineuse. L'image de la « corde » et de la chaîne de Jupiter chez Homère montre un système où chacun tient l'autre.",
+    "Mouvement 3 : la nature des complices. Une comparaison médicale (les humeurs qui affluent vers la partie malade du corps) puis celle des voleurs et des corsaires désignent les ambitieux et les avides, qui veulent devenir « tyranneaux eux-mêmes ». La maxime finale, « pour fendre du bois il fait des coins du bois même », résume la logique : le tyran asservit le peuple avec des morceaux du peuple. La servitude volontaire n'est plus seulement passive ; elle est organisée par l'intérêt."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Œuvre : Discours de la servitude volontaire, déclamation humaniste d'Étienne de La Boétie, rédigée vers 1546-1548, publiée en 1576 par des protestants.",
+   "Énigme : comment un peuple entier obéit-il à un tyran « qui n'a puissance que celle qu'ils lui donnent » ?",
+   "Thèse : la servitude est volontaire ; « Soyez résolus de ne servir plus, et vous voilà libres » ; le tyran tombe comme un colosse privé de sa base.",
+   "La liberté est naturelle : nature « bonne mère », hommes faits « à même moule », « pour compagnons ou plutôt pour frères » ; les bêtes crient « Vive liberté ! ».",
+   "Causes : la coutume (« la première raison »), les « appâts de la servitude » (jeux, largesses), le prestige religieux, la pyramide des « tyranneaux ».",
+   "Fin : amitié contre complicité (« ils ne sont pas amis, mais ils sont complices ») ; appel à « bien faire ».",
+   "Procédés : apostrophes, questions rhétoriques, gradations, exempla antiques, images (colosse, coins de bois).",
+   "Parcours : défendre la liberté, c'est refuser de servir ; l'entretenir, c'est la mémoire, l'éducation, les livres, l'amitié.",
+   "Montaigne (Essais, I, 28) : écrit « par manière d'essai, en sa première jeunesse, à l'honneur de la liberté contre les tyrans »."
+  ],
+  "citations": [
+   0,
+   3,
+   4,
+   6,
+   8,
+   9,
+   10,
+   12
+  ],
+  "pieges": [
+   "La Boétie ne prône pas le tyrannicide : il demande de cesser de soutenir le tyran.",
+   "Le texte a été publié par les protestants, pas par La Boétie ni par Montaigne.",
+   "Le lien avec la révolte de la gabelle (1548) est une hypothèse.",
+   "« Tyranneaux » désigne les complices du tyran, pas des tyrans étrangers.",
+   "Le Discours n'a pas de chapitres : les intertitres sont ajoutés par les éditeurs."
+  ],
+  "synthese": "La Boétie pose une question simple et vertigineuse : pourquoi tant d'hommes servent-ils un seul ? Sa réponse est que le tyran n'a d'autre force que la nôtre : la servitude est volontaire. Puisque la liberté est naturelle, il suffirait de cesser de servir pour être libre. Si nous l'oublions, c'est par la coutume, par les plaisirs offerts, par le prestige du pouvoir et par l'intérêt de milliers de complices. La fin oppose l'amitié entre égaux à la complicité autour du tyran. Pour le parcours : on défend la liberté par le refus, on l'entretient par la mémoire, l'étude et l'amitié."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Oxymore",
+   "definition": "Alliance de deux termes de sens opposé dans une même expression. Le titre « servitude volontaire » en est un : la servitude devrait être subie, elle est ici choisie. Ce paradoxe est le cœur de l'œuvre."
+  },
+  {
+   "terme": "Paradoxe",
+   "definition": "Idée qui va contre l'opinion commune (la doxa). La Boétie soutient que ce n'est pas la force du tyran qui fait l'obéissance, mais l'obéissance qui fait la force du tyran."
+  },
+  {
+   "terme": "Apostrophe",
+   "definition": "Interpellation directe d'un destinataire, souvent au vocatif. Exemples : « Pauvres et misérables peuples insensés », « ô Longa ». Elle rend le discours vivant et implique le lecteur."
+  },
+  {
+   "terme": "Question rhétorique",
+   "definition": "Question qui n'attend pas de réponse car elle la contient. « D'où a-t-il pris tant d'yeux, dont il vous épie, si vous ne les lui baillez ? » : la réponse évidente est « de vous »."
+  },
+  {
+   "terme": "Gradation",
+   "definition": "Succession de termes d'intensité croissante (ou décroissante). « si cent, si mille », puis « cent pays, mille villes, un million d'hommes » ; ou la pyramide « quatre ou cinq », « six cents », « six mille »."
+  },
+  {
+   "terme": "Exemplum (pluriel : exempla)",
+   "definition": "Exemple historique ou légendaire utilisé comme argument. Le Discours en est rempli : Sperte et Bulis face à Xerxès, Lycurgue et ses deux chiens, Cyrus et les Lydiens, Néron, César."
+  },
+  {
+   "terme": "Exorde / péroraison",
+   "definition": "Termes de rhétorique antique : l'exorde est le début du discours, qui capte l'attention (ici la citation d'Ulysse) ; la péroraison est la conclusion, souvent émouvante (ici l'appel « apprenons à bien faire »)."
+  },
+  {
+   "terme": "Concession",
+   "definition": "Procédé qui consiste à accorder un point à l'adversaire pour mieux le réfuter ensuite. La Boétie « excuse » Ulysse, ou concède que la nature a fait des inégalités, avant de montrer qu'elles servent à la fraternité."
+  },
+  {
+   "terme": "Raisonnement a fortiori",
+   "definition": "Raisonnement « à plus forte raison » : si c'est vrai dans un cas faible, c'est encore plus vrai dans un cas fort. Si même les bêtes refusent la captivité, à plus forte raison l'homme, né pour être libre."
+  },
+  {
+   "terme": "Métaphore filée",
+   "definition": "Image développée sur plusieurs phrases. Le corps du tyran (ses yeux, ses mains, ses pieds pris aux sujets), ou la chasse (appâts, pipée, hameçon) pour les divertissements."
+  },
+  {
+   "terme": "Registre polémique",
+   "definition": "Ton de l'attaque et du combat d'idées, qui vise à disqualifier une position. Il se manifeste par le vocabulaire péjoratif (« hommeau », « mange-peuples »), l'ironie et l'indignation."
+  },
+  {
+   "terme": "Épanorthose",
+   "definition": "Correction de ses propres mots pour renforcer l'idée, souvent avec « ou plutôt ». « se laissent ou plutôt se font gourmander » ; « pour compagnons ou plutôt pour frères »."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Quelle est la question centrale du Discours ?",
+   "choix": [
+    "Quel est le meilleur régime politique ?",
+    "Comment tant d'hommes peuvent-ils obéir à un seul tyran ?",
+    "Faut-il assassiner les tyrans ?",
+    "Pourquoi la monarchie française est-elle la meilleure ?"
+   ],
+   "reponse": 1,
+   "explication": "La Boétie écarte la question du meilleur régime pour se demander comment un peuple entier endure « un tyran seul, qui n'a puissance que celle qu'ils lui donnent »."
+  },
+  {
+   "question": "Quel personnage d'Homère est cité au tout début du Discours ?",
+   "choix": [
+    "Achille",
+    "Hector",
+    "Ulysse",
+    "Agamemnon"
+   ],
+   "reponse": 2,
+   "explication": "Ulysse, qui défend le gouvernement d'« un seul » ; La Boétie l'excuse puis le corrige."
+  },
+  {
+   "question": "Quelle solution La Boétie propose-t-il pour se libérer du tyran ?",
+   "choix": [
+    "Le tuer",
+    "Lever une armée",
+    "Cesser de le servir",
+    "Prier pour sa conversion"
+   ],
+   "reponse": 2,
+   "explication": "« Soyez résolus de ne servir plus, et vous voilà libres. » Il suffit de ne plus soutenir le tyran pour qu'il s'effondre comme un colosse privé de sa base."
+  },
+  {
+   "question": "Selon La Boétie, quelle est « la première raison de la servitude volontaire » ?",
+   "choix": [
+    "La peur",
+    "La coutume",
+    "La religion",
+    "La pauvreté"
+   ],
+   "reponse": 1,
+   "explication": "Ceux qui naissent sous le joug prennent la servitude pour leur état naturel : la coutume est plus forte que la nature."
+  },
+  {
+   "question": "Que crient les bêtes, selon le Discours ?",
+   "choix": [
+    "Vive le roi !",
+    "Vive liberté !",
+    "À bas le tyran !",
+    "Rien ne vaut la vie !"
+   ],
+   "reponse": 1,
+   "explication": "Les bêtes « crient : Vive liberté ! ». Ce cri s'oppose au « Vive le roi ! » du peuple acheté par les largesses ; les autres réponses ne sont pas dans le texte."
+  },
+  {
+   "question": "Que fit Cyrus pour soumettre les Lydiens révoltés ?",
+   "choix": [
+    "Il les massacra",
+    "Il installa des maisons de débauche, des tavernes et des jeux",
+    "Il leur donna une constitution",
+    "Il les exila"
+   ],
+   "reponse": 1,
+   "explication": "Il les amollit par les plaisirs, si bien qu'il n'eut plus besoin de tirer l'épée : exemple des « appâts de la servitude »."
+  },
+  {
+   "question": "Qui sont les « tyranneaux » ?",
+   "choix": [
+    "Les enfants du tyran",
+    "Les complices et favoris qui profitent de la tyrannie",
+    "Les rebelles",
+    "Les petits rois étrangers"
+   ],
+   "reponse": 1,
+   "explication": "Les ambitieux et les avides qui s'amassent autour du tyran pour avoir part au butin et devenir « sous le grand tyran, tyranneaux eux-mêmes »."
+  },
+  {
+   "question": "Pourquoi le tyran ne peut-il pas avoir d'amis ?",
+   "choix": [
+    "Parce qu'il est toujours en guerre",
+    "Parce que l'amitié suppose l'égalité et l'estime",
+    "Parce que la religion l'interdit",
+    "Parce qu'il vit caché"
+   ],
+   "reponse": 1,
+   "explication": "L'amitié « a son vrai gibier en l'équalité » ; entre méchants, « ils ne sont pas amis, mais ils sont complices »."
+  },
+  {
+   "question": "Quand et par qui le Discours a-t-il été publié intégralement pour la première fois ?",
+   "choix": [
+    "En 1548, par La Boétie lui-même",
+    "En 1576, dans un recueil protestant",
+    "En 1580, dans les Essais de Montaigne",
+    "En 1789, par les révolutionnaires"
+   ],
+   "reponse": 1,
+   "explication": "Après un extrait en 1574 (Réveille-matin des Français), le texte complet paraît en 1576 dans les Mémoires de l'État de France sous Charles IX, recueil protestant réuni par Simon Goulart. Montaigne renonça à le publier dans ses Essais."
+  },
+  {
+   "question": "Quel procédé trouve-t-on dans « Soyez résolus de ne servir plus, et vous voilà libres » ?",
+   "choix": [
+    "Une litote",
+    "Un impératif à valeur d'injonction",
+    "Une métaphore filée",
+    "Un chiasme"
+   ],
+   "reponse": 1,
+   "explication": "L'impératif « Soyez résolus » adresse un ordre aux peuples ; la proposition « et vous voilà libres » en montre l'effet immédiat."
+  },
+  {
+   "question": "Comment La Boétie appelle-t-il le procédé du tyran qui se sert des uns pour tenir les autres ?",
+   "choix": [
+    "Il sème le vent pour récolter la tempête",
+    "Pour fendre du bois il fait des coins du bois même",
+    "Diviser pour régner",
+    "Il tient le loup par les oreilles"
+   ],
+   "reponse": 1,
+   "explication": "La Boétie reprend un proverbe : « pour fendre du bois il fait des coins du bois même ». Le tyran asservit le peuple avec des morceaux du peuple, les « tyranneaux »."
+  },
+  {
+   "question": "À qui le Discours est-il adressé ?",
+   "choix": [
+    "À Montaigne",
+    "À Henri II",
+    "À un ami nommé Longa",
+    "Au peuple de Bordeaux"
+   ],
+   "reponse": 2,
+   "explication": "Le Discours s'adresse à « Longa », sans doute Guillaume de Lur-Longa, collègue de La Boétie au Parlement de Bordeaux (identification probable, non certaine)."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Discours de la servitude volontaire, éd. Bonnefon 1922 (Wikisource) — texte intégral du site",
+   "url": "https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/%C3%89dition_1922/Discours"
+  },
+  {
+   "titre": "Discours de la servitude volontaire, éd. Bonnefon 1922, texte entier avec introduction (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Discours_de_la_servitude_volontaire/%C3%89dition_1922/Texte_entier"
+  },
+  {
+   "titre": "Montaigne, Essais, I, 28, « De l'amitié » (Wikisource, éd. de Bordeaux)",
+   "url": "https://fr.wikisource.org/wiki/Essais/Livre_I/Chapitre_28"
+  },
+  {
+   "titre": "Rousseau, Du contrat social, livre I, chapitre 1 (Wikisource, éd. Beaulavon 1903)",
+   "url": "https://fr.wikisource.org/wiki/Du_contrat_social_(%C3%89dition_Beaulavon_1903)/Livre_I-I"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte de rédaction (vers 1546 ou 1548) et éventuelle révision ultérieure par La Boétie : débat entre spécialistes.",
+  "Identification de Longa avec Guillaume de Lur-Longa : hypothèse la plus courante.",
+  "Attribution à La Boétie du Mémoire sur l'édit de janvier 1562 : admise par beaucoup d'éditeurs, parfois discutée.",
+  "Les passages de Kant, Benjamin Constant, Havel et Camus évoqués dans la fiche sont résumés sans citation : à vérifier dans une édition avant de les citer mot pour mot."
+ ]
+}

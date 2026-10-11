@@ -1,0 +1,436 @@
+{
+ "verifie": "2026-10-11",
+ "sessions": [
+  {
+   "id": "eaf-2027",
+   "libelle": "Épreuves anticipées de français — juin 2027",
+   "public": "Élèves de 1re en 2026-2027 (épreuves anticipées passées au titre de la session 2028 du baccalauréat)",
+   "actuelle": true,
+   "anneeScolaire": "2026-2027",
+   "objetRenouvele": "roman",
+   "source": {
+    "titre": "Bulletin officiel n° 30 du 24 juillet 2025 — Note de service du 4 juillet 2025 (NOR : MENE2518792N), « Programme national d'œuvres pour l'enseignement de français pour l'année scolaire 2026-2027 »",
+    "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N",
+    "verifie": "2026-10-11"
+   },
+   "voies": {
+    "generale": [
+     {
+      "objet": "roman",
+      "oeuvre": "chevalier-charrette",
+      "parcours": "Le roman et l'invention de l'amour",
+      "precisions": "Édition bilingue."
+     },
+     {
+      "objet": "roman",
+      "oeuvre": "pot-bouille",
+      "parcours": "Dévoiler les rouages de la société",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": "telumee-miracle",
+      "parcours": "Tisser les mémoires, habiter le monde",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "servitude-volontaire",
+      "parcours": "« Défendre » et « entretenir » la liberté",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "pluralite-mondes",
+      "parcours": "Le goût de la science",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "lettres-peruvienne",
+      "parcours": "« Un nouvel univers s'est offert à mes yeux »",
+      "precisions": "En incluant les éléments suivants de la seconde édition augmentée de 1752 : l'introduction historique aux Lettres péruviennes et les lettres XXVIII, XXIX, XXX et XXXIV."
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "le-menteur",
+      "parcours": "Mensonge et comédie",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "on-ne-badine-pas",
+      "parcours": "Les jeux du cœur et de la parole",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "pour-un-oui",
+      "parcours": "Théâtre et dispute",
+      "precisions": ""
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "cahier-douai",
+      "parcours": "Émancipations créatrices",
+      "precisions": "22 poèmes, de « Première soirée » à « Ma Bohème (Fantaisie) ». Le BO précise que l'œuvre est aussi connue sous les titres Cahiers de Douai, « Recueil Demeny » ou Recueil de Douai."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "rage-expression",
+      "parcours": "Dans l'atelier du poète",
+      "precisions": "Voie générale : l'œuvre, sans délimitation dans le BO."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "mes-forets",
+      "parcours": "La poésie, la nature, l'intime",
+      "precisions": ""
+     }
+    ],
+    "technologique": [
+     {
+      "objet": "roman",
+      "oeuvre": "chevalier-charrette",
+      "parcours": "Héroïsme et amour",
+      "precisions": "Édition bilingue."
+     },
+     {
+      "objet": "roman",
+      "oeuvre": "therese-raquin",
+      "parcours": "Anatomie des passions",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": "telumee-miracle",
+      "parcours": "Tisser les mémoires, habiter le monde",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "servitude-volontaire",
+      "parcours": "« Défendre » et « entretenir » la liberté",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "pluralite-mondes",
+      "parcours": "Le goût de la science",
+      "precisions": "Voie technologique : Premier soir, Second soir, Troisième soir uniquement."
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "lettres-peruvienne",
+      "parcours": "« Un nouvel univers s'est offert à mes yeux »",
+      "precisions": "En incluant les éléments suivants de la seconde édition augmentée de 1752 : l'introduction historique aux Lettres péruviennes et les lettres XXVIII, XXIX, XXX et XXXIV."
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "le-menteur",
+      "parcours": "Mensonge et comédie",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "on-ne-badine-pas",
+      "parcours": "Les jeux du cœur et de la parole",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "pour-un-oui",
+      "parcours": "Théâtre et dispute",
+      "precisions": ""
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "cahier-douai",
+      "parcours": "Émancipations créatrices",
+      "precisions": "22 poèmes, de « Première soirée » à « Ma Bohème (Fantaisie) ». Le BO précise que l'œuvre est aussi connue sous les titres Cahiers de Douai, « Recueil Demeny » ou Recueil de Douai."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "rage-expression",
+      "parcours": "Dans l'atelier du poète",
+      "precisions": "Voie technologique : de « Berges de la Loire » à « Le mimosa » inclus."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "mes-forets",
+      "parcours": "La poésie, la nature, l'intime",
+      "precisions": ""
+     }
+    ]
+   },
+   "notes": [
+    "Le programme national de douze œuvres, renouvelé par quart tous les ans, définit trois œuvres par objet d'étude, parmi lesquelles le professeur en choisit une et son parcours associé (préambule de la note de service).",
+    "Pour 2026-2027, seules les œuvres de l'objet d'étude « Le roman et le récit du Moyen Âge au XXIe siècle » sont renouvelées ; celles des trois autres objets d'étude sont maintenues par rapport à 2025-2026.",
+    "Le BO précise que cette liste vaut pour l'année scolaire 2026-2027 et pour les épreuves anticipées de la session 2028 du baccalauréat : les élèves de 1re passent l'écrit et l'oral de français en juin 2027.",
+    "La voie technologique a sa propre liste : Thérèse Raquin y remplace Pot-Bouille, Le Chevalier de la charrette y est associé au parcours « Héroïsme et amour », et Fontenelle (trois premiers soirs) comme Ponge (de « Berges de la Loire » à « Le mimosa ») y sont délimités.",
+    "Le texte de la note de 2025 écrit « le gout de la science » (orthographe rectifiée), alors que celle de 2024 écrivait « le goût de la science » : il s'agit du même parcours.",
+    "Calendrier officiel : écrit le mardi 15 juin 2027 au matin ; oral organisé par les académies entre le lundi 21 juin et le vendredi 9 juillet 2027 au plus tard (BO spécial n° 2 du 25 août 2026, NOR : MENE2622686N)."
+   ]
+  },
+  {
+   "id": "eaf-2026",
+   "libelle": "Épreuves anticipées de français — juin 2026",
+   "public": "Élèves de 1re en 2025-2026 (épreuves anticipées passées au titre de la session 2027 du baccalauréat)",
+   "actuelle": false,
+   "anneeScolaire": "2025-2026",
+   "objetRenouvele": "idees",
+   "source": {
+    "titre": "Bulletin officiel n° 30 du 25 juillet 2024 — Note de service du 11 juillet 2024 (NOR : MENE2418442N), « Programme national d'œuvres pour l'enseignement de français pour l'année scolaire 2025-2026 »",
+    "url": "https://www.education.gouv.fr/bo/2024/Hebdo30/MENE2418442N",
+    "verifie": "2026-10-11"
+   },
+   "voies": {
+    "generale": [
+     {
+      "objet": "idees",
+      "oeuvre": "servitude-volontaire",
+      "parcours": "« Défendre » et « entretenir » la liberté",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "pluralite-mondes",
+      "parcours": "Le goût de la science",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "lettres-peruvienne",
+      "parcours": "« Un nouvel univers s'est offert à mes yeux »",
+      "precisions": "En incluant les éléments suivants de la seconde édition augmentée de 1752 : l'introduction historique aux Lettres péruviennes et les lettres XXVIII, XXIX, XXX et XXXIV."
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "le-menteur",
+      "parcours": "Mensonge et comédie",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "on-ne-badine-pas",
+      "parcours": "Les jeux du cœur et de la parole",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "pour-un-oui",
+      "parcours": "Théâtre et dispute",
+      "precisions": ""
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "cahier-douai",
+      "parcours": "Émancipations créatrices",
+      "precisions": "22 poèmes, de « Première soirée » à « Ma Bohème (Fantaisie) ». Le BO précise que l'œuvre est aussi connue sous les titres Cahiers de Douai, « Recueil Demeny » ou Recueil de Douai."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "rage-expression",
+      "parcours": "Dans l'atelier du poète",
+      "precisions": "Voie générale : l'œuvre, sans délimitation dans le BO."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "mes-forets",
+      "parcours": "La poésie, la nature, l'intime",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "Manon Lescaut",
+      "auteur": "Abbé Prévost",
+      "parcours": "Personnages en marge, plaisirs du romanesque",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "La Peau de chagrin",
+      "auteur": "Honoré de Balzac",
+      "parcours": "Les romans de l'énergie : création et destruction",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "Sido suivi de Les Vrilles de la vigne",
+      "auteur": "Colette",
+      "parcours": "La célébration du monde",
+      "precisions": ""
+     }
+    ],
+    "technologique": [
+     {
+      "objet": "idees",
+      "oeuvre": "servitude-volontaire",
+      "parcours": "« Défendre » et « entretenir » la liberté",
+      "precisions": ""
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "pluralite-mondes",
+      "parcours": "Le goût de la science",
+      "precisions": "Voie technologique : Premier soir, Second soir, Troisième soir uniquement."
+     },
+     {
+      "objet": "idees",
+      "oeuvre": "lettres-peruvienne",
+      "parcours": "« Un nouvel univers s'est offert à mes yeux »",
+      "precisions": "En incluant les éléments suivants de la seconde édition augmentée de 1752 : l'introduction historique aux Lettres péruviennes et les lettres XXVIII, XXIX, XXX et XXXIV."
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "le-menteur",
+      "parcours": "Mensonge et comédie",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "on-ne-badine-pas",
+      "parcours": "Les jeux du cœur et de la parole",
+      "precisions": ""
+     },
+     {
+      "objet": "theatre",
+      "oeuvre": "pour-un-oui",
+      "parcours": "Théâtre et dispute",
+      "precisions": ""
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "cahier-douai",
+      "parcours": "Émancipations créatrices",
+      "precisions": "22 poèmes, de « Première soirée » à « Ma Bohème (Fantaisie) ». Le BO précise que l'œuvre est aussi connue sous les titres Cahiers de Douai, « Recueil Demeny » ou Recueil de Douai."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "rage-expression",
+      "parcours": "Dans l'atelier du poète",
+      "precisions": "Voie technologique : de « Berges de la Loire » à « Le mimosa » inclus."
+     },
+     {
+      "objet": "poesie",
+      "oeuvre": "mes-forets",
+      "parcours": "La poésie, la nature, l'intime",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "Manon Lescaut",
+      "auteur": "Abbé Prévost",
+      "parcours": "Personnages en marge, plaisirs du romanesque",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "Mémoires de deux jeunes mariées",
+      "auteur": "Honoré de Balzac",
+      "parcours": "Raison et sentiments",
+      "precisions": ""
+     },
+     {
+      "objet": "roman",
+      "oeuvre": null,
+      "titre": "Sido suivi de Les Vrilles de la vigne",
+      "auteur": "Colette",
+      "parcours": "La célébration du monde",
+      "precisions": ""
+     }
+    ]
+   },
+   "notes": [
+    "Session passée, conservée pour distinguer les anciennes œuvres : les trois romans de cette liste (Prévost, Balzac, Colette) ne sont plus au programme en 2026-2027.",
+    "Pour 2025-2026, seules les œuvres de l'objet d'étude « La littérature d'idées du XVIe siècle au XVIIIe siècle » étaient renouvelées.",
+    "Le programme national de douze œuvres, renouvelé par quart tous les ans, définit trois œuvres par objet d'étude, parmi lesquelles le professeur en choisit une et son parcours associé (préambule de la note de service)."
+   ]
+  }
+ ],
+ "seconde": {
+  "intitule": "Programme de français de seconde générale et technologique",
+  "principes": [
+   "Le programme fixe quatre objets d'étude, que le professeur traite dans l'ordre de son choix.",
+   "L'élève étudie quatre œuvres intégrales et deux parcours par an ; la priorité est donnée aux parcours pour la poésie et pour la littérature d'idées et la presse, aux œuvres intégrales pour le théâtre et pour le roman et le récit.",
+   "Trois œuvres au moins, distinctes de celles étudiées en cours, doivent être lues en lecture cursive.",
+   "Il n'existe pas de liste nationale d'œuvres en seconde : les œuvres et les textes sont choisis par le professeur.",
+   "Horaire élève : 4 heures par semaine (éduscol)."
+  ],
+  "objets": [
+   {
+    "objet": "poesie",
+    "intitule": "La poésie du Moyen Âge au XVIIIe siècle",
+    "attendus": "Contextualiser la lecture de la poésie en donnant des repères sur son histoire, ses continuités et ses ruptures, du Moyen Âge au XVIIIe siècle. Corpus : l'étude de textes rassemblés autour d'un thème ou d'une forme poétique entre le Moyen Âge et le XVIIIe siècle, et la lecture cursive d'au moins un recueil ou d'une section de recueil."
+   },
+   {
+    "objet": "idees",
+    "intitule": "La littérature d'idées et la presse du XIXe siècle au XXIe siècle",
+    "attendus": "Former le jugement et l'esprit critique en ouvrant une perspective littéraire et historique sur la littérature d'idées et le développement des médias de masse. Corpus : l'étude d'un groupement de textes autour d'un débat d'idées du XIXe au XXIe siècle, intégrant l'étude de la presse et des médias, et la lecture cursive d'articles, de discours ou d'essais."
+   },
+   {
+    "objet": "roman",
+    "intitule": "Le roman et le récit du XVIIIe siècle au XXIe siècle",
+    "attendus": "Approfondir la connaissance des formes narratives dans une perspective historique, à partir d'œuvres intégrales. Corpus : deux œuvres intégrales de forme et de siècle différents (un roman et, par ailleurs, un recueil de nouvelles, un récit de voyage, un récit biographique, un journal, etc.) et la lecture cursive d'au moins un roman ou un récit d'une autre période."
+   },
+   {
+    "objet": "theatre",
+    "intitule": "Le théâtre du XVIIe siècle au XXIe siècle",
+    "attendus": "Enrichir la culture théâtrale et inscrire les œuvres dans le contexte de leur création, de leur réception et dans l'histoire du genre, en prenant en compte la représentation et la mise en scène. Corpus : deux pièces de genre et de siècle différents et la lecture cursive d'au moins une pièce d'une autre période."
+   }
+  ],
+  "source": {
+   "titre": "Programme de français de seconde générale et technologique — arrêté du 17 janvier 2019 (BO spécial n° 1 du 22 janvier 2019), version modifiée en 2020 publiée par éduscol",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04-annexe1francais2ebomodifiepdf-69834.pdf",
+   "verifie": "2026-10-11"
+  }
+ },
+ "premiere": {
+  "intitule": "Programme de français de première générale et technologique",
+  "principes": [
+   "Le programme fixe quatre objets d'étude, que le professeur traite dans l'ordre de son choix.",
+   "Chaque objet d'étude associe une œuvre (ou une section substantielle et cohérente d'une œuvre) et un parcours qui permet de la situer dans son contexte historique et générique.",
+   "Le titre des œuvres, l'intitulé et la délimitation des parcours sont fixés par un programme national de douze œuvres, renouvelé par quart tous les ans : trois œuvres par objet d'étude, parmi lesquelles le professeur en choisit une avec son parcours associé.",
+   "Le choix des textes qui composent le parcours associé revient au professeur.",
+   "Quatre œuvres au moins, une par objet d'étude, distinctes de celles étudiées en classe, doivent être lues en lecture cursive.",
+   "La structure du programme est identique dans les voies générale et technologique ; les programmes d'œuvres sont distincts et tiennent compte du volume horaire de la classe.",
+   "Horaire élève : 4 heures par semaine en 1re générale, 3 heures en 1re technologique (éduscol)."
+  ],
+  "objets": [
+   {
+    "objet": "poesie",
+    "intitule": "La poésie du XIXe siècle au XXIe siècle",
+    "attendus": "Comprendre par quels changements de sensibilité et d'écriture se manifestent le romantisme et les métamorphoses esthétiques qui l'ont suivi. Corpus : l'œuvre et le parcours associé fixés par le programme, et la lecture cursive d'au moins un recueil d'un autre siècle ou d'une anthologie poétique."
+   },
+   {
+    "objet": "idees",
+    "intitule": "La littérature d'idées du XVIe siècle au XVIIIe siècle",
+    "attendus": "Acquérir une culture humaniste en étudiant les textes d'idées dans leur développement logique et le mouvement de leur argumentation, en lien avec leur contexte. Corpus : l'œuvre et le parcours associé fixés par le programme, et la lecture cursive d'au moins une œuvre d'un autre siècle ou d'une anthologie de littérature d'idées."
+   },
+   {
+    "objet": "roman",
+    "intitule": "Le roman et le récit du Moyen Âge au XXIe siècle",
+    "attendus": "Approfondir l'étude interne de l'œuvre (représentation, narration, système des personnages, style, réception) et la situer dans l'histoire littéraire et son contexte. Corpus : l'œuvre et le parcours associé fixés par le programme, et la lecture cursive d'au moins un roman ou un récit long d'un autre siècle."
+   },
+   {
+    "objet": "theatre",
+    "intitule": "Le théâtre du XVIIe siècle au XXIe siècle",
+    "attendus": "Éclairer les spécificités de l'écriture théâtrale (structure, progression de l'action, dialogue, relations entre les personnages, dramaturgie) en lien avec les esthétiques et les conditions de représentation. Corpus : l'œuvre et le parcours associé fixés par le programme, et la lecture cursive d'au moins une pièce d'un autre siècle."
+   }
+  ],
+  "source": {
+   "titre": "Programme de français de première générale et technologique — arrêté du 17 janvier 2019 (BO spécial n° 1 du 22 janvier 2019), modifié par l'arrêté du 10 avril 2020 ; version publiée par éduscol",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/04annexe2francais1egtbomodifiepdf-69837.pdf",
+   "verifie": "2026-10-11"
+  }
+ },
+ "notes": [
+  "Liste 2027-2028 : au 11 octobre 2026, aucune note de service fixant le programme national d'œuvres pour l'année scolaire 2027-2028 n'a été trouvée au Bulletin officiel, et la page éduscol « Programmes et ressources en français - voie GT » (mise à jour en octobre 2026) ne mentionne que la liste 2026-2027. Cette session n'est donc pas encore renseignée.",
+  "Page de référence : https://eduscol.education.gouv.fr/5793/programmes-et-ressources-en-francais-voie-gt"
+ ]
+}

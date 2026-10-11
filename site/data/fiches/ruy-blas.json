@@ -1,0 +1,957 @@
+{
+ "id": "ruy-blas",
+ "accroche": "Un laquais devenu Premier ministre, une reine qui s’ennuie, un maître qui se venge : le grand drame romantique de Hugo, entre rire, politique et passion.",
+ "identite": {
+  "auteur": "Victor Hugo (1802-1885) est le chef de file du romantisme. Après des débuts poétiques précoces, il impose une nouvelle conception du théâtre avec la Préface de Cromwell (1827) et la « bataille » d’Hernani (1830), qui oppose jeunes romantiques et partisans des règles classiques. Il écrit ensuite des drames en prose et en vers (Lucrèce Borgia, Marie Tudor) et des romans (Notre-Dame de Paris, 1831). Plus tard, homme politique et opposant à Napoléon III, il passe près de vingt ans en exil, où il écrit Les Châtiments, Les Contemplations et Les Misérables.",
+  "contexte": "La pièce est créée en 1838, sous la monarchie de Juillet (Louis-Philippe), régime dominé par la bourgeoisie, où seule une petite minorité fortunée vote et où le peuple est exclu du pouvoir. Hugo situe l’action à Madrid à la fin du XVIIe siècle, sous Charles II, dernier roi de la branche espagnole des Habsbourg : la préface parle de la noblesse castillane « vers 1695 ». L’Espagne, qui avait dominé l’Europe sous Charles-Quint, est alors un empire épuisé, sans héritier, ruiné par la mauvaise gestion. En peignant cette monarchie à bout de souffle, Hugo invite aussi à réfléchir sur la société de son temps.",
+  "mouvement": "Ruy Blas est un drame romantique. Contre la séparation classique des genres, Hugo mêle le tragique et le comique, le sublime et le grotesque, comme dans la vie réelle (théorie de la Préface de Cromwell). Il refuse les unités de lieu et de temps (plusieurs lieux, environ six mois d’action) mais garde l’unité d’action et l’alexandrin, qu’il assouplit (enjambements, vers coupés entre plusieurs personnages, ton parfois familier). Le drame romantique met en scène l’histoire, la couleur locale (l’Espagne), des héros déchirés et souvent issus du peuple, et porte un message politique et social.",
+  "circonstances": "Ruy Blas est créé le 8 novembre 1838 pour l’inauguration du théâtre de la Renaissance, à Paris, nouvelle salle destinée au drame romantique ; le célèbre acteur Frédérick Lemaître y tient le rôle-titre. La pièce est publiée peu après la création (l’édition consultée est datée de 1839) avec une longue préface où Hugo explique le sens historique et politique de son drame : Salluste et don César résument les deux moitiés de la noblesse espagnole, et Ruy Blas représente le peuple. La pièce connaît le succès auprès du public.",
+  "carriere": "Ruy Blas est le sommet du théâtre de Hugo, huit ans après Hernani : c’est le drame romantique le plus joué aujourd’hui. Hugo y revient au vers après plusieurs drames en prose (Lucrèce Borgia, Marie Tudor, Angelo). Après l’échec relatif des Burgraves (1843), il cesse pratiquement d’écrire pour la scène publique et se consacre à la poésie, au roman et à la politique. Ruy Blas annonce aussi le grand thème hugolien du peuple misérable mais sublime, que Les Misérables (1862) développeront."
+ },
+ "resumeCourt": "Ruy Blas, drame romantique de Victor Hugo en cinq actes et en alexandrins, créé en 1838, se déroule à Madrid à la fin du XVIIe siècle, dans une Espagne en pleine décadence. Don Salluste, grand seigneur tout-puissant à la cour, est disgracié par la reine pour avoir refusé d’épouser une suivante qu’il a séduite. Il veut se venger. Il se sert de son laquais, Ruy Blas, jeune homme pauvre, instruit et rêveur, secrètement amoureux de la reine : il le fait passer pour son cousin don César, un noble ruiné qu’il fait disparaître, et l’introduit à la cour. Six mois plus tard, Ruy Blas, devenu duc d’Olmedo et Premier ministre, est aimé de la reine et veut sauver l’Espagne. Mais Salluste revient pour refermer son piège : attirer la reine dans une maison secrète et la compromettre avec un laquais. Le vrai don César, revenu par la cheminée, dérange tout le plan, mais la reine vient. Ruy Blas avoue qui il est, tue Salluste, s’empoisonne, et meurt pardonné.",
+ "resume": [
+  {
+   "titre": "Acte I, « Don Salluste » : le piège se met en place",
+   "texte": "Don Salluste de Bazan, grand seigneur qui préside les alcades de cour (les magistrats chargés de la police), est disgracié par la reine et exilé pour avoir refusé d’épouser une suivante qu’il a séduite. Il jure de se venger de la reine. Il demande d’abord l’aide de son cousin don César, noble ruiné devenu vagabond sous le nom de Zafari ; celui-ci refuse de nuire à une femme. Salluste le fait enlever et vendre en mer aux corsaires d’Afrique. Il découvre alors que son laquais, Ruy Blas, ancien camarade de Zafari, aime la reine. Il lui fait écrire sous sa dictée un billet galant (une « reine » y est appelée au secours, la nuit, dans sa maison) et un papier où Ruy Blas s’engage à le servir « comme un bon domestique », l’habille en grand seigneur et le présente à la cour sous le nom de don César, en lui ordonnant de plaire à la reine."
+  },
+  {
+   "titre": "Acte II, « La Reine d’Espagne » : une reine prisonnière de l’étiquette",
+   "texte": "La reine, Marie de Neubourg, Allemande mariée au roi Charles II, s’ennuie à mourir dans un palais où tout est réglé par l’étiquette, sous la surveillance de la duchesse d’Albuquerque ; le roi chasse toujours. Elle garde sur son cœur une lettre anonyme, des fleurs bleues et un morceau de dentelle tachée de sang, déposés par un inconnu qui l’aime. Ruy Blas, devenu écuyer, lui apporte une lettre du roi (« Madame, il fait grand vent et j’ai tué six loups ») : elle reconnaît l’écriture de l’inconnu et la blessure à sa main, et comprend qu’il est l’homme qui l’aime. Elle éloigne don Guritan, qui voulait se battre en duel avec lui."
+  },
+  {
+   "titre": "Acte III, « Ruy Blas » : le laquais au pouvoir",
+   "texte": "Six mois ont passé. Ruy Blas, sous le nom de don César, est devenu duc d’Olmedo et Premier ministre. Au conseil, il surprend les ministres en train de se partager les richesses de l’Espagne et les foudroie dans une tirade célèbre : « Bon appétit ! messieurs ! » La reine, qui l’a entendu, lui avoue son amour. Ruy Blas est au comble du bonheur. Mais don Salluste réapparaît, déguisé en laquais : il traite Ruy Blas en valet, lui fait ramasser son mouchoir et lui rappelle qu’il lui appartient."
+  },
+  {
+   "titre": "Acte IV, « Don César » : l’irruption comique",
+   "texte": "Ruy Blas tente en vain de déjouer le piège et fait prévenir la reine de ne pas sortir. Dans la maison secrète de Salluste, le vrai don César, échappé des pirates, tombe par la cheminée. Il mange, boit, reçoit à la place de Ruy Blas une bourse, une duègne et un rendez-vous, tue en duel don Guritan venu provoquer « don César », et brouille toutes les intrigues dans un grand moment de comique. Salluste, inquiet, le fait arrêter en le faisant passer pour le bandit Matalobos."
+  },
+  {
+   "titre": "Acte V, « Le Tigre et le Lion » : le dénouement tragique",
+   "texte": "La nuit, dans la maison secrète, Ruy Blas, désespéré, s’apprête à s’empoisonner. La reine arrive, attirée par la lettre écrite à l’acte I. Salluste ferme la porte et révèle la vérité : le « duc d’Olmedo » est son laquais ; la reine, déshonorée, doit fuir avec lui ou renoncer au trône. Ruy Blas se révolte : « Je m’appelle Ruy Blas, et je suis un laquais ! » Il désarme Salluste, refuse le duel et l’entraîne dans un cabinet voisin, où il le tue (le meurtre n’est pas montré). Il demande pardon à la reine, qui refuse ; il boit le poison. La reine lui pardonne alors et l’appelle par son vrai nom ; il meurt en disant « Merci ! »."
+  }
+ ],
+ "structure": "Drame en cinq actes et en alexandrins, chacun portant un titre : I « Don Salluste », II « La Reine d’Espagne », III « Ruy Blas », IV « Don César », V « Le Tigre et le Lion ». L’action se déroule à Madrid, à la fin du XVIIe siècle, et s’étend sur environ six mois (une ellipse sépare les actes II et III). Les lieux changent : le palais, les appartements de la reine, la salle du conseil, la maison secrète de Salluste. L’intrigue suit une courbe d’ascension et de chute : le piège (I), l’amour naissant (II), le triomphe de Ruy Blas (III), l’intermède comique de don César (IV), la catastrophe (V). Hugo alterne ainsi tragique et comique, conformément à l’esthétique du drame romantique. Les actes comptent respectivement 5, 5, 5, 8 et 4 scènes.",
+ "personnages": [
+  {
+   "nom": "Ruy Blas",
+   "role": "Orphelin pauvre, élevé « par pitié » dans un collège, instruit et rêveur, réduit à devenir laquais. Il aime la reine en secret. Manipulé par Salluste, il devient ministre et duc d’Olmedo et se révèle un homme d’État intègre. Il incarne, selon la préface, le peuple qui aspire à s’élever : « Sous l’habit d’un valet les passions d’un roi ».",
+   "relations": "Laquais de Salluste, qui le manipule ; ancien camarade de don César (Zafari), dont il usurpe le nom ; amoureux de la reine, qui l’aime ; rival malgré lui de don Guritan."
+  },
+  {
+   "nom": "La reine (doña Maria de Neubourg)",
+   "role": "Jeune princesse allemande mariée au roi d’Espagne Charles II, toujours absent. Prisonnière de l’étiquette et de l’ennui, généreuse et sensible, elle aime d’abord l’inconnu qui lui laisse des fleurs, puis le ministre qui défend le peuple. Au dénouement, elle pardonne.",
+   "relations": "Épouse délaissée du roi Charles II ; surveillée par la duchesse d’Albuquerque ; servie par Casilda ; aime Ruy Blas (qu’elle croit être don César) ; cible de la vengeance de Salluste."
+  },
+  {
+   "nom": "Don Salluste de Bazan",
+   "role": "Grand seigneur cynique, qui présidait les alcades de cour (magistrats chargés de la police), disgracié par la reine. Calculateur et cruel, il considère son laquais comme un objet. Selon la préface, il résume une moitié de la noblesse espagnole ; le titre du dernier acte (« Le Tigre et le Lion ») oppose le maître et le valet révolté.",
+   "relations": "Maître de Ruy Blas ; cousin de don César, qu’il fait disparaître ; ennemi de la reine, qui l’a disgracié."
+  },
+  {
+   "nom": "Don César de Bazan",
+   "role": "Cousin de Salluste, noble ruiné devenu vagabond sous le nom de Zafari. Joyeux, généreux, bohème, il refuse de servir la vengeance de Salluste. Son retour à l’acte IV introduit le comique et le grotesque au cœur du drame.",
+   "relations": "Cousin de Salluste ; ancien ami de Ruy Blas ; son retour dérange le plan de Salluste ; il tue don Guritan en duel."
+  },
+  {
+   "nom": "Don Guritan",
+   "role": "Vieux majordome de la reine, amoureux d’elle, bravache et ridicule. Il provoque Ruy Blas en duel ; la reine l’éloigne en l’envoyant porter un coffret à son père, à Neubourg ; à son retour, il est tué par le vrai don César.",
+   "relations": "Majordome de la reine, dont il est amoureux ; rival de Ruy Blas ; tué par le vrai don César."
+  },
+  {
+   "nom": "Les ministres du conseil",
+   "role": "Grands d’Espagne (Priego, Ubilla, Covadenga, Montazgo…) qui se disputent les revenus du royaume pendant que l’Espagne agonise. Ils sont la cible de la tirade de l’acte III.",
+   "relations": "Collègues de Ruy Blas devenu ministre ; ils le craignent et le jalousent."
+  },
+  {
+   "nom": "La duchesse d’Albuquerque et Casilda",
+   "role": "La camerera mayor, vieille gardienne sévère de l’étiquette, et une jeune suivante espiègle : elles montrent la prison dorée où vit la reine.",
+   "relations": "Entourage de la reine : la duchesse fait respecter l’étiquette, Casilda divertit la reine."
+  }
+ ],
+ "evolution": "Ruy Blas suit une trajectoire d’ascension et de chute. Laquais humilié à l’acte I, il devient en six mois duc d’Olmedo et ministre, aimé de la reine (III) : son génie se révèle quand on lui donne le pouvoir. Mais Salluste réapparaît et le renvoie à sa condition (« J’étais tourné vers l’ange et le démon venait », III, 5). Au dernier acte, il retrouve sa dignité en assumant son vrai nom et en se faisant justicier, puis il choisit la mort. La reine passe de l’ennui et de la solitude à l’amour, puis au refus horrifié, enfin au pardon. Salluste, maître du jeu pendant quatre actes, voit son plan dérangé par don César puis retourné contre lui. La situation politique, elle, ne change pas : la tentative de réforme de Ruy Blas échoue avec lui.",
+ "themes": [
+  {
+   "titre": "Le peuple qui aspire à s’élever",
+   "texte": "Dans la préface, Hugo écrit : « Le peuple, ce serait Ruy Blas. » Il décrit le peuple « orphelin, pauvre, intelligent et fort ; placé très-bas, et aspirant très-haut ». Le héros prouve qu’un homme du peuple peut gouverner mieux que les grands : sa tirade de l’acte III montre qu’il a plus de sens de l’État que tous les nobles. Mais la société le ramène sans cesse à sa condition de laquais."
+  },
+  {
+   "titre": "La décadence de l’Espagne et la corruption des grands",
+   "texte": "La tirade « Bon appétit ! messieurs ! » (III, 2) dresse le tableau d’un empire qui s’effondre : territoires perdus, juges vendus, soldats impayés, peuple écrasé d’impôts (« A sué quatre cent trente millions d’or »), pendant que les ministres se partagent les dépouilles. « La moitié de Madrid pille l’autre moitié. » Le spectateur de 1838 pouvait y lire aussi une critique des élites de son temps, mais Hugo ne nomme jamais son époque."
+  },
+  {
+   "titre": "L’amour impossible",
+   "texte": "« Ver de terre amoureux d’une étoile » (II, 2) : l’image dit toute la distance sociale entre le laquais et la reine. L’amour de Ruy Blas est pur et sublime, celui de la reine sincère, mais il repose sur un mensonge. Il ne peut se réaliser que dans la mort et le pardon final."
+  },
+  {
+   "titre": "L’identité, le masque et le nom",
+   "texte": "Ruy Blas porte le nom et les habits d’un autre ; Salluste se déguise en laquais ; don César est pris pour le bandit Matalobos. La pièce joue sans cesse sur les déguisements et les faux noms. Le dénouement est une reconquête du vrai nom : « Je m’appelle Ruy Blas, et je suis un laquais ! », et la reine finit par le nommer « Ruy Blas »."
+  },
+  {
+   "titre": "Le mélange du sublime et du grotesque",
+   "texte": "Conformément à la Préface de Cromwell, Hugo fait succéder au sublime de l’acte III (tirade politique, déclaration d’amour) le grotesque de l’acte IV : don César tombe par la cheminée, mange, boit et sème la confusion. Ce mélange des registres reflète la diversité de la vie et fait respirer le drame."
+  },
+  {
+   "titre": "La vengeance et la manipulation",
+   "texte": "Salluste est un metteur en scène diabolique : à l’acte I, il se dit victime d’« Une sape profonde, obscure et souterraine » et prépare à son tour un piège patient, en utilisant les êtres comme des pions et en humiliant Ruy Blas. Mais son plan, trop parfait, est dérangé par l’imprévu (le retour de don César) et retourné contre lui : le laquais se révolte et le tue."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Un homme du peuple peut-il gouverner, et la société le lui permet-elle ?",
+   "Qu’est-ce qui fait la valeur d’un homme : sa naissance, son nom, son habit, ou son âme et son talent ?",
+   "Comment mêler le rire et les larmes sans détruire l’émotion tragique ?",
+   "Que dit une pièce historique sur le présent du spectateur ?"
+  ],
+  "intentions": "Hugo explique ses intentions dans la préface publiée avec la pièce (édition datée de 1839). Il distingue trois niveaux de lecture : « Le sujet philosophique de Ruy Blas, c’est le peuple aspirant aux régions élevées ; le sujet humain, c’est un homme qui aime une femme ; le sujet dramatique, c’est un laquais qui aime une reine. » Il donne une portée historique aux personnages : la noblesse espagnole « se résumerait en don Salluste » et « en don César », tandis que « Le peuple, ce serait Ruy Blas ». Il affirme enfin que le drame doit satisfaire à la fois la foule, qui veut être amusée, les femmes, qui veulent être émues, et les penseurs, qui veulent être enseignés : d’où le mélange des registres. Les intentions politiques plus précises (critique directe de la monarchie de Juillet) ne sont pas déclarées par Hugo et relèvent de l’interprétation.",
+  "procedes": [
+   {
+    "nom": "L’antithèse",
+    "explication": "Figure centrale de Hugo : elle oppose la condition sociale et la valeur intime du héros.",
+    "exemple": "« Sous l’habit d’un valet les passions d’un roi ! » (I, 3) ; « ver de terre amoureux d’une étoile » (II, 2)."
+   },
+   {
+    "nom": "L’ironie et l’antiphrase",
+    "explication": "Ruy Blas dit le contraire de ce qu’il pense pour condamner les ministres.",
+    "exemple": "« Bon appétit ! messieurs ! — Ô ministres intègres ! / Conseillers vertueux ! » (III, 2)."
+   },
+   {
+    "nom": "L’énumération et l’hyperbole",
+    "explication": "Dans la tirade du conseil, l’accumulation des malheurs de l’Espagne crée un tableau saisissant de la décadence.",
+    "exemple": "« La moitié de Madrid pille l’autre moitié. » et « A sué quatre cent trente millions d’or ! » (III, 2)."
+   },
+   {
+    "nom": "L’alexandrin disloqué",
+    "explication": "Hugo coupe les vers entre plusieurs répliques et multiplie tirets et exclamations : le vers suit le mouvement de la parole.",
+    "exemple": "« Grâce pour lui ! » / « Madame, ici chacun se venge. » : un même alexandrin partagé entre la reine et Ruy Blas (V, 3)."
+   },
+   {
+    "nom": "Le grotesque",
+    "explication": "L’irruption d’un personnage bouffon dans une situation tragique, conformément à la Préface de Cromwell.",
+    "exemple": "Don César tombe par la cheminée de la maison secrète, mange, boit et brouille toutes les intrigues (acte IV)."
+   },
+   {
+    "nom": "La lettre comme ressort dramatique",
+    "explication": "Les lettres (billet dicté par Salluste, lettre anonyme, lettre du roi) font avancer l’action et révèlent les caractères.",
+    "exemple": "« Madame, il fait grand vent et j’ai tué six loups. » (II, 3) : la seule lettre du roi, d’une platitude comique, souligne la solitude de la reine."
+   }
+  ],
+  "style": "Le style de Ruy Blas joue sur tous les registres de la langue. Le vers peut être sublime (la tirade de l’acte III, l’apostrophe à Charles-Quint), lyrique (la lettre « ver de terre amoureux d’une étoile ») ou familier et drôle dans la bouche de don César. Hugo aime les antithèses (laquais / reine, ombre / lumière, ange / démon), les images cosmiques (l’étoile, le soleil de l’empire, la « Lune aux trois quarts rongée ») et les noms espagnols qui créent la couleur locale. Les didascalies, très développées, décrivent décors, costumes et gestes avec précision.",
+  "registres": [
+   {
+    "nom": "Tragique",
+    "explication": "Ruy Blas est pris au piège de Salluste et de sa condition sociale ; le dénouement se termine par la mort."
+   },
+   {
+    "nom": "Comique et grotesque",
+    "explication": "Don César (acte IV), don Guritan, la lettre du roi : le rire interrompt le drame."
+   },
+   {
+    "nom": "Polémique et satirique",
+    "explication": "La tirade « Bon appétit ! messieurs ! » dénonce la corruption des ministres."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "L’amour de Ruy Blas et de la reine s’exprime dans des vers de rêve et d’extase (« Je suis plus que le roi puisque la reine m’aime ! »)."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "La mort de Ruy Blas et le pardon trop tardif de la reine (V, 4) suscitent la pitié."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Dans sa préface, Hugo fait lui-même de Ruy Blas une figure du peuple, et de Salluste et don César deux images de la noblesse espagnole.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Lecture politique : la pièce critiquerait aussi la monarchie de Juillet et une bourgeoisie au pouvoir qui exclut le peuple. Hugo ne le dit pas explicitement ; c’est une lecture fréquente, fondée sur le contexte de 1838 et sur les combats ultérieurs de l’auteur.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le dénouement est-il un échec ou une victoire du peuple ? Ruy Blas meurt et l’Espagne n’est pas réformée, mais il a prouvé sa valeur, châtié Salluste et obtenu l’amour et le pardon de la reine.",
+    "nature": "debat"
+   },
+   {
+    "texte": "L’acte IV, presque entièrement comique, a été jugé par certains critiques comme une digression ; d’autres y voient l’application la plus nette du mélange du sublime et du grotesque, et un moment de respiration avant la catastrophe.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le meurtre de Salluste se déroule hors de la vue du spectateur, dans un cabinet dont la porte se referme : Hugo, qui rejette les règles, garde ici une forme de retenue.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Ruy Blas applique les principes énoncés dans la Préface de Cromwell (1827) : refus des unités de temps et de lieu, mélange du sublime et du grotesque, recherche de la vérité historique et de la couleur locale. Il partage avec le romantisme le goût de l’Espagne, des héros solitaires et marginaux, des passions absolues. Il prolonge aussi une réflexion née au XVIIIe siècle sur le valet supérieur à son maître (Beaumarchais) et annonce la place que Hugo donnera au peuple dans Les Misérables."
+ },
+ "citations": [
+  {
+   "texte": "Une sape profonde, obscure et souterraine !",
+   "locuteur": "Don Salluste",
+   "reference": "Acte I, scène 1",
+   "situation": "Salluste, disgracié, raconte à Gudiel comment il a été chassé de la cour.",
+   "sens": "Il se dit victime d’une intrigue cachée et prépare sa propre vengeance souterraine.",
+   "procedes": "Métaphore militaire de la mine, gradation de trois adjectifs, exclamation.",
+   "demontre": "Le goût de Salluste pour les machinations : il annonce le piège qu’il va construire.",
+   "usage": "Pour le thème de la manipulation et le portrait de Salluste.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Ce misérable fou qui porte avec effroi / Sous l’habit d’un valet les passions d’un roi !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte I, scène 3",
+   "situation": "Ruy Blas, retrouvant son ancien camarade Zafari (don César), lui confie sa honte et son amour.",
+   "sens": "Il se décrit comme un homme déchiré : valet par sa condition, roi par ses sentiments.",
+   "procedes": "Antithèse valet / roi, chiasme implicite entre l’habit et l’âme, exclamation.",
+   "demontre": "Le sujet même de la pièce : un cœur noble prisonnier d’une condition servile.",
+   "usage": "Citation clé pour le personnage de Ruy Blas et le thème du peuple qui aspire à s’élever.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Ami, le résultat, tu le vois : — un laquais !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte I, scène 3",
+   "situation": "Ruy Blas raconte à don César ses rêves de jeunesse et ses ambitions déçues.",
+   "sens": "Tous ses espoirs ont abouti à une condition de domestique.",
+   "procedes": "Chute de la tirade, tiret qui crée un effet d’attente, apostrophe « Ami ».",
+   "demontre": "Que la société gâche les talents du peuple.",
+   "usage": "Pour le thème social et le portrait du héros.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Je suis amoureux de la reine !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte I, scène 3",
+   "situation": "Après une longue hésitation, Ruy Blas révèle son secret à don César.",
+   "sens": "Le laquais aime la reine d’Espagne.",
+   "procedes": "Phrase brève et exclamative, effet de révélation.",
+   "demontre": "Le « sujet dramatique » défini par la préface : un laquais qui aime une reine.",
+   "usage": "Exposition ; amour impossible.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Madame, sous vos pieds, dans l’ombre, un homme est là / Qui vous aime, perdu dans la nuit qui le voile ; / Qui souffre, ver de terre amoureux d’une étoile",
+   "locuteur": "La reine (lisant la lettre anonyme écrite par Ruy Blas)",
+   "reference": "Acte II, scène 2",
+   "situation": "La reine, seule, relit la lettre de l’inconnu qui dépose pour elle des fleurs au-delà du mur du jardin.",
+   "sens": "L’inconnu se dit obscur, souffrant et épris d’un être inaccessible.",
+   "procedes": "Métaphore du ver de terre et de l’étoile, opposition bas / haut et ombre / lumière, anaphore de « Qui ».",
+   "demontre": "L’amour impossible à cause de la distance sociale, et la naissance de l’amour de la reine.",
+   "usage": "Thème de l’amour impossible ; sujet de commentaire (II, 2).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées. Monologue : le texte du site n’indique pas le nom du locuteur ; les vers de la lettre y sont précédés de guillemets."
+   }
+  },
+  {
+   "texte": "Madame, il fait grand vent et j’ai tué six loups.",
+   "locuteur": "La duchesse d’Albuquerque (lisant la lettre du roi)",
+   "reference": "Acte II, scène 3",
+   "situation": "La reine attend avec émotion une lettre du roi, qui chasse à Aranjuez ; la duchesse la lit à haute voix.",
+   "sens": "Le roi n’a rien à dire à sa femme, sinon la météo et sa chasse.",
+   "procedes": "Phrase plate et juxtaposée, effet comique de chute (bathos).",
+   "demontre": "La solitude de la reine, délaissée par un roi indifférent, et le mélange des registres.",
+   "usage": "Pour le personnage de la reine et l’usage du comique dans le drame.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Bon appétit ! messieurs ! — Ô ministres intègres ! / Conseillers vertueux ! voilà votre façon / De servir, serviteurs qui pillez la maison !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 2",
+   "situation": "Ruy Blas, devenu ministre, surprend le conseil en train de se partager les richesses de l’Espagne.",
+   "sens": "Il accuse les ministres de piller le royaume qu’ils devraient servir.",
+   "procedes": "Antiphrases (« intègres », « vertueux »), polyptote « servir / serviteurs », métaphore de la maison pillée, apostrophes.",
+   "demontre": "Le laquais donne une leçon de morale politique aux grands.",
+   "usage": "Tirade la plus célèbre de la pièce ; sujet de commentaire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées. Le site imprime « O ministres » sans accent sur la majuscule ; graphie modernisée en « Ô »."
+   }
+  },
+  {
+   "texte": "Le peuple misérable, et qu’on pressure encor, / A sué quatre cent trente millions d’or !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 2",
+   "situation": "Suite de la tirade : Ruy Blas énumère les maux de l’Espagne.",
+   "sens": "Le peuple, écrasé d’impôts, a payé une somme immense.",
+   "procedes": "Chiffre précis, verbe concret « sué », métaphore du pressoir (« pressure »).",
+   "demontre": "Que Ruy Blas prend le parti du peuple contre les élites.",
+   "usage": "Thème du peuple ; portée sociale du drame.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "La moitié de Madrid pille l’autre moitié.",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 2",
+   "situation": "Suite du tableau de la décadence espagnole.",
+   "sens": "Le désordre est général : le vol est devenu la règle.",
+   "procedes": "Parallélisme et symétrie de l’alexandrin, formule frappante.",
+   "demontre": "La corruption généralisée d’une société en ruine.",
+   "usage": "Pour illustrer la satire politique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Car l’Espagne se meurt ! car l’Espagne s’éteint !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 2",
+   "situation": "Fin de la tirade : Ruy Blas s’adresse à l’ombre de Charles-Quint.",
+   "sens": "L’empire espagnol agonise.",
+   "procedes": "Anaphore de « car l’Espagne », parallélisme, exclamations, métaphore de la mort et de l’extinction.",
+   "demontre": "Le passage de la satire au pathétique et au sublime.",
+   "usage": "Pour le registre épique et pathétique ; thème de la décadence.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Je suis plus que le roi puisque la reine m’aime !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 4",
+   "situation": "Seul, après la déclaration de la reine, Ruy Blas laisse éclater sa joie.",
+   "sens": "L’amour de la reine l’élève au-dessus du roi lui-même.",
+   "procedes": "Comparatif hyperbolique, exclamation, registre lyrique.",
+   "demontre": "Le sommet de l’ascension du héros, juste avant sa chute.",
+   "usage": "Pour la structure (ascension et chute) et le thème de l’amour.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées. Monologue : le texte du site n’indique pas le nom du locuteur, seul en scène."
+   }
+  },
+  {
+   "texte": "J’étais tourné vers l’ange et le démon venait.",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte III, scène 5",
+   "situation": "Salluste réapparaît, déguisé en laquais, juste après le triomphe de Ruy Blas.",
+   "sens": "Au moment du bonheur, le malheur surgit.",
+   "procedes": "Antithèse ange / démon, imparfait de l’action en cours, aparté.",
+   "demontre": "Le retournement de situation et le pouvoir de Salluste sur son ancien laquais.",
+   "usage": "Pour la structure dramatique et le duel entre la reine et Salluste.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Je m’appelle Ruy Blas, et je suis un laquais !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte V, scène 3",
+   "situation": "Salluste vient de révéler à la reine qu’elle est tombée dans son piège.",
+   "sens": "Ruy Blas révèle lui-même sa véritable identité.",
+   "procedes": "Phrase simple et symétrique, exclamation, retour du vrai nom.",
+   "demontre": "Que le héros reconquiert sa dignité en assumant sa condition.",
+   "usage": "Thème de l’identité et du nom ; dénouement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Maître ! est-ce que je suis un gentilhomme, moi ? / Un duel ! fi donc ! je suis un de tes gens à toi",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte V, scène 3",
+   "situation": "Salluste, désarmé, réclame une épée pour se battre en duel.",
+   "sens": "Ruy Blas refuse le duel, privilège des nobles, et va tuer Salluste comme un valet.",
+   "procedes": "Ironie, tutoiement, questions et exclamations, retournement du mot « maître ».",
+   "demontre": "Le renversement du rapport maître-valet.",
+   "usage": "Pour le dénouement et le « Tigre et le Lion » ; thème social.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Ruy Blas, je vous pardonne !",
+   "locuteur": "La reine",
+   "reference": "Acte V, scène 4",
+   "situation": "Ruy Blas vient de boire le poison et prononce son vrai nom.",
+   "sens": "La reine pardonne enfin et appelle le héros par son nom.",
+   "procedes": "Apostrophe par le vrai nom, exclamation.",
+   "demontre": "Que le pardon arrive trop tard : le pathétique du dénouement.",
+   "usage": "Dénouement ; thème du nom et de l’identité.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "Vivant par son amour, mourant, par sa pitié !",
+   "locuteur": "Ruy Blas",
+   "reference": "Acte V, scène 4",
+   "situation": "Ruy Blas, mourant, bénit la reine.",
+   "sens": "L’amour de la reine l’a fait vivre, sa pitié l’accompagne dans la mort.",
+   "procedes": "Antithèse et parallélisme vivant / mourant, amour / pitié.",
+   "demontre": "Que la mort du héros est sublime et apaisée.",
+   "usage": "Pour le dénouement et le registre pathétique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Ruy Blas (1838), d’après Project Gutenberg n° 60354",
+    "note": "Mots identiques au texte du site ; seules les espaces typographiques avant « ! », « ? », « ; » et « : » et autour des tirets ont été harmonisées."
+   }
+  },
+  {
+   "texte": "le peuple, orphelin, pauvre, intelligent et fort ; placé très-bas, et aspirant très-haut",
+   "locuteur": "Victor Hugo",
+   "reference": "Préface (édition de 1839)",
+   "situation": "Hugo explique la signification historique et politique des personnages.",
+   "sens": "Le peuple a toutes les qualités mais il est maintenu tout en bas de la société.",
+   "procedes": "Énumération d’adjectifs, antithèse « très-bas / très-haut ».",
+   "demontre": "Que Ruy Blas est une figure allégorique du peuple.",
+   "usage": "Clé de lecture politique de la pièce en dissertation ou à l’oral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Préface de Ruy Blas, édition datée de 1839, transcription Wikisource « Ruy Blas/Préface » ; la préface n’est pas reprise dans le texte du site",
+    "note": "Texte identique à l’édition de 1839 (graphie « très-bas », « très-haut » conservée)."
+   }
+  },
+  {
+   "texte": "Le sujet philosophique de Ruy Blas, c’est le peuple aspirant aux régions élevées ; le sujet humain, c’est un homme qui aime une femme ; le sujet dramatique, c’est un laquais qui aime une reine.",
+   "locuteur": "Victor Hugo",
+   "reference": "Préface (édition de 1839)",
+   "situation": "Hugo distingue les différents niveaux de lecture de son drame.",
+   "sens": "La même histoire peut se lire comme une réflexion politique, une histoire d’amour et une intrigue spectaculaire.",
+   "procedes": "Construction ternaire, parallélisme « le sujet… c’est… ».",
+   "demontre": "Que le drame romantique veut s’adresser à tous les publics à la fois.",
+   "usage": "Pour les sujets sur les fonctions du théâtre ou sur le drame romantique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Préface de Ruy Blas, édition datée de 1839, transcription Wikisource « Ruy Blas/Préface » ; la préface n’est pas reprise dans le texte du site",
+    "note": "Texte identique à l’édition de 1839 (graphie « très-bas », « très-haut » conservée)."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Œuvre complémentaire (culture littéraire) : le drame romantique, mêler les genres pour dire l’histoire et le peuple (parcours proposé)",
+  "explication": "Ruy Blas est présenté ici comme une œuvre complémentaire, de culture littéraire : en seconde, aucune liste nationale d’œuvres ni de parcours n’est imposée, et le parcours ci-dessous n’est qu’une proposition. La pièce se rattache naturellement à l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle », qui invite à comprendre comment le théâtre évolue, de la tragédie et de la comédie classiques aux formes modernes. Au XIXe siècle, les romantiques rejettent les règles classiques et inventent le drame, qui mêle tragique et comique, met en scène l’histoire et donne la parole à des héros venus du peuple. Ce parcours étudie cette révolution théâtrale et sa portée politique.\n\nRuy Blas en est le modèle. Hugo y applique les principes de la Préface de Cromwell : liberté de lieu et de temps, mélange du sublime (la tirade de l’acte III, la mort du héros) et du grotesque (don César et sa cheminée), alexandrin assoupli. Il fait d’un laquais le héros d’une grande pièce, ce qui aurait été impensable dans la tragédie classique, et, par la préface, donne à l’intrigue amoureuse une signification sociale : c’est le peuple qui aime la reine et qui aspire au pouvoir.\n\nLes textes complémentaires permettent de comparer avec la tragédie classique, de lire le manifeste du drame romantique et de suivre la figure du valet révolté de Marivaux à Beaumarchais.",
+  "textesComplementaires": [
+   {
+    "titre": "Préface de Cromwell (1827)",
+    "auteur": "Victor Hugo",
+    "interet": "Le manifeste du drame romantique : refus des unités, mélange du sublime et du grotesque, vérité de l’histoire. On y trouve la théorie que Ruy Blas met en pratique."
+   },
+   {
+    "titre": "Hernani (1830), acte I",
+    "auteur": "Victor Hugo",
+    "interet": "La pièce de la « bataille d’Hernani » (1830) : un autre héros hors-la-loi, une autre Espagne, et les premiers scandales de l’alexandrin assoupli."
+   },
+   {
+    "titre": "Le Mariage de Figaro (1784), acte V, scène 3 (monologue de Figaro)",
+    "auteur": "Beaumarchais",
+    "interet": "Un valet intelligent qui dénonce les privilèges des nobles : « Parce que vous êtes un grand seigneur, vous vous croyez un grand génie ! » Ancêtre direct de Ruy Blas."
+   },
+   {
+    "titre": "L’Île des esclaves (1725)",
+    "auteur": "Marivaux",
+    "interet": "Maîtres et valets échangent leurs rôles sur une île : le renversement social au théâtre, traité sur le mode de la comédie."
+   },
+   {
+    "titre": "Phèdre (1677)",
+    "auteur": "Jean Racine",
+    "interet": "La tragédie classique (unités, bienséance, personnages royaux, registre unique) permet de mesurer la liberté conquise par le drame romantique ; même motif de la reine aimée et du poison final."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Ruy Blas met en scène un laquais génial et vertueux face à des grands corrompus : la valeur ne dépend pas de la naissance.",
+   "L’amour impossible entre le laquais et la reine traduit la distance sociale (« ver de terre amoureux d’une étoile »).",
+   "La pièce applique la Préface de Cromwell : mélange du sublime (III) et du grotesque (IV).",
+   "Le thème du masque et du nom traverse la pièce, jusqu’à la reconquête du vrai nom au dénouement.",
+   "Hugo donne lui-même, dans sa préface, une lecture politique : Ruy Blas représente le peuple."
+  ],
+  "axes": [
+   "Un drame romantique : liberté des règles et mélange des registres.",
+   "Un drame politique : satire des grands et éloge du peuple.",
+   "Un drame de l’amour impossible.",
+   "Un drame de l’identité : habits, noms, masques."
+  ],
+  "problematiques": [
+   "En quoi Ruy Blas est-il un drame romantique ?",
+   "Comment Hugo fait-il d’un laquais un héros ?",
+   "Quelle est la fonction du comique dans un drame qui finit par la mort ?",
+   "En quoi la pièce est-elle une réflexion sur le pouvoir ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "La confidence de Ruy Blas à don César (I, 3).",
+    "utilisation": "Montrer un héros déchiré entre sa condition et ses aspirations (« Sous l’habit d’un valet les passions d’un roi ! »)."
+   },
+   {
+    "exemple": "Le monologue de la reine et la lettre anonyme (II, 2), puis la lettre du roi (II, 3).",
+    "utilisation": "Opposer l’amour sublime de l’inconnu et l’indifférence comique du roi."
+   },
+   {
+    "exemple": "La tirade « Bon appétit ! messieurs ! » (III, 2).",
+    "utilisation": "Illustrer la satire politique, l’ironie et le registre épique."
+   },
+   {
+    "exemple": "Le retour de Salluste déguisé en laquais (III, 5).",
+    "utilisation": "Montrer le retournement de situation et l’humiliation du héros."
+   },
+   {
+    "exemple": "L’acte IV et la chute de don César par la cheminée.",
+    "utilisation": "Montrer le grotesque et le mélange des registres."
+   },
+   {
+    "exemple": "Le dénouement (V, 3-4).",
+    "utilisation": "Étudier la révolte du valet, la reconquête du nom et la mort pathétique."
+   }
+  ],
+  "liens": "Le thème social (le peuple) est porté par Ruy Blas et exprimé par l’antithèse (valet / roi, ver de terre / étoile) ; la satire politique passe par l’ironie et l’énumération de la tirade de l’acte III ; le mélange des registres associe don César (grotesque) et Ruy Blas (sublime) ; le thème du masque relie les déguisements de Salluste, l’usurpation du nom de don César et l’aveu final de Ruy Blas.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Acte I, scène 3 : la confidence de Ruy Blas à don César, jusqu’à « Sous l’habit d’un valet les passions d’un roi ! ».",
+    "pistes": "Un héros humilié (la livrée) ; l’aveu progressif de l’amour ; l’antithèse comme principe du personnage."
+   },
+   {
+    "passage": "Acte III, scène 2 : la tirade « Bon appétit ! messieurs ! ».",
+    "pistes": "L’ironie accusatrice ; le tableau de la décadence (énumérations, chiffres) ; l’invocation à Charles-Quint, entre épique et pathétique."
+   },
+   {
+    "passage": "Acte V, scène 4 : de l’aveu de Ruy Blas à genoux jusqu’au dernier mot, « Merci ! ».",
+    "pistes": "Un aveu pathétique ; le refus puis le pardon de la reine ; une mort sublime qui réconcilie le laquais et la reine."
+   }
+  ],
+  "erreurs": [
+   "Croire que Ruy Blas est noble : il est laquais et usurpe le nom de don César, cousin de Salluste.",
+   "Confondre Ruy Blas et don César : le vrai don César (Zafari) est un noble ruiné et bohème qui revient à l’acte IV.",
+   "Affirmer que le meurtre de Salluste est montré : Ruy Blas l’entraîne dans un cabinet dont la porte se referme.",
+   "Dire que Ruy Blas est roi ou Premier ministre officiel : il est duc d’Olmedo et ministre (« secrétaire universel »), sous le nom de don César.",
+   "Présenter la critique de la monarchie de Juillet comme une intention déclarée de Hugo : la préface parle du peuple et de l’Espagne de 1695, pas directement de 1838.",
+   "Penser que le drame romantique abandonne l’alexandrin : Ruy Blas est en vers, mais en vers assouplis."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "En quoi Ruy Blas est-il un drame romantique ?",
+   "analyse": "Il s’agit de définir le drame romantique (théorisé par Hugo dans la Préface de Cromwell) et de montrer comment la pièce en applique les principes : mélange des genres et des registres, liberté vis-à-vis des règles classiques, sujet historique, héros du peuple, portée politique.",
+   "problematique": "Comment Ruy Blas met-il en œuvre l’esthétique du drame romantique, et quelle signification cette esthétique donne-t-elle à la pièce ?",
+   "plan": [
+    {
+     "titre": "I. Une rupture avec les règles classiques",
+     "arguments": [
+      "A. Le refus des unités de lieu et de temps (cinq lieux, six mois d’intervalle entre les actes II et III).",
+      "B. Une action spectaculaire : déguisements, duel de don César et de Guritan, empoisonnement et mort du héros en scène (V, 4), même si le meurtre de Salluste se passe derrière une porte.",
+      "C. Un alexandrin assoupli : vers partagés entre personnages, enjambements, ton parfois familier."
+     ]
+    },
+    {
+     "titre": "II. Le mélange du sublime et du grotesque",
+     "arguments": [
+      "A. Le sublime : la tirade politique (III, 2), l’amour et la mort de Ruy Blas.",
+      "B. Le grotesque : don César qui tombe par la cheminée (IV), le bouffon don Guritan.",
+      "C. Un mélange qui reflète la vie : rire et larmes se succèdent, comme le veut la Préface de Cromwell."
+     ]
+    },
+    {
+     "titre": "III. Un drame historique et politique",
+     "arguments": [
+      "A. La couleur locale : l’Espagne de Charles II, ses grands, son étiquette.",
+      "B. Un héros venu du peuple : « Le peuple, ce serait Ruy Blas » (préface).",
+      "C. Une réflexion sur le pouvoir et la société de 1838 : corruption des élites, aspiration du peuple."
+     ]
+    }
+   ],
+   "introduction": "En 1827, dans la Préface de Cromwell, Victor Hugo rejetait les règles du théâtre classique et appelait à un drame qui mêlerait, comme la vie, le sublime et le grotesque. Onze ans plus tard, Ruy Blas, créé en 1838 pour l’inauguration du théâtre de la Renaissance, apparaît comme l’accomplissement de ce programme. L’histoire d’un laquais devenu Premier ministre et aimé de la reine d’Espagne mêle politique, amour, comédie et mort. En quoi Ruy Blas est-il un drame romantique ? Comment met-il en œuvre cette esthétique, et quelle signification celle-ci donne-t-elle à la pièce ? Nous verrons d’abord qu’il rompt avec les règles classiques, puis qu’il mêle le sublime et le grotesque, enfin qu’il est un drame historique et politique.",
+   "conclusion": "Ruy Blas rompt avec les unités et la bienséance, assouplit l’alexandrin, mêle le rire et les larmes, et fait d’un laquais un héros tragique. Ces choix esthétiques ne sont pas gratuits : ils servent une vision politique où le peuple, longtemps exclu de la scène tragique comme du pouvoir, aspire à prendre sa place. La pièce est ainsi l’un des sommets du drame romantique. Après l’échec des Burgraves en 1843, Hugo se détournera du théâtre, mais les grands drames d’Edmond Rostand, comme Cyrano de Bergerac (1897), prolongeront cet héritage."
+  },
+  {
+   "sujet": "Le théâtre doit-il seulement divertir ? Vous vous appuierez notamment sur Ruy Blas.",
+   "analyse": "Le sujet interroge les fonctions du théâtre : plaisir du spectacle (intrigue, rire, émotion) ou réflexion (morale, politique, sociale). « Seulement » invite à montrer que le divertissement peut porter une réflexion.",
+   "problematique": "Ruy Blas montre-t-il que le théâtre peut divertir tout en faisant réfléchir sur la société et le pouvoir ?",
+   "plan": [
+    {
+     "titre": "I. Un théâtre qui divertit",
+     "arguments": [
+      "A. Une intrigue pleine de rebondissements : piège, déguisements, coups de théâtre.",
+      "B. Le rire : le personnage de don César, la cheminée (IV), le vieux Guritan.",
+      "C. L’émotion : l’amour impossible, la mort du héros (V, 4)."
+     ]
+    },
+    {
+     "titre": "II. Un théâtre qui fait réfléchir",
+     "arguments": [
+      "A. La critique des puissants et de la corruption (« Bon appétit ! messieurs ! », III, 2).",
+      "B. La question sociale : un homme du peuple peut-il gouverner ? (préface).",
+      "C. La réflexion sur l’identité et les apparences (habits, noms, masques)."
+     ]
+    },
+    {
+     "titre": "III. Le divertissement au service de la réflexion",
+     "arguments": [
+      "A. Le plaisir rend la critique plus efficace : on peut rapprocher cette idée de la conception classique de la comédie, qui veut corriger les hommes en les divertissant.",
+      "B. Le spectateur choisit son niveau de lecture : la préface distingue le sujet philosophique, le sujet humain et le sujet dramatique.",
+      "C. Le théâtre comme tribune : de Hugo à Brecht, la scène interroge la cité."
+     ]
+    }
+   ],
+   "introduction": "Dans sa préface de Ruy Blas, Victor Hugo distingue trois sortes de spectateurs : la foule, qui veut de l’action et demande à être amusée, les femmes, qui veulent de la passion et demandent à être émues, et les penseurs, qui cherchent des caractères et demandent à être enseignés. Il propose ainsi un théâtre capable de satisfaire tous les publics. Créé en 1838, Ruy Blas, histoire d’un laquais aimé d’une reine, est en effet un spectacle palpitant, drôle et émouvant ; mais il est aussi une critique sévère des puissants. Le théâtre doit-il seulement divertir ? Ruy Blas montre-t-il qu’il peut divertir tout en faisant réfléchir sur la société et le pouvoir ? Nous verrons d’abord que la pièce divertit, puis qu’elle fait réfléchir, enfin que le divertissement y est au service de la réflexion.",
+   "conclusion": "Ruy Blas divertit par ses rebondissements, son comique et son émotion ; mais il invite aussi à réfléchir à la corruption des élites et à la place du peuple dans la société. Loin de s’opposer, plaisir et réflexion se renforcent : c’est parce qu’il est captivé que le spectateur entend la critique. Le théâtre ne doit donc pas seulement divertir, mais le divertissement est souvent son meilleur moyen d’agir. Au XXe siècle, Bertolt Brecht cherchera, avec d’autres moyens, à faire du théâtre un lieu de réflexion politique pour le spectateur."
+  }
+ ],
+ "oral": {
+  "presentation": "Ruy Blas est un drame romantique en cinq actes et en alexandrins de Victor Hugo, créé en 1838 pour l’inauguration du théâtre de la Renaissance. À Madrid, à la fin du XVIIe siècle, don Salluste, disgracié par la reine, se venge en faisant passer son laquais Ruy Blas, qui aime la reine en secret, pour un grand seigneur. Six mois plus tard, Ruy Blas est devenu ministre, dénonce la corruption des grands et est aimé de la reine. Mais Salluste revient refermer son piège. Ruy Blas avoue la vérité, tue son maître et s’empoisonne ; la reine lui pardonne au moment où il meurt. La pièce mêle le sublime et le grotesque et, selon la préface, fait du héros une figure du peuple qui aspire à s’élever.",
+  "essentiels": [
+   "Hugo, 1838, drame romantique, cinq actes en alexandrins, Madrid vers 1695.",
+   "Préface de Cromwell (1827) : mélange du sublime et du grotesque, refus des unités de temps et de lieu.",
+   "Scènes clés : I, 3 (confidence) ; II, 2 (lettre) ; III, 2 (« Bon appétit ! messieurs ! ») ; IV (don César) ; V, 3-4 (dénouement).",
+   "Préface de Ruy Blas : « Le peuple, ce serait Ruy Blas ».",
+   "Antithèses clés : valet / roi ; ver de terre / étoile ; ange / démon.",
+   "Dénouement : vrai nom, meurtre de Salluste, poison, pardon, « Merci ! »."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi peut-on dire que Ruy Blas est un drame romantique ?",
+    "reponse": "Parce que Hugo y applique les principes de la Préface de Cromwell. La pièce refuse l’unité de temps (six mois passent entre les actes II et III) et de lieu (palais, salle du conseil, maison secrète). Elle mêle le sublime de la tirade de l’acte III et le grotesque de don César, qui tombe par la cheminée à l’acte IV. Elle met en scène l’histoire avec couleur locale, et elle fait d’un laquais le héros d’une pièce en alexandrins, ce que la tragédie classique n’aurait pas permis."
+   },
+   {
+    "question": "Que représente Ruy Blas selon Hugo ?",
+    "reponse": "Dans sa préface, Hugo écrit : « Le peuple, ce serait Ruy Blas. » Il décrit le peuple comme « orphelin, pauvre, intelligent et fort ; placé très-bas, et aspirant très-haut ». Ruy Blas a toutes ces qualités : instruit, intègre, capable de gouverner, il est pourtant réduit à la condition de laquais. Son amour pour la reine est aussi l’aspiration du peuple vers le pouvoir et la lumière."
+   },
+   {
+    "question": "Quelle est la fonction de la tirade « Bon appétit ! messieurs ! » ?",
+    "reponse": "C’est une scène de dénonciation. Ruy Blas, devenu ministre, surprend les autres ministres en train de se partager les revenus de l’Espagne. Par l’ironie (« Ô ministres intègres ! »), il les accuse d’être des « serviteurs qui pillez la maison ». Il dresse ensuite un tableau de la décadence (« La moitié de Madrid pille l’autre moitié ») et défend le peuple écrasé d’impôts. La scène montre qu’un homme du peuple peut avoir plus de sens de l’État que les grands, et elle provoque l’amour de la reine, qui l’écoutait cachée."
+   },
+   {
+    "question": "À quoi sert l’acte IV, presque entièrement comique ?",
+    "reponse": "Il illustre le mélange du sublime et du grotesque. Don César, revenu de chez les corsaires, tombe par la cheminée, mange, boit, reçoit une bourse et un rendez-vous destinés à un autre, et tue don Guritan en duel. Ce désordre comique relâche la tension avant la catastrophe, mais il a aussi une fonction dramatique : il dérange le plan de Salluste. Le rire n’est donc pas gratuit."
+   },
+   {
+    "question": "Comment le dénouement transforme-t-il Ruy Blas ?",
+    "reponse": "Pendant quatre actes, Ruy Blas a vécu sous un faux nom. Au dernier acte, il le rejette : « Je m’appelle Ruy Blas, et je suis un laquais ! ». Il retourne la violence contre son maître en refusant le duel des gentilshommes (« Maître ! est-ce que je suis un gentilhomme, moi ? ») et le tue. Puis il s’empoisonne et obtient le pardon de la reine, qui l’appelle enfin par son vrai nom. Le laquais meurt en héros tragique, digne et sublime."
+   },
+   {
+    "question": "Quel est le rôle de Salluste ?",
+    "reponse": "Salluste est le moteur de l’intrigue : par vengeance, il construit tout le piège. Il incarne une noblesse orgueilleuse et cruelle qui traite les hommes comme des instruments ; la préface fait de lui le résumé d’une moitié de la noblesse espagnole. C’est aussi un metteur en scène : il habille Ruy Blas, dicte les lettres, organise le rendez-vous. Mais son plan échoue à cause de l’imprévu et de la révolte du valet."
+   },
+   {
+    "question": "En quoi la reine est-elle un personnage romantique ?",
+    "reponse": "Jeune étrangère mariée à un roi indifférent (« Madame, il fait grand vent et j’ai tué six loups »), enfermée dans l’étiquette, elle souffre de solitude. Elle aime un inconnu à travers ses lettres et ses fleurs, puis un ministre qui défend le peuple. Elle passe de l’ennui à la passion, puis à l’horreur et enfin au pardon : elle incarne l’amour absolu qui dépasse les barrières sociales."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), en lien avec l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » (le drame romantique). Parcours proposé par la fiche, non officiel : le drame romantique, mêler les genres pour dire l’histoire et le peuple. Autres œuvres : la Préface de Cromwell et Hernani de Hugo, Le Mariage de Figaro de Beaumarchais (le valet qui conteste les privilèges), L’Île des esclaves de Marivaux, Phèdre de Racine (pour comparer avec la tragédie classique).",
+  "reflexion": [
+   {
+    "question": "La valeur d’une personne dépend-elle de sa naissance ?",
+    "pistes": "Ruy Blas contre les ministres ; l’égalité des chances aujourd’hui ; le rôle de l’éducation (Ruy Blas a étudié « par pitié »)."
+   },
+   {
+    "question": "Peut-on rire dans une pièce qui finit tragiquement ?",
+    "pistes": "Le rôle de don César ; le mélange des tons dans la vie ; des exemples de films ou de séries qui mêlent humour et drame."
+   },
+   {
+    "question": "Le théâtre peut-il changer la société ?",
+    "pistes": "La tirade de l’acte III comme tribune ; la préface et ses trois publics ; les limites du théâtre face à l’action politique."
+   },
+   {
+    "question": "Ruy Blas a-t-il raison de mourir ?",
+    "pistes": "Le poids du mensonge et de l’honneur ; la mort comme rachat ou comme échec ; le pardon de la reine."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "La confidence de Ruy Blas à don César (I, 3)",
+   "reference": "Acte I, scène 3, de « Ami, le résultat, tu le vois : — un laquais ! » à « Sous l’habit d’un valet les passions d’un roi ! »",
+   "enjeu": "Comment Ruy Blas se révèle-t-il à la fois comme un homme humilié et comme un héros romantique sublime ?",
+   "mouvements": [
+    "Mouvement 1 : l’humiliation de la livrée. Ruy Blas évoque l’« habit odieux » qu’il porte pour la première fois, puis affirme une souffrance plus profonde : « une hydre aux dents de flamme » lui ronge le cœur. Gradation et mystère.",
+    "Mouvement 2 : l’aveu de l’amour pour la reine. Après une énigme (« Invente, imagine, suppose »), l’aveu éclate : « Je suis amoureux de la reine ! » ; portrait du roi tout-puissant puis jalousie sacrilège d’un laquais envers son souverain.",
+    "Mouvement 3 : la folie amoureuse et la plainte. Récit des fleurs bleues déposées chaque nuit, risques pris, révolte contre sa livrée (« un laquais ! être un laquais pour elle ! »), et formule finale : « Sous l’habit d’un valet les passions d’un roi ! »"
+   ]
+  },
+  {
+   "titre": "La reine et la lettre (II, 2)",
+   "reference": "Acte II, scène 2, la reine seule relit la lettre de l’inconnu",
+   "enjeu": "Comment ce monologue fait-il naître l’amour de la reine et définit-il l’amour impossible au cœur du drame ?",
+   "mouvements": [
+    "Mouvement 1 : l’ennui et la solitude d’une reine. Elle évoque sa vie sans joie, l’étiquette, le roi absent : une prisonnière couronnée.",
+    "Mouvement 2 : la lecture de la lettre. « Madame, sous vos pieds, dans l’ombre, un homme est là / Qui vous aime » ; métaphore du « ver de terre amoureux d’une étoile » : l’inconnu se présente comme un être obscur et sublime.",
+    "Mouvement 3 : le trouble de la reine. Les objets (lettre, fleurs, dentelle tachée de sang) deviennent des reliques ; la reine, partagée entre peur et émotion, sent naître en elle un amour qu’elle n’ose pas nommer."
+   ]
+  },
+  {
+   "titre": "« Bon appétit ! messieurs ! » (III, 2)",
+   "reference": "Acte III, scène 2, la tirade de Ruy Blas devant le conseil des ministres",
+   "enjeu": "Comment cette tirade fait-elle du laquais devenu ministre le porte-parole du peuple et le juge des puissants ?",
+   "mouvements": [
+    "Mouvement 1 : l’apostrophe accusatrice. Ironie (« Ô ministres intègres ! »), métaphores des « serviteurs qui pillez la maison » et des « fossoyeurs » qui volent un pays dans sa tombe : Ruy Blas condamne les ministres.",
+    "Mouvement 2 : le tableau de la décadence. Énumération des territoires perdus, de la misère du peuple (« A sué quatre cent trente millions d’or »), du désordre et de la corruption (« La moitié de Madrid pille l’autre moitié ») : registre polémique et épique.",
+    "Mouvement 3 : l’invocation à Charles-Quint. Apostrophe au grand empereur mort, métaphore de l’astre éteint (« Lune aux trois quarts rongée ») : le pathétique et le sublime transforment la satire en lamentation sur la grandeur perdue."
+   ]
+  },
+  {
+   "titre": "Le dénouement (V, 3-4)",
+   "reference": "Acte V, scènes 3 et 4, de la révolte de Ruy Blas à sa mort",
+   "enjeu": "Comment le dénouement fait-il du laquais un héros tragique qui reconquiert sa dignité ?",
+   "mouvements": [
+    "Mouvement 1 : la révolte du laquais. « Je m’appelle Ruy Blas, et je suis un laquais ! » ; Ruy Blas désarme Salluste, refuse le duel des gentilshommes et annonce qu’il le tuera « comme un chien », puis l’entraîne dans le cabinet où il le tue, hors de la vue du spectateur (V, 3).",
+    "Mouvement 2 : l’aveu et le refus du pardon. À genoux, Ruy Blas explique qu’il n’a pas « l’âme vile » ; la reine répond « Jamais » ; il boit le poison (« Triste flamme, / Éteins-toi ! »).",
+    "Mouvement 3 : le pardon et la mort. La reine, comprenant, lui pardonne et l’appelle par son vrai nom (« Ruy Blas, je vous pardonne ! ») ; Ruy Blas bénit la reine, « Vivant par son amour, mourant, par sa pitié ! », et meurt sur un dernier mot : « Merci ! »"
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Ruy Blas (1838) : drame romantique de Victor Hugo en cinq actes et en alexandrins, à Madrid sous Charles II (vers 1695).",
+   "Intrigue : un laquais, manipulé par son maître pour compromettre la reine, devient ministre, est aimé d’elle, puis meurt empoisonné après avoir tué Salluste.",
+   "Esthétique romantique : refus des unités de lieu et de temps, mélange du sublime (III, 2) et du grotesque (don César, IV).",
+   "Portée politique : selon la préface, « Le peuple, ce serait Ruy Blas » ; satire de la corruption des grands.",
+   "Tirade à connaître : « Bon appétit ! messieurs ! — Ô ministres intègres ! » (III, 2).",
+   "Images clés : « ver de terre amoureux d’une étoile » ; « Sous l’habit d’un valet les passions d’un roi ».",
+   "Dénouement : « Je m’appelle Ruy Blas, et je suis un laquais ! » ; meurtre de Salluste, poison, pardon de la reine.",
+   "Préface : trois sujets (philosophique, humain, dramatique) et trois publics (la foule, les femmes, les penseurs)."
+  ],
+  "citations": [
+   1,
+   4,
+   6,
+   7,
+   12,
+   13,
+   14,
+   16
+  ],
+  "pieges": [
+   "Ruy Blas n’est pas noble ; don César (Zafari) est le vrai noble ruiné.",
+   "Le meurtre de Salluste n’est pas montré ; la mort de Ruy Blas, elle, a lieu en scène.",
+   "La lettre « ver de terre amoureux d’une étoile » est de Ruy Blas, lue par la reine (II, 2) ; la lettre « il fait grand vent » est du roi (II, 3).",
+   "La critique de 1838 est une interprétation : Hugo parle de l’Espagne de la fin du XVIIe siècle."
+  ],
+  "synthese": "Ruy Blas raconte l’ascension et la chute d’un laquais de génie. Manipulé par don Salluste, qui veut se venger de la reine, Ruy Blas devient ministre sous le nom de don César, dénonce la corruption des grands (« Bon appétit ! messieurs ! ») et gagne l’amour de la reine. Le retour de Salluste referme le piège ; le grotesque don César le dérange un moment. Au dénouement, Ruy Blas reprend son vrai nom, tue son maître et s’empoisonne, pardonné in extremis. Hugo y applique la Préface de Cromwell (sublime et grotesque) et fait de son héros, selon sa préface, une figure du peuple qui aspire à s’élever."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Drame romantique",
+   "definition": "Genre théâtral du XIXe siècle qui mêle tragique et comique, refuse les unités de lieu et de temps, met en scène l’histoire et des héros souvent issus du peuple. Exemple : Ruy Blas."
+  },
+  {
+   "terme": "Sublime et grotesque",
+   "definition": "Deux pôles que le drame romantique associe : le sublime (grandeur, beauté, élévation) et le grotesque (laideur, bouffonnerie). Exemple : la tirade de l’acte III et la cheminée de l’acte IV."
+  },
+  {
+   "terme": "Tirade",
+   "definition": "Longue réplique d’un personnage. Exemple : « Bon appétit ! messieurs ! » (III, 2)."
+  },
+  {
+   "terme": "Didascalie",
+   "definition": "Indication scénique de l’auteur (décor, gestes, ton). Les didascalies de Ruy Blas sont très développées (description de la salle du conseil, chute de don César par la cheminée)."
+  },
+  {
+   "terme": "Couleur locale",
+   "definition": "Ensemble des détails (noms, costumes, lieux, mœurs) qui évoquent une époque et un pays. Ici, l’Espagne du XVIIe siècle."
+  },
+  {
+   "terme": "Alexandrin assoupli",
+   "definition": "Vers de douze syllabes que les romantiques libèrent : enjambements, coupes irrégulières, vers partagés entre plusieurs répliques."
+  },
+  {
+   "terme": "Quiproquo",
+   "definition": "Malentendu qui consiste à prendre une personne ou une chose pour une autre. À l’acte IV, le vrai don César reçoit ce qui était destiné au faux ; Salluste le fait ensuite arrêter comme le bandit Matalobos."
+  },
+  {
+   "terme": "Antiphrase",
+   "definition": "Dire le contraire de ce que l’on pense, par ironie. Exemple : « Ô ministres intègres ! »"
+  },
+  {
+   "terme": "Préface de Cromwell",
+   "definition": "Texte de Victor Hugo (1827), manifeste du drame romantique : liberté, vérité, mélange des genres."
+  },
+  {
+   "terme": "Aparté",
+   "definition": "Réplique qu’un personnage prononce pour lui-même, que les autres personnages sur scène sont censés ne pas entendre. Exemple : « J’étais tourné vers l’ange et le démon venait » (III, 5)."
+  },
+  {
+   "terme": "Allégorie",
+   "definition": "Représentation d’une idée abstraite par un personnage. Selon la préface, Ruy Blas est une figure du peuple."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Qui est Ruy Blas au début de la pièce ?",
+   "choix": [
+    "Un grand d’Espagne",
+    "Le laquais de don Salluste",
+    "Le cousin de la reine",
+    "Un bandit"
+   ],
+   "reponse": 1,
+   "explication": "Ruy Blas est le laquais de don Salluste, même s’il est instruit et rêveur."
+  },
+  {
+   "question": "Pourquoi don Salluste veut-il se venger de la reine ?",
+   "choix": [
+    "Elle a refusé de l’épouser",
+    "Elle l’a disgracié et exilé",
+    "Elle a fait arrêter don César",
+    "Elle a pris le parti de Ruy Blas"
+   ],
+   "reponse": 1,
+   "explication": "Il a été disgracié pour avoir refusé d’épouser une suivante de la reine qu’il avait séduite."
+  },
+  {
+   "question": "Sous quel nom Ruy Blas est-il introduit à la cour ?",
+   "choix": [
+    "Don Guritan",
+    "Don César de Bazan",
+    "Le marquis de Finlas",
+    "Matalobos"
+   ],
+   "reponse": 1,
+   "explication": "Salluste le fait passer pour son cousin don César, qu’il a fait disparaître."
+  },
+  {
+   "question": "Quelle fonction Ruy Blas occupe-t-il à l’acte III ?",
+   "choix": [
+    "Écuyer",
+    "Majordome",
+    "Ministre, devenu duc d’Olmedo",
+    "Ambassadeur"
+   ],
+   "reponse": 2,
+   "explication": "À l’acte III, il est « secrétaire universel, ministre, et puis duc d’Olmedo », sous le nom de don César."
+  },
+  {
+   "question": "Comment commence la célèbre tirade de l’acte III ?",
+   "choix": [
+    "« Je m’appelle Ruy Blas »",
+    "« Bon appétit ! messieurs ! »",
+    "« Car l’Espagne se meurt ! »",
+    "« Madame, il fait grand vent »"
+   ],
+   "reponse": 1,
+   "explication": "« Bon appétit ! messieurs ! » : Ruy Blas surprend les ministres en train de se partager les richesses de l’Espagne."
+  },
+  {
+   "question": "Par où le vrai don César fait-il irruption à l’acte IV ?",
+   "choix": [
+    "Par la fenêtre",
+    "Par une porte secrète",
+    "Par la cheminée",
+    "Par le toit"
+   ],
+   "reponse": 2,
+   "explication": "Il tombe par la cheminée : moment grotesque typique du drame romantique."
+  },
+  {
+   "question": "Comment meurt Ruy Blas ?",
+   "choix": [
+    "Tué par Salluste",
+    "Exécuté",
+    "En buvant du poison",
+    "En duel contre Guritan"
+   ],
+   "reponse": 2,
+   "explication": "Il boit le poison qu’il avait préparé après avoir tué Salluste."
+  },
+  {
+   "question": "Selon la préface de Hugo, qui Ruy Blas représente-t-il ?",
+   "choix": [
+    "La noblesse",
+    "Le roi",
+    "Le peuple",
+    "L’Église"
+   ],
+   "reponse": 2,
+   "explication": "« Le peuple, ce serait Ruy Blas » : selon la préface, le peuple est « orphelin, pauvre, intelligent et fort ; placé très-bas, et aspirant très-haut »."
+  },
+  {
+   "question": "Quel texte de Hugo (1827) sert de manifeste au drame romantique ?",
+   "choix": [
+    "La Préface de Cromwell",
+    "La préface des Orientales",
+    "Les Contemplations",
+    "Notre-Dame de Paris"
+   ],
+   "reponse": 0,
+   "explication": "La Préface de Cromwell défend le mélange du sublime et du grotesque et le refus des unités de temps et de lieu."
+  },
+  {
+   "question": "Quelle figure de style trouve-t-on dans « Sous l’habit d’un valet les passions d’un roi » ?",
+   "choix": [
+    "Une litote",
+    "Une antithèse",
+    "Une anaphore",
+    "Une allitération en [r]"
+   ],
+   "reponse": 1,
+   "explication": "Le valet et le roi s’opposent : la condition sociale contredit la grandeur intérieure."
+  },
+  {
+   "question": "Que dit la lettre du roi à la reine (II, 3) ?",
+   "choix": [
+    "Qu’il rentre bientôt",
+    "Qu’il fait grand vent et qu’il a tué six loups",
+    "Qu’il soupçonne Ruy Blas",
+    "Qu’il la répudie"
+   ],
+   "reponse": 1,
+   "explication": "« Madame, il fait grand vent et j’ai tué six loups. » : l’indifférence du roi est comique et souligne la solitude de la reine."
+  },
+  {
+   "question": "Que fait Ruy Blas de Salluste au dénouement ?",
+   "choix": [
+    "Il le livre à la police",
+    "Il se bat en duel avec lui",
+    "Il l’entraîne dans un cabinet et le tue",
+    "Il lui pardonne"
+   ],
+   "reponse": 2,
+   "explication": "Il refuse le duel des gentilshommes (« Maître ! est-ce que je suis un gentilhomme, moi ? ») et le tue hors de la vue du spectateur (V, 3)."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Project Gutenberg n° 60354, Victor Hugo, Ruy Blas (texte du site, utilisé pour vérifier les citations de la pièce)",
+   "url": "https://www.gutenberg.org/ebooks/60354"
+  },
+  {
+   "titre": "Wikisource, Ruy Blas, préface (édition datée de 1839), utilisée pour vérifier les citations de la préface",
+   "url": "https://fr.wikisource.org/wiki/Ruy_Blas/Pr%C3%A9face"
+  },
+  {
+   "titre": "Project Gutenberg, Beaumarchais, La Folle Journée ou le Mariage de Figaro (vérification de la réplique citée de Figaro)",
+   "url": "https://www.gutenberg.org/ebooks/20577"
+  }
+ ],
+ "aVerifier": [
+  "Numéros de vers non indiqués : aucune édition numérotée fiable n’a pu être consultée en ligne pour Ruy Blas.",
+  "Accueil critique de 1838-1839 (nature exacte des reproches adressés à la pièce) : présenté de façon générale, sans source consultée.",
+  "Rôle exact de Hugo dans la fondation du théâtre de la Renaissance : la fiche se limite à l’inauguration de la salle avec Ruy Blas."
+ ]
+}

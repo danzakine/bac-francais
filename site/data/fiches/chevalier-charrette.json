@@ -1,0 +1,1164 @@
+{
+ "id": "chevalier-charrette",
+ "accroche": "Un chevalier sans nom monte dans la charrette des criminels pour sauver la reine qu'il aime : Chrétien de Troyes invente le héros amoureux.",
+ "identite": {
+  "auteur": "On sait très peu de choses de Chrétien de Troyes (actif vers 1160-1190) : il se nomme lui-même dans ses prologues, ce qui est assez nouveau à l'époque. C'est un clerc instruit, qui connaît le latin et Ovide ; il écrit en langue romane (l'ancien français) pour de grandes cours : celle de Marie de Champagne, à Troyes, puis celle de Philippe d'Alsace, comte de Flandre, à qui il dédie Le Conte du Graal. Il est considéré comme le créateur du roman arthurien en vers et a inventé des personnages qui hantent toute la littérature européenne : Lancelot, Perceval, le Graal.",
+  "contexte": "Au XIIe siècle, la société féodale se raffine. Dans les grandes cours seigneuriales (Champagne, Poitou, Angleterre des Plantagenêts), de grandes dames comme Aliénor d'Aquitaine et sa fille Marie de Champagne protègent poètes et romanciers. Les troubadours du Sud ont inventé la fin'amor (l'« amour courtois ») : le chevalier sert une dame, souvent mariée et de rang supérieur, comme un vassal sert son seigneur. Le mot « roman » désigne d'abord la langue vulgaire (par opposition au latin), puis un récit écrit dans cette langue. Le roman se lit à voix haute devant la cour : le narrateur s'adresse souvent à son public (« Seignor », v. 7114).",
+  "mouvement": "Le Chevalier de la charrette appartient à la « matière de Bretagne » : les récits du roi Arthur et de ses chevaliers, nourris de légendes celtiques. C'est un roman courtois en vers (octosyllabes à rimes plates, 7 128 vers dans le texte du site). Il mêle aventure chevaleresque (combats, épreuves), merveilleux (lit périlleux, pont de l'Épée, anneau magique) et analyse de l'amour (débats intérieurs entre Amour et Raison). Selon la ressource Eduscol, c'est le seul roman de Chrétien qui place au centre de la quête « le vertige et les égarements de l'amour ». Il pousse l'idéal courtois à l'extrême : Lancelot sacrifie jusqu'à son honneur de chevalier pour sa dame, ce qui donne au roman une ambiguïté (sérieux ou ironie ?) que les critiques discutent encore.",
+  "circonstances": "Le roman est généralement daté des années 1177-1181. Chrétien affirme dans le prologue l'écrire à la demande de « ma dame de Chanpaigne » (v. 1), qui lui a donné « matière et san » (v. 26). Il ne l'a pas terminé : l'épilogue indique que le clerc Godefroi de Leigni l'a achevé, avec l'accord de Chrétien, à partir du moment où Lancelot est emmuré (v. 7118-7128). Le texte nous est parvenu par plusieurs manuscrits ; le texte du site suit le manuscrit BnF fr. 794, copié au XIIIe siècle par le scribe Guiot (édition Jonckbloet de 1850, mêlée sur Wikisource à l'édition Foulet-Uitti). Le succès du personnage est immense : au XIIIe siècle, le vaste Lancelot en prose développe sa vie et ses amours avec Guenièvre.",
+  "carriere": "Le Chevalier de la charrette vient après Érec et Énide et Cligès. Il est écrit à peu près en même temps qu'Yvain ou le Chevalier au lion : les deux romans se font des allusions (dans Yvain, Gauvain est absent parce qu'il est parti délivrer la reine). Chrétien finira par Perceval ou le Conte du Graal, lui aussi inachevé. Dans Cligès, il avait défendu l'union du cœur et du corps dans le mariage (Eduscol cite la formule « Qui a le cœur, qu'il ait le corps ») ; avec Lancelot, il raconte au contraire un amour adultère, ce qui crée une tension intéressante dans son œuvre."
+ },
+ "resumeCourt": "À la cour du roi Arthur, le cruel Méléagant, fils du roi Bademagu de Gorre, enlève la reine Guenièvre. Gauvain et un mystérieux chevalier se lancent à sa poursuite. Ce chevalier, qui a perdu son cheval, accepte, après une courte hésitation, de monter dans une charrette d'infamie conduite par un nain, parce que Amour l'emporte sur Raison : on l'appellera « le chevalier de la charrette ». Au terme d'épreuves extraordinaires (le lit périlleux, le peigne de la reine, le pont de l'Épée), il arrive au royaume de Gorre, où l'on apprend enfin son nom : Lancelot du Lac. Il vainc Méléagant, mais la reine l'accueille froidement : elle lui reproche d'avoir hésité deux pas avant de monter dans la charrette. Réconciliés, ils passent une nuit d'amour. Emprisonné par Méléagant, Lancelot participe incognito à un tournoi où il obéit à la reine jusqu'à combattre « au pire », puis, libéré par la sœur de Méléagant, il tue son ennemi à la cour d'Arthur. Le roman, laissé inachevé par Chrétien, a été terminé par le clerc Godefroi de Leigni.",
+ "resume": [
+  {
+   "titre": "Prologue — Une commande de Marie de Champagne",
+   "texte": "Chrétien explique qu'il écrit ce roman à la demande de sa « dame de Champagne », Marie, fille d'Aliénor d'Aquitaine. Il affirme qu'elle lui a donné « la matière et le sens » (l'histoire et sa signification) et que lui n'apporte que son travail et son application. Ce prologue pose d'emblée le cadre : un roman de cour, écrit pour une dame, sur le service amoureux."
+  },
+  {
+   "titre": "L'enlèvement de la reine",
+   "texte": "Le jour de l'Ascension, à la cour d'Arthur, un chevalier arrogant, Méléagant, annonce qu'il retient prisonniers de nombreux sujets du roi. Il propose un défi : si un chevalier, escortant la reine dans la forêt, le bat, les prisonniers seront libérés ; sinon, il emmènera la reine. Le sénéchal Keu, par un chantage au départ, obtient d'Arthur la mission ; il est vaincu et Guenièvre est enlevée. Gauvain part à sa recherche et croise un chevalier inconnu qui lui emprunte un cheval, le crève à force de galoper, et poursuit l'ennemi à pied."
+  },
+  {
+   "titre": "La charrette d'infamie",
+   "texte": "Le chevalier à pied rencontre une charrette menée par un nain. À cette époque, explique le narrateur, la charrette servait de pilori : on y exposait les criminels, qui perdaient tout honneur. Le nain lui promet des nouvelles de la reine s'il y monte. Le chevalier hésite un court instant : Raison lui dit de ne rien faire de honteux, mais Amour, enfermé dans son cœur, lui commande de monter. Il saute dans la charrette. Le narrateur précise qu'il a eu tort de ne pas sauter aussitôt ; la reine lui reprochera plus tard d'avoir « tardé deux pas ». Gauvain, lui, refuse et suit à cheval. Partout, on se moque désormais du « chevalier de la charrette »."
+  },
+  {
+   "titre": "Premières épreuves : le lit périlleux et le gué",
+   "texte": "Dans un château, une demoiselle interdit au chevalier déshonoré de dormir dans un lit magnifique ; il s'y couche quand même et échappe, à minuit, à une lance enflammée qui s'abat sur lui. Le lendemain, apercevant de la fenêtre la reine emmenée par Méléagant, il manque de se jeter dans le vide. On apprend qu'il existe deux passages pour entrer au royaume de Gorre, d'où nul ne revient : le pont sous l'eau, que choisit Gauvain, et le pont de l'Épée, que choisit le chevalier. Plongé dans une rêverie amoureuse, il ne voit pas un chevalier qui garde un gué et tombe à l'eau avant de le vaincre."
+  },
+  {
+   "titre": "La demoiselle entreprenante et le peigne de la reine",
+   "texte": "Une demoiselle offre l'hospitalité au chevalier à condition qu'il partage son lit. Il la délivre d'une fausse agression qu'elle a mise en scène, puis se couche près d'elle sans la toucher : son cœur appartient à une seule. Plus loin, près d'une fontaine, il trouve un peigne d'ivoire où sont restés des cheveux de la reine. Il manque de s'évanouir, puis place les cheveux contre sa poitrine, les vénérant plus que des reliques. Le narrateur s'amuse de cette adoration."
+  },
+  {
+   "titre": "Le cimetière et les combats sur la route de Gorre",
+   "texte": "Dans un cimetière, le chevalier soulève sans effort une dalle que seul pourra lever celui qui délivrera les prisonniers de Gorre : il est l'élu. Il traverse le passage des Pierres, aide les exilés du royaume d'Arthur à se révolter, affronte un chevalier orgueilleux qui le raille à cause de la charrette. Une demoiselle sur une mule lui demande la tête du vaincu ; il la lui accorde. Cette jeune fille jouera plus tard un rôle décisif."
+  },
+  {
+   "titre": "Le pont de l'Épée",
+   "texte": "Le chevalier arrive devant le pont de l'Épée : une lame tranchante tendue au-dessus d'une eau noire et furieuse. Il ôte l'armure de ses mains et de ses pieds pour mieux s'agripper et traverse en se tailladant, guidé par Amour, qui adoucit sa souffrance. Sur l'autre rive, il croyait avoir vu deux lions ; il regarde l'anneau que lui a donné la fée qui l'a élevé et découvre qu'il s'agissait d'un enchantement. Du haut d'une tour, le sage roi Bademagu admire cet exploit, tandis que son fils Méléagant s'obstine dans sa haine."
+  },
+  {
+   "titre": "Le combat contre Méléagant et la révélation du nom",
+   "texte": "Le combat commence. Affaibli par ses blessures, le chevalier faiblit. Une demoiselle demande à la reine le nom du champion : « Lanceloz del Lac » (v. 3670). C'est la première fois, au milieu du roman, que le héros est nommé. Elle lui crie de se retourner vers la tour où se tient la reine : en la regardant, il reprend des forces et domine Méléagant, se plaçant même de façon à ne jamais la quitter des yeux. Bademagu demande à la reine d'arrêter le combat ; sur un seul mot d'elle, Lancelot cesse de frapper. Un nouveau duel est fixé un an plus tard à la cour d'Arthur."
+  },
+  {
+   "titre": "Le froid accueil de la reine et la nuit d'amour",
+   "texte": "Contre toute attente, Guenièvre refuse de parler à Lancelot. Désespéré, il part ; à la fausse nouvelle de la mort de la reine, il tente de se pendre à l'arçon de sa selle. De son côté, la reine, croyant Lancelot mort, regrette sa dureté. Réunis, ils s'expliquent : elle lui reproche d'avoir hésité deux pas avant de monter dans la charrette. Lancelot accepte cette punition. La nuit, il arrache les barreaux de la fenêtre de la reine, se coupe les doigts, et ils s'aiment. En repartant, il s'incline devant la chambre comme devant un autel. Le lendemain, le sang sur les draps fait accuser Keu, blessé, qui dormait dans la chambre ; Lancelot défend l'honneur de la reine en duel."
+  },
+  {
+   "titre": "Le tournoi de Noauz : combattre « au pire »",
+   "texte": "Lancelot, parti chercher Gauvain, est capturé par trahison et emprisonné par un sénéchal de Méléagant. Apprenant qu'un grand tournoi se prépare, il obtient de la femme du sénéchal de s'y rendre, en promettant de revenir. Incognito, sous un écu vermeil, il brille d'abord ; la reine, qui le reconnaît, lui fait dire de combattre « au pire » : il obéit aussitôt et se conduit en lâche, sous les moqueries. Le lendemain, elle lui commande « au mieux » et il triomphe. Il retourne fidèlement dans sa prison."
+  },
+  {
+   "titre": "L'emmurement, la délivrance et la mort de Méléagant",
+   "texte": "Méléagant fait enfermer Lancelot dans une tour sans porte. C'est à ce moment que Chrétien a cessé d'écrire : la fin est l'œuvre de Godefroi de Leigni. La sœur de Méléagant, la jeune fille à la mule à qui Lancelot avait donné une tête, découvre sa prison, le délivre avec un pic et le soigne. Lancelot arrive à la cour d'Arthur au moment où Méléagant le croit perdu. Lors du duel final, il le vainc et lui tranche la tête. Godefroi signe l'épilogue en précisant qu'il a terminé le roman avec l'accord de Chrétien."
+  }
+ ],
+ "structure": "Le roman (7 128 octosyllabes dans le texte du site) suit le schéma de la quête : un départ (enlèvement de la reine), une série d'épreuves de plus en plus difficiles sur le chemin du royaume de Gorre, une épreuve suprême (le pont de l'Épée), puis la libération de la reine. Mais Chrétien complique ce schéma : la quête chevaleresque est doublée d'une quête amoureuse, et le roman ne s'arrête pas avec la libération. La seconde partie (froideur de la reine, nuit d'amour, tournoi, emprisonnement, duel final) montre que conquérir la dame ne suffit pas : il faut sans cesse prouver son amour. La révélation du nom de Lancelot, vers le milieu du roman, marque le pivot. L'œuvre est encadrée par un prologue (Chrétien et Marie de Champagne) et un épilogue (Godefroi de Leigni), qui posent la question de l'auteur. Le récit procède par entrelacement : il suit tour à tour Lancelot, Gauvain, la cour.",
+ "personnages": [
+  {
+   "nom": "Lancelot du Lac",
+   "role": "Le héros, d'abord anonyme (« le chevalier », puis « le chevalier de la charrette »), nommé seulement au milieu du roman. Élevé par une fée qui lui a donné un anneau magique (la tradition ultérieure la nommera la Dame du Lac), il est le meilleur chevalier du monde et l'amant absolu : il accepte la honte de la charrette, traverse le pont de l'Épée et combat « au noauz » (au plus mal) par amour. Il incarne la fusion, et la tension, entre prouesse chevaleresque et service amoureux.",
+   "relations": "Amant de Guenièvre, rival et ennemi de Méléagant, compagnon et contrepoint de Gauvain ; respecté par Bademagu ; aidé par la sœur de Méléagant."
+  },
+  {
+   "nom": "La reine Guenièvre",
+   "role": "Épouse du roi Arthur, aimée de Lancelot. Enlevée par Méléagant, elle est l'objet de la quête. Dame courtoise exigeante, elle met son amant à l'épreuve : accueil glacial, reproche des « deux pas » d'hésitation, ordre de combattre « au noauz ». Elle n'est pas pour autant insensible : elle se reproche sa dureté quand elle croit Lancelot mort.",
+   "relations": "Épouse d'Arthur, dame de Lancelot ; prisonnière de Méléagant, protégée par Bademagu ; sa relation avec Lancelot est secrète et adultère."
+  },
+  {
+   "nom": "Le roi Arthur",
+   "role": "Roi de Logres, centre de la cour. Étonnamment faible au début : il cède au chantage de Keu et laisse partir la reine. Sa cour sert de cadre au départ et au dénouement.",
+   "relations": "Époux de Guenièvre, oncle de Gauvain, seigneur de Keu ; il ignore l'amour de Lancelot pour la reine."
+  },
+  {
+   "nom": "Méléagant",
+   "role": "Fils du roi Bademagu de Gorre, ravisseur de la reine. Orgueilleux, déloyal, violent, il est l'antithèse du chevalier courtois. Il refuse les conseils de son père, emprisonne Lancelot par traîtrise et finit décapité par lui.",
+   "relations": "Fils de Bademagu, frère de la demoiselle à la mule ; ravisseur de Guenièvre, ennemi de Lancelot."
+  },
+  {
+   "nom": "Le roi Bademagu",
+   "role": "Roi de Gorre, père de Méléagant. Sage, loyal et généreux, il admire Lancelot, protège la reine et tente de modérer son fils : il montre qu'un ennemi peut être courtois.",
+   "relations": "Père de Méléagant, qu'il désapprouve ; hôte loyal de la reine et admirateur de Lancelot."
+  },
+  {
+   "nom": "Gauvain",
+   "role": "Neveu d'Arthur, modèle du chevalier parfait. Il refuse de monter dans la charrette, choisit le pont sous l'eau et échoue presque (on le repêche à demi noyé). Il sert de contrepoint à Lancelot : la prouesse sans l'amour absolu.",
+   "relations": "Neveu d'Arthur ; compagnon de route de Lancelot au début, puis son double inversé (il refuse la charrette, choisit l'autre pont)."
+  },
+  {
+   "nom": "Keu",
+   "role": "Sénéchal d'Arthur, vantard et moqueur. Son chantage déclenche l'enlèvement ; vaincu par Méléagant, il est ensuite accusé à tort d'avoir couché avec la reine à cause du sang sur les draps. Personnage comique et dégradé.",
+   "relations": "Sénéchal d'Arthur ; son défi provoque l'enlèvement ; il partage la chambre de la reine blessé, d'où l'accusation de Méléagant."
+  },
+  {
+   "nom": "Le nain de la charrette",
+   "role": "Conducteur de la charrette d'infamie, être méprisable (« cuiverz de pute orine », v. 354 : un misérable de basse naissance) qui pose au héros le choix décisif entre honneur et amour.",
+   "relations": "Il ne se rattache à aucun camp clairement : il est l'instrument de l'épreuve qui sépare Lancelot (qui monte) et Gauvain (qui refuse)."
+  },
+  {
+   "nom": "La demoiselle entreprenante",
+   "role": "Elle offre l'hospitalité à Lancelot à condition qu'il partage son lit. Son épisode met à l'épreuve la fidélité absolue du héros, qui reste chaste.",
+   "relations": "Hôtesse de Lancelot ; elle teste sa fidélité à la reine puis devient une compagne de route (épisode du peigne)."
+  },
+  {
+   "nom": "La sœur de Méléagant (la demoiselle à la mule)",
+   "role": "Lancelot lui a accordé la tête d'un chevalier orgueilleux ; reconnaissante, elle le retrouve emmuré dans sa tour, le délivre et le soigne. Elle permet le dénouement.",
+   "relations": "Sœur de Méléagant qu'elle trahit par reconnaissance pour Lancelot."
+  },
+  {
+   "nom": "La femme du sénéchal",
+   "role": "Geôlière de Lancelot, elle le laisse aller au tournoi sur parole, en échange de son amour (qu'il ne peut lui donner) ; il revient fidèlement en prison, preuve de sa loyauté.",
+   "relations": "Épouse d'un sénéchal de Méléagant, geôlière de Lancelot ; elle l'aime sans retour."
+  },
+  {
+   "nom": "Marie de Champagne et Godefroi de Leigni",
+   "role": "Figures d'auteur : Marie, commanditaire, fournit « la matière et le sens » selon le prologue ; Godefroi, clerc, achève le roman. Le livre est ainsi encadré par une réflexion sur sa propre création.",
+   "relations": "Marie commande le roman à Chrétien ; Godefroi le termine avec l'accord de Chrétien."
+  }
+ ],
+ "evolution": "Lancelot ne change pas de valeurs au cours du roman, mais il les affirme de plus en plus fortement. Au début, il hésite un instant devant la charrette : Raison parle encore. Ensuite, chaque épreuve le montre plus soumis à Amour : rêverie qui lui fait oublier jusqu'à son nom (v. 715-717), vénération des cheveux, traversée du pont de l'Épée. La révélation de son nom (v. 3670) marque le passage de l'anonymat à l'identité, une identité donnée par la dame. Après la victoire, la froideur de Guenièvre lui apprend que l'amour doit être sans calcul : au tournoi, il obéit sans la moindre hésitation, même pour se déshonorer (« Come cil qui est suens antiers », v. 5670). L'hésitation du début est ainsi rachetée par l'obéissance immédiate de la fin.\n\nGuenièvre évolue de la dame lointaine et glaciale à l'amante qui accueille Lancelot dans son lit, puis à la souveraine qui le met encore à l'épreuve au tournoi. Méléagant, lui, reste enfermé dans son orgueil jusqu'à sa mort, malgré les conseils de son père. La situation générale passe du désordre (la reine enlevée, les gens de Logres prisonniers à Gorre) au rétablissement de l'ordre à la cour d'Arthur, mais l'amour adultère, lui, reste secret.",
+ "themes": [
+  {
+   "titre": "L'amour courtois (fin'amor)",
+   "texte": "Lancelot sert Guenièvre comme un vassal sert son seigneur : il lui obéit absolument (« au pire », puis « au mieux », au tournoi), accepte ses épreuves et ses caprices, vénère tout ce qui vient d'elle (les cheveux restés dans le peigne). L'amour est secret, adultère, et il élève l'amant : c'est par amour que Lancelot devient le meilleur chevalier. Le roman met en scène, en le poussant à l'extrême, le code de la fin'amor inventé par les troubadours."
+  },
+  {
+   "titre": "Amour contre Raison, amour contre honneur",
+   "texte": "L'épisode de la charrette est un véritable débat intérieur : Raison, qui n'est que « an la boche » (dans la bouche), lui dit de ne pas monter ; Amour, « el cuer anclose » (enfermé dans le cœur), le lui commande (v. 365-377). Lancelot choisit l'amour contre l'honneur chevaleresque, qui était la valeur suprême du héros épique. Mais il ne saute pas aussitôt, et Guenièvre le lui reprochera (« deus pas », v. 4499) : en amour parfait, même un instant de raison est une faute."
+  },
+  {
+   "titre": "La honte et l'humiliation",
+   "texte": "La charrette est un pilori : celui qu'on y mettait avait « totes lois perdues » (v. 336), il était exclu de la cour. Lancelot est raillé partout comme « le chevalier de la charrette » ; au tournoi, il accepte de passer pour un lâche. Paradoxe central : le héros n'atteint la perfection qu'en acceptant d'abord l'humiliation. La honte devient la preuve suprême de l'amour."
+  },
+  {
+   "titre": "La religion de l'amour",
+   "texte": "Chrétien emprunte le vocabulaire religieux pour parler de l'amour : Lancelot « adore » les cheveux de la reine (v. 1470) et les préfère à l'aide des saints ; dans la chambre, il s'incline devant la reine, car il ne croit en aucune relique autant qu'en elle (v. 4664-4665) ; en partant, il fait la génuflexion devant la chambre « con s'il fust devant un autel » (comme s'il était devant un autel, v. 4730). Certains lecteurs voient aussi dans la traversée du pont de l'Épée, mains et pieds ensanglantés, une image de la Passion. Ce transfert du sacré vers l'amour humain est audacieux, et peut-être teinté d'ironie de la part de l'auteur."
+  },
+  {
+   "titre": "Le merveilleux et l'Autre Monde",
+   "texte": "Le royaume de Gorre, dont « nus estranges ne retorne » (aucun étranger ne revient, v. 641), a des traits d'un Autre Monde ; on y entre par des passages impossibles (pont sous l'eau, pont de l'Épée). Lit périlleux et lance enflammée, dalle prophétique du cimetière que lui seul peut soulever, lions qui disparaissent grâce à l'anneau de la fée qui l'a élevé : le merveilleux sert à mettre le héros à l'épreuve et donne au roman une dimension d'initiation."
+  },
+  {
+   "titre": "L'identité et le nom",
+   "texte": "Le héros reste anonyme pendant près de la moitié du roman : il n'est que « le chevalier », puis « cil de la charrete ». Perdu dans sa rêverie, il ne se souvient même plus de son nom (v. 717). C'est Guenièvre qui révèle son nom (« Lanceloz del Lac », v. 3670), au moment où il combat pour elle. Le nom est donc lié à l'amour : il existe à travers sa dame. Au tournoi, il redevient anonyme sous un écu vermeil. L'identité du chevalier n'est pas donnée, elle se conquiert."
+  },
+  {
+   "titre": "Chevalerie et courtoisie : un idéal et sa critique",
+   "texte": "Le roman présente des modèles opposés : Lancelot (prouesse au service de l'amour), Gauvain (chevalier parfait mais sans élan amoureux absolu), Méléagant (force sans loyauté), Bademagu (sagesse courtoise), Keu (vantardise). Il interroge ainsi ce qu'est un vrai chevalier. Certains lecteurs y voient un éloge de l'amour courtois, d'autres une mise à distance ironique de ses excès (Lancelot qui manque de tomber de cheval ou de la fenêtre dans ses rêveries)."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Un chevalier peut-il être à la fois parfait guerrier et parfait amant, quand l'amour exige de sacrifier l'honneur ?",
+   "Comment le roman invente-t-il une manière de raconter l'amour comme expérience intérieure (débats, rêveries, émotions) ?",
+   "Le roman fait-il l'éloge de la fin'amor ou en montre-t-il, avec ironie, les excès ?",
+   "Qu'est-ce qu'un auteur au Moyen Âge, quand l'œuvre est commandée par une dame et achevée par un autre clerc ?"
+  ],
+  "intentions": "Les seules indications de Chrétien sur ses intentions se trouvent dans le prologue : il dit écrire à la demande de « ma dame de Chanpaigne » (v. 1), qui lui a fourni « matière et san » (v. 26), c'est-à-dire l'histoire et sa signification, lui-même n'y apportant que « sa painne et s'antancion » (son travail et son application, v. 29). L'épilogue de Godefroi de Leigni (v. 7118-7128) précise qu'il a achevé le roman « par le boen gré » (avec l'accord) de Chrétien. Aucune autre déclaration de l'auteur n'est connue : on ne sait pas pourquoi Chrétien a abandonné son roman. L'hypothèse selon laquelle il aurait été gêné par le sujet adultère imposé par la comtesse est souvent avancée, mais elle n'est pas prouvée.",
+  "procedes": [
+   {
+    "nom": "L'allégorie et le débat intérieur",
+    "explication": "Des idées abstraites (Amour, Raison) deviennent des personnages qui parlent et s'opposent dans l'esprit du héros. C'est une manière de représenter la délibération intérieure.",
+    "exemple": "Devant la charrette : « Mes Reisons, qui d'Amors se part, / Li dit que del monter se gart » ; « Mes Amors est el cuer anclose » (v. 365-372)."
+   },
+   {
+    "nom": "Les interventions du narrateur",
+    "explication": "Le narrateur s'adresse à son public, explique, commente et parfois s'amuse de son héros ou de sa propre histoire. Ces interventions créent une connivence et permettent une distance ironique.",
+    "exemple": "L'explication du pilori (v. 321-344) ; dans l'épisode du peigne, il craint qu'on le prenne « por mançongier et por fol » (pour un menteur et un fou, v. 1488) ; il refuse de raconter la nuit d'amour : « Qu'an conte ne doit estre dite » (v. 4693)."
+   },
+   {
+    "nom": "Le retardement et l'explication différée",
+    "explication": "Le récit cache longtemps des informations essentielles pour créer le suspense et faire réfléchir le lecteur : le nom du héros, la cause de la froideur de la reine.",
+    "exemple": "Le nom « Lanceloz del Lac » n'apparaît qu'au v. 3670 ; la raison de l'accueil glacial (v. 3957) n'est donnée qu'au v. 4499 (« Quant vos demorastes deus pas »)."
+   },
+   {
+    "nom": "L'hyperbole",
+    "explication": "L'exagération sert à dire l'absolu de l'amour, mais elle peut aussi faire sourire.",
+    "exemple": "Lancelot touche les cheveux « bien .c.m. foiz » (cent mille fois, v. 1471) ; l'or affiné cent mille fois paraîtrait plus obscur que la nuit à côté d'eux (v. 1496-1498)."
+   },
+   {
+    "nom": "Le lexique religieux appliqué à l'amour",
+    "explication": "Le vocabulaire du culte (adorer, reliques, autel) est transféré à la dame : l'amour devient une religion.",
+    "exemple": "« Qu'il les comance a aorer » (v. 1470) ; « Car an nul cors saint ne croit tant » (v. 4665) ; il s'incline devant la chambre « Con s'il fust devant un autel » (v. 4730)."
+   },
+   {
+    "nom": "Le parallélisme et le double (entrelacement)",
+    "explication": "Le récit oppose deux chemins et deux héros : Lancelot et Gauvain, le pont de l'Épée et le pont sous l'eau. Les épisodes se répondent à distance.",
+    "exemple": "Gauvain refuse la charrette que Lancelot accepte ; au tournoi, « au noauz » (v. 5668) puis « au mialz » (v. 5893) : deux journées symétriques."
+   }
+  ],
+  "style": "Le roman est écrit en octosyllabes à rimes plates (AABB), vers souple et rapide fait pour la lecture à voix haute. Chrétien pratique beaucoup l'enjambement et le « brisement du couplet » (la phrase s'arrête au milieu d'un couple de rimes), ce qui donne du naturel au récit. Il alterne narration rapide, dialogues vifs (le nain, la reine), descriptions merveilleuses (le pont de l'Épée, v. 3015-3035) et longs monologues intérieurs ou plaintes (la tentative de suicide de Lancelot, v. 4270 et suivants). Le narrateur intervient souvent, avec un humour discret. Le texte du site est en ancien français : pour l'oral, l'élève travaille sur une traduction, mais doit pouvoir citer quelques vers originaux.",
+  "registres": [
+   {
+    "nom": "Épique",
+    "explication": "Combats, prouesses, épreuves surhumaines : le pont de l'Épée, les duels contre Méléagant, la décapitation finale (v. 7103)."
+   },
+   {
+    "nom": "Merveilleux",
+    "explication": "Lit à la lance enflammée, dalle que seul l'élu peut soulever, lions enchantés dissipés par l'anneau d'une fée, royaume dont nul étranger ne revient."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "Expression des sentiments du héros : rêverie amoureuse (v. 711-724), plaintes, joie de la nuit d'amour, douleur de la séparation (« Li cors s'an vet, li cuers sejorne », v. 4709)."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "Désespoir de Lancelot et de la reine qui se croient l'un l'autre morts ; tentative de suicide de Lancelot."
+   },
+   {
+    "nom": "Comique et ironique",
+    "explication": "Le chevalier rêveur tombe dans le gué ; il manque de défaillir devant un peigne ; Keu est accusé à tort ; le héraut crie « Veez celui qui l'aunera ! » (Voici celui qui les mesurera tous, v. 5631). Le narrateur sourit parfois des excès de son héros."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le nom du héros n'est révélé qu'au v. 3670, par la reine : le roman lie l'identité du chevalier à l'amour de sa dame.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le roman a été achevé par Godefroi de Leigni, qui le déclare lui-même dans l'épilogue.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Chrétien prend-il au sérieux la fin'amor ou s'en moque-t-il ? Les rêveries ridicules, la chute dans le gué, l'adoration des cheveux et les interventions amusées du narrateur ont fait penser à une ironie de l'auteur ; d'autres lecteurs voient dans Lancelot un idéal sincèrement admiré. La question reste discutée.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Chrétien aurait abandonné le roman parce que le sujet (un amour adultère imposé par la comtesse) lui déplaisait, lui qui avait défendu le mariage d'amour dans Cligès. C'est une hypothèse fréquente, mais aucun texte ne la confirme.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "La traversée du pont de l'Épée, mains et pieds blessés, et la délivrance des prisonniers de Gorre font de Lancelot une figure de rédempteur, presque christique. La ressource Eduscol évoque ainsi un « héros salvateur » ; c'est une lecture symbolique, que le texte suggère sans l'affirmer.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le royaume de Gorre, dont nul étranger ne revient, serait une transposition de l'Autre Monde des légendes celtiques (royaume des morts). C'est une hypothèse savante répandue sur les sources du récit.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Le roman est un sommet de la littérature courtoise du XIIe siècle : il transpose dans le récit arthurien (matière de Bretagne) le code amoureux des troubadours. On y retrouve le service de la dame comme un vassal sert son seigneur, l'amour adultère et secret, la souffrance qui grandit l'amant, la dame souveraine et exigeante. Mais Chrétien pousse ce code jusqu'à ses limites (l'honneur sacrifié) et le met en tension avec l'idéal chevaleresque incarné par Gauvain. Il témoigne aussi de la naissance du roman : un récit en langue « romane », lu à voix haute à la cour, signé par son auteur, qui commence à explorer la vie intérieure des personnages."
+ },
+ "citations": [
+  {
+   "texte": "Del chevalier de la charrete / Comance Crestiens son livre ; / Matière et san li done et livre / La Contesse",
+   "locuteur": "Le narrateur (Chrétien, qui parle de lui à la troisième personne)",
+   "reference": "Prologue, v. 24-27",
+   "situation": "Fin du prologue : après avoir prétendu refuser de flatter Marie de Champagne, Chrétien annonce le sujet de son livre.",
+   "sens": "Traduction proposée par la fiche : « Du chevalier de la charrette, Chrétien commence son livre ; la comtesse lui en donne et lui en fournit la matière et le sens ». Le poète se nomme, donne le titre de l'œuvre et attribue à sa protectrice la « matière » (l'histoire) et le « san » (la signification, l'orientation). Lui ne revendique que son travail.",
+   "procedes": "Énonciation à la troisième personne (Crestiens), doublet « done et livre », couple matière / san, rimes plates.",
+   "demontre": "Que le roman est une œuvre de commande, née à la cour, et que Chrétien se place lui-même en serviteur de sa dame, comme Lancelot le sera de Guenièvre.",
+   "usage": "Pour parler de la notion d'auteur (Chrétien, Marie, puis Godefroi), du contexte de cour et du parallèle écrivain / chevalier.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Come cil qui est suens antiers",
+   "locuteur": "Le narrateur (prologue) ; puis le narrateur à propos de Lancelot (tournoi)",
+   "reference": "Prologue, v. 4 ; repris mot pour mot au v. 5670 (tournoi de Noauz)",
+   "situation": "Au v. 4, Chrétien dit qu'il accepte la commande de sa dame ; au v. 5670, Lancelot accepte l'ordre de combattre « au noauz ».",
+   "sens": "Traduction proposée par la fiche : « Comme celui qui est tout entier à elle ». Le même vers sert à dire le dévouement de l'écrivain à la comtesse et celui du chevalier à la reine.",
+   "procedes": "Reprise exacte d'un vers à plus de 5 000 vers de distance ; lexique de l'appartenance (suens = « sien »).",
+   "demontre": "Que l'écriture du roman et l'amour de Lancelot obéissent au même modèle : le service de la dame (fin'amor).",
+   "usage": "Excellent exemple pour une dissertation sur le parcours : le roman lui-même est présenté comme un acte de service courtois.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée). Traduction publiée citée par la ressource Eduscol (voie générale, https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceeg1francaischretientroyesoeuvreparcourspdf-126008.pdf) pour le vers du prologue : « en homme entièrement à sa dévotion »."
+   }
+  },
+  {
+   "texte": "De ce servoit charrete lores / Don li pilori servent ores",
+   "locuteur": "Le narrateur",
+   "reference": "v. 321-322 (épisode « Gauvain, le chevalier inconnu et la charrette »)",
+   "situation": "Le chevalier à pied rattrape une charrette ; le narrateur interrompt le récit pour expliquer ce qu'était une charrette à l'époque.",
+   "sens": "Traduction proposée par la fiche : « La charrette servait alors à ce à quoi servent aujourd'hui les piloris ». Le narrateur explique que monter dans la charrette, c'était être exposé publiquement comme un criminel.",
+   "procedes": "Intervention du narrateur, opposition temporelle lores (alors) / ores (aujourd'hui), parenthèse explicative adressée au public.",
+   "demontre": "Que le choix de Lancelot a un prix social énorme : le narrateur fait comprendre au public ce que le héros va perdre.",
+   "usage": "Pour analyser la mise en scène de la honte et le rôle du narrateur qui guide l'auditoire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "S’avoit puis totes lois perdues, / Ne puis n’estoit a cort oïz / Ne enorez ne conjoïz.",
+   "locuteur": "Le narrateur",
+   "reference": "v. 336-338 (épisode de la charrette)",
+   "situation": "Suite de la parenthèse sur la charrette : ce qui arrivait à celui qu'on y avait mis.",
+   "sens": "Traduction proposée par la fiche : « Il avait ensuite perdu tous ses droits, et n'était plus jamais écouté à la cour, ni honoré, ni accueilli avec joie ». Celui qu'on promenait dans la charrette était exclu de la société chevaleresque et de la cour.",
+   "procedes": "Négations accumulées (ne… ne… ne), gradation des pertes (droits, parole, honneur, accueil).",
+   "demontre": "Que la charrette signifie une mort sociale : c'est exactement ce que Lancelot accepte par amour.",
+   "usage": "Pour montrer que l'amour l'emporte sur l'honneur, valeur suprême du chevalier.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Mes Reisons, qui d’Amors se part, / Li dit que del monter se gart",
+   "locuteur": "Le narrateur (discours indirect de Raison)",
+   "reference": "v. 365-366 (épisode de la charrette)",
+   "situation": "Le nain a promis des nouvelles de la reine si le chevalier monte dans la charrette ; un débat intérieur commence.",
+   "sens": "Traduction proposée par la fiche : « Mais Raison, qui se sépare d'Amour, lui dit de se garder de monter ». Raison, opposée à Amour, conseille au chevalier de ne pas se déshonorer.",
+   "procedes": "Allégorie (Raison et Amour deviennent des personnages), discours rapporté, rime part / gart.",
+   "demontre": "Que le roman met en scène un conflit intérieur : le héros délibère avant d'agir.",
+   "usage": "Pour parler de l'invention de l'intériorité du personnage romanesque (parcours « Le roman et l'invention de l'amour »).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "N’est pas el cuer, mes an la boche, / Reisons qui ce dire li ose ; / Mes Amors est el cuer anclose",
+   "locuteur": "Le narrateur",
+   "reference": "v. 370-372 (épisode de la charrette)",
+   "situation": "Le narrateur commente le débat intérieur et compare la force des deux voix.",
+   "sens": "Traduction proposée par la fiche : « Raison, qui ose lui dire cela, n'est pas dans le cœur mais dans la bouche ; mais Amour est enfermé dans le cœur ». Raison n'est qu'une parole extérieure ; Amour, lui, habite le cœur, siège de la volonté et des sentiments.",
+   "procedes": "Antithèse bouche / cœur, reprise de « el cuer », allégories.",
+   "demontre": "Que, pour le narrateur, Amour a plus d'autorité que Raison parce qu'il est intérieur et profond.",
+   "usage": "Pour analyser la hiérarchie des valeurs chez Lancelot et la tension amour / raison.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Amors le vialt et il i saut, / Que de la honte ne li chaut / Puis qu’Amors le comande et vialt.",
+   "locuteur": "Le narrateur",
+   "reference": "v. 375-377 (épisode de la charrette)",
+   "situation": "Conclusion du débat intérieur : le chevalier monte dans la charrette.",
+   "sens": "Traduction proposée par la fiche : « Amour le veut, et il y saute ; de la honte il n'a cure, puisque Amour le commande et le veut ». La décision est immédiate : l'ordre d'Amour suffit, la honte ne compte plus.",
+   "procedes": "Parataxe et rythme rapide (« et il i saut »), chiasme vialt… comande et vialt qui encadre le passage, personnification d'Amour.",
+   "demontre": "Que Lancelot fait passer l'amour avant l'honneur : c'est le geste fondateur du héros.",
+   "usage": "LA citation à connaître : choix de l'amour contre l'honneur, utilisable pour les deux parcours (invention de l'amour / héroïsme et amour).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée). Traduction publiée citée par la ressource Eduscol (voie technologique, https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceet1francaischretientroyesoeuvreparcourspdf-126002.pdf) pour les v. 376-377 : « De la honte, il ne lui chaut guère puisqu'Amour le commande et le veut »."
+   }
+  },
+  {
+   "texte": "Et cil de la charrete panse / Con cil qui force ne desfanse / N’a vers Amors qui le justise",
+   "locuteur": "Le narrateur",
+   "reference": "v. 711-713 (épisode « La rêverie amoureuse et le gué défendu »)",
+   "situation": "Le chevalier chevauche, perdu dans ses pensées, avant de tomber dans le gué gardé par un chevalier.",
+   "sens": "Traduction proposée par la fiche : « Et celui de la charrette est plongé dans ses pensées, comme un homme qui n'a ni force ni défense contre Amour qui le gouverne ». Le héros est entièrement soumis à Amour, présenté comme un seigneur qui exerce sur lui sa justice.",
+   "procedes": "Périphrase « cil de la charrete » (le héros n'a pas de nom), vocabulaire juridique et féodal (justise), allégorie.",
+   "demontre": "Que l'amour est une domination : Lancelot est le vassal d'Amour. Eduscol cite ce passage en traduction dans sa présentation de l'œuvre.",
+   "usage": "Pour montrer que l'amour peut affaiblir le chevalier (il ne voit plus le danger) tout en le guidant.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée). Traduction publiée citée par les ressources Eduscol (https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceeg1francaischretientroyesoeuvreparcourspdf-126008.pdf) pour les v. 712-713 : « en homme qui n'a ni force ni défense envers Amour qui le gouverne »."
+   }
+  },
+  {
+   "texte": "Que lui meïsmes en oblie, / Ne set s’il est, ou s’il n’est mie, / Ne ne li manbre de son non",
+   "locuteur": "Le narrateur",
+   "reference": "v. 715-717 (rêverie amoureuse)",
+   "situation": "Même passage : description de la rêverie du chevalier.",
+   "sens": "Traduction proposée par la fiche : « Il s'en oublie lui-même, il ne sait s'il existe ou non, et ne se souvient pas de son nom ». Absorbé par la pensée de la reine, le héros perd jusqu'à la conscience de lui-même et de son nom.",
+   "procedes": "Hyperbole, négations en série, anaphore de « ne set », écho ironique avec l'anonymat du héros.",
+   "demontre": "Que l'identité de Lancelot est absorbée par l'amour : le héros sans nom oublie même son nom.",
+   "usage": "Pour le thème de l'identité et pour discuter l'ironie possible du narrateur (la rêverie le rend ridicule : il tombera dans le gué).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Que del chief la reïne furent : / Onques en autre pré ne crurent.",
+   "locuteur": "La demoiselle qui accompagne le chevalier",
+   "reference": "v. 1425-1426 (épisode « Le peigne aux cheveux de la reine »)",
+   "situation": "Près d'une fontaine, le chevalier trouve un peigne d'ivoire où restent des cheveux ; la demoiselle finit par lui dire à qui ils appartiennent.",
+   "sens": "Traduction proposée par la fiche : « Ils venaient de la tête de la reine : jamais ils n'ont poussé dans un autre pré ». Les cheveux appartiennent à la reine et à elle seule.",
+   "procedes": "Métaphore végétale (le « pré » pour la tête), rime furent / crurent, révélation retardée.",
+   "demontre": "Que l'objet le plus banal devient précieux dès qu'il touche à la dame.",
+   "usage": "Pour introduire le motif de l'objet fétiche et de la religion de l'amour.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Ja mes oel d’ome ne verront / Nule chose tant enorer, / Qu’il les comance a aorer",
+   "locuteur": "Le narrateur",
+   "reference": "v. 1468-1470 (épisode du peigne)",
+   "situation": "Le chevalier rend le peigne à la demoiselle mais garde les cheveux.",
+   "sens": "Traduction proposée par la fiche : « Jamais yeux d'homme ne verront honorer une chose autant : il se met à les adorer ». Le chevalier vénère les cheveux comme des reliques ; la suite précise qu'il les préfère à l'aide de saint Martin et de saint Jacques.",
+   "procedes": "Hyperbole (ja mes… nule chose), vocabulaire religieux (enorer, aorer = adorer), gradation.",
+   "demontre": "Que Chrétien transfère le vocabulaire du culte religieux vers l'amour humain.",
+   "usage": "Pour le thème de la religion de l'amour, et pour discuter le sourire du narrateur (qui dit ensuite craindre de passer pour menteur).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Mialz voel morir que retorner.",
+   "locuteur": "Lancelot",
+   "reference": "v. 3098 (épisode « Le Pont de l'Épée »)",
+   "situation": "Devant le pont fait d'une épée tranchante, ses compagnons le supplient de renoncer ; il leur répond.",
+   "sens": "Traduction proposée par la fiche : « J'aime mieux mourir que revenir en arrière ». Lancelot refuse de renoncer, quel que soit le danger.",
+   "procedes": "Vers bref et frappé, antithèse morir / retorner, forme de maxime.",
+   "demontre": "La détermination héroïque du chevalier, qui accepte la mort pour atteindre la reine.",
+   "usage": "Pour le parcours « Héroïsme et amour » : l'amour pousse le héros jusqu'au sacrifice.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Mes tot le rasoage et sainne / Amors qui le conduist et mainne, / Si li estoit a sofrir dolz.",
+   "locuteur": "Le narrateur",
+   "reference": "v. 3121-3123 (Pont de l'Épée)",
+   "situation": "Lancelot traverse le pont mains et pieds nus et se blesse aux mains, aux genoux et aux pieds.",
+   "sens": "Traduction proposée par la fiche : « Mais Amour, qui le conduit et le mène, apaise et guérit tout, si bien que la souffrance lui était douce ». La douleur physique est réelle, mais Amour la rend douce.",
+   "procedes": "Personnification d'Amour (guide), doublets (rasoage et sainne, conduist et mainne), paradoxe de la souffrance douce.",
+   "demontre": "Que la souffrance acceptée par amour devient presque une joie : le pont est une épreuve d'amour autant que de prouesse.",
+   "usage": "Pour analyser le pont de l'Épée comme épreuve suprême ; l'image d'une passion quasi christique est une lecture possible, non une affirmation du texte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Lanceloz del Lac a a non / Li chevaliers, mien esciant.",
+   "locuteur": "La reine Guenièvre",
+   "reference": "v. 3670-3671 (épisode « Le premier combat contre Méléagant »)",
+   "situation": "Pendant le combat contre Méléagant, une demoiselle demande à la reine le nom du champion.",
+   "sens": "Traduction proposée par la fiche : « Lancelot du Lac est le nom du chevalier, à ce que je crois savoir ». Le nom du héros est prononcé pour la première fois, par la bouche de la reine.",
+   "procedes": "Révélation retardée (près de la moitié du roman), modalisation prudente (mien esciant), place stratégique au cœur du récit.",
+   "demontre": "Que l'identité de Lancelot est liée à sa dame : c'est elle qui le nomme, au moment où il combat pour elle.",
+   "usage": "Pour le thème de l'identité et du nom ; Eduscol souligne aussi que le nom est révélé « par la bouche même de la Dame » (vers 3660 dans sa numérotation).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Moi ? Sire, moi ne puet il plaire ; / De son veoir n’ai ge que faire.",
+   "locuteur": "La reine Guenièvre",
+   "reference": "v. 3957-3958 (épisode « L'accueil glacial de la reine »)",
+   "situation": "Bademagu présente Lancelot vainqueur à la reine, persuadé qu'elle sera heureuse de le voir.",
+   "sens": "Traduction proposée par la fiche : « Moi ? Sire, il ne peut pas me plaire ; je n'ai que faire de le voir ». La reine refuse de reconnaître ce que Lancelot a fait pour elle.",
+   "procedes": "Question rhétorique, répétition de « moi », renversement brutal des attentes.",
+   "demontre": "Que la dame courtoise est souveraine et exigeante : la victoire ne suffit pas, l'amour doit être parfait.",
+   "usage": "Pour montrer que la dame elle-même devient un obstacle et relance le récit.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Molt a grant enviz i montastes / Quant vos demorastes deus pas.",
+   "locuteur": "La reine Guenièvre",
+   "reference": "v. 4498-4499 (épisode « La réconciliation »)",
+   "situation": "Lancelot ose enfin demander à la reine pourquoi elle l'a si mal reçu.",
+   "sens": "Traduction proposée par la fiche : « Vous y êtes monté bien à contrecœur, puisque vous avez tardé deux pas ». La reine reproche à Lancelot d'avoir hésité un court instant avant de monter dans la charrette.",
+   "procedes": "Disproportion entre la faute (deux pas) et la punition, révélation différée de plus de 4 000 vers.",
+   "demontre": "Que la fin'amor exige une obéissance absolue et immédiate : même un instant de raison est une faute.",
+   "usage": "Pour illustrer l'exigence de l'amour courtois et la construction du récit (explication retardée).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Si l’aore et se li ancline, / Car an nul cors saint ne croit tant.",
+   "locuteur": "Le narrateur",
+   "reference": "v. 4664-4665 (épisode « La nuit d'amour »)",
+   "situation": "Lancelot a arraché les barreaux de la fenêtre et rejoint la reine dans sa chambre.",
+   "sens": "Traduction proposée par la fiche : « Il l'adore et s'incline devant elle, car il ne croit en aucune relique de saint autant ». Lancelot vénère la reine plus qu'aucune relique.",
+   "procedes": "Vocabulaire religieux (aorer, cors saint = relique), gestes de dévotion, comparaison.",
+   "demontre": "Que l'amour de Lancelot prend la forme d'un culte : c'est la « religion de l'amour ».",
+   "usage": "Pour le thème de la religion de l'amour ; à mettre en relation avec les cheveux-reliques et la génuflexion devant la chambre (v. 4728-4730).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Li cors s’an vet, li cuers sejorne.",
+   "locuteur": "Le narrateur",
+   "reference": "v. 4709 (épisode « La nuit d'amour »)",
+   "situation": "Au lever du jour, Lancelot doit quitter la chambre de la reine.",
+   "sens": "Traduction proposée par la fiche : « Le corps s'en va, le cœur demeure ». Lancelot part, mais son cœur reste auprès de la reine.",
+   "procedes": "Antithèse cors / cuers, parallélisme, vers bref comme une maxime.",
+   "demontre": "La séparation du corps et du cœur, image clé de la poésie courtoise.",
+   "usage": "Pour une dissertation sur l'amour comme expérience intérieure ; formule facile à retenir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Que au noauz.",
+   "locuteur": "La demoiselle messagère, transmettant l'ordre de la reine",
+   "reference": "v. 5668 (déjà au v. 5659 dans la bouche de la reine : « Que au noauz que je lui mant ») — épisode « Le tournoi de Noauz »",
+   "situation": "Au tournoi, Lancelot combat incognito sous un écu vermeil ; la reine, qui le soupçonne d'être Lancelot, lui fait porter ce message.",
+   "sens": "Traduction proposée par la fiche : « Au plus mal ! ». La reine ordonne à Lancelot de combattre le plus mal possible ; il obéit et passe pour un lâche.",
+   "procedes": "Ellipse (ordre réduit à deux mots), jeu de mots avec le nom du lieu (la dame de Noauz, v. 5383).",
+   "demontre": "Que l'obéissance à la dame passe avant la gloire : Lancelot accepte l'humiliation publique.",
+   "usage": "Pour le parcours « Héroïsme et amour » : l'héroïsme paradoxal de celui qui sacrifie sa gloire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Qu’il n’est riens nule qui me griet / A feire des que il li siet, / Que quanque il plest m’atalante.",
+   "locuteur": "Lancelot",
+   "reference": "v. 5905-5907 (tournoi de Noauz)",
+   "situation": "Le second jour, la reine lui fait dire de combattre « au mieux » ; il répond à la messagère.",
+   "sens": "Traduction proposée par la fiche : « Il n'est rien qui me pèse à faire dès lors que cela lui convient, car tout ce qui lui plaît me plaît ». Lancelot déclare que la volonté de la reine est la sienne.",
+   "procedes": "Négation totale (riens nule), parallélisme plaire / atalanter.",
+   "demontre": "La soumission absolue de l'amant courtois, qui n'a plus de volonté propre.",
+   "usage": "Pour discuter si l'amour grandit ou diminue le héros.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  },
+  {
+   "texte": "Godefroiz de Leigni, li clers, / A parfinee LA CHARRETE",
+   "locuteur": "Le narrateur (Godefroi de Leigni)",
+   "reference": "v. 7118-7119 (épilogue)",
+   "situation": "Derniers vers du roman, après la mort de Méléagant.",
+   "sens": "Traduction proposée par la fiche : « Godefroi de Leigni, le clerc, a achevé La Charrette ». Le continuateur se nomme et précise ensuite qu'il a travaillé avec l'accord de Chrétien, à partir de l'emmurement de Lancelot.",
+   "procedes": "Signature d'auteur dans le texte, titre de l'œuvre en majuscules dans l'édition.",
+   "demontre": "Que le roman médiéval peut être une œuvre à plusieurs mains : la notion d'auteur est différente de la nôtre.",
+   "usage": "Pour la question de l'auteur (prologue / épilogue), signalée par les ressources Eduscol.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte du site : transcription Wikisource du ms. BnF fr. 794 (éd. W. J. A. Jonckbloet, La Haye, 1850, mêlée par endroits à l'éd. Foulet-Uitti, 1989) ; numérotation des vers du site",
+    "note": "Vers originaux vérifiés mot à mot par script dans le texte du site. La traduction placée en tête du champ « sens » est une traduction proposée par la fiche (ce n'est pas une édition publiée)."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le roman et l'invention de l'amour",
+  "explication": "Le parcours de la voie générale invite à observer comment le roman médiéval a contribué à inventer notre façon de penser et de raconter l'amour. Au XIIe siècle, le genre romanesque naît en même temps qu'une nouvelle conception du sentiment amoureux, la fin'amor des troubadours : l'amour n'est plus seulement un désir ou une alliance, mais une expérience intérieure qui transforme et élève l'individu. Avec Le Chevalier de la charrette, Chrétien de Troyes donne à cette conception sa forme narrative : un héros qui fait de l'amour la loi de sa vie, des débats intérieurs (Amour contre Raison), une dame idéalisée, des épreuves qui sont autant de preuves d'amour. Le roman invente aussi des scènes et des motifs que toute la littérature reprendra : le coup de foudre, l'objet fétiche (le peigne et les cheveux), l'obéissance absolue, l'amour adultère et secret, la rêverie qui coupe le héros du monde.\n\nPour la voie technologique, le parcours associé est « Héroïsme et amour ». Il s'agit alors d'étudier le lien entre prouesse et sentiment : l'amour rend-il le héros plus grand ou le met-il en danger ? Le Chevalier de la charrette offre un terrain idéal : c'est par amour que Lancelot accomplit les plus grands exploits (le pont de l'Épée, la victoire contre Méléagant quand il regarde la reine), mais c'est aussi par amour qu'il accepte la honte (la charrette, le tournoi « au pire »). L'héroïsme y change de sens : il ne s'agit plus seulement de vaincre, mais de se soumettre et de se dépasser pour un autre.\n\nDans les deux cas, pensez à comparer ce modèle médiéval à d'autres œuvres : Tristan et Iseut (l'amour-passion fatal), La Princesse de Clèves (l'amour qui se refuse), Le Cid de Corneille (le conflit entre amour et honneur), ou Don Quichotte, qui se moque d'un chevalier rêvant de Dulcinée. Vous montrerez ainsi que l'amour romanesque, depuis Chrétien, est toujours lié à l'épreuve, à l'obstacle et à la transformation du héros.",
+  "textesComplementaires": [
+   {
+    "titre": "Tristan et Iseut (fragments de Béroul et de Thomas, XIIe siècle)",
+    "auteur": "Béroul, Thomas",
+    "interet": "L'autre grand mythe amoureux du Moyen Âge : l'amour-passion, causé par un philtre, fatal et mortel. Il s'oppose à la fin'amor maîtrisée et codifiée de Lancelot ; Cligès, le roman précédent de Chrétien, est souvent lu comme une réponse critique à Tristan."
+   },
+   {
+    "titre": "Chansons d'amour des troubadours (XIIe siècle)",
+    "auteur": "Bernard de Ventadour, Jaufré Rudel",
+    "interet": "Les poèmes qui inventent la fin'amor : service de la dame, « amour de loin » chez Jaufré Rudel, joie et souffrance mêlées. Ils fournissent le code amoureux que Chrétien transpose dans le roman."
+   },
+   {
+    "titre": "Lais (vers 1160-1180), notamment « Le Chèvrefeuille »",
+    "auteur": "Marie de France",
+    "interet": "Contemporaine de Chrétien, Marie de France raconte en une centaine de vers la rencontre secrète de Tristan et Iseut ; elle compare les amants au chèvrefeuille enlacé autour du coudrier, qui ne peuvent vivre séparés. Un autre visage, plus intime et plus bref, de l'amour courtois."
+   },
+   {
+    "titre": "La Princesse de Clèves (1678)",
+    "auteur": "Madame de La Fayette",
+    "interet": "Cinq siècles plus tard, le roman d'analyse dissèque encore l'amour, mais l'héroïne choisit de renoncer à la passion. Comparaison utile pour la dissertation : amour courtois sublimé contre amour refusé."
+   },
+   {
+    "titre": "Le Cid (1637)",
+    "auteur": "Pierre Corneille",
+    "interet": "Pour le parcours « Héroïsme et amour » : Rodrigue doit choisir entre son amour pour Chimène et son honneur. Chez Corneille, l'honneur l'emporte d'abord ; chez Chrétien, l'amour l'emporte sur l'honneur."
+   },
+   {
+    "titre": "Don Quichotte (1605-1615)",
+    "auteur": "Miguel de Cervantès",
+    "interet": "Parodie des romans de chevalerie : Don Quichotte dédie ses exploits à une Dulcinée imaginaire. Le texte permet d'interroger les excès de l'idéal courtois, déjà sensibles chez Lancelot."
+   },
+   {
+    "titre": "L'Amour et l'Occident (1939), livre I",
+    "auteur": "Denis de Rougemont",
+    "interet": "Essai qui fait de l'amour-passion, né selon l'auteur au XIIe siècle autour du mythe de Tristan, un mythe fondateur de la littérature occidentale. Au début du livre I, Rougemont écrit : « L'amour heureux n'a pas d'histoire. » Utile pour la dissertation sur le lien entre amour, obstacle et récit."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le roman fait de l'amour la loi de la vie du héros : Amour l'emporte sur Raison et sur l'honneur (v. 375-377).",
+   "L'amour est présenté comme un service féodal : Lancelot est « tout entier » à sa dame, comme Chrétien l'est à la comtesse (v. 4 et 5670).",
+   "La honte acceptée (charrette, tournoi « au noauz ») devient la preuve suprême de l'amour.",
+   "L'amour est une religion : cheveux adorés, reliques, autel.",
+   "Le roman invente l'intériorité du personnage : débats allégoriques, rêveries, monologues.",
+   "L'identité du héros se construit par l'amour : anonyme, il est nommé par la reine au milieu du roman.",
+   "Le roman est ambigu : éloge de la fin'amor ou mise à distance ironique de ses excès ?"
+  ],
+  "axes": [
+   "Un roman de chevalerie traversé par la quête amoureuse (épreuves, merveilleux, combats au service de la dame).",
+   "La mise en scène d'un conflit de valeurs : amour contre honneur, Lancelot contre Gauvain.",
+   "La fin'amor comme code exigeant : la dame souveraine, l'épreuve, l'obéissance.",
+   "La sacralisation de l'amour et ses limites (ironie du narrateur).",
+   "Le rôle du narrateur et la réflexion sur l'auteur (prologue, épilogue, interventions)."
+  ],
+  "problematiques": [
+   "Comment Le Chevalier de la charrette fait-il de l'amour une valeur supérieure à l'honneur chevaleresque ?",
+   "En quoi ce roman participe-t-il à l'invention d'une nouvelle manière de raconter l'amour ?",
+   "L'amour rend-il Lancelot plus grand ou le rend-il ridicule ?",
+   "Comment Chrétien de Troyes transforme-t-il la quête chevaleresque en quête amoureuse ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "La charrette (v. 318-377) : le débat entre Raison et Amour, puis le saut dans la charrette.",
+    "utilisation": "Montrer que l'amour l'emporte sur l'honneur et que le roman représente la délibération intérieure."
+   },
+   {
+    "exemple": "La rêverie et le gué (v. 711-760 environ) : Lancelot oublie jusqu'à son nom et tombe à l'eau.",
+    "utilisation": "Montrer la puissance de l'amour, mais aussi l'ironie possible du narrateur."
+   },
+   {
+    "exemple": "Le peigne et les cheveux (v. 1359-1507) : adoration des cheveux, plus précieux que des reliques.",
+    "utilisation": "Illustrer la religion de l'amour et le registre hyperbolique."
+   },
+   {
+    "exemple": "Le pont de l'Épée (v. 3013-3145) : la traversée mains et pieds nus, guidé par Amour.",
+    "utilisation": "Montrer l'union de la prouesse et de l'amour, et la souffrance acceptée."
+   },
+   {
+    "exemple": "La révélation du nom (v. 3660-3690) : la reine nomme Lancelot ; il combat en la regardant.",
+    "utilisation": "Montrer que l'identité et la force du héros viennent de la dame."
+   },
+   {
+    "exemple": "L'accueil glacial (v. 3949-3992) puis la réconciliation (v. 4495-4510).",
+    "utilisation": "Montrer l'exigence de la dame courtoise et l'art du récit différé."
+   },
+   {
+    "exemple": "Le tournoi de Noauz (v. 5650-5910) : « au noauz » puis « au mialz ».",
+    "utilisation": "Montrer l'héroïsme paradoxal de l'obéissance amoureuse (parcours « Héroïsme et amour »)."
+   },
+   {
+    "exemple": "Le prologue (v. 1-29) et l'épilogue de Godefroi (v. 7114-7128).",
+    "utilisation": "Réfléchir à la notion d'auteur et au roman comme œuvre de cour."
+   }
+  ],
+  "liens": "Les thèmes se répondent à travers les personnages et les procédés. La honte (charrette, tournoi) et l'exigence de Guenièvre (accueil glacial, « deux pas ») forment un système : la dame éprouve l'amant, qui prouve son amour par l'humiliation. Le lexique religieux (aorer, cors saint, autel) relie les épisodes du peigne et de la nuit d'amour. Le thème de l'identité passe par l'anonymat du héros, sa rêverie (il oublie son nom), puis la nomination par la reine. Gauvain, double de Lancelot, permet de mesurer ce que l'amour change à l'héroïsme. Enfin, les interventions du narrateur ouvrent la question de l'ironie.",
+  "sujetsCommentaire": [
+   {
+    "passage": "La charrette d'infamie, v. 318-377 (de « Tot armé, le hiaume lacié » à « Puis qu'Amors le comande et vialt »).",
+    "pistes": "1) Une scène de rencontre dramatisée : explication du narrateur sur le pilori, portrait du nain, chantage. 2) Un débat intérieur : allégories de Raison et d'Amour, opposition bouche / cœur, hiérarchie des valeurs. 3) La naissance d'un héros paradoxal : décision rapide mais hésitation blâmée par le narrateur (« Mar le fist », v. 362), honneur sacrifié à l'amour."
+   },
+   {
+    "passage": "Le pont de l'Épée, v. 3013-3145.",
+    "pistes": "1) Un lieu terrifiant et merveilleux : description de l'eau « noire et bruiant », comparaison avec le « fluns au deable », lions supposés. 2) Le refus héroïque : discours dissuasif des compagnons, réponse « Mialz voel morir que retorner ». 3) Une épreuve d'amour : souffrance physique adoucie par Amour, dissipation de l'enchantement grâce à l'anneau ; on peut discuter la lecture symbolique (passion, sacrifice)."
+   },
+   {
+    "passage": "La nuit d'amour, v. 4645-4730.",
+    "pistes": "1) Une prouesse au service de l'amour : les barreaux arrachés, les doigts blessés, la douleur ignorée. 2) La religion de l'amour : « Si l'aore et se li ancline », le culte de la dame, la génuflexion « con s'il fust devant un autel ». 3) Un narrateur discret et habile : refus de raconter la joie (« Qu'an conte ne doit estre dite »), antithèse « Li cors s'an vet, li cuers sejorne », et le sang sur les draps qui prépare la suite."
+   }
+  ],
+  "erreurs": [
+   "Croire que Lancelot est le héros dès le début et qu'on connaît son nom : il reste anonyme jusqu'au v. 3670.",
+   "Confondre Lancelot et Gauvain, ou attribuer à Gauvain le pont de l'Épée (il prend le pont sous l'eau).",
+   "Dire que Lancelot est le mari de Guenièvre : elle est l'épouse d'Arthur, leur amour est adultère et secret.",
+   "Penser que la reine est froide parce qu'elle n'aime pas Lancelot : elle lui reproche son hésitation devant la charrette.",
+   "Présenter l'ironie de Chrétien comme une certitude : c'est une interprétation discutée.",
+   "Oublier que la fin n'est pas de Chrétien mais de Godefroi de Leigni.",
+   "Citer la traduction comme si c'était le texte de Chrétien : le texte original est en ancien français ; il faut préciser qu'on cite une traduction.",
+   "Confondre « roman » au sens médiéval (récit en langue romane, en vers) et roman moderne en prose."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Le Chevalier de la charrette est-il un roman de chevalerie ou un roman d'amour ?",
+   "analyse": "Le sujet oppose deux genres. Le roman de chevalerie raconte des exploits guerriers et des aventures merveilleuses ; le roman d'amour s'intéresse au sentiment. Il faut montrer que l'œuvre est l'un et l'autre, puis que leur relation est le véritable enjeu : la chevalerie est mise au service de l'amour, ce qui transforme l'idéal héroïque.",
+   "problematique": "Dans le roman de Chrétien, les exploits chevaleresques sont-ils une fin en soi, ou ne prennent-ils leur sens que par l'amour qui les inspire ?",
+   "plan": [
+    {
+     "titre": "I. Un roman de chevalerie",
+     "arguments": [
+      "A. Un univers arthurien : la cour d'Arthur, Gauvain, Keu, la quête pour libérer la reine et les prisonniers de Gorre.",
+      "B. Des épreuves et des combats : le lit périlleux, le gué, le pont de l'Épée, les duels contre Méléagant.",
+      "C. Le merveilleux de l'Autre Monde : un royaume dont « nus estranges ne retorne » (aucun étranger ne revient, v. 641), dalle prophétique, anneau de la fée, lions enchantés."
+     ]
+    },
+    {
+     "titre": "II. Mais un roman où l'amour gouverne tout",
+     "arguments": [
+      "A. Le débat Amour / Raison dans la charrette : l'amour l'emporte sur l'honneur (« Amors le vialt et il i saut »).",
+      "B. Une prouesse inspirée par la dame : Lancelot reprend des forces en regardant la reine ; il cesse le combat sur un mot d'elle.",
+      "C. L'obéissance absolue : le tournoi « au noauz » (au plus mal) montre que la gloire n'est rien face à la volonté de la dame."
+     ]
+    },
+    {
+     "titre": "III. Une fusion qui invente un héros nouveau",
+     "arguments": [
+      "A. L'héroïsme redéfini : accepter la honte (la charrette, la lâcheté feinte) devient la plus haute prouesse.",
+      "B. Une religion de l'amour : cheveux-reliques, pont de l'Épée comme passion, génuflexion devant la chambre.",
+      "C. Une ambiguïté féconde : ironie possible du narrateur (rêveries, chute dans le gué), modèle repris et discuté par toute la littérature (Lancelot en prose, Don Quichotte)."
+     ]
+    }
+   ],
+   "introduction": "Au XIIe siècle, le mot « roman » désigne d'abord une langue, la langue vulgaire par opposition au latin, avant de nommer un genre nouveau, dont Chrétien de Troyes est l'un des inventeurs. Vers 1177, à la demande de Marie de Champagne, il compose Le Chevalier de la charrette, qui raconte comment Lancelot délivre la reine Guenièvre, enlevée par le cruel Méléagant. Le récit accumule combats, épreuves et merveilles ; mais son héros accepte de monter dans une charrette infamante, de combattre en lâche et de tout sacrifier à sa dame. Ce roman est-il alors un roman de chevalerie ou un roman d'amour ? Autrement dit, les exploits chevaleresques y sont-ils une fin en soi, ou ne prennent-ils leur sens que par l'amour qui les inspire ? Nous verrons d'abord que l'œuvre est un véritable roman de chevalerie, puis que l'amour y gouverne tout, avant de montrer que la fusion des deux invente un héros nouveau.",
+   "conclusion": "Le Chevalier de la charrette est bien un roman de chevalerie, avec son univers arthurien, ses épreuves et son merveilleux. Mais toutes ces aventures sont orientées par l'amour : c'est lui qui pousse Lancelot dans la charrette, lui donne la force de vaincre et lui impose même la honte. En fusionnant les deux, Chrétien invente un héros nouveau, dont la plus haute prouesse est la soumission à sa dame, et un modèle amoureux qui traversera les siècles. Cervantès s'en moquera dans Don Quichotte, mais l'idée que l'amour transforme et élève celui qui aime reste au cœur du roman moderne."
+  },
+  {
+   "sujet": "« L'amour heureux n'a pas d'histoire », écrit Denis de Rougemont dans L'Amour et l'Occident (1939). Cette affirmation éclaire-t-elle votre lecture du Chevalier de la charrette ?",
+   "analyse": "Pour Rougemont, le récit amoureux naît de l'obstacle : un amour comblé, sans épreuve, n'offre rien à raconter. Il pense surtout à Tristan et Iseut. Il faut vérifier la formule sur le roman de Chrétien (enlèvement, honte, froideur de la reine, prison : les obstacles abondent), puis la nuancer : la nuit d'amour existe, et le roman célèbre aussi la joie d'aimer et la perfection de l'amant.",
+   "problematique": "L'amour de Lancelot et de Guenièvre ne devient-il récit que par les obstacles qui le séparent, ou le roman sait-il aussi raconter la plénitude amoureuse ?",
+   "plan": [
+    {
+     "titre": "I. Un amour fait d'obstacles",
+     "arguments": [
+      "A. L'obstacle initial : l'enlèvement de la reine et le royaume de Gorre, dont « nus estranges ne retorne » (aucun étranger ne revient, v. 641).",
+      "B. Les obstacles de la quête : la charrette, le pont de l'Épée, Méléagant, la prison et l'emmurement.",
+      "C. Un amour adultère et secret : Guenièvre est l'épouse d'Arthur ; le secret, le danger d'être découverts (le sang sur les draps) nourrissent l'intrigue."
+     ]
+    },
+    {
+     "titre": "II. La dame elle-même comme obstacle",
+     "arguments": [
+      "A. L'accueil glacial de la reine : la victoire ne suffit pas, l'histoire relance.",
+      "B. Le reproche des « deux pas » : l'exigence courtoise crée un obstacle intérieur, presque infini.",
+      "C. Les épreuves imposées : combattre « au noauz » (au plus mal) ; l'amour courtois se nourrit de la distance et de la mise à l'épreuve."
+     ]
+    },
+    {
+     "titre": "III. Pourtant, le roman raconte aussi un amour comblé",
+     "arguments": [
+      "A. La nuit d'amour : un moment de joie partagée, rare dans la littérature de l'époque.",
+      "B. La joie d'aimer comme force : regarder la reine rend Lancelot invincible ; l'amour est source de prouesse et non seulement de souffrance.",
+      "C. Une autre conception que Tristan : l'amour courtois n'est pas un amour de mort, mais une discipline qui élève ; le roman se termine sur la victoire de Lancelot, non sur la mort des amants."
+     ]
+    }
+   ],
+   "introduction": "« L'amour heureux n'a pas d'histoire » : par cette formule, Denis de Rougemont, dans L'Amour et l'Occident (1939), affirme que la littérature amoureuse ne vit que d'obstacles et de souffrance, comme le montre selon lui le mythe de Tristan et Iseut. Le Chevalier de la charrette, composé vers 1177 par Chrétien de Troyes, semble lui donner raison : pour retrouver la reine Guenièvre, enlevée par Méléagant, Lancelot doit affronter la honte, la douleur et la prison, et même la froideur de celle qu'il aime. L'amour de Lancelot et de Guenièvre ne devient-il donc récit que par les obstacles qui le séparent, ou le roman sait-il aussi raconter la plénitude amoureuse ? Nous verrons que cet amour est fait d'obstacles extérieurs, que la dame elle-même devient un obstacle, mais que le roman raconte aussi, à sa manière, un amour comblé.",
+   "conclusion": "La formule de Rougemont éclaire en grande partie Le Chevalier de la charrette : enlèvement, épreuves, adultère et exigences de la reine font avancer le récit, et l'obstacle est au cœur de la fin'amor. Mais Chrétien ne raconte pas seulement un amour malheureux : la nuit d'amour, la joie qui rend Lancelot invincible et la victoire finale montrent un amour qui élève et comble. Le roman invente ainsi une tension durable entre désir et obstacle, plénitude et manque. On la retrouvera, des siècles plus tard, dans La Princesse de Clèves, où l'héroïne choisit l'obstacle pour préserver la perfection de l'amour."
+  },
+  {
+   "sujet": "L'amour rend-il le héros plus grand ?",
+   "analyse": "Sujet commun aux deux parcours (invention de l'amour / « Héroïsme et amour »). « Plus grand » : plus fort, plus noble, plus admirable. Il faut montrer que l'amour est source de prouesse et d'élévation morale, mais qu'il peut aussi humilier, affaiblir ou rendre ridicule ; enfin, que l'amour redéfinit la grandeur héroïque.",
+   "problematique": "Dans Le Chevalier de la charrette, l'amour élève-t-il Lancelot au-dessus des autres chevaliers, ou le rabaisse-t-il en lui faisant perdre l'honneur et la maîtrise de soi ?",
+   "plan": [
+    {
+     "titre": "I. L'amour, source de prouesse",
+     "arguments": [
+      "A. L'amour donne la force : il traverse le pont de l'Épée guidé par Amour ; il reprend le dessus contre Méléagant en regardant la reine.",
+      "B. Lancelot surpasse Gauvain, le chevalier parfait, qui échoue au pont sous l'eau : l'amour fait la différence.",
+      "C. L'amour comme vertu : fidélité absolue (il reste chaste auprès de la demoiselle entreprenante), loyauté (il revient en prison après le tournoi)."
+     ]
+    },
+    {
+     "titre": "II. Mais un amour qui humilie et égare",
+     "arguments": [
+      "A. La honte de la charrette : il perd « totes lois » (tous ses droits) aux yeux du monde, raillé partout.",
+      "B. La perte de soi : rêveries qui le font tomber dans le gué, tentative de suicide, quasi-évanouissement devant les cheveux de la reine.",
+      "C. La soumission totale : combattre « au noauz » (au plus mal), accepter la froideur injuste de la reine ; certains y voient une ironie de Chrétien sur les excès de la fin'amor."
+     ]
+    },
+    {
+     "titre": "III. Une grandeur d'un genre nouveau",
+     "arguments": [
+      "A. L'humiliation acceptée comme sommet de l'héroïsme : le héros le plus grand est celui qui renonce à sa gloire.",
+      "B. Une grandeur intérieure : le débat Amour / Raison invente l'intériorité du héros romanesque.",
+      "C. Ouverture : Corneille (Le Cid) fera de l'honneur la condition de l'amour ; Cervantès (Don Quichotte) montrera le ridicule d'un héros qui ne vit que pour sa dame."
+     ]
+    }
+   ],
+   "introduction": "Dans l'épopée, comme La Chanson de Roland, le héros tire sa grandeur de sa force, de sa fidélité à son seigneur et de son honneur ; la femme y tient peu de place. Au XIIe siècle, sous l'influence de la fin'amor des troubadours, le roman courtois place l'amour au centre de la vie du chevalier. Dans Le Chevalier de la charrette, Lancelot accomplit des exploits inouïs pour délivrer la reine Guenièvre, mais il accepte aussi de monter dans une charrette d'infamie et de combattre en lâche pour lui obéir. L'amour rend-il alors le héros plus grand ? Autrement dit, élève-t-il Lancelot au-dessus des autres chevaliers, ou le rabaisse-t-il en lui faisant perdre l'honneur et la maîtrise de soi ? Nous verrons d'abord que l'amour est une source de prouesse, puis qu'il humilie et égare le héros, avant de montrer qu'il fonde une grandeur d'un genre nouveau.",
+   "conclusion": "L'amour rend Lancelot plus fort et plus vertueux que tous les autres chevaliers, Gauvain compris ; mais il l'expose aussi à la honte, à l'égarement et à une soumission qui peut sembler excessive, voire comique. C'est précisément dans cette tension que Chrétien invente une grandeur nouvelle : celle d'un héros qui accepte de tout perdre pour l'autre, et dont la vie intérieure devient aussi importante que les exploits. Cette idée traverse la littérature, de Rodrigue chez Corneille, déchiré entre amour et honneur, jusqu'à Don Quichotte, qui en montre l'envers ridicule."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Chevalier de la charrette est un roman en vers écrit en ancien français par Chrétien de Troyes vers 1177-1181, à la demande de Marie de Champagne, et achevé par le clerc Godefroi de Leigni. Il appartient à la matière de Bretagne : à la cour du roi Arthur, la reine Guenièvre est enlevée par Méléagant. Un chevalier sans nom part à sa poursuite et accepte, par amour, de monter dans une charrette d'infamie. Après des épreuves merveilleuses, dont le pont de l'Épée, il est enfin nommé : Lancelot du Lac. Il délivre la reine, devient son amant, et lui obéit jusqu'à combattre au plus mal dans un tournoi. Le roman pose une question centrale pour le parcours : que devient le héros quand l'amour devient la loi de sa vie, au-dessus de l'honneur ?",
+  "essentiels": [
+   "Auteur, date, commanditaire (Marie de Champagne), continuateur (Godefroi de Leigni).",
+   "Forme : octosyllabes à rimes plates, ancien français ; on étudie une traduction mais on doit savoir citer quelques vers.",
+   "Scène clé : la charrette, débat Raison / Amour, « Amors le vialt et il i saut » (v. 375).",
+   "Le nom révélé par la reine au v. 3670 ; l'anonymat du héros.",
+   "Épisodes : peigne, pont de l'Épée, accueil glacial, « deux pas », nuit d'amour, tournoi « au noauz » / « au mialz », emmurement, mort de Méléagant.",
+   "Notions : fin'amor, courtoisie, matière de Bretagne, merveilleux, allégorie, entrelacement.",
+   "Interprétation discutée : éloge ou ironie de la fin'amor ?"
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Lancelot hésite-t-il avant de monter dans la charrette, et pourquoi cette hésitation compte-t-elle ?",
+    "reponse": "La charrette servait de pilori : y monter, c'était perdre « totes lois », tout honneur. Raison, qui n'est que dans la bouche, lui conseille de ne pas le faire ; Amour, enfermé dans le cœur, le lui commande, et il saute. Mais le narrateur note qu'il a eu tort de ne pas monter aussitôt, et la reine le lui reprochera au v. 4499 (« Quant vos demorastes deus pas »). Cette hésitation montre que l'amour courtois exige une obéissance absolue : même un instant de calcul est une faute."
+   },
+   {
+    "question": "Pourquoi le nom du héros est-il révélé si tard ?",
+    "reponse": "Pendant près de la moitié du roman, le héros est seulement « le chevalier », puis « cil de la charrete » : il est défini par sa honte et sa quête. Son nom, « Lanceloz del Lac », n'est prononcé qu'au v. 3670, par Guenièvre, pendant le combat contre Méléagant. Cela crée un effet de suspense, mais surtout cela lie l'identité du chevalier à sa dame : c'est elle qui le nomme, et c'est en la regardant qu'il retrouve sa force."
+   },
+   {
+    "question": "Gauvain et Lancelot : quelle différence ?",
+    "reponse": "Gauvain, neveu d'Arthur, est le chevalier parfait selon les codes de l'honneur : il refuse de monter dans la charrette et choisit le pont sous l'eau, où il échoue presque. Lancelot accepte la honte et choisit le pont de l'Épée, plus dangereux. Le parallèle montre que l'amour absolu donne à Lancelot une force que l'honneur seul ne donne pas à Gauvain. La ressource Eduscol parle d'une construction binaire du récit."
+   },
+   {
+    "question": "En quoi peut-on parler d'une « religion de l'amour » ?",
+    "reponse": "Chrétien emploie le vocabulaire religieux pour l'amour : Lancelot se met à « aorer » (adorer) les cheveux de la reine, qu'il préfère à l'aide des saints (v. 1470-1486) ; dans la chambre, il s'incline devant elle, car il ne croit en aucune relique autant (v. 4664-4665) ; en partant, il fait la génuflexion comme devant un autel (v. 4730). L'amour devient un culte, ce qui est audacieux pour un amour adultère ; on peut se demander si le narrateur ne s'en amuse pas un peu."
+   },
+   {
+    "question": "La reine Guenièvre est-elle cruelle ?",
+    "reponse": "Elle peut le sembler : elle refuse de parler à Lancelot qui vient de la délivrer (« Moi ? Sire, moi ne puet il plaire », v. 3957) et lui ordonne de combattre au plus mal. Mais dans le code de la fin'amor, la dame est souveraine et doit éprouver son amant ; elle lui reproche une vraie faute, l'hésitation. Elle n'est pas insensible : quand elle le croit mort, elle regrette sa dureté. Elle incarne l'exigence de l'amour courtois."
+   },
+   {
+    "question": "Le Chevalier de la charrette est-il un roman sérieux ou ironique ?",
+    "reponse": "Les deux lectures existent. Le roman exalte un amour absolu qui rend Lancelot invincible. Mais certains détails font sourire : il tombe dans le gué en rêvant, manque de s'évanouir devant un peigne, le narrateur craint de passer pour menteur. Beaucoup de critiques y voient une distance amusée de Chrétien envers les excès de la fin'amor ; d'autres un idéal sincère. Il vaut mieux présenter cette ironie comme une hypothèse, appuyée sur des passages précis."
+   },
+   {
+    "question": "Quel est le rôle du prologue et de l'épilogue ?",
+    "reponse": "Le prologue présente le roman comme une commande de Marie de Champagne, qui donne « matière et san » ; Chrétien se dit « suens antiers », tout entier à elle, comme Lancelot le sera pour la reine. L'épilogue révèle que Godefroi de Leigni a achevé le livre avec l'accord de Chrétien. Ces deux textes invitent à réfléchir à la notion d'auteur au Moyen Âge : une œuvre de cour, parfois écrite à plusieurs."
+   },
+   {
+    "question": "Pourquoi ce roman est-il au programme dans un parcours sur « l'invention de l'amour » ?",
+    "reponse": "Parce qu'il donne une forme narrative à la fin'amor des troubadours : l'amour y devient une expérience intérieure qui transforme le héros. Chrétien invente des scènes et motifs durables : le débat entre Amour et Raison, la rêverie qui coupe du monde, l'objet fétiche, l'obéissance absolue, l'amour secret. Le roman, genre nouveau, apprend à raconter les sentiments, et toute la littérature amoureuse ultérieure en hérite."
+   }
+  ],
+  "liens": "Objet d'étude : le roman et le récit du Moyen Âge au XXIe siècle ; le roman de Chrétien montre les origines du genre (récit en langue romane, en vers, lu à la cour). Parcours de la voie générale : « Le roman et l'invention de l'amour » ; de la voie technologique : « Héroïsme et amour ». Autres œuvres : Tristan et Iseut (amour-passion fatal), les troubadours, les Lais de Marie de France, La Princesse de Clèves (amour refusé), Le Cid (amour et honneur), Don Quichotte (parodie du chevalier amoureux) ; les ressources Eduscol suggèrent aussi La Chartreuse de Parme, Atala, La Porte étroite, Belle du Seigneur.",
+  "reflexion": [
+   {
+    "question": "Lancelot a-t-il raison de sacrifier son honneur à l'amour ?",
+    "pistes": "On peut admirer la force de son engagement et la grandeur d'un héros qui renonce à l'image qu'on a de lui ; on peut aussi juger cette soumission excessive, voire dangereuse. Penser à la différence entre honneur (regard des autres) et fidélité à soi."
+   },
+   {
+    "question": "L'amour courtois est-il une forme d'égalité ou de domination ?",
+    "pistes": "La dame commande et le chevalier obéit : c'est un renversement de la domination masculine de l'époque. Mais Guenièvre reste une reine enlevée, gardée, objet de la quête. On peut aussi relire ce modèle avec nos valeurs actuelles, comme y invite Eduscol."
+   },
+   {
+    "question": "Une œuvre écrite au XIIe siècle peut-elle encore nous parler ?",
+    "pistes": "Les motifs de Chrétien (l'amour qui transforme, l'épreuve, la jalousie, le secret) se retrouvent dans les romans, films et séries d'aujourd'hui ; mais certaines valeurs (honneur féodal, pilori) nous sont étrangères. Le dépaysement fait partie de l'intérêt."
+   },
+   {
+    "question": "Préférez-vous le héros Lancelot ou le héros Gauvain ?",
+    "pistes": "Gauvain : modèle de mesure et d'honneur, mais moins d'élan. Lancelot : passion, dépassement de soi, mais excès et dépendance. Justifier par des épisodes précis (charrette, ponts)."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "Le prologue",
+   "reference": "Prologue, v. 1-29 : Chrétien et « ma dame de Chanpaigne »",
+   "enjeu": "Comment ce prologue présente-t-il le roman comme une œuvre de cour, née d'un rapport de service entre l'écrivain et sa dame ?",
+   "mouvements": [
+    "Mouvement 1 : l'acceptation de la commande — Chrétien se dit tout entier au service de la comtesse ; vocabulaire de la vassalité (service, obéissance).",
+    "Mouvement 2 : le refus (feint) de la flatterie — prétérition : il dit qu'il ne fera pas l'éloge de la dame… tout en le faisant (comparaison de la pierre précieuse et du vent de mai).",
+    "Mouvement 3 : la répartition des rôles — la comtesse donne « matière et sens », Chrétien apporte son travail ; le poète se nomme ; le titre du roman est annoncé."
+   ]
+  },
+  {
+   "titre": "La charrette d'infamie",
+   "reference": "v. 318-377 : de l'arrivée près de la charrette au saut de Lancelot",
+   "enjeu": "Comment cet épisode fait-il du choix de monter dans la charrette un débat intérieur qui définit un nouveau héros, soumis à l'amour plutôt qu'à l'honneur ?",
+   "mouvements": [
+    "Mouvement 1 : l'explication du narrateur — la charrette comme pilori, réservée aux traîtres, meurtriers et voleurs ; présent de l'énonciation (« ores ») qui s'adresse au public ; dramatisation de l'enjeu.",
+    "Mouvement 2 : la rencontre avec le nain — dialogue bref, chantage (« Se tu viax monter / Sor la charrete que je main… », v. 356-357), portrait péjoratif du nain (« cuiverz de pute orine ») ; le héros, anonyme, est réduit à sa quête de la reine.",
+    "Mouvement 3 : le débat Amour / Raison — allégories, opposition bouche / cœur, rythme rapide de la décision (« Amors le vialt et il i saut ») ; mais le narrateur blâme le court retard du héros (« Mar le fist », v. 362), que la reine reprochera plus tard."
+   ]
+  },
+  {
+   "titre": "Le peigne et les cheveux de la reine",
+   "reference": "v. 1359-1507 : Lancelot découvre près d'une fontaine un peigne où sont restés des cheveux de Guenièvre",
+   "enjeu": "Comment Chrétien transforme-t-il un objet banal en relique amoureuse, entre ferveur et sourire ?",
+   "mouvements": [
+    "Mouvement 1 : la découverte du peigne et le rire de la demoiselle — suspense : Lancelot doit la conjurer, au nom de l'être qu'elle aime le plus, de lui dire la vérité.",
+    "Mouvement 2 : la révélation et l'émotion — « Onques en autre pré ne crurent » ; Lancelot manque de défaillir ; le corps trahit l'amour secret.",
+    "Mouvement 3 : la vénération — les cheveux placés contre sa poitrine, préférés aux pierres précieuses, aux remèdes et aux saints ; hyperboles (l'or affiné cent mille fois paraîtrait obscur à côté) ; intervention amusée du narrateur qui craint de passer pour menteur."
+   ]
+  },
+  {
+   "titre": "Le pont de l'Épée",
+   "reference": "v. 3013-3145 : arrivée au pont et traversée, jusqu'à la disparition des lions",
+   "enjeu": "En quoi la traversée du pont de l'Épée est-elle à la fois l'épreuve chevaleresque suprême et une preuve d'amour à valeur presque sacrée ?",
+   "mouvements": [
+    "Mouvement 1 : la description du lieu — eau noire et grondante, lame tranchante : un passage vers l'Autre Monde ; peur des compagnons qui tentent de dissuader Lancelot.",
+    "Mouvement 2 : la traversée — Lancelot ôte l'armure de ses mains et de ses pieds, se blesse ; Amour le guide et adoucit la douleur : la souffrance devient offrande (image d'une passion christique).",
+    "Mouvement 3 : les lions et l'anneau — le merveilleux se dissipe grâce à l'anneau de la fée qui l'a élevé ; la joie de ses compagnons, qui ignorent ses blessures."
+   ]
+  },
+  {
+   "titre": "Le froid accueil de Guenièvre",
+   "reference": "v. 3936-3992 : la reine refuse de parler à Lancelot",
+   "enjeu": "Comment cette scène renverse-t-elle les attentes du lecteur et révèle-t-elle l'exigence absolue de l'amour courtois ?",
+   "mouvements": [
+    "Mouvement 1 : l'attente du héros et du lecteur — Lancelot, vainqueur, s'attend à la gratitude ; Bademagu le présente à la reine.",
+    "Mouvement 2 : le refus de la reine — silence, regard baissé, paroles glaciales ; stupéfaction de Lancelot et de Bademagu ; aucune explication donnée.",
+    "Mouvement 3 : l'humilité du héros — Lancelot ne se révolte pas, se retire en se jugeant coupable : la dame est souveraine ; l'explication (les « deux pas ») sera différée, ce qui crée le suspense."
+   ]
+  },
+  {
+   "titre": "Le tournoi : « au noauz »",
+   "reference": "v. 5626-5690 : la reine fait dire à Lancelot de combattre « au noauz »",
+   "enjeu": "Comment cette scène fait-elle de l'obéissance amoureuse une forme d'héroïsme paradoxale ?",
+   "mouvements": [
+    "Mouvement 1 : le chevalier inconnu à l'écu vermeil — exploits, admiration des spectateurs ; la reine soupçonne son identité.",
+    "Mouvement 2 : l'ordre « au noauz » — la demoiselle messagère, la réponse immédiate (« Come cil qui est suens antiers ») ; Lancelot se conduit en lâche, sous les moqueries.",
+    "Mouvement 3 : le renversement — la reine, rassurée, ordonne « au mieux » et il triomphe : l'héroïsme suprême est de soumettre sa gloire à la volonté de la dame."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Chrétien de Troyes, roman en octosyllabes (ancien français), vers 1177-1181, commandé par Marie de Champagne, achevé par Godefroi de Leigni.",
+   "Roman courtois de la matière de Bretagne : univers arthurien, quête, épreuves, merveilleux.",
+   "Scène clé : la charrette d'infamie. Amour l'emporte sur Raison et sur l'honneur ; la reine reprochera ensuite les « deux pas » d'hésitation.",
+   "Le héros reste anonyme jusqu'au v. 3670 : c'est Guenièvre qui révèle son nom pendant le combat contre Méléagant.",
+   "Épisodes à connaître : lit périlleux, peigne, pont de l'Épée, accueil glacial, nuit d'amour, tournoi « au noauz » / « au mialz », emmurement, mort de Méléagant.",
+   "Thèmes : fin'amor (service de la dame), honte acceptée, religion de l'amour, identité, idéal chevaleresque et sa possible ironie.",
+   "Parcours général : le roman invente une conception de l'amour qui transforme le héros. Parcours techno « Héroïsme et amour » : l'amour redéfinit la prouesse.",
+   "Rapprochements utiles : Tristan et Iseut, troubadours, Marie de France, La Princesse de Clèves, Le Cid, Don Quichotte."
+  ],
+  "citations": [
+   0,
+   1,
+   5,
+   6,
+   10,
+   13,
+   15,
+   16,
+   18,
+   20
+  ],
+  "pieges": [
+   "Le nom de Lancelot n'est pas connu au début du roman.",
+   "Gauvain prend le pont sous l'eau ; Lancelot le pont de l'Épée.",
+   "La fin du roman est de Godefroi de Leigni, pas de Chrétien.",
+   "Toujours préciser qu'on cite une traduction (proposée ou éditée) quand on ne cite pas l'ancien français.",
+   "L'ironie de Chrétien est une hypothèse, pas un fait."
+  ],
+  "synthese": "Le Chevalier de la charrette (vers 1177-1181) raconte comment un chevalier sans nom, Lancelot, délivre la reine Guenièvre enlevée par Méléagant. Pour la retrouver, il accepte de monter dans une charrette d'infamie : Amour l'emporte sur Raison et sur l'honneur. Ses épreuves (peigne, pont de l'Épée, combats) sont autant de preuves d'amour. La reine, souveraine exigeante, lui reproche pourtant deux pas d'hésitation et lui ordonne au tournoi de combattre au plus mal : il obéit. Chrétien invente ainsi le héros amoureux, dont la grandeur passe par la soumission, et une manière nouvelle de raconter la vie intérieure, non sans une possible ironie."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Roman (au Moyen Âge)",
+   "definition": "D'abord la langue romane (l'ancien français), par opposition au latin ; puis un récit en vers écrit dans cette langue. « Mettre en roman », c'était traduire en langue vulgaire."
+  },
+  {
+   "terme": "Fin'amor (amour courtois)",
+   "definition": "Code amoureux inventé par les troubadours : le chevalier sert une dame, souvent mariée et supérieure, avec patience, discrétion et obéissance ; l'amour l'élève moralement. Lancelot en est le modèle extrême."
+  },
+  {
+   "terme": "Courtoisie",
+   "definition": "Ensemble des qualités du parfait homme de cour : politesse, générosité, maîtrise de soi, respect des dames. Bademagu est courtois ; Méléagant ne l'est pas."
+  },
+  {
+   "terme": "Matière de Bretagne",
+   "definition": "Ensemble des récits du roi Arthur et de la Table ronde, d'origine celtique. Jean Bodel, vers 1200, la distingue de la matière de France (Charlemagne) et de la matière de Rome (Antiquité)."
+  },
+  {
+   "terme": "Octosyllabe à rimes plates",
+   "definition": "Vers de huit syllabes rimant deux à deux (AABB) : c'est la forme du roman en vers médiéval, faite pour être lue à voix haute."
+  },
+  {
+   "terme": "Quête",
+   "definition": "Structure narrative où le héros part à la recherche d'un être ou d'un objet et affronte des épreuves. Ici, la quête de la reine se double d'une quête de soi (le nom, l'amour)."
+  },
+  {
+   "terme": "Merveilleux",
+   "definition": "Surnaturel accepté comme normal dans l'univers du récit : lit périlleux, pont de l'Épée, anneau magique, royaume de Gorre."
+  },
+  {
+   "terme": "Allégorie",
+   "definition": "Représentation d'une idée abstraite sous forme de personnage. Amour et Raison débattent dans l'esprit de Lancelot devant la charrette."
+  },
+  {
+   "terme": "Intervention du narrateur",
+   "definition": "Moment où le narrateur commente son récit ou s'adresse au public : explication du pilori, crainte de passer pour menteur dans l'épisode du peigne. Elle crée une connivence, parfois ironique."
+  },
+  {
+   "terme": "Entrelacement",
+   "definition": "Technique narrative qui alterne plusieurs fils d'aventure (Lancelot, Gauvain, la cour). Elle sera systématisée dans le Lancelot en prose du XIIIe siècle."
+  },
+  {
+   "terme": "Prologue / épilogue",
+   "definition": "Textes d'ouverture et de clôture où l'auteur parle de son œuvre : Chrétien et Marie de Champagne au début, Godefroi de Leigni à la fin."
+  },
+  {
+   "terme": "Matière et san",
+   "definition": "Dans le prologue (v. 26) : la « matière » est l'histoire racontée, le « san » (sens) en est la signification, l'orientation. Chrétien dit tenir les deux de Marie de Champagne."
+  },
+  {
+   "terme": "Ancien français",
+   "definition": "Langue parlée et écrite dans le nord de la France du IXe au XIIIe siècle environ. Le texte du site est en ancien français ; on étudie l'œuvre en traduction mais on peut citer quelques vers originaux en le précisant."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Qui enlève la reine Guenièvre ?",
+   "choix": [
+    "Keu",
+    "Méléagant",
+    "Bademagu",
+    "Gauvain"
+   ],
+   "reponse": 1,
+   "explication": "Méléagant, fils du roi Bademagu de Gorre, enlève la reine après avoir vaincu Keu."
+  },
+  {
+   "question": "Que représente la charrette au temps du récit ?",
+   "choix": [
+    "Un véhicule de luxe",
+    "Un pilori pour les criminels",
+    "Un char de tournoi",
+    "Un moyen de transport des marchands"
+   ],
+   "reponse": 1,
+   "explication": "Le narrateur explique qu'elle servait alors de pilori : y monter, c'était être déshonoré."
+  },
+  {
+   "question": "Pourquoi Lancelot hésite-t-il avant de monter ?",
+   "choix": [
+    "Il a peur du nain",
+    "Raison lui conseille de ne pas se déshonorer",
+    "Gauvain le lui interdit",
+    "Il ne sait pas où est la reine"
+   ],
+   "reponse": 1,
+   "explication": "Raison, qui n'est que « dans la bouche », s'oppose à Amour, « enfermé dans le cœur » (v. 365-372, traduction) ; Amour l'emporte, mais le court retard lui sera reproché."
+  },
+  {
+   "question": "Quel pont choisit Lancelot pour entrer à Gorre ?",
+   "choix": [
+    "Le pont sous l'eau",
+    "Le pont de l'Épée",
+    "Le pont-levis",
+    "Le pont des Soupirs"
+   ],
+   "reponse": 1,
+   "explication": "Il choisit le pont de l'Épée ; Gauvain prend le pont sous l'eau."
+  },
+  {
+   "question": "Que trouve Lancelot près d'une fontaine ?",
+   "choix": [
+    "L'anneau de la reine",
+    "Un peigne avec des cheveux de la reine",
+    "Une lettre de Guenièvre",
+    "L'épée de Méléagant"
+   ],
+   "reponse": 1,
+   "explication": "Il vénère les cheveux restés dans le peigne plus que des reliques de saints."
+  },
+  {
+   "question": "Quand le nom de Lancelot est-il révélé ?",
+   "choix": [
+    "Dès le premier vers",
+    "Pendant le combat contre Méléagant, par la reine",
+    "À la fin, par Godefroi de Leigni",
+    "Jamais"
+   ],
+   "reponse": 1,
+   "explication": "Le nom n'apparaît qu'au milieu du roman, prononcé par Guenièvre pendant le combat."
+  },
+  {
+   "question": "Pourquoi la reine accueille-t-elle Lancelot froidement ?",
+   "choix": [
+    "Elle aime Méléagant",
+    "Il a hésité deux pas avant de monter dans la charrette",
+    "Il a tué Keu",
+    "Il a trop tardé à la délivrer"
+   ],
+   "reponse": 1,
+   "explication": "« Molt a grant enviz i montastes / Quant vos demorastes deus pas » (v. 4498-4499) : vous y êtes monté à contrecœur, puisque vous avez tardé deux pas."
+  },
+  {
+   "question": "Que demande la reine à Lancelot pendant le tournoi ?",
+   "choix": [
+    "De se démasquer",
+    "De combattre « au noauz » (au plus mal)",
+    "De tuer Méléagant",
+    "De quitter le tournoi"
+   ],
+   "reponse": 1,
+   "explication": "« Que au noauz » (v. 5668) : il obéit et se conduit en lâche, avant qu'elle ne lui ordonne de faire « au mialz » (au mieux)."
+  },
+  {
+   "question": "Qui délivre Lancelot de la tour où il est emmuré ?",
+   "choix": [
+    "Gauvain",
+    "La reine",
+    "La sœur de Méléagant",
+    "Le roi Arthur"
+   ],
+   "reponse": 2,
+   "explication": "La demoiselle à qui il avait donné la tête d'un chevalier orgueilleux, sœur de Méléagant, le délivre et le soigne."
+  },
+  {
+   "question": "Qui a achevé le roman ?",
+   "choix": [
+    "Marie de Champagne",
+    "Godefroi de Leigni",
+    "Béroul",
+    "Marie de France"
+   ],
+   "reponse": 1,
+   "explication": "Le clerc Godefroi de Leigni a terminé le roman à partir de l'emmurement de Lancelot, avec l'accord de Chrétien."
+  },
+  {
+   "question": "En quel vers le roman est-il écrit ?",
+   "choix": [
+    "Alexandrins à rimes embrassées",
+    "Décasyllabes en laisses assonancées",
+    "Octosyllabes à rimes plates",
+    "Prose"
+   ],
+   "reponse": 2,
+   "explication": "Le roman courtois en vers du XIIe siècle utilise l'octosyllabe à rimes plates (AABB). La laisse assonancée de décasyllabes est la forme de la chanson de geste."
+  },
+  {
+   "question": "Selon le prologue, que fournit Marie de Champagne à Chrétien ?",
+   "choix": [
+    "Un manuscrit latin à traduire",
+    "« Matière et san » : l'histoire et son sens",
+    "Un cheval et des armes",
+    "Rien : Chrétien écrit pour lui-même"
+   ],
+   "reponse": 1,
+   "explication": "« Matière et san li done et livre / La Contesse » (v. 26-27) : Chrétien n'apporte que son travail."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte du site : Li Romans de la Charrete, éd. Jonckbloet (1850), transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette_(%C3%89dition_Belinfante)"
+  },
+  {
+   "titre": "Eduscol — Le Chevalier de la charrette, parcours « Le roman et l'invention de l'amour » (voie générale, février 2026)",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceeg1francaischretientroyesoeuvreparcourspdf-126008.pdf"
+  },
+  {
+   "titre": "Eduscol — Le Chevalier de la charrette, parcours « Héroïsme et amour » (voie technologique, février 2026)",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceet1francaischretientroyesoeuvreparcourspdf-126002.pdf"
+  },
+  {
+   "titre": "Académie de Toulouse — Programme national d'œuvres 2026-2027 (reprise du BO n° 30 du 24 juillet 2025)",
+   "url": "https://pedagogie.ac-toulouse.fr/lettres/programme-national-doeuvres-et-ressources-pour-lenseignement-de-francais-pour-lannee-scolaire-2026"
+  },
+  {
+   "titre": "Denis de Rougemont, L'Amour et l'Occident (1939), livre I — texte en ligne, Université de Genève",
+   "url": "https://www.unige.ch/rougemont/livres/ddr19390600ao/2"
+  },
+  {
+   "titre": "Wikisource — page de discussion du texte (provenance : mélange des éditions Jonckbloet et Foulet-Uitti)",
+   "url": "https://fr.wikisource.org/wiki/Discussion:Lancelot_ou_le_Chevalier_de_la_charrette_(%C3%89dition_Belinfante)"
+  }
+ ],
+ "aVerifier": [
+  "Le texte du site (transcription Wikisource) mêle l'édition Jonckbloet (1850) et celle de Foulet-Uitti (1989) : seule la première page (environ v. 1-110) est relue sur le fac-similé Jonckbloet ; la suite semble reprendre la graphie de Foulet-Uitti. La numérotation des vers est propre au site et diffère légèrement des éditions imprimées (Eduscol situe la révélation du nom au v. 3660, le site au v. 3670).",
+  "Aux v. 360-361, le texte du site porte « Tantost a sa voie tenue / Li chevaliers que il n'i monte » ; plusieurs éditions modernes mentionnent ici explicitement les « deux pas » d'hésitation. Dans le texte du site, les « deus pas » n'apparaissent que dans le reproche de la reine (v. 4499).",
+  "Les dates de Chrétien et de composition du roman (vers 1177-1181) sont des estimations de la critique.",
+  "Les traductions des citations sont proposées par la fiche : à comparer avec l'édition bilingue utilisée en classe."
+ ]
+}

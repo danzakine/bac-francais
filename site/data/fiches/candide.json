@@ -1,0 +1,921 @@
+{
+ "id": "candide",
+ "accroche": "Un jeune homme naïf, un philosophe ridicule, un tour du monde des catastrophes : Voltaire fait rire pour apprendre à penser.",
+ "identite": {
+  "auteur": "François-Marie Arouet, dit Voltaire (1694-1778), est l'écrivain le plus célèbre des Lumières. Poète, dramaturge, historien et polémiste, il est embastillé dans sa jeunesse puis doit s'exiler en Angleterre (1726-1728), où il admire la tolérance religieuse et la liberté de penser. Après un séjour décevant auprès de Frédéric II de Prusse (1750-1753), il s'installe près de Genève, aux Délices, puis à Ferney, à la frontière franco-suisse : une position prudente qui lui permet de fuir d'un pays à l'autre en cas de poursuites. Il y mène de grands combats contre l'intolérance et l'injustice (affaire Calas, à partir de 1762).",
+  "contexte": "Le XVIIIe siècle est le siècle des Lumières : les philosophes veulent éclairer les hommes par la raison et combattre les préjugés, le fanatisme et le despotisme. Deux événements marquent Candide : le tremblement de terre de Lisbonne (1er novembre 1755), qui fait des dizaines de milliers de morts et ébranle l'idée d'une Providence bienveillante, et la guerre de Sept Ans (1756-1763), qui ravage l'Europe ; l'exécution de l'amiral anglais Byng (1757) est même évoquée au chapitre XXIII. Voltaire vise surtout la philosophie optimiste de Leibniz (Essais de théodicée, 1710) et de ses disciples, pour qui notre monde est le meilleur des mondes possibles, le mal y étant nécessaire à l'harmonie de l'ensemble.",
+  "mouvement": "Candide appartient aux Lumières et au genre du conte philosophique, que Voltaire a rendu célèbre (Zadig, Micromégas, L'Ingénu). Le conte philosophique emprunte au conte merveilleux ses péripéties rapides, ses personnages simplifiés et ses invraisemblances (personnages ressuscités, pays fabuleux), mais il sert une thèse : il fait réfléchir le lecteur en l'amusant. Voltaire y mêle la parodie du roman d'aventures et du roman d'apprentissage, la satire sociale et une ironie constante. C'est un apologue : un récit court dont on tire une leçon, ici une critique de l'optimisme et une invitation à l'action.",
+  "circonstances": "Candide paraît au début de 1759 (au plus tard en mars, selon l'éditeur Beuchot), sans nom d'auteur. La page de titre le présente comme « traduit de l'allemand de M. le docteur Ralph » : cette fausse attribution est une précaution contre la censure. Le livre fait scandale ; il est rapidement poursuivi par les autorités, et Voltaire en désavoue publiquement la paternité, qualifiant lui-même l'ouvrage de « coïonnerie » (rapporté par Beuchot). Le succès est pourtant immédiat et les éditions se multiplient. En 1761, Voltaire remanie le texte, en particulier le chapitre XXII (séjour à Paris), considérablement augmenté. Le conte prolonge un débat ouvert par le Poème sur le désastre de Lisbonne (1756) : Rousseau avait répondu à ce poème par une lettre à Voltaire (18 août 1756), et il affirmera plus tard que Candide était la réponse à cette lettre.",
+  "carriere": "En 1759, Voltaire a 64 ans : c'est un auteur célèbre, reconnu d'abord pour ses tragédies et ses poèmes, qu'il considérait comme ses œuvres majeures. Ses contes (Zadig, Micromégas) étaient pour lui des divertissements. Candide marque pourtant un tournant : il ouvre la période de Ferney, celle du Voltaire militant (Traité sur la tolérance en 1763, Dictionnaire philosophique en 1764). Aujourd'hui, c'est de loin son œuvre la plus lue, alors que son théâtre est presque oublié."
+ },
+ "resumeCourt": "Candide, jeune homme simple et sincère, grandit en Westphalie dans le château du baron de Thunder-ten-tronckh, où le précepteur Pangloss lui enseigne que « tout est au mieux » dans « le meilleur des mondes possibles ». Chassé du château pour avoir embrassé Cunégonde, la fille du baron, il est jeté dans un monde cruel : guerre, naufrage, tremblement de terre de Lisbonne, Inquisition, esclavage. Accompagné tour à tour de Pangloss, de son valet Cacambo puis du pessimiste Martin, il parcourt l'Europe, l'Amérique du Sud et l'Orient, découvre le pays idéal d'Eldorado mais le quitte pour retrouver Cunégonde. Au fil des épreuves, chaque rencontre dément l'optimisme de Pangloss. Il retrouve enfin Cunégonde, devenue laide, à Constantinople, et l'épouse. Installée dans une petite métairie, la petite troupe s'ennuie jusqu'à ce qu'un vieux Turc lui montre la valeur du travail. Candide conclut : « il faut cultiver notre jardin ».",
+ "resume": [
+  {
+   "titre": "Chap. I-II : l'expulsion du « paradis » et l'armée bulgare",
+   "texte": "Candide vit heureux au château du baron de Thunder-ten-tronckh, en Westphalie, et boit les leçons de Pangloss, qui démontre que tout a une cause et que tout est pour le mieux. Surpris en train d'embrasser Cunégonde derrière un paravent, il est chassé « à grands coups de pied dans le derrière ». Sans argent, il est enrôlé de force par des recruteurs bulgares, apprend l'exercice à coups de baguette et doit même passer « trente-six fois par les baguettes » pour avoir voulu se promener."
+  },
+  {
+   "titre": "Chap. III-VI : la guerre, Lisbonne et l'autodafé",
+   "texte": "Candide assiste à une bataille sanglante que Voltaire décrit ironiquement comme un spectacle, puis traverse des villages massacrés. En Hollande, il est secouru par le bon anabaptiste Jacques et retrouve Pangloss, défiguré par la vérole, qui lui apprend que le château a été détruit et Cunégonde tuée. En route pour Lisbonne, ils font naufrage ; Jacques se noie. À peine à terre, ils vivent le tremblement de terre de 1755. Pour empêcher la terre de trembler à nouveau, l'Inquisition organise un autodafé : Pangloss est pendu, Candide fouetté."
+  },
+  {
+   "titre": "Chap. VII-X : Cunégonde retrouvée",
+   "texte": "Une vieille femme soigne Candide et le conduit à Cunégonde, qui n'est pas morte : après avoir été violée et vendue, elle est disputée entre un riche juif, don Issachar, et le grand inquisiteur. Candide, pourtant « né si doux », tue les deux hommes. Avec Cunégonde et la vieille, il s'enfuit à Cadix et s'embarque pour l'Amérique."
+  },
+  {
+   "titre": "Chap. XI-XIII : l'histoire de la vieille et la séparation",
+   "texte": "Pendant la traversée, la vieille raconte sa vie : fille d'un pape et d'une princesse, elle a connu l'esclavage, les viols, la famine et a même perdu une fesse. Son récit prouve que chacun a souffert plus qu'on ne l'imagine. À Buenos Aires, le gouverneur convoite Cunégonde ; poursuivi pour le meurtre de l'inquisiteur, Candide doit fuir avec son valet Cacambo."
+  },
+  {
+   "titre": "Chap. XIV-XVI : le Paraguay et les Oreillons",
+   "texte": "Au Paraguay, Candide découvre que les jésuites gouvernent un royaume où ils possèdent tout. Il y retrouve le frère de Cunégonde, devenu colonel jésuite, qui refuse avec mépris que sa sœur épouse un homme sans quartiers de noblesse : Candide le transperce de son épée. En fuite, il tue deux singes qui étaient les amants de deux filles et manque d'être mangé par les Oreillons, qui l'épargnent en apprenant qu'il n'est pas jésuite."
+  },
+  {
+   "titre": "Chap. XVII-XVIII : l'utopie d'Eldorado",
+   "texte": "Par hasard, Candide et Cacambo arrivent en Eldorado, pays isolé où l'or et les pierreries sont des cailloux, où personne ne mendie, où l'on prie Dieu sans moines ni procès et où un palais des sciences remplace les prisons. Mais Candide veut retrouver Cunégonde et se montrer riche : ils repartent avec cent moutons chargés d'or et de pierres précieuses."
+  },
+  {
+   "titre": "Chap. XIX-XXI : Surinam et la rencontre de Martin",
+   "texte": "Les moutons meurent presque tous en route. À Surinam, Candide rencontre un esclave mutilé dont le témoignage le fait renoncer à l'optimisme. Volé par le négociant Vanderdendur, il envoie Cacambo racheter Cunégonde et prend comme compagnon Martin, un savant pauvre et pessimiste qui pense que le mal domine partout."
+  },
+  {
+   "titre": "Chap. XXII-XXVI : Paris, l'Angleterre, Venise",
+   "texte": "À Paris, Candide est escroqué par des joueurs, un abbé et une fausse Cunégonde. Au large de Portsmouth, il voit fusiller un amiral « pour encourager les autres ». À Venise, il découvre que Paquette, l'ancienne servante du château, et le moine Giroflée sont malheureux malgré les apparences, que le riche sénateur Pococurante s'ennuie de tout, et il soupe avec six rois détrônés venus passer le carnaval."
+  },
+  {
+   "titre": "Chap. XXVII-XXIX : Constantinople et les retrouvailles",
+   "texte": "Cacambo, devenu esclave, conduit Candide vers Constantinople. Sur une galère, Candide reconnaît Pangloss, qui a survécu à sa pendaison, et le baron, qui a survécu à son coup d'épée. Il les rachète, puis retrouve Cunégonde, devenue laveuse d'écuelles et très laide. Il l'épouse malgré tout, par honneur, alors que le baron s'y oppose encore."
+  },
+  {
+   "titre": "Chap. XXX : « il faut cultiver notre jardin »",
+   "texte": "Installés dans une petite métairie, les personnages s'ennuient et se querellent. Un derviche refuse de discuter du mal, puis un vieux Turc explique que le travail de ses quelques arpents lui épargne « l'ennui, le vice, et le besoin ». Chacun se met à travailler selon ses talents ; Pangloss continue de tout justifier, mais Candide lui répond qu'« il faut cultiver notre jardin »."
+  }
+ ],
+ "structure": "Le conte compte trente chapitres courts, chacun annoncé par un titre résumant l'action, à la manière des romans d'aventures. Il suit un trajet géographique qui est aussi un parcours d'apprentissage : la Westphalie (le faux paradis du château), l'Europe en guerre et Lisbonne (chap. I-X), l'Amérique du Sud avec l'utopie d'Eldorado au centre exact du livre (chap. XI-XX), le retour par la France, l'Angleterre et Venise (chap. XXI-XXVI), enfin la Turquie (chap. XXVII-XXX). Le récit est circulaire : il part d'un « château » idéal et finit dans un « jardin », mais ce jardin, qu'on travaille soi-même, remplace le paradis illusoire du début. Le rythme est très rapide : les catastrophes s'enchaînent en quelques lignes, ce qui crée un effet comique et souligne l'absurdité du monde.",
+ "personnages": [
+  {
+   "nom": "Candide",
+   "role": "Héros éponyme : son nom vient du latin candidus, qui signifie blanc, d'où le sens de naïf et pur. Jeune homme sincère et crédule, il répète d'abord les leçons de Pangloss. Son regard naïf permet à Voltaire de montrer l'absurdité du monde. Au fil des épreuves, il apprend à juger par lui-même : son parcours est un apprentissage.",
+   "relations": "Disciple de Pangloss, amoureux de Cunégonde, maître de Cacambo puis compagnon de Martin. Chaque relation lui apporte une leçon : Pangloss le système, Cacambo le sens pratique, Martin le doute."
+  },
+  {
+   "nom": "Pangloss",
+   "role": "Précepteur du château (son nom, formé sur le grec, signifie à peu près tout-langue, c'est-à-dire bavard). Caricature du philosophe optimiste disciple de Leibniz, il justifie toutes les catastrophes par un jargon pseudo-savant. Même pendu, disséqué et envoyé aux galères, il refuse de changer d'avis : il incarne le dogmatisme, le refus de regarder le réel.",
+   "relations": "Maître à penser de Candide, qui finit par ne plus l'écouter (« Cela est bien dit [...] mais il faut cultiver notre jardin »). Amant de Paquette, dont il attrape la vérole : un détail qui ridiculise sa morale."
+  },
+  {
+   "nom": "Cunégonde",
+   "role": "Fille du baron, objet de l'amour de Candide et moteur de sa quête. Belle, puis violée, vendue, partagée, elle finit laide et acariâtre. Son destin parodie la belle héroïne des romans d'aventures et montre la violence que subissent les femmes.",
+   "relations": "Aimée de Candide, sœur du jeune baron, maîtresse forcée de don Issachar et du grand inquisiteur, puis protégée de la vieille. Elle épouse Candide à la fin, sans que l'amour du début subsiste vraiment."
+  },
+  {
+   "nom": "Martin",
+   "role": "Savant pauvre rencontré à Surinam, il se dit « manichéen » : pour lui, le mal domine le monde. Il est le contrepoint de Pangloss : il a souvent raison sur les faits, mais son pessimisme est lui aussi un système qui décourage d'agir.",
+   "relations": "Compagnon de voyage de Candide à partir de Surinam : il remplace Pangloss comme interlocuteur, mais avec la thèse opposée. Leurs dialogues mettent en scène le débat entre optimisme et pessimisme."
+  },
+  {
+   "nom": "Cacambo",
+   "role": "Valet métis de Candide, débrouillard, fidèle et pratique. Il le sauve plusieurs fois (chez les Oreillons, en Eldorado). Il représente le bon sens et l'efficacité, face aux grands discours.",
+   "relations": "Valet de Candide, il le guide au Paraguay et en Eldorado, puis rachète Cunégonde ; il est le seul personnage dont le dévouement ne se dément jamais."
+  },
+  {
+   "nom": "La vieille",
+   "role": "Servante de Cunégonde, fille d'un pape et d'une princesse, elle a traversé des malheurs inouïs. Son récit montre que la souffrance est universelle et qu'on aime pourtant la vie malgré tout.",
+   "relations": "Servante et conseillère de Cunégonde, elle soigne Candide à Lisbonne et organise leur fuite : c'est la voix de l'expérience."
+  },
+  {
+   "nom": "Le baron (fils)",
+   "role": "Frère de Cunégonde, devenu jésuite au Paraguay. Arrogant et attaché à sa noblesse, il refuse jusqu'au bout que Candide épouse sa sœur : il incarne les préjugés nobiliaires.",
+   "relations": "Frère de Cunégonde et rival symbolique de Candide : il s'oppose deux fois au mariage, au Paraguay puis à Constantinople."
+  },
+  {
+   "nom": "Le vieillard turc",
+   "role": "Simple propriétaire de vingt arpents qu'il cultive avec ses enfants. Il ignore la politique et la métaphysique ; il enseigne par l'exemple que le travail éloigne l'ennui, le vice et le besoin. Il inspire la leçon finale.",
+   "relations": "Rencontré au chapitre XXX, il est l'exact contraire de Pangloss : pas de théorie, un exemple vécu."
+  }
+ ],
+ "evolution": "Candide évolue lentement, et c'est tout l'enjeu du conte. Au chapitre I, il « croyait innocemment » tout ce que dit Pangloss. Les malheurs ébranlent d'abord sa foi sans la détruire : après l'autodafé, il se demande seulement « Si c'est ici le meilleur des mondes possibles, que sont donc les autres? » (chap. VI). En Eldorado, il découvre qu'une société heureuse existe, mais il la quitte. Le tournant est le chapitre XIX : devant l'esclave mutilé de Surinam, il renonce à l'optimisme et le définit comme « la rage de soutenir que tout est bien quand on est mal ». Avec Martin, il apprend le doute, sans adopter son pessimisme : au chapitre XXX, il « n'assurait rien ». Il finit par interrompre Pangloss et par imposer sa propre formule. Les autres personnages, eux, changent peu : Pangloss reste optimiste malgré tout, Martin pessimiste, le baron orgueilleux ; c'est ce contraste qui fait ressortir l'apprentissage du héros. La situation, elle, est circulaire : du château au jardin, mais le jardin est un lieu de travail et non un paradis reçu.",
+ "themes": [
+  {
+   "titre": "La critique de l'optimisme",
+   "texte": "C'est la cible principale du conte. Pangloss répète que « tout est au mieux » alors que tout va mal : la guerre, le naufrage, le tremblement de terre, la vérole. Voltaire ridiculise sa logique absurde (« les nez ont été faits pour porter des lunettes ; aussi avons-nous des lunettes », chap. I) et la confronte sans cesse aux faits. À Surinam, Candide définit enfin l'optimisme comme « la rage de soutenir que tout est bien quand on est mal » (chap. XIX). Voltaire ne dit pas pour autant que tout est mal : il refuse les systèmes qui empêchent d'agir."
+  },
+  {
+   "titre": "La guerre et la violence",
+   "texte": "Au chapitre III, Voltaire décrit la bataille comme un spectacle harmonieux, puis dévoile l'horreur : villages brûlés « selon les lois du droit public », femmes égorgées, membres coupés. L'antithèse « boucherie héroïque » résume la dénonciation. La violence est partout : viols de Cunégonde et de la vieille, amiral fusillé en Angleterre, galères de Constantinople."
+  },
+  {
+   "titre": "Le fanatisme et l'intolérance religieuse",
+   "texte": "Voltaire attaque l'Inquisition, qui brûle des hommes « à petit feu » pour empêcher la terre de trembler (chap. VI), les jésuites du Paraguay, riches et guerriers (chap. XIV), le grand inquisiteur qui partage Cunégonde avec don Issachar. Par contraste, en Eldorado, on prie Dieu sans clergé : il n'y a pas de moines « qui font brûler les gens qui ne sont pas de leur avis » (chap. XVIII)."
+  },
+  {
+   "titre": "L'esclavage et l'argent",
+   "texte": "La rencontre de l'esclave de Surinam (chap. XIX) est l'un des sommets du livre : l'homme a perdu une main et une jambe, et conclut : « C'est à ce prix que vous mangez du sucre en Europe. » Voltaire dénonce l'exploitation coloniale et l'hypocrisie des Européens chrétiens. L'argent corrompt aussi : Candide est volé par Vanderdendur et escroqué à Paris dès qu'il est riche."
+  },
+  {
+   "titre": "L'utopie d'Eldorado",
+   "texte": "Au centre du conte, Eldorado est une société idéale : richesse partagée, absence de prisons, religion sans fanatisme, place donnée aux sciences. Mais ce pays est inaccessible et Candide choisit de le quitter, par amour et par désir de paraître riche. L'utopie sert à juger nos sociétés, pas à proposer un modèle réalisable."
+  },
+  {
+   "titre": "Le travail et la sagesse du jardin",
+   "texte": "Au chapitre XXX, le vieux Turc montre que « le travail éloigne de nous trois grands maux, l'ennui, le vice, et le besoin ». Martin résume : « Travaillons sans raisonner ». Chaque personnage trouve une utilité : Cunégonde devient pâtissière, Giroflée menuisier. « Cultiver notre jardin », c'est agir concrètement, à sa mesure, pour améliorer le monde, au lieu de disserter sur le mal."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Le mal dans le monde (guerre, catastrophes naturelles, violence, esclavage) peut-il être justifié par une philosophie ?",
+   "Comment un récit amusant et invraisemblable peut-il devenir une arme critique contre les institutions (Église, noblesse, armée, colonisation) ?",
+   "Que faire quand les grands systèmes (optimisme de Pangloss, pessimisme de Martin) échouent à expliquer le réel ?",
+   "Comment un personnage naïf apprend-il à penser par lui-même ?"
+  ],
+  "intentions": "Plusieurs éléments documentés éclairent les intentions de Voltaire. Le sous-titre du conte, « ou l'Optimisme », désigne directement sa cible. Trois ans plus tôt, son Poème sur le désastre de Lisbonne (1756) portait déjà comme sous-titre « ou examen de cet axiome : Tout est bien » (texte sur Wikisource) : Voltaire y attaquait sérieusement les philosophes qui justifient le mal. Candide reprend ce combat sous la forme du rire. Selon la préface de l'éditeur Beuchot (1829), Voltaire a désavoué le livre, ce qui montre qu'il en mesurait le danger, et il a écrit ailleurs (Homélie sur l'athéisme) que l'optimisme n'est qu'une fatalité désespérante. En revanche, le sens exact de la formule finale du jardin n'est expliqué par aucune déclaration de Voltaire : c'est une question d'interprétation.",
+  "procedes": [
+   {
+    "nom": "L'ironie et l'antiphrase",
+    "explication": "Voltaire feint d'approuver ce qu'il condamne : le lecteur doit comprendre le contraire de ce qui est écrit. C'est l'arme principale du conte.",
+    "exemple": "Le village abare a été brûlé « selon les lois du droit public » (chap. III) ; en Angleterre, « il est bon de tuer de temps en temps un amiral pour encourager les autres » (chap. XXIII)."
+   },
+   {
+    "nom": "Les faux raisonnements (parodie de la logique)",
+    "explication": "Pangloss enchaîne des connecteurs logiques (« car », « par conséquent ») qui relient des idées sans rapport : la logique tourne à vide et ridiculise la philosophie finaliste.",
+    "exemple": "« Remarquez bien que les nez ont été faits pour porter des lunettes; aussi avons-nous des lunettes. » (chap. I)"
+   },
+   {
+    "nom": "L'oxymore",
+    "explication": "Associer deux termes contradictoires fait éclater la vérité cachée sous les mots officiels.",
+    "exemple": "La bataille est une « boucherie héroïque » (chap. III) : ce que les rois appellent héroïsme n'est qu'un massacre."
+   },
+   {
+    "nom": "Le rythme rapide et l'accumulation de catastrophes",
+    "explication": "Les malheurs les plus atroces sont racontés en quelques lignes et s'enchaînent sans pause. Ce rythme crée un effet comique et empêche le pathétique, mais il souligne aussi l'absurdité d'un monde où le malheur est la règle.",
+    "exemple": "Au chapitre V, tempête, naufrage, noyade de Jacques et tremblement de terre se succèdent en un seul chapitre, pendant que Pangloss démontre que la rade de Lisbonne a été formée exprès pour que l'anabaptiste s'y noyât."
+   },
+   {
+    "nom": "Le regard naïf",
+    "explication": "Candide décrit ce qu'il voit sans comprendre : le lecteur, plus lucide, mesure l'écart entre la naïveté du héros et l'horreur des faits.",
+    "exemple": "Au chapitre III, la bataille est d'abord vue comme un spectacle où « rien n'était si beau, si leste, si brillant » que les deux armées."
+   },
+   {
+    "nom": "La parodie des genres romanesques",
+    "explication": "Voltaire reprend les codes du roman d'aventures (enlèvements, naufrages, retrouvailles, belle héroïne) pour les rendre absurdes.",
+    "exemple": "Pangloss pendu et le baron transpercé d'un coup d'épée réapparaissent vivants aux galères (chap. XXVII-XXVIII) ; la belle Cunégonde devient très laide (chap. XXIX)."
+   }
+  ],
+  "style": "La phrase de Voltaire est brève, claire et vive. Il préfère les propositions courtes juxtaposées ou reliées par des « car » et des « et » qui imitent faussement la logique. Le vocabulaire est simple, mais Voltaire sait insérer un mot inattendu qui fait basculer le sens (« héroïque » après « boucherie »). Le récit est très rapide : peu de descriptions, beaucoup d'événements, des dialogues réduits à quelques répliques percutantes. Le narrateur se montre discret mais complice du lecteur (« c'est, je crois, pour cette raison qu'on le nommait Candide », chap. I). Chaque chapitre a un titre qui résume l'action, à la manière des romans d'aventures, souvent avec humour (« Comment Candide fut élevé dans un beau château, et comment il fut chassé d'icelui »).",
+  "registres": [
+   {
+    "nom": "Comique et satirique",
+    "explication": "Caricatures (Pangloss, le baron), comique de répétition (« tout est au mieux »), absurdité des situations : le rire sert à ridiculiser les cibles du conte."
+   },
+   {
+    "nom": "Ironique",
+    "explication": "Le registre dominant : Voltaire dit le contraire de ce qu'il pense pour que le lecteur rétablisse le vrai sens (antiphrases, fausse admiration)."
+   },
+   {
+    "nom": "Pathétique (ponctuellement)",
+    "explication": "Dans quelques passages, l'ironie s'efface : l'esclave de Surinam parle sobrement de son corps mutilé et Candide « versait des larmes » (chap. XIX). Le contraste rend ces moments plus forts."
+   },
+   {
+    "nom": "Merveilleux et utopique",
+    "explication": "Eldorado (chap. XVII-XVIII), avec ses moutons rouges plus rapides que des chevaux et ses cailloux d'or, emprunte au merveilleux du conte pour peindre une société idéale."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Pangloss est une caricature de l'optimisme de Leibniz et de ses disciples : Voltaire simplifie volontairement cette philosophie pour la rendre ridicule.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le conte ne défend pas le pessimisme de Martin à la place de l'optimisme de Pangloss : il renvoie dos à dos les deux systèmes, puisque Candide « n'en convenait pas » quand Martin conclut que l'homme est né pour souffrir ou s'ennuyer (chap. XXX).",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le sens de « il faut cultiver notre jardin » est discuté : pour certains lecteurs, c'est un repli prudent sur la vie privée (renoncer à changer le monde) ; pour d'autres, c'est un programme d'action collective et concrète, cohérent avec l'engagement de Voltaire à Ferney. Le texte ne tranche pas.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Eldorado est souvent lu comme l'idéal des Lumières (religion sans clergé, sciences, absence de prisons). Mais c'est un pays coupé du monde, où Candide ne veut pas rester : on peut y voir aussi une utopie impossible, qui sert à juger l'Europe plutôt qu'à proposer un modèle.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La violence faite aux femmes (Cunégonde, la vieille, Paquette) est racontée sur le ton léger du conte ; on peut y lire à la fois une dénonciation et un comique qui peut aujourd'hui choquer le lecteur.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Candide condense les combats des Lumières : contre le fanatisme religieux (l'autodafé, l'Inquisition, les jésuites), contre l'orgueil nobiliaire (les « soixante et onze quartiers », le refus du baron), contre la guerre (chap. III) et contre l'esclavage (chap. XIX). Il partage avec les Lettres persanes de Montesquieu le procédé du regard étranger ou naïf, et avec l'Encyclopédie la confiance dans les sciences (le palais des sciences d'Eldorado). Mais il exprime aussi une crise de l'optimisme des Lumières après Lisbonne : la raison ne suffit pas à expliquer le mal, il faut agir concrètement."
+ },
+ "citations": [
+  {
+   "texte": "dans ce meilleur des mondes possibles, le château de monseigneur le baron était le plus beau des châteaux",
+   "locuteur": "Le narrateur, rapportant l'enseignement de Pangloss",
+   "reference": "Chap. I",
+   "situation": "Présentation de Pangloss et de sa doctrine au château de Thunder-ten-tronckh.",
+   "sens": "Pangloss applique la formule de Leibniz à un modeste château de Westphalie, qu'il déclare le plus beau du monde.",
+   "procedes": "Superlatifs (« meilleur », « le plus beau »), discours indirect qui reprend les mots de Pangloss, ironie par décalage entre la formule philosophique et l'objet minuscule.",
+   "demontre": "L'optimisme est d'emblée présenté comme un aveuglement et une flatterie envers les puissants.",
+   "usage": "Pour l'incipit et pour montrer que l'ironie de Voltaire passe par la reprise des mots de l'adversaire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Remarquez bien que les nez ont été faits pour porter des lunettes; aussi avons-nous des lunettes.",
+   "locuteur": "Pangloss",
+   "reference": "Chap. I",
+   "situation": "Pangloss expose ses preuves que tout est fait pour une fin.",
+   "sens": "Pangloss prétend que chaque chose a été créée pour l'usage que nous en faisons.",
+   "procedes": "Inversion de la cause et de l'effet, connecteur « aussi » qui imite une conclusion logique, exemple trivial.",
+   "demontre": "La philosophie finaliste est ridiculisée par l'absurde.",
+   "usage": "Exemple type du faux raisonnement ; utile pour expliquer comment Voltaire parodie la logique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)",
+    "note": "ponctuation de l'édition (point-virgule collé)"
+   }
+  },
+  {
+   "texte": "Candide, qui tremblait comme un philosophe, se cacha du mieux qu'il put pendant cette boucherie héroïque.",
+   "locuteur": "Le narrateur",
+   "reference": "Chap. III",
+   "situation": "La bataille entre Bulgares et Abares.",
+   "sens": "Candide, terrifié, se cache pendant le massacre.",
+   "procedes": "Oxymore « boucherie héroïque », comparaison ironique « comme un philosophe ».",
+   "demontre": "La guerre est un massacre que le vocabulaire officiel embellit ; le philosophe n'est pas un héros.",
+   "usage": "Citation clé pour la dénonciation de la guerre et la définition de l'oxymore.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "les malheurs particuliers font le bien général",
+   "locuteur": "Pangloss",
+   "reference": "Chap. IV",
+   "situation": "Pangloss, défiguré par la vérole, répond à Jacques qui lui objecte la guerre et les banqueroutes.",
+   "sens": "Selon Pangloss, les souffrances individuelles contribuent au bonheur de l'ensemble.",
+   "procedes": "Maxime au présent de vérité générale ; la suite pousse la logique à l'absurde (« plus il y a de malheurs particuliers, et plus tout est bien »).",
+   "demontre": "L'optimisme conduit à justifier toutes les souffrances, donc à l'indifférence.",
+   "usage": "Pour expliquer précisément la doctrine visée et son danger moral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Si c'est ici le meilleur des mondes possibles, que sont donc les autres?",
+   "locuteur": "Candide (monologue)",
+   "reference": "Chap. VI",
+   "situation": "Après l'autodafé de Lisbonne, où Pangloss vient d'être pendu et Candide fessé.",
+   "sens": "Candide commence à douter de la doctrine qu'on lui a enseignée.",
+   "procedes": "Question rhétorique, reprise ironique de la formule de Pangloss.",
+   "demontre": "Les faits commencent à ébranler le système : premier signe de l'apprentissage du héros.",
+   "usage": "Pour l'évolution de Candide et le thème du regard naïf.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)",
+    "note": "ponctuation de l'édition (point d'interrogation collé)"
+   }
+  },
+  {
+   "texte": "je voulus cent fois me tuer, mais j'aimais encore la vie",
+   "locuteur": "La vieille",
+   "reference": "Chap. XII",
+   "situation": "Fin du récit de la vieille, qui a connu l'esclavage, les viols, la famine et a perdu une fesse.",
+   "sens": "Malgré des malheurs innombrables, elle n'a jamais pu renoncer à vivre.",
+   "procedes": "Hyperbole « cent fois », opposition marquée par « mais ».",
+   "demontre": "La souffrance est universelle, mais l'attachement à la vie résiste : ni optimisme ni désespoir.",
+   "usage": "Pour nuancer la lecture pessimiste du conte et pour le thème de la condition humaine.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Los padres y ont tout, et les peuples rien; c'est le chef-d'oeuvre de la raison et de la justice.",
+   "locuteur": "Cacambo",
+   "reference": "Chap. XIV",
+   "situation": "Cacambo décrit à Candide le royaume des jésuites au Paraguay.",
+   "sens": "Les jésuites possèdent tout, le peuple rien : Cacambo présente cela comme admirable.",
+   "procedes": "Antithèse « tout » / « rien », antiphrase finale (« chef-d'oeuvre de la raison et de la justice »).",
+   "demontre": "La satire des jésuites et de l'injustice sociale passe par l'éloge ironique.",
+   "usage": "Exemple d'antiphrase pour la satire religieuse et politique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)",
+    "note": "graphie « chef-d'oeuvre » de l'édition"
+   }
+  },
+  {
+   "texte": "C'est probablement le pays où tout va bien; car il faut absolument qu'il y en ait un de cette espèce.",
+   "locuteur": "Candide",
+   "reference": "Chap. XVII",
+   "situation": "Arrivée de Candide et Cacambo en Eldorado.",
+   "sens": "Candide pense avoir enfin trouvé le pays où la doctrine de Pangloss se vérifie.",
+   "procedes": "Raisonnement encore panglossien (« car il faut absolument »), mais qui reconnaît implicitement que le reste du monde va mal.",
+   "demontre": "Candide est encore prisonnier du système, mais il commence à comparer.",
+   "usage": "Pour l'utopie et pour l'évolution du héros.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "C'est à ce prix que vous mangez du sucre en Europe.",
+   "locuteur": "L'esclave de Surinam",
+   "reference": "Chap. XIX",
+   "situation": "Un esclave à qui il manque une jambe et une main explique les châtiments qu'il a subis.",
+   "sens": "Le confort européen repose sur la souffrance des esclaves des colonies.",
+   "procedes": "Phrase simple et sobre, adresse directe au lecteur européen (« vous »), présentatif « C'est à ce prix ».",
+   "demontre": "Voltaire dénonce l'exploitation coloniale et rend le lecteur complice.",
+   "usage": "Citation incontournable sur l'esclavage ; utile pour le pathétique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "c'est la rage de soutenir que tout est bien quand on est mal",
+   "locuteur": "Candide",
+   "reference": "Chap. XIX",
+   "situation": "Cacambo demande à Candide ce qu'est l'optimisme, après la rencontre de l'esclave.",
+   "sens": "Candide définit l'optimisme comme une folie qui nie la souffrance.",
+   "procedes": "Métaphore de la maladie (« la rage »), antithèse « bien » / « mal ».",
+   "demontre": "Tournant de l'apprentissage : Candide juge enfin par lui-même.",
+   "usage": "Pour l'évolution du personnage et la critique de l'optimisme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "dans ce pays-ci il est bon de tuer de temps en temps un amiral pour encourager les autres",
+   "locuteur": "Un spectateur anglais",
+   "reference": "Chap. XXIII",
+   "situation": "À Portsmouth, Candide voit fusiller un amiral (allusion à l'exécution de Byng en 1757).",
+   "sens": "On exécute un amiral pour l'exemple, afin de stimuler les autres.",
+   "procedes": "Antiphrase (« encourager »), ton détaché et raisonnable qui souligne l'absurdité cruelle.",
+   "demontre": "La raison d'État et la guerre produisent une violence absurde, même dans le pays de la liberté.",
+   "usage": "Exemple célèbre d'antiphrase ; utile pour la satire politique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Martin surtout conclut que l'homme était né pour vivre dans les convulsions de l'inquiétude, ou dans la léthargie de l'ennui",
+   "locuteur": "Le narrateur (discours indirect de Martin)",
+   "reference": "Chap. XXX",
+   "situation": "Dans la métairie, les personnages s'ennuient et se demandent s'il valait mieux souffrir que ne rien faire.",
+   "sens": "Pour Martin, la vie humaine oscille entre l'agitation douloureuse et l'ennui.",
+   "procedes": "Alternative « ou », parallélisme et antithèse (« convulsions » / « léthargie »).",
+   "demontre": "Le pessimisme est lui aussi un système : la phrase suivante précise que Candide « n'en convenait pas ».",
+   "usage": "Pour montrer que le conte ne remplace pas l'optimisme par le pessimisme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "le travail éloigne de nous trois grands maux, l'ennui, le vice, et le besoin",
+   "locuteur": "Le vieillard turc",
+   "reference": "Chap. XXX",
+   "situation": "Le vieux Turc reçoit Candide, Pangloss et Martin et leur explique qu'il cultive vingt arpents avec ses enfants.",
+   "sens": "Le travail protège des trois grands malheurs humains.",
+   "procedes": "Rythme ternaire, phrase simple, présent de vérité générale.",
+   "demontre": "La sagesse pratique remplace la spéculation : c'est la morale du conte.",
+   "usage": "Pour la leçon finale et le thème du travail.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Travaillons sans raisonner, dit Martin, c'est le seul moyen de rendre la vie supportable.",
+   "locuteur": "Martin",
+   "reference": "Chap. XXX",
+   "situation": "Après la décision de cultiver le jardin.",
+   "sens": "Martin propose de renoncer aux débats philosophiques pour agir.",
+   "procedes": "Impératif de la 1re personne du pluriel, restriction « le seul moyen ».",
+   "demontre": "Même le pessimiste se rallie à l'action concrète.",
+   "usage": "Pour la conclusion et pour nuancer : Voltaire vise les raisonnements abstraits, pas la raison elle-même.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  },
+  {
+   "texte": "Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin.",
+   "locuteur": "Candide",
+   "reference": "Chap. XXX (dernière phrase)",
+   "situation": "Pangloss vient de résumer toute l'histoire pour prouver que tout était nécessaire.",
+   "sens": "Candide écoute poliment mais refuse le raisonnement et ramène au travail.",
+   "procedes": "Concession (« Cela est bien dit ») puis opposition (« mais »), possessif collectif « notre », métaphore du jardin.",
+   "demontre": "Le disciple est devenu autonome ; le dernier mot revient à l'action.",
+   "usage": "La citation-clé du conte, à commenter en montrant que son sens reste discuté.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site (éd. Beuchot, 1829, Project Gutenberg n° 4650)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le regard naïf : voyager pour apprendre à juger le monde",
+  "explication": "Aucune liste nationale d'œuvres n'est imposée en seconde : le parcours ci-dessous est un parcours pédagogique proposé, que ton professeur peut construire autrement. Il s'inscrit dans l'objet d'étude du programme « Le roman et le récit du XVIIIe au XXIe siècle », qui invite à étudier comment un récit construit un personnage et un regard sur le monde. Candide s'y prête bien : son héros est un regard neuf, presque vide, que le voyage va remplir d'expériences. Parce qu'il croit tout ce qu'on lui dit, il voit les choses sans les déguiser ; le lecteur, lui, comprend ce que le héros ne comprend pas encore. C'est le ressort de l'ironie voltairienne.\n\nLe parcours permet aussi de réfléchir au récit de voyage et à l'apprentissage. Chaque étape (la guerre, Lisbonne, Surinam, Paris, Venise) est une leçon ; l'utopie d'Eldorado sert de point de comparaison pour juger l'Europe, et le vieillard d'Eldorado le dit lui-même : « il est certain qu'il faut voyager » (chap. XVIII). À la fin, Candide n'est plus le perroquet de Pangloss : il ose le contredire. Le conte raconte donc la naissance d'un esprit critique.\n\nEnfin, ce parcours montre la diversité des formes du récit au XVIIIe siècle : conte philosophique, lettres fictives, récit de voyage imaginaire. Tous ces textes utilisent un étranger, un naïf ou un voyageur pour faire voir autrement notre propre société.",
+  "textesComplementaires": [
+   {
+    "titre": "Lettres persanes (1721), lettre XXX, qui se termine par « Comment peut-on être Persan ? »",
+    "auteur": "Montesquieu",
+    "interet": "Un Persan à Paris observe les Français avec un regard étranger : comme Candide, le voyageur naïf révèle l'étrangeté de nos usages et fait la satire de la société."
+   },
+   {
+    "titre": "Poème sur le désastre de Lisbonne (1756)",
+    "auteur": "Voltaire",
+    "interet": "Écrit juste après le séisme, ce poème a pour sous-titre « ou examen de cet axiome : Tout est bien ». Le comparer avec le chapitre V de Candide montre comment Voltaire passe de l'indignation sérieuse à l'ironie du conte."
+   },
+   {
+    "titre": "Micromégas (1752)",
+    "auteur": "Voltaire",
+    "interet": "Un géant venu de Sirius visite la Terre et découvre la petitesse et les querelles des hommes : autre conte philosophique fondé sur le regard extérieur."
+   },
+   {
+    "titre": "Supplément au Voyage de Bougainville (écrit en 1772)",
+    "auteur": "Denis Diderot",
+    "interet": "Le discours du vieillard tahitien condamne la colonisation européenne : un prolongement du chapitre de Surinam et de l'utopie d'Eldorado."
+   },
+   {
+    "titre": "Les Voyages de Gulliver (1726)",
+    "auteur": "Jonathan Swift",
+    "interet": "Voyages imaginaires chez des peuples minuscules ou géants : la fiction de voyage sert, comme chez Voltaire, à critiquer la politique et la guerre."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Candide est une critique de l'optimisme philosophique, incarné par Pangloss, confronté sans cesse aux faits.",
+   "L'ironie (antiphrase, oxymore, faux raisonnements) oblige le lecteur à rétablir le vrai sens : elle le rend actif.",
+   "La satire vise des cibles précises : guerre, fanatisme religieux, orgueil nobiliaire, esclavage, cupidité.",
+   "Le voyage est un apprentissage : Candide passe de la répétition des leçons à un jugement personnel.",
+   "Eldorado, au centre du livre, sert d'étalon pour juger l'Europe.",
+   "Le conte refuse les systèmes (optimisme comme pessimisme) au profit d'une sagesse pratique : cultiver son jardin."
+  ],
+  "axes": [
+   "Un récit plaisant au service d'une critique (plaire et instruire).",
+   "La construction d'un regard : du naïf au personnage lucide.",
+   "La dénonciation par l'ironie : comment le rire devient une arme.",
+   "Le voyage et l'utopie comme moyens de juger sa propre société.",
+   "Une sagesse finale modeste et ouverte : que signifie cultiver son jardin ?"
+  ],
+  "problematiques": [
+   "Comment Voltaire fait-il d'un conte invraisemblable une arme contre l'optimisme et les injustices de son temps ?",
+   "En quoi le parcours de Candide est-il un apprentissage de l'esprit critique ?",
+   "Le rire affaiblit-il ou renforce-t-il la dénonciation dans Candide ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Chap. I : les nez « faits pour porter des lunettes ».",
+    "utilisation": "Montrer la parodie du raisonnement finaliste et le faux lien logique."
+   },
+   {
+    "exemple": "Chap. III : la « boucherie héroïque » et les villages brûlés « selon les lois du droit public ».",
+    "utilisation": "Analyser la dénonciation de la guerre par l'oxymore et l'antiphrase."
+   },
+   {
+    "exemple": "Chap. VI : l'autodafé décidé par l'université de Coïmbre pour empêcher la terre de trembler.",
+    "utilisation": "Montrer la satire du fanatisme et de la superstition."
+   },
+   {
+    "exemple": "Chap. XVII-XVIII : Eldorado, ses cailloux d'or, son palais des sciences, l'absence de prisons et de moines.",
+    "utilisation": "Montrer le rôle de l'utopie comme miroir critique de l'Europe."
+   },
+   {
+    "exemple": "Chap. XIX : l'esclave de Surinam et la définition de l'optimisme.",
+    "utilisation": "Montrer le tournant de l'apprentissage et la place du pathétique dans un conte ironique."
+   },
+   {
+    "exemple": "Chap. XXX : le derviche qui ferme sa porte, le vieux Turc et ses vingt arpents.",
+    "utilisation": "Montrer que la leçon finale passe par l'exemple et non par la théorie."
+   }
+  ],
+  "liens": "Les procédés sont liés aux personnages : Pangloss parle par faux raisonnements, l'esclave par phrases simples et sobres, le vieux Turc par une maxime ternaire. Le thème de l'optimisme est lié à la structure : chaque chapitre est une nouvelle expérience qui dément la doctrine. Le thème de l'apprentissage est lié au regard naïf : plus Candide comprend, moins l'ironie porte sur lui et plus elle porte sur le monde. Enfin, l'utopie d'Eldorado placée au centre éclaire, par contraste, toutes les sociétés traversées avant et après.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Chapitre III, de « Rien n'était si beau, si leste, si brillant » jusqu'à la fuite de Candide hors du village abare.",
+    "pistes": "1) Une bataille d'abord présentée comme un spectacle (adjectifs mélioratifs, harmonie « telle qu'il n'y en eut jamais en enfer », vocabulaire de la « raison suffisante »). 2) Le basculement vers l'horreur (oxymore « boucherie héroïque », antiphrase « selon les lois du droit public », énumération de corps mutilés). 3) Une symétrie absurde des deux camps et un héros encore naïf."
+   },
+   {
+    "passage": "Chapitre XIX, la rencontre de l'esclave de Surinam, jusqu'à « la rage de soutenir que tout est bien quand on est mal ».",
+    "pistes": "1) Une scène sobre et pathétique (portrait du corps mutilé, réponse « c'est l'usage »). 2) Un réquisitoire contre l'esclavage et l'hypocrisie religieuse (« C'est à ce prix que vous mangez du sucre en Europe », « enfants d'Adam »). 3) Un tournant dans l'apprentissage de Candide (renoncement à l'optimisme, larmes)."
+   },
+   {
+    "passage": "Chapitre XXX, de la visite au vieux Turc jusqu'à la fin du conte.",
+    "pistes": "1) Une leçon par l'exemple (hospitalité, vingt arpents, maxime ternaire). 2) La fin des systèmes (Martin : « Travaillons sans raisonner » ; Pangloss toujours bavard). 3) Une conclusion ouverte : sens du jardin, possessif « notre », dernier mot donné à Candide."
+   }
+  ],
+  "erreurs": [
+   "Croire que Voltaire est pessimiste : il critique aussi Martin, et la fin propose une action, pas un désespoir.",
+   "Présenter Pangloss comme un portrait fidèle de Leibniz : c'est une caricature volontairement simplifiée.",
+   "Prendre au premier degré les phrases ironiques (« selon les lois du droit public », « pour encourager les autres »).",
+   "Faire d'Eldorado le modèle que Voltaire propose d'imiter : Candide le quitte, et le pays est inaccessible.",
+   "Réduire « il faut cultiver notre jardin » à un conseil de jardinage, ou affirmer comme une certitude qu'il signifie un repli égoïste : le sens est métaphorique et discuté.",
+   "Confondre Candide (le héros, dont le nom évoque la naïveté) et l'auteur : Voltaire n'a rien de naïf.",
+   "Oublier que Candide est un conte : les invraisemblances (résurrections, moutons chargés d'or) sont voulues et ne sont pas des maladresses."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Selon vous, un conte philosophique comme Candide sert-il seulement à divertir le lecteur ?",
+   "analyse": "Le sujet oppose deux fonctions de la littérature : plaire (divertir, amuser, faire rêver) et instruire (faire réfléchir, critiquer, convaincre). L'adverbe « seulement » invite à reconnaître le plaisir de la lecture tout en montrant qu'il n'est pas une fin en soi. Il faut s'appuyer précisément sur Candide.",
+   "problematique": "Dans Candide, le plaisir du récit est-il une fin en soi, ou bien un moyen au service d'une réflexion critique ?",
+   "plan": [
+    {
+     "titre": "I. Un récit très divertissant",
+     "arguments": [
+      "A. Des aventures rapides et nombreuses, dans des lieux variés (Westphalie, Lisbonne, Eldorado, Venise, Constantinople) qui font voyager le lecteur.",
+      "B. Un comique constant : personnages caricaturaux (Pangloss qui survit à sa pendaison), invraisemblances assumées (les personnages qu'on croyait morts reviennent), comique de répétition (« tout est au mieux »).",
+      "C. Le plaisir du merveilleux et de l'utopie : les moutons chargés d'or, le pays d'Eldorado où les pierreries sont des cailloux."
+     ]
+    },
+    {
+     "titre": "II. Le divertissement au service d'une critique",
+     "arguments": [
+      "A. L'ironie fait réfléchir : « boucherie héroïque » (chap. III), « pour encourager les autres » (chap. XXIII) obligent le lecteur à comprendre le sens caché.",
+      "B. La satire vise des cibles réelles : la guerre, l'Inquisition (autodafé du chap. VI), l'esclavage (chap. XIX), l'orgueil nobiliaire du baron.",
+      "C. Le rire rend la critique plus efficace et plus facile à retenir que le Poème sur le désastre de Lisbonne, sérieux et moins lu."
+     ]
+    },
+    {
+     "titre": "III. Un conte qui apprend à penser et à agir",
+     "arguments": [
+      "A. Le parcours de Candide est un apprentissage : du perroquet de Pangloss au jeune homme qui ose le contredire.",
+      "B. Le conte refuse aussi bien l'optimisme de Pangloss que le pessimisme de Martin : il apprend à se méfier des systèmes.",
+      "C. La leçon finale propose une sagesse pratique : « il faut cultiver notre jardin », c'est-à-dire travailler et agir à son échelle."
+     ]
+    }
+   ],
+   "introduction": "Plaire et instruire : depuis le poète latin Horace, puis chez les classiques, cette double ambition guide de nombreux écrivains. Au XVIIIe siècle, Voltaire la met en pratique dans ses contes philosophiques, dont le plus célèbre, Candide ou l'Optimisme, paraît en 1759. On y suit les aventures d'un jeune homme naïf, chassé de son château et jeté dans un monde de guerres, de catastrophes et d'injustices. Ce récit rapide et drôle n'est-il qu'un divertissement ? Nous nous demanderons si, dans Candide, le plaisir du récit est une fin en soi ou un moyen au service d'une réflexion critique. Nous verrons d'abord que le conte est un récit très divertissant, puis que ce divertissement sert une critique virulente de la société, avant de montrer qu'il apprend au lecteur à penser et à agir.",
+   "conclusion": "Candide divertit incontestablement : ses péripéties, ses personnages caricaturaux et son humour en font une lecture vivante. Mais ce plaisir est un piège habile : l'ironie oblige le lecteur à décoder, la satire révèle les horreurs de la guerre, du fanatisme et de l'esclavage, et le parcours du héros enseigne à se méfier des systèmes. Le conte ne se contente donc pas d'amuser : il forme un esprit critique et propose une sagesse active. Deux siècles plus tard, des œuvres comme La Ferme des animaux d'Orwell prouvent que le récit plaisant reste une arme efficace pour faire réfléchir."
+  },
+  {
+   "sujet": "Un personnage naïf peut-il nous aider à mieux comprendre le monde ?",
+   "analyse": "Est naïf celui qui manque d'expérience et croit ce qu'on lui dit. Le sujet semble paradoxal : comment un personnage qui ne comprend pas pourrait-il aider le lecteur à comprendre ? Il faut réfléchir au regard naïf comme procédé littéraire, en s'appuyant sur Candide et sur d'autres récits.",
+   "problematique": "En quoi la naïveté d'un personnage, qui semble une faiblesse, devient-elle dans le récit un moyen de dévoiler la réalité ?",
+   "plan": [
+    {
+     "titre": "I. La naïveté, une faiblesse du personnage",
+     "arguments": [
+      "A. Candide croit tout ce que lui enseigne Pangloss (il « croyait innocemment », chap. I).",
+      "B. Sa crédulité le rend victime : enrôlé par les Bulgares, volé par Vanderdendur, escroqué à Paris.",
+      "C. Le naïf fait souvent rire le lecteur, qui se sent plus lucide que lui."
+     ]
+    },
+    {
+     "titre": "II. Un regard neuf qui dévoile ce que l'habitude cache",
+     "arguments": [
+      "A. Le naïf décrit les choses sans les déguiser : la guerre est vue comme un spectacle puis comme un massacre (chap. III).",
+      "B. Il pose des questions simples et dérangeantes : « Si c'est ici le meilleur des mondes possibles, que sont donc les autres ? » (chap. VI).",
+      "C. Le décalage entre ce que voit le personnage et ce que comprend le lecteur crée l'ironie : le lecteur devient actif (comparaison avec les Lettres persanes de Montesquieu)."
+     ]
+    },
+    {
+     "titre": "III. De la naïveté à la lucidité : un apprentissage partagé",
+     "arguments": [
+      "A. Candide évolue : face à l'esclave de Surinam, il rejette l'optimisme (chap. XIX).",
+      "B. Il finit par se forger sa propre opinion et répond à Pangloss (chap. XXX).",
+      "C. Le lecteur fait le même chemin : il apprend à se méfier des discours tout faits et à regarder le réel."
+     ]
+    }
+   ],
+   "introduction": "On se moque volontiers du naïf, celui qui croit tout ce qu'on lui raconte. Pourtant, de nombreux écrivains ont choisi un héros naïf pour regarder le monde : c'est le cas de Voltaire dans Candide (1759), dont le héros porte un nom qui évoque la pureté et l'innocence. Élevé dans l'optimisme absolu de son précepteur Pangloss, Candide découvre la guerre, le fanatisme et l'esclavage. Un personnage naïf peut-il alors nous aider à mieux comprendre le monde ? Nous nous demanderons comment la naïveté, qui semble une faiblesse, devient un moyen de dévoiler la réalité. Nous verrons d'abord qu'elle est bien une faiblesse du personnage, puis qu'elle offre un regard neuf qui révèle ce que l'habitude cache, avant de montrer qu'elle permet un apprentissage partagé par le héros et le lecteur.",
+   "conclusion": "La naïveté de Candide le rend d'abord ridicule et vulnérable. Mais c'est justement parce qu'il ne sait rien qu'il voit tout : son regard neuf dénonce la guerre, l'intolérance et l'esclavage mieux qu'un long discours, et l'ironie fait du lecteur un complice lucide. Le naïf devient peu à peu un sage modeste, et le lecteur apprend avec lui à se méfier des systèmes. Ce procédé traverse la littérature : de l'Ingénu de Voltaire au Petit Prince de Saint-Exupéry, le regard de l'innocent reste un moyen puissant de faire voir le monde autrement."
+  }
+ ],
+ "oral": {
+  "presentation": "Candide ou l'Optimisme est un conte philosophique publié par Voltaire en 1759, sans nom d'auteur. Il raconte les aventures d'un jeune homme naïf, chassé du château de Westphalie où son précepteur Pangloss lui enseignait que tout est au mieux dans le meilleur des mondes possibles. Guerre, tremblement de terre de Lisbonne, Inquisition, esclavage : chaque épreuve dément cette doctrine. Par l'ironie, Voltaire dénonce l'optimisme de Leibniz, mais aussi le fanatisme, la guerre et l'esclavage. Après l'utopie d'Eldorado et la rencontre du pessimiste Martin, Candide finit par penser par lui-même et conclut : « il faut cultiver notre jardin ». Ce conte montre comment un regard naïf, porté par un récit plaisant, peut former l'esprit critique du lecteur.",
+  "essentiels": [
+   "Auteur, date, genre : Voltaire, 1759, conte philosophique (apologue), Lumières.",
+   "Cible : l'optimisme de Leibniz caricaturé par Pangloss ; contexte : séisme de Lisbonne (1755), guerre de Sept Ans.",
+   "Arme : l'ironie (antiphrase, oxymore, faux raisonnements) et le regard naïf.",
+   "Satire : guerre (chap. III), fanatisme (chap. VI), esclavage (chap. XIX), noblesse (le baron).",
+   "Structure : 30 chapitres, voyage Europe-Amérique-Europe-Orient, Eldorado au centre.",
+   "Évolution de Candide : du disciple au jeune homme qui contredit Pangloss.",
+   "Fin : « il faut cultiver notre jardin », formule dont le sens est discuté."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Voltaire a-t-il choisi la forme du conte plutôt qu'un traité ?",
+    "reponse": "Le conte permet de toucher un large public et de contourner la censure : l'invraisemblance et le rire désamorcent en apparence le sérieux de la critique. Surtout, il permet de confronter une doctrine aux faits : chaque fois que Pangloss affirme que tout est au mieux, le récit lui oppose une catastrophe. Voltaire avait déjà attaqué l'optimisme dans le Poème sur le désastre de Lisbonne, sur un ton grave ; dans Candide, l'ironie rend la démonstration plus vivante et plus mémorable, comme la formule « boucherie héroïque »."
+   },
+   {
+    "question": "Candide évolue-t-il vraiment au cours du conte ?",
+    "reponse": "Oui, mais lentement. Au début, il « croyait innocemment » Pangloss. Après l'autodafé, il doute : « Si c'est ici le meilleur des mondes possibles, que sont donc les autres? ». Le vrai tournant est l'esclave de Surinam : il renonce à l'optimisme, qu'il définit comme « la rage de soutenir que tout est bien quand on est mal ». À la fin, il interrompt poliment Pangloss pour dire qu'il faut cultiver notre jardin. On peut nuancer : il reste naïf à Paris, où il se fait escroquer ; son apprentissage n'est donc pas une illumination soudaine mais une lente accumulation d'expériences."
+   },
+   {
+    "question": "Quel est le rôle d'Eldorado dans le conte ?",
+    "reponse": "Eldorado est une utopie placée au centre du livre (chap. XVII-XVIII) : pas de prisons, pas de procès, pas de moines qui font brûler les gens, un palais des sciences, l'or considéré comme un caillou. Il sert d'étalon pour juger l'Europe : tout ce qui y manque désigne nos défauts. Mais Candide le quitte par amour et par désir de paraître riche, et le pays est inaccessible : Voltaire ne propose pas un modèle à copier, il donne un point de comparaison critique."
+   },
+   {
+    "question": "Voltaire est-il pessimiste ?",
+    "reponse": "Non, pas au sens de Martin. Martin pense que le mal domine et que l'homme est né pour souffrir ou s'ennuyer, mais Candide « n'en convenait pas ». Voltaire critique les deux systèmes parce qu'ils empêchent d'agir. La fin propose une solution modeste mais positive : le travail éloigne « l'ennui, le vice, et le besoin », et la petite société devient utile. On peut parler d'un réalisme actif plutôt que d'un pessimisme."
+   },
+   {
+    "question": "Comment l'ironie fonctionne-t-elle dans le chapitre III ?",
+    "reponse": "Voltaire décrit d'abord la bataille comme un spectacle magnifique (« si beau, si leste, si brillant »), avec une harmonie « telle qu'il n'y en eut jamais en enfer » : la chute de la phrase révèle la vérité. Il compte les morts comme des chiffres, puis l'oxymore « boucherie héroïque » démasque le vocabulaire guerrier. Enfin, le village brûlé « selon les lois du droit public » est une antiphrase : le droit sert à justifier le massacre. Le lecteur doit rétablir le sens, ce qui rend la dénonciation plus forte."
+   },
+   {
+    "question": "Que signifie selon vous « il faut cultiver notre jardin » ?",
+    "reponse": "Au sens propre, la petite société exploite une métairie. Au sens figuré, c'est un appel à agir concrètement, à sa mesure, plutôt qu'à discuter sans fin du mal. Le possessif « notre » suggère une action collective. Certains lecteurs y voient un repli sur la vie privée ; d'autres, un programme cohérent avec l'engagement de Voltaire à Ferney. Je retiens que la formule clôt le débat sans le trancher : Candide ne réfute pas Pangloss, il change de terrain."
+   }
+  ],
+  "liens": "Objet d'étude de seconde : le roman et le récit du XVIIIe au XXIe siècle (un récit qui construit un personnage et un regard). Parcours proposé : le regard naïf et le voyage d'apprentissage. Autres œuvres : Montesquieu, Lettres persanes (regard étranger) ; Voltaire, Micromégas et L'Ingénu (autres contes) ; Diderot, Supplément au Voyage de Bougainville (critique de la colonisation) ; Swift, Les Voyages de Gulliver (voyage imaginaire satirique). Lien possible avec la littérature d'idées (argumentation indirecte par l'apologue).",
+  "reflexion": [
+   {
+    "question": "Le rire est-il une bonne arme pour dénoncer des horreurs comme la guerre ou l'esclavage ?",
+    "pistes": "Le rire rend la critique mémorable et touche un large public ; mais il peut aussi mettre à distance la souffrance. Voltaire suspend l'ironie dans la scène de Surinam : pourquoi ? Exemples modernes possibles : satire, caricature, humour engagé."
+   },
+   {
+    "question": "Faut-il voyager pour apprendre à penser ?",
+    "pistes": "Pour Candide, chaque étape est une leçon, et le vieillard d'Eldorado dit qu'il faut voyager. Mais Candide reste parfois naïf malgré le voyage, et la sagesse finale se trouve dans un lieu fixe. Distinguer voyager et savoir regarder."
+   },
+   {
+    "question": "Préférez-vous l'optimisme de Pangloss, le pessimisme de Martin ou la sagesse finale ?",
+    "pistes": "Évaluer les conséquences de chaque attitude : l'optimisme justifie l'inaction, le pessimisme décourage, le jardin propose une action limitée. On peut aussi défendre une forme d'espoir lucide."
+   },
+   {
+    "question": "Quels jardins pourrait-on cultiver aujourd'hui ?",
+    "pistes": "Engagement local, travail, études, associations ; se demander si l'action à petite échelle suffit face aux grands problèmes (guerres, injustices, climat)."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'incipit : un paradis bien fragile",
+   "reference": "Chap. I, du début à l'expulsion de Candide",
+   "enjeu": "Comment Voltaire installe-t-il, sous l'apparence d'un conte merveilleux, une satire de la noblesse et de l'optimisme ?",
+   "mouvements": [
+    "Mouvement 1 : le portrait du héros (« Il y avait en Vestphalie... ») — formule d'ouverture du conte, portrait moral idéalisé (« les mœurs les plus douces »), explication du nom Candide ; mais l'allusion à sa naissance illégitime et aux « soixante et onze quartiers » de noblesse moque déjà l'orgueil nobiliaire.",
+    "Mouvement 2 : la satire du château et de ses habitants — fausses grandeurs (le château est puissant « car » il a une porte et des fenêtres), baronne respectée parce qu'elle pèse « trois cent cinquante livres », Cunégonde décrite avec l'adjectif « appétissante », comme un mets ; l'ironie repose sur de faux liens logiques.",
+    "Mouvement 3 : la parodie de la philosophie de Pangloss — nom ridicule de sa science (« métaphysico-théologo-cosmolonigologie »), raisonnements absurdes (les nez faits pour les lunettes), connecteurs logiques (« car », « par conséquent ») qui tournent à vide ; Candide « croyait innocemment », d'où la chute annoncée."
+   ]
+  },
+  {
+   "titre": "La guerre : une « boucherie héroïque »",
+   "reference": "Chap. III, début du chapitre",
+   "enjeu": "Comment l'ironie de Voltaire transforme-t-elle le récit d'une bataille en réquisitoire contre la guerre ?",
+   "mouvements": [
+    "Mouvement 1 : la bataille comme spectacle — accumulation d'adjectifs mélioratifs (« si beau, si leste, si brillant »), « harmonie » musicale... qui n'a d'égal qu'« en enfer » ; les morts sont comptés comme de simples chiffres, la mort expliquée par la « raison suffisante » de Leibniz.",
+    "Mouvement 2 : l'horreur des villages massacrés — oxymore « boucherie héroïque », antiphrase « selon les lois du droit public », énumération de détails atroces (femmes égorgées, enfants, membres coupés) qui choque le lecteur.",
+    "Mouvement 3 : la symétrie absurde des deux camps — les Abares font aux Bulgares ce que les Bulgares ont fait aux Abares ; les rois font chanter des Te Deum chacun dans son camp ; Candide, toujours naïf, fuit en pensant encore à Cunégonde."
+   ]
+  },
+  {
+   "titre": "Le nègre de Surinam",
+   "reference": "Chap. XIX, rencontre de l'esclave",
+   "enjeu": "Comment Voltaire fait-il de cette rencontre un tournant dans l'apprentissage de Candide et une dénonciation de l'esclavage ?",
+   "mouvements": [
+    "Mouvement 1 : la découverte du corps mutilé — description sobre (« la jambe gauche et la main droite » manquantes), question compatissante de Candide, réponse terrible de banalité : « c'est l'usage ».",
+    "Mouvement 2 : le témoignage de l'esclave — explication froide des châtiments, phrase qui accuse le lecteur européen (« C'est à ce prix que vous mangez du sucre en Europe »), satire de l'hypocrisie religieuse : on prêche que tous sont « enfants d'Adam » mais on traite ses « cousins » de la façon la plus horrible.",
+    "Mouvement 3 : la réaction de Candide — il renonce à « ton optimisme », le définit comme « la rage de soutenir que tout est bien quand on est mal » et pleure : l'émotion remplace le système, le héros commence à penser par lui-même."
+   ]
+  },
+  {
+   "titre": "L'excipit : « il faut cultiver notre jardin »",
+   "reference": "Chap. XXX, de la visite au vieillard turc à la fin du conte",
+   "enjeu": "Quelle leçon de vie Voltaire propose-t-il à la fin de son conte, et comment la rend-il convaincante ?",
+   "mouvements": [
+    "Mouvement 1 : la leçon du vieux Turc — hospitalité généreuse, énumération des produits du jardin, phrase simple et ternaire sur le travail qui éloigne « l'ennui, le vice, et le besoin ».",
+    "Mouvement 2 : le dernier discours de Pangloss et la réplique de Candide — longue liste érudite de rois assassinés, interrompue par Candide (« il faut cultiver notre jardin ») ; Martin conclut : « Travaillons sans raisonner ».",
+    "Mouvement 3 : la petite société au travail — chacun trouve son utilité (Cunégonde pâtissière, Giroflée menuisier) ; Pangloss résume encore toute l'histoire pour la justifier, mais Candide lui répond poliment et répète sa formule : le dernier mot revient à l'action."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Candide (1759) est un conte philosophique de Voltaire, figure majeure des Lumières.",
+   "Cible principale : l'optimisme de Leibniz, caricaturé par Pangloss (« tout est au mieux »).",
+   "Arme principale : l'ironie (antiphrase, oxymore « boucherie héroïque », faux raisonnements).",
+   "Le conte dénonce la guerre, le fanatisme religieux (autodafé), l'esclavage (Surinam), l'orgueil nobiliaire.",
+   "Eldorado, au centre du livre, est une utopie qui sert à juger l'Europe.",
+   "Candide fait un apprentissage : du disciple naïf au jeune homme qui pense par lui-même.",
+   "Morale finale : « il faut cultiver notre jardin » — agir, travailler, plutôt que spéculer sur le mal.",
+   "Le pessimisme de Martin est critiqué lui aussi : Voltaire refuse tous les systèmes qui empêchent d'agir.",
+   "Contexte : séisme de Lisbonne (1755), guerre de Sept Ans ; publication anonyme en 1759 (« docteur Ralph »)."
+  ],
+  "citations": [
+   1,
+   2,
+   4,
+   8,
+   9,
+   12,
+   14
+  ],
+  "pieges": [
+   "Voltaire n'est ni optimiste ni pessimiste : il rejette les deux systèmes.",
+   "Ne pas lire au premier degré les antiphrases (« pour encourager les autres »).",
+   "Eldorado n'est pas un modèle à imiter mais un miroir critique.",
+   "Le sens du jardin final est discuté : présenter les deux lectures.",
+   "Pangloss est une caricature de Leibniz, pas un exposé fidèle de sa philosophie."
+  ],
+  "synthese": "Candide (1759) est un conte philosophique des Lumières dans lequel Voltaire confronte l'optimisme de Pangloss, caricature de Leibniz, à une suite de catastrophes : guerre, séisme de Lisbonne, Inquisition, esclavage. Son arme principale est l'ironie, renforcée par le regard naïf du héros. Le voyage est un apprentissage : de « croyait innocemment » (chap. I) à « la rage de soutenir que tout est bien quand on est mal » (chap. XIX). Eldorado sert de miroir à l'Europe. Le conte rejette aussi le pessimisme de Martin et s'achève sur une sagesse pratique, au sens discuté : « il faut cultiver notre jardin »."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Conte philosophique",
+   "definition": "Récit bref, souvent invraisemblable, qui utilise les codes du conte pour défendre une idée. Ex. : Candide critique l'optimisme à travers les aventures de son héros."
+  },
+  {
+   "terme": "Apologue",
+   "definition": "Récit dont on tire une leçon morale (fable, conte philosophique, utopie). Candide est un apologue dont la morale est « il faut cultiver notre jardin »."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Procédé qui consiste à dire le contraire de ce que l'on pense, ou à feindre d'approuver ce que l'on condamne, pour faire comprendre une critique. Ex. : les villages brûlés « selon les lois du droit public » (chap. III)."
+  },
+  {
+   "terme": "Antiphrase",
+   "definition": "Figure de l'ironie : on emploie un mot ou une phrase dans un sens contraire à sa signification. Ex. : tuer un amiral « pour encourager les autres » (chap. XXIII)."
+  },
+  {
+   "terme": "Oxymore",
+   "definition": "Rapprochement de deux termes de sens opposés dans un même groupe de mots. Ex. : « boucherie héroïque » (chap. III)."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Critique moqueuse d'une personne, d'un groupe ou d'une institution. Ex. : la satire de la noblesse (le baron et ses quartiers), de l'Inquisition, des jésuites."
+  },
+  {
+   "terme": "Optimisme",
+   "definition": "Au sens de Leibniz, doctrine selon laquelle Dieu a créé le meilleur des mondes possibles, le mal y étant nécessaire à l'harmonie de l'ensemble. Pangloss en est la caricature."
+  },
+  {
+   "terme": "Utopie",
+   "definition": "Description d'une société idéale et imaginaire (le mot, forgé sur le grec, désigne un lieu qui n'existe nulle part), qui sert à critiquer la société réelle. Ex. : Eldorado (chap. XVII-XVIII)."
+  },
+  {
+   "terme": "Regard naïf / candide",
+   "definition": "Point de vue d'un personnage qui découvre le monde sans préjugés ; il permet au lecteur de voir l'absurdité de ce qui paraît normal. Ex. : la guerre vue par Candide."
+  },
+  {
+   "terme": "Rythme ternaire",
+   "definition": "Construction d'une phrase en trois éléments, qui produit un effet d'équilibre et de force. Ex. : « l'ennui, le vice, et le besoin » (chap. XXX)."
+  },
+  {
+   "terme": "Autodafé",
+   "definition": "Cérémonie de l'Inquisition où l'on proclamait et exécutait les condamnations, parfois par le feu. Ex. : l'autodafé organisé à Lisbonne pour empêcher la terre de trembler (chap. VI)."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Pourquoi Candide est-il chassé du château ?",
+   "choix": [
+    "Il a volé le baron",
+    "Il a embrassé Cunégonde",
+    "Il a contredit Pangloss",
+    "Il a refusé de devenir soldat"
+   ],
+   "reponse": 1,
+   "explication": "Surpris avec Cunégonde derrière un paravent, il est chassé « à grands coups de pied dans le derrière » (chap. I)."
+  },
+  {
+   "question": "Quelle catastrophe historique Candide vit-il à Lisbonne ?",
+   "choix": [
+    "Un incendie",
+    "Une épidémie de peste",
+    "Un tremblement de terre",
+    "Une révolution"
+   ],
+   "reponse": 2,
+   "explication": "Le tremblement de terre du 1er novembre 1755 a fortement ébranlé la confiance des Européens dans l'optimisme."
+  },
+  {
+   "question": "Quel philosophe Voltaire vise-t-il à travers Pangloss ?",
+   "choix": [
+    "Leibniz",
+    "Descartes",
+    "Rousseau",
+    "Pascal"
+   ],
+   "reponse": 0,
+   "explication": "Leibniz (Essais de théodicée, 1710) soutenait que Dieu a créé le meilleur des mondes possibles. Pangloss en est la caricature."
+  },
+  {
+   "question": "Que trouve-t-on en Eldorado ?",
+   "choix": [
+    "Des moines très puissants",
+    "Des prisons modernes",
+    "Un palais des sciences et de l'or en abondance",
+    "Une guerre permanente"
+   ],
+   "reponse": 2,
+   "explication": "Eldorado est une utopie : pas de prisons ni de moines fanatiques, mais un palais des sciences ; l'or y est un simple caillou."
+  },
+  {
+   "question": "Que dit l'esclave de Surinam ?",
+   "choix": [
+    "« Tout est au mieux »",
+    "« C'est à ce prix que vous mangez du sucre en Europe »",
+    "« Il faut cultiver notre jardin »",
+    "« Pour encourager les autres »"
+   ],
+   "reponse": 1,
+   "explication": "Cette phrase accuse les Européens qui profitent de l'esclavage (chap. XIX)."
+  },
+  {
+   "question": "Quelle philosophie défend Martin ?",
+   "choix": [
+    "L'optimisme",
+    "Le pessimisme : le mal domine partout",
+    "L'athéisme joyeux",
+    "Le stoïcisme"
+   ],
+   "reponse": 1,
+   "explication": "Martin se dit manichéen : il pense que le mal l'emporte sur le bien dans le monde."
+  },
+  {
+   "question": "Quelle figure de style est « boucherie héroïque » ?",
+   "choix": [
+    "Une métaphore",
+    "Une hyperbole",
+    "Une litote",
+    "Un oxymore"
+   ],
+   "reponse": 3,
+   "explication": "L'oxymore associe deux termes contradictoires pour dénoncer la guerre."
+  },
+  {
+   "question": "Qui enseigne aux personnages la valeur du travail à la fin du conte ?",
+   "choix": [
+    "Pangloss",
+    "Un vieillard turc",
+    "Le baron",
+    "Cacambo"
+   ],
+   "reponse": 1,
+   "explication": "Le vieux Turc cultive ses vingt arpents avec ses enfants : le travail éloigne « l'ennui, le vice, et le besoin »."
+  },
+  {
+   "question": "Sous quelle présentation Candide paraît-il en 1759 ?",
+   "choix": [
+    "Signé Voltaire, avec une préface",
+    "Comme « traduit de l'allemand de M. le docteur Ralph »",
+    "Comme un manuscrit trouvé en Eldorado",
+    "Sous le nom de Pangloss"
+   ],
+   "reponse": 1,
+   "explication": "Le conte paraît sans nom d'auteur, présenté comme une traduction : une précaution contre la censure. Voltaire désavoue d'ailleurs l'ouvrage."
+  },
+  {
+   "question": "Dans « il est bon de tuer de temps en temps un amiral pour encourager les autres » (chap. XXIII), quel procédé domine ?",
+   "choix": [
+    "L'antiphrase",
+    "La métaphore",
+    "L'anaphore",
+    "La personnification"
+   ],
+   "reponse": 0,
+   "explication": "« Encourager » signifie ici le contraire : terroriser. L'antiphrase est une figure de l'ironie."
+  },
+  {
+   "question": "Comment Pangloss justifie-t-il le malheur au chapitre IV ?",
+   "choix": [
+    "Le mal est une punition divine",
+    "Le mal n'existe pas",
+    "« les malheurs particuliers font le bien général »",
+    "Le mal vient de la société"
+   ],
+   "reponse": 2,
+   "explication": "Selon Pangloss, les souffrances individuelles contribuent au bonheur de l'ensemble : plus il y a de malheurs particuliers, plus tout est bien."
+  },
+  {
+   "question": "Que répond Candide à Pangloss dans la dernière phrase du conte ?",
+   "choix": [
+    "« Tout est au mieux »",
+    "« Travaillons sans raisonner »",
+    "« Cela est bien dit [...] mais il faut cultiver notre jardin »",
+    "« Vous avez raison »"
+   ],
+   "reponse": 2,
+   "explication": "Candide concède poliment (« Cela est bien dit ») mais refuse le raisonnement et ramène à l'action. « Travaillons sans raisonner » est une réplique de Martin."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Voltaire, Candide, éd. Beuchot (1829), Project Gutenberg n° 4650 — texte, page de titre et préface de l'éditeur",
+   "url": "https://www.gutenberg.org/ebooks/4650"
+  },
+  {
+   "titre": "Voltaire, Poème sur le désastre de Lisbonne (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Poème_sur_le_désastre_de_Lisbonne"
+  },
+  {
+   "titre": "Montesquieu, Lettres persanes, lettre 30 (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Lettres_persanes/Lettre_30"
+  }
+ ],
+ "aVerifier": [
+  "Lieu et imprimeur exacts de la première édition (Genève, vraisemblablement chez les Cramer) et détail des condamnations de 1759 (Genève, Paris) : formulés prudemment dans la fiche.",
+  "Le mot « coïonnerie » est rapporté par l'éditeur Beuchot (préface de 1829) ; la lettre exacte de Voltaire n'a pas été consultée.",
+  "Date de l'installation de Voltaire à Ferney (achat en 1758, installation progressive vers 1759-1760) : non précisée dans la fiche."
+ ]
+}

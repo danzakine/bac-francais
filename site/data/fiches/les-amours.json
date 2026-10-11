@@ -1,0 +1,887 @@
+{
+ "id": "les-amours",
+ "accroche": "Trois femmes, une rose et un seul ennemi, le temps : avec Ronsard, le sonnet devient l’arme de l’amour contre la fuite des jours.",
+ "identite": {
+  "auteur": "Pierre de Ronsard (1524-1585) naît au château de la Possonnière, dans le Vendômois. Page à la cour, il se destine à la carrière des armes et de la diplomatie, mais une maladie le laisse à moitié sourd vers dix-huit ans. Il se tourne alors vers les lettres et étudie le grec et le latin au collège de Coqueret, à Paris, auprès de l’humaniste Jean Dorat, avec Joachim du Bellay et d’autres jeunes poètes. Ensemble, ils forment la « Brigade », bientôt appelée la Pléiade. Ronsard publie ses Odes (1550), puis Les Amours (1552), devient le poète favori de la cour des Valois, en particulier de Charles IX, et reçoit le surnom de « prince des poètes ». Il meurt en 1585 au prieuré de Saint-Cosme, près de Tours.",
+  "contexte": "Ronsard écrit en pleine Renaissance. Les humanistes redécouvrent les textes antiques grecs et latins (Homère, Pindare, Horace, Ovide) et la poésie italienne de Pétrarque (XIVe siècle). L’imprimerie permet aux recueils de circuler largement. En 1549, Du Bellay publie la Défense et illustration de la langue française, manifeste qui demande d’enrichir le français et d’imiter les grands genres antiques et italiens, dont le sonnet. Mais la seconde moitié du siècle est aussi celle des guerres de Religion (à partir de 1562) : la cour des Valois, où vit Ronsard, est à la fois raffinée et menacée.",
+  "mouvement": "Ronsard est le chef de file de la Pléiade, groupe de sept poètes humanistes qui veulent donner à la France une poésie digne des Anciens. Leurs principes : imiter les modèles antiques et italiens pour mieux les dépasser, enrichir la langue (mots nouveaux, mots savants), pratiquer des formes nobles comme l’ode et le sonnet, et faire du poète un être inspiré, capable de rendre immortels ceux qu’il chante. Dans Les Amours, Ronsard adapte le pétrarquisme (dame idéalisée, amour souffrance, antithèses du feu et de la glace) puis s’en éloigne vers un lyrisme plus personnel, plus simple et plus sensuel.",
+  "circonstances": "Les Amours paraissent en 1552 (amours de Cassandre). Dès 1553, une édition augmentée est accompagnée d’un commentaire de l’humaniste Marc-Antoine Muret, qui explique les allusions savantes et mythologiques : signe que ces sonnets étaient jugés difficiles. Ronsard publie ensuite la Continuation des Amours (1555) et la Nouvelle Continuation des Amours (1556), où apparaît Marie. Dans l’Élégie à son livre, qui ouvre le second livre des Amours, il justifie ce changement de manière : l’amour ne se chante pas « d’un vers hautement grave », mais « d’un beau stile bas ». Dans les éditions collectives de ses Œuvres, Ronsard regroupe et corrige sans cesse ses sonnets ; l’édition de 1578 ajoute les poèmes Sur la mort de Marie et les Sonnets pour Hélène. La dernière édition parue de son vivant date de 1584. Les textes changent donc d’une édition à l’autre : en 1555, le sonnet que nous connaissons sous le titre « Marie, levez-vous, ma jeune paresseuse » commençait par « Mignonne, levez-vous, vous êtes paresseuse ».",
+  "carriere": "Les Amours accompagnent toute la carrière de Ronsard. Il a 28 ans en 1552 et vient de publier ses premiers livres d’Odes (1550), où il imite le poète grec Pindare. Les sonnets à Cassandre font de lui le grand poète de l’amour à la française. Il écrit ensuite des Hymnes (1555-1556), des Discours sur les misères de ce temps (1562-1563), où il prend parti pour le camp catholique pendant les guerres de Religion, et une épopée inachevée, La Franciade (1572). Les Sonnets pour Hélène (1578) sont l’œuvre d’un poète de plus de cinquante ans, qui revient à la poésie amoureuse au moment où de plus jeunes poètes, comme Desportes, sont en faveur à la cour. Célébré de son vivant, Ronsard sera sévèrement jugé par Malherbe puis par Boileau au XVIIe siècle, avant d’être réhabilité par les romantiques, notamment Sainte-Beuve au XIXe siècle."
+ },
+ "resumeCourt": "Les Amours ne sont pas un roman mais un ensemble de recueils de sonnets que Ronsard publie et remanie de 1552 à sa mort. Trois femmes y portent trois manières d’aimer. Cassandre, rencontrée en 1545, inspire un amour savant et douloureux, à la manière de Pétrarque. Marie, jeune Angevine, appelle une poésie plus simple, plus familière, pleine de fleurs et de matins de campagne ; sa mort donne naissance aux sonnets funèbres de 1578. Hélène, dame de la cour, est l’amour tardif d’un poète vieillissant, qui lui rappelle avec une tendre ironie que la beauté passe et que seuls les vers demeurent. D’un cycle à l’autre reviennent la rose, le temps qui détruit, l’appel à profiter de la jeunesse (carpe diem) et la certitude que la poésie rend immortel. Lire un choix de sonnets, c’est donc suivre l’histoire d’une voix qui apprend à dire l’amour de mille façons dans une forme brève de quatorze vers.",
+ "resume": [
+  {
+   "titre": "Les Amours de Cassandre (1552-1553) : l’amour pétrarquiste",
+   "texte": "Le premier recueil célèbre Cassandre Salviati, jeune fille aperçue à Blois en 1545. Ronsard y imite Pétrarque : la dame est une beauté presque divine, descendue du ciel (« Nature ornant Cassandre »), et l’amant est un captif blessé par les flèches d’Amour. Le sonnet liminaire « Qui voudra voir comme un Dieu me surmonte » donne le ton : l’amour est une guerre perdue d’avance, un mélange de feu et de glace. La langue est savante, chargée de mythologie, à tel point que Marc-Antoine Muret publie dès 1553 un commentaire pour l’expliquer aux lecteurs."
+  },
+  {
+   "titre": "Les sonnets de la nature et du désir",
+   "texte": "Dans ce même cycle, la nature devient la confidente de l’amant. Dans « Ciel, air et vents », le poète, parti sans avoir pu dire adieu, charge les éléments, les forêts et les fontaines de porter son message. Dans « Comme un chevreuil », une longue comparaison montre l’animal libre surpris par la flèche du chasseur : ainsi le jeune poète, insouciant, a été frappé par un regard. L’amour est une blessure, mais aussi une source de poésie."
+  },
+  {
+   "titre": "Continuation des Amours (1555-1556) : Marie et le « beau style bas »",
+   "texte": "Ronsard change de manière. Il chante désormais Marie, une jeune fille de Bourgueil, en Anjou, et adopte un style plus simple, qu’il défend lui-même dans l’Élégie à son livre : l’amour se chante « d’un beau stile bas », c’est-à-dire dans une langue familière et naturelle. Les sonnets ressemblent à de petites scènes de la vie quotidienne : dans « Marie, levez-vous, ma jeune paresseuse », le poète vient réveiller la jeune fille au chant de l’alouette pour aller voir les rosiers du jardin. L’amour devient plus léger, plus sensuel et souvent plus souriant."
+  },
+  {
+   "titre": "Le carpe diem : profiter du temps présent",
+   "texte": "Un thème traverse tous les cycles : la beauté est fragile comme une fleur. Dans le sonnet « Je vous envoie un bouquet », les fleurs cueillies le soir, qui seraient tombées le lendemain, deviennent une leçon pour la dame : il faut aimer pendant qu’on est jeune. Le célèbre vers « Le temps s’en va, le temps s’en va, ma Dame » corrige aussitôt sa propre formule : ce n’est pas le temps qui part, c’est nous. L’ode « Mignonne, allons voir si la rose » (Odes, I, 17), souvent lue avec les Amours, développe la même leçon."
+  },
+  {
+   "titre": "Sur la mort de Marie (1578) : le deuil et la rose",
+   "texte": "Dans l’édition de 1578, Ronsard ajoute des poèmes de deuil consacrés à la mort de Marie (ils ont peut-être aussi été écrits pour pleurer Marie de Clèves, aimée du roi Henri III). Le sonnet « Comme on voit sur la branche au mois de mai la rose » compare la jeune morte à une rose tuée par la pluie ou la chaleur. Le poète lui offre en rite funéraire du lait et des fleurs, pour que son corps « ne soit que roses » : la poésie transforme la mort en image de beauté."
+  },
+  {
+   "titre": "Sonnets pour Hélène (1578) : l’amour d’un poète vieillissant",
+   "texte": "Ronsard, qui a plus de cinquante ans, célèbre Hélène de Surgères, fille d’honneur de la reine Catherine de Médicis. Le ton est plus grave, plus mélancolique, parfois amer : la dame est fière et dédaigneuse. Le plus célèbre sonnet, « Quand vous serez bien vieille, au soir, à la chandelle », imagine Hélène devenue vieille, relisant les vers de Ronsard au coin du feu et regrettant d’avoir refusé son amour. Le poète y affirme à la fois le carpe diem et le pouvoir d’immortalité de la poésie."
+  },
+  {
+   "titre": "Un livre sans cesse retravaillé",
+   "texte": "Ronsard n’a jamais cessé de corriger ses Amours : il déplace des sonnets, modifie des vers, regroupe les cycles dans ses éditions collectives jusqu’à celle de 1584, un an avant sa mort. L’œuvre que nous lisons est donc un chantier de toute une vie. C’est pourquoi on étudie souvent en classe un « choix de sonnets » : chaque poème est complet en lui-même, mais l’ensemble raconte l’évolution d’un poète et de sa manière d’aimer."
+  }
+ ],
+ "structure": "Les Amours sont formés de plusieurs ensembles publiés entre 1552 et 1578, puis regroupés et remaniés dans les éditions collectives jusqu’en 1584 : le Premier livre (Amours de Cassandre, essentiellement en décasyllabes), le Second livre (Amours de Marie, avec la Continuation de 1555 et la Nouvelle Continuation de 1556, puis la section « Sur la mort de Marie » en 1578) et les Sonnets pour Hélène (1578, deux livres, en alexandrins). La forme dominante est le sonnet : deux quatrains et deux tercets, souvent construits sur le modèle « marotique » ou « français » (ABBA ABBA CCD EED). La dernière ligne, la « chute », porte généralement l’idée forte. On passe ainsi du décasyllabe savant de la jeunesse à l’alexandrin plus ample de la maturité. Les citations de cette fiche sont données en orthographe modernisée, comme dans les éditions scolaires.",
+ "personnages": [
+  {
+   "nom": "Le « je » du poète",
+   "role": "Voix lyrique de tous les sonnets. Il est tour à tour l’amant blessé et soumis de Cassandre, le jeune homme espiègle qui réveille Marie, l’endeuillé qui offre des fleurs à une morte, puis le vieil amoureux lucide qui menace Hélène de l’oubli. Le poète se met souvent en scène par son nom : « Ronsard me célébrait ». Il est aussi celui qui détient le pouvoir de rendre la dame immortelle.",
+   "relations": "Il se définit par rapport à chacune des femmes aimées et à Amour, qui le domine. Dans « Adieu belle Cassandre, et vous belle Marie », il fait lui-même le bilan de ses amours successives."
+  },
+  {
+   "nom": "Cassandre",
+   "role": "Cassandre Salviati, fille d’un banquier italien, rencontrée à Blois en 1545. Dans les sonnets, elle devient une beauté divine et inaccessible, venue du ciel, dont le regard blesse. Son prénom évoque la prophétesse troyenne : elle appartient à un univers savant et mythologique.",
+   "relations": "Destinataire du premier livre. Le poète, soumis, la sert comme un vassal sert son seigneur ; elle reste inaccessible."
+  },
+  {
+   "nom": "Marie",
+   "role": "Jeune fille de Bourgueil, en Anjou, de condition modeste. Elle incarne un amour plus simple, plus campagnard et plus charnel. Elle est associée au matin, aux fleurs, aux oiseaux. Sa mort (réelle ou poétique) inspire les sonnets « Sur la mort de Marie ».",
+   "relations": "Relation plus égale et plus familière que celle avec Cassandre : le poète la tutoie ou la taquine, la réveille, lui promet des baisers. Sa mort fait du poète un endeuillé."
+  },
+  {
+   "nom": "Hélène",
+   "role": "Hélène de Surgères, dame d’honneur de Catherine de Médicis, savante et vertueuse. C’est la reine Catherine qui aurait demandé à Ronsard de la chanter. Fière et distante, elle porte le nom de la plus belle femme de la mythologie, Hélène de Troie. Elle est la destinataire de l’avertissement de « Quand vous serez bien vieille ».",
+   "relations": "Relation tendue : Hélène est « fière », le poète vieillissant est repoussé. Il se venge par le sonnet en lui prédisant une vieillesse pleine de regrets."
+  },
+  {
+   "nom": "Amour (Cupidon)",
+   "role": "Le dieu archer, souvent appelé « l’Archer », qui blesse le poète de ses flèches. Il personnifie la passion comme une force extérieure qui dépasse la raison : « un Dieu me surmonte ».",
+   "relations": "Adversaire et maître du poète ; il le blesse par le regard des femmes aimées."
+  },
+  {
+   "nom": "La rose",
+   "role": "Motif central du recueil : symbole de la beauté et de la jeunesse, de leur éclat et de leur brièveté. Elle est épanouie au matin, fanée le soir ; elle sert à la fois à séduire (carpe diem) et à pleurer (« Comme on voit sur la branche »).",
+   "relations": "Elle relie Marie (« Comme on voit sur la branche »), Hélène (« les roses de la vie ») et la « Mignonne » de l’ode."
+  },
+  {
+   "nom": "Le Temps et la Mort",
+   "role": "Les véritables adversaires de l’amant. La Parque, déesse qui coupe le fil de la vie, tue Marie ; la vieillesse menace Hélène. Face à eux, la poésie est la seule victoire possible.",
+   "relations": "Ils menacent toutes les femmes aimées ; seule la poésie leur résiste."
+  }
+ ],
+ "evolution": "Le recueil raconte l’évolution d’une voix plus que celle d’une intrigue. Avec Cassandre (1552), le jeune poète imite Pétrarque : amour-souffrance, dame divine, langue savante, décasyllabes. Avec Marie (1555-1556), il descend vers le « beau stile bas » : scènes de campagne, désir plus franc, ton souriant. Avec Sur la mort de Marie (1578), l’amour devient deuil, et la rose, symbole de séduction, devient image funèbre. Avec Hélène (1578), le poète vieillissant, en alexandrins amples, oppose la beauté qui passe à la gloire des vers qui reste. Le sonnet « Adieu belle Cassandre, et vous belle Marie » résume ce parcours : le poète qui aimait « sur [son] premier Avril » se retrouve amoureux « en Automne ».",
+ "themes": [
+  {
+   "titre": "L’amour, une blessure et une prison",
+   "texte": "Dans le cycle de Cassandre, l’amour est vécu comme une défaite : « Qui voudra voir comme un Dieu me surmonte » montre un amant attaqué, vaincu, tour à tour brûlé et glacé. Dans « Comme un chevreuil », le jeune homme insouciant est frappé par « mille traits ». Ces images de guerre et de chasse, héritées de Pétrarque, font de l’amour une force qui dépasse la raison."
+  },
+  {
+   "titre": "La femme aimée et sa beauté",
+   "texte": "Chaque femme reçoit un portrait différent : Cassandre est un chef-d’œuvre de la Nature, presque une déesse ; Marie est une jeune fille réelle, paresseuse au réveil, qui arrose ses œillets ; Hélène est fière et dédaigneuse. La beauté est toujours comparée à la nature (rose, aube, fleurs), ce qui la rend désirable mais aussi périssable."
+  },
+  {
+   "titre": "La fuite du temps et le carpe diem",
+   "texte": "C’est le thème le plus célèbre. L’expression latine carpe diem (« cueille le jour ») vient du poète Horace. Ronsard la reprend sans cesse : « Cueillez dès aujourd’hui les roses de la vie » (Sonnets pour Hélène), « Cueillez, cueillez votre jeunesse » (« Mignonne, allons voir si la rose »), « Le temps s’en va, le temps s’en va, ma Dame » (« Je vous envoie un bouquet »). La leçon est à la fois une invitation au plaisir et un argument de séduction."
+  },
+  {
+   "titre": "La nature, miroir et confidente",
+   "texte": "La nature est partout : l’alouette et le rossignol du matin, l’« herbelette perleuse », les rosiers de Marie, les forêts et fontaines de « Ciel, air et vents ». Elle reflète les sentiments du poète et lui sert de répertoire de comparaisons. La rose, en particulier, permet d’unir beauté, amour et mort dans un même symbole."
+  },
+  {
+   "titre": "La mort et le deuil",
+   "texte": "La mort traverse le recueil : mort symbolique de l’amant blessé, mort réelle de Marie, mort annoncée du poète (« Je serai sous la terre et fantôme sans os »). Dans « Comme on voit sur la branche », Ronsard transforme le deuil en cérémonie poétique, avec lait et fleurs offerts à la morte, pour que la beauté survive."
+  },
+  {
+   "titre": "Le pouvoir de la poésie : rendre immortel",
+   "texte": "Pour les poètes de la Pléiade, les vers défient le temps. Dans « Quand vous serez bien vieille », la servante s’éveille « au bruit de [son] nom » et la dame, vieillie, se souvient que « Ronsard [la] célébrait ». Le poète, qui sera mort, reste vivant dans ses vers, et la dame ne sera immortelle que grâce à lui : la poésie est un pouvoir, presque une vengeance."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment dire l’amour dans une forme brève et contraignante, le sonnet ?",
+   "Comment imiter les modèles (Pétrarque, Horace, les poètes latins) tout en trouvant une voix personnelle ?",
+   "Que peut la poésie contre le temps, la vieillesse et la mort ?",
+   "La femme aimée est-elle une personne réelle ou une figure poétique construite par le poète ?"
+  ],
+  "intentions": "Ronsard a lui-même expliqué son changement de style dans l’Élégie à son livre (placée en tête du second livre des Amours) : s’il n’est plus aussi grave qu’à ses débuts, c’est que « les amours ne se souspirent pas / D’un vers hautement grave, ains d’un beau stile bas, / Populaire et plaisant », à la manière des poètes latins Tibulle, Ovide et Catulle (texte de l’éd. Vaganay, Wikisource). Il revendique donc une simplicité voulue, et non une facilité. En revanche, on ne sait pas avec certitude dans quelle mesure les trois femmes ont été aimées « réellement » : les sonnets ne sont pas une autobiographie.",
+  "procedes": [
+   {
+    "nom": "La comparaison développée (« Comme… / Ainsi… »)",
+    "explication": "Ronsard consacre les quatrains à une image (animal, fleur), puis l’applique au poète ou à la femme aimée dans les tercets. La structure du sonnet porte ainsi le raisonnement.",
+    "exemple": "« Comme un chevreuil » : le chevreuil frappé par le chasseur, puis « Ainsi j’allais sans espoir de dommage » ; « Comme on voit sur la branche » : la rose, puis « Ainsi en ta première et jeune nouveauté »."
+   },
+   {
+    "nom": "L’antithèse pétrarquiste",
+    "explication": "Elle oppose des sensations contraires pour dire le trouble amoureux : l’amant brûle et gèle à la fois.",
+    "exemple": "« Comme il renflamme et renglace mon cœur » (sonnet I des Amours de Cassandre)."
+   },
+   {
+    "nom": "La chute",
+    "explication": "Le dernier vers du sonnet concentre l’idée forte, souvent sous forme de sentence ou d’image frappante.",
+    "exemple": "« Afin que vif, et mort, ton corps ne soit que roses » ; « Cueillez dès aujourd’hui les roses de la vie »."
+   },
+   {
+    "nom": "L’impératif et l’apostrophe",
+    "explication": "Le poète s’adresse directement à la femme aimée : le sonnet devient une parole qui cherche à convaincre (registre persuasif).",
+    "exemple": "« Marie, levez-vous » ; « Vivez, si m’en croyez, n’attendez à demain »."
+   },
+   {
+    "nom": "L’épanorthose (correction)",
+    "explication": "Le poète corrige sa propre formule pour la rendre plus juste et plus grave.",
+    "exemple": "« Le temps s’en va, le temps s’en va, ma Dame, / Las ! le temps non, mais nous nous en allons »."
+   },
+   {
+    "nom": "Les références mythologiques",
+    "explication": "Elles ennoblissent l’amour et rattachent le poème à la culture antique, mais rendent parfois le texte savant.",
+    "exemple": "La Parque qui tue Marie, les « ombres myrteux » des Enfers où reposent les amants, Amour archer."
+   }
+  ],
+  "style": "Le style de Ronsard évolue : dans le cycle de Cassandre, il est savant, chargé de mythologie et de mots nouveaux, en décasyllabes serrés ; dans celui de Marie, il est simple et familier, riche en diminutifs (« herbelette », « angelette ») et en scènes concrètes ; dans les Sonnets pour Hélène, l’alexandrin donne une ampleur grave et mélancolique. Partout, le poète soigne la musicalité (répétitions, anaphores, rythmes réguliers) et construit ses sonnets en deux temps, avec une chute.",
+  "registres": [
+   {
+    "nom": "Lyrique",
+    "explication": "Le « je » exprime ses sentiments personnels (désir, souffrance, deuil) : c’est le registre dominant."
+   },
+   {
+    "nom": "Élégiaque",
+    "explication": "Plainte douce et mélancolique sur la perte et le temps qui passe, en particulier dans Sur la mort de Marie."
+   },
+   {
+    "nom": "Épidictique (éloge)",
+    "explication": "Le poète fait l’éloge de la beauté de la dame, comparée au ciel, à la rose, à l’aube."
+   },
+   {
+    "nom": "Persuasif",
+    "explication": "Le carpe diem est un argument : il s’agit de convaincre la femme d’aimer maintenant."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Les trois femmes correspondent à trois manières d’écrire (pétrarquisme savant, style bas, méditation grave) autant qu’à trois amours vécues.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Les sonnets « Sur la mort de Marie » ont peut-être été écrits aussi, voire d’abord, pour pleurer Marie de Clèves, aimée du roi Henri III, morte en 1574.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "« Quand vous serez bien vieille » est-il une déclaration d’amour, une menace ou une vengeance d’amant éconduit ? Les lectures divergent, et le sonnet mêle sans doute les trois.",
+    "nature": "debat"
+   },
+   {
+    "texte": "L’identité exacte de Marie (souvent identifiée à une jeune fille de Bourgueil, parfois nommée Marie Dupin) n’est pas établie avec certitude.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le carpe diem de Ronsard est moins une philosophie qu’un argument de séduction, qui se double d’une réflexion sincère sur la mort.",
+    "nature": "debat"
+   }
+  ],
+  "liens": "Les Amours mettent en pratique le programme de la Pléiade défini par Du Bellay en 1549 : imiter les Anciens et les Italiens pour enrichir la poésie française. Le sonnet, forme italienne, devient avec Ronsard une forme française. Le recueil reflète aussi l’humanisme de la Renaissance : culture antique (Horace, Ovide, mythologie), confiance dans le pouvoir du poète, célébration de la beauté du monde et du corps."
+ },
+ "citations": [
+  {
+   "texte": "Qui voudra voir comme un Dieu me surmonte, / Comme il m’assaut, comme il se fait vainqueur, / Comme il renflamme et renglace mon cœur",
+   "locuteur": "Le poète",
+   "reference": "Amours de Cassandre (premier livre), sonnet I",
+   "situation": "Sonnet d’ouverture du recueil : le poète présente au lecteur le spectacle de sa défaite amoureuse.",
+   "sens": "L’amour est un dieu qui attaque et soumet le poète, le faisant passer du feu à la glace.",
+   "procedes": "Anaphore de « comme », métaphore guerrière (« assaut », « vainqueur »), antithèse « renflamme / renglace ».",
+   "demontre": "Le pétrarquisme du premier cycle : l’amour est une souffrance et une défaite.",
+   "usage": "Pour illustrer l’héritage de Pétrarque et l’image de l’amour comme guerre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Du Ciel à peine elle était descendue / Quand je la vis, quand mon âme éperdue / Perdit raison",
+   "locuteur": "Le poète",
+   "reference": "Amours de Cassandre, sonnet II (« Nature ornant Cassandre… »)",
+   "situation": "Le poète raconte sa première rencontre avec Cassandre, présentée comme un chef-d’œuvre de la Nature.",
+   "sens": "Cassandre semble venue du ciel ; la voir a suffi pour faire perdre la raison au poète.",
+   "procedes": "Hyperbole (origine céleste), répétition de « quand », rejet de « Perdit raison » qui mime le bouleversement.",
+   "demontre": "L’idéalisation de la dame et le coup de foudre.",
+   "usage": "Pour parler du portrait idéalisé de la femme aimée.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Ainsi j’allais sans espoir de dommage, / Le jour qu’un œil sur l’avril de mon âge / Tira d’un coup mille traits en mon flanc.",
+   "locuteur": "Le poète",
+   "reference": "Amours de Cassandre, sonnet LIX (« Comme un chevreuil… »)",
+   "situation": "Second tercet : après la comparaison avec le chevreuil tué par un chasseur, le poète l’applique à lui-même.",
+   "sens": "Le jeune poète, insouciant, a été blessé par un regard.",
+   "procedes": "Outil « Ainsi », métaphore « l’avril de mon âge » (la jeunesse), métonymie de l’« œil », hyperbole « mille traits ».",
+   "demontre": "L’amour comme blessure, et la construction du sonnet en deux temps (image puis application).",
+   "usage": "Exemple-type de comparaison développée sur tout un sonnet.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot). Le texte porte « en mon flanc »."
+   }
+  },
+  {
+   "texte": "Je vous supplie, Ciel, air, vents, monts et plaines, / Taillis, forêts, rivages et fontaines, / Antres, prés, fleurs, dites-le-lui pour moi.",
+   "locuteur": "Le poète",
+   "reference": "Amours de Cassandre, sonnet LXVI (« Ciel, air et vents… »)",
+   "situation": "Chute du sonnet : le poète, parti sans dire adieu à Cassandre, demande à la nature de transmettre son message.",
+   "sens": "Toute la nature devient messagère de l’amant.",
+   "procedes": "Apostrophe, accumulation qui reprend les éléments énumérés dans les quatrains, construction en boucle.",
+   "demontre": "La nature confidente et le lien entre paysage et sentiment.",
+   "usage": "Pour le thème de la nature miroir de l’âme.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Marie, levez-vous, ma jeune paresseuse",
+   "locuteur": "Le poète",
+   "reference": "Amours de Marie (second livre), sonnet XXII",
+   "situation": "Premier vers d’un sonnet qui met en scène le réveil de Marie au matin.",
+   "sens": "Le poète réveille tendrement la jeune fille endormie.",
+   "procedes": "Apostrophe, impératif, adjectif affectueux « jeune paresseuse » : ton familier.",
+   "demontre": "Le « beau style bas » : une poésie amoureuse simple et quotidienne.",
+   "usage": "Pour opposer le cycle de Marie au cycle savant de Cassandre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Dans la Continuation de 1555, le vers commençait par « Mignonne, levez-vous, vous êtes paresseuse » ; la leçon citée est celle des éditions postérieures."
+   }
+  },
+  {
+   "texte": "Le temps s’en va, le temps s’en va, ma Dame, / Las ! le temps non, mais nous nous en allons",
+   "locuteur": "Le poète",
+   "reference": "Amours de Marie, sonnet « Je vous envoie un bouquet… »",
+   "situation": "Premier tercet : après avoir offert des fleurs qui faneront, le poète tire la leçon.",
+   "sens": "Ce n’est pas le temps qui passe, ce sont les humains qui vont vers la mort.",
+   "procedes": "Répétition, interjection « Las ! », épanorthose (correction).",
+   "demontre": "Le carpe diem prend une dimension grave : il rappelle la mortalité.",
+   "usage": "Citation centrale sur la fuite du temps.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "La Parque t’a tuée, et cendre tu reposes.",
+   "locuteur": "Le poète",
+   "reference": "Sur la mort de Marie, sonnet III (« Comme on voit sur la branche… »)",
+   "situation": "Premier tercet : le poète applique à Marie l’image de la rose qui meurt.",
+   "sens": "La mort a frappé la jeune femme en pleine jeunesse.",
+   "procedes": "Référence mythologique (la Parque), brutalité du rythme, mot « cendre ».",
+   "demontre": "Le passage de la poésie amoureuse à la poésie du deuil.",
+   "usage": "Pour le thème de la mort et l’usage de la mythologie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Afin que vif, et mort, ton corps ne soit que roses.",
+   "locuteur": "Le poète",
+   "reference": "Sur la mort de Marie, sonnet III",
+   "situation": "Chute du sonnet, après l’offrande funéraire de lait et de fleurs.",
+   "sens": "Le poète souhaite que le corps de Marie, vivant comme mort, se confonde avec les roses.",
+   "procedes": "Antithèse « vif / mort », métaphore finale, chute.",
+   "demontre": "La poésie transforme la mort en beauté et rend l’aimée éternelle.",
+   "usage": "Exemple parfait de chute de sonnet.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Vivez, si m’en croyez, n’attendez à demain : / Cueillez dès aujourd’hui les roses de la vie.",
+   "locuteur": "Le poète",
+   "reference": "Sonnets pour Hélène, second livre, sonnet XLII (« Quand vous serez bien vieille… »)",
+   "situation": "Dernier tercet : après avoir imaginé Hélène vieille et pleine de regrets, le poète lui donne un conseil.",
+   "sens": "Il faut profiter de la jeunesse et de l’amour sans attendre.",
+   "procedes": "Impératifs, métaphore « les roses de la vie », opposition « demain / aujourd’hui ».",
+   "demontre": "Le carpe diem comme argument de séduction.",
+   "usage": "Formule la plus célèbre du carpe diem en français.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Ronsard me célébrait du temps que j’étais belle.",
+   "locuteur": "Hélène, imaginée vieille (paroles rapportées par le poète)",
+   "reference": "Sonnets pour Hélène, second livre, sonnet XLII",
+   "situation": "Premier quatrain : Hélène, devenue vieille, récite les vers du poète au coin du feu.",
+   "sens": "Hélène se souviendra que Ronsard l’a chantée quand elle était jeune.",
+   "procedes": "Le poète se nomme lui-même ; contraste imparfait / présent implicite ; vers placé dans la bouche de la dame.",
+   "demontre": "La gloire du poète survit à la beauté : la poésie donne l’immortalité.",
+   "usage": "Pour le thème du pouvoir de la poésie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Je serai sous la terre et fantôme sans os",
+   "locuteur": "Le poète",
+   "reference": "Sonnets pour Hélène, second livre, sonnet XLII",
+   "situation": "Premier tercet : le poète imagine sa propre mort, au moment où Hélène sera vieille.",
+   "sens": "Le poète sera mort, réduit à une ombre.",
+   "procedes": "Futur prophétique, image saisissante « fantôme sans os ».",
+   "demontre": "La mort menace aussi le poète, mais sa voix demeure dans ses vers.",
+   "usage": "Pour montrer que le carpe diem s’applique aussi au poète.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Cueillez, cueillez votre jeunesse : / Comme à cette fleur la vieillesse / Fera ternir votre beauté.",
+   "locuteur": "Le poète",
+   "reference": "Odes, livre I, ode XVII (« Mignonne, allons voir si la rose »)",
+   "situation": "Dernière strophe de l’ode : après avoir montré la rose fanée en un jour, le poète conclut.",
+   "sens": "La jeune femme doit profiter de sa jeunesse, car elle se fanera comme la rose.",
+   "procedes": "Répétition de l’impératif « Cueillez », comparaison avec la fleur, futur menaçant.",
+   "demontre": "La leçon du carpe diem et le lien entre rose et beauté féminine.",
+   "usage": "Texte souvent étudié avec les Amours (attention : c’est une ode, pas un sonnet).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Adieu belle Cassandre, et vous belle Marie",
+   "locuteur": "Le poète",
+   "reference": "Sonnets pour Hélène, second livre, sonnet X",
+   "situation": "Premier vers d’un sonnet où le poète vieillissant dit adieu à ses anciennes amours avant de chanter Hélène.",
+   "sens": "Le poète fait le bilan de sa vie amoureuse et poétique.",
+   "procedes": "Apostrophes, parallélisme, adieu.",
+   "demontre": "L’unité du recueil : les cycles se répondent.",
+   "usage": "Pour montrer la cohérence des Amours et l’évolution du poète.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Ronsard, Les Amours, éd. H. Vaganay (Garnier, 1923-1924) et Sonnets pour Hélène, éd. R. Sorg (Bossard, 1921), via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le sonnet, forme de l’amour et du temps",
+  "explication": "Il n’existe pas de programme d’œuvres imposé en classe de seconde : ce parcours est donc un parcours pédagogique proposé par le site, dans le cadre de l’objet d’étude « La poésie du Moyen Âge au XVIIIe siècle ». Il invite à découvrir l’histoire des formes poétiques et la manière dont elles expriment l’expérience humaine. Le sonnet en est l’exemple parfait : né en Italie, perfectionné par Pétrarque, il arrive en France au XVIe siècle et devient avec Ronsard la forme reine de la poésie amoureuse. Ce parcours propose d’observer comment quatorze vers, avec leurs règles strictes (deux quatrains, deux tercets, une chute), permettent de dire l’amour, le désir, le deuil et la fuite du temps.\n\nLes Amours répondent parfaitement à ce parcours : on y voit le sonnet passer d’un style savant (Cassandre) à un style familier (Marie), puis à une méditation sur la vieillesse (Hélène). La contrainte n’étouffe pas la sensibilité : elle la concentre. La chute du sonnet devient souvent une sentence mémorable (« Cueillez dès aujourd’hui les roses de la vie »), et la structure en deux temps (quatrains/tercets) permet d’opposer passé et avenir, beauté et mort.\n\nLes textes complémentaires montrent d’où vient ce modèle (Pétrarque, Horace), comment les contemporains l’ont réinventé (Louise Labé) et comment le thème de la rose et du temps a continué à vivre jusqu’au XXe siècle.",
+  "textesComplementaires": [
+   {
+    "titre": "Canzoniere, sonnet 61 « Benedetto sia ’l giorno… » (« Béni soit le jour… »)",
+    "auteur": "Pétrarque (XIVe siècle)",
+    "interet": "Le modèle italien du sonnet amoureux : une dame idéalisée (Laure), un amour-souffrance, des antithèses que Ronsard imite dans le cycle de Cassandre."
+   },
+   {
+    "titre": "Odes, I, 11 (« Carpe diem »)",
+    "auteur": "Horace (Ier siècle av. J.-C.)",
+    "interet": "La source antique du carpe diem : Horace y invite Leuconoé à profiter du jour présent en se fiant le moins possible au lendemain. Permet de mesurer comment Ronsard transforme une leçon philosophique en argument amoureux."
+   },
+   {
+    "titre": "Sonnet VIII « Je vis, je meurs : je me brûle et me noie »",
+    "auteur": "Louise Labé (1555)",
+    "interet": "Une voix féminine de la Renaissance qui reprend les antithèses pétrarquistes pour dire le désir : on inverse le point de vue des Amours."
+   },
+   {
+    "titre": "Consolation à M. du Périer sur la mort de sa fille",
+    "auteur": "François de Malherbe (vers 1599)",
+    "interet": "Le vers « Et rose elle a vécu ce que vivent les roses » prolonge l’image de « Comme on voit sur la branche » dans un poème de deuil plus sobre, au seuil du classicisme."
+   },
+   {
+    "titre": "« Si tu t’imagines » (L’Instant fatal)",
+    "auteur": "Raymond Queneau (1948)",
+    "interet": "Réécriture moderne et ludique de « Mignonne, allons voir si la rose » : le carpe diem de Ronsard repris en langue familière, preuve de la vitalité du thème."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Les Amours sont une œuvre en mouvement, remaniée de 1552 à 1584 : trois femmes, trois styles.",
+   "Le sonnet structure la pensée : image dans les quatrains, application et leçon dans les tercets, idée forte dans la chute.",
+   "La rose relie l’amour, la beauté, le temps et la mort.",
+   "Le carpe diem est à la fois un argument de séduction et une méditation sur la mort.",
+   "La poésie est présentée comme plus forte que le temps : elle rend immortels le poète et la femme aimée."
+  ],
+  "axes": [
+   "Le passage du pétrarquisme savant au « beau style bas ».",
+   "La nature comme miroir et comme réservoir d’images.",
+   "La parole poétique comme parole persuasive (impératifs, apostrophes, menace).",
+   "Le poète face au temps : vieillesse, mort, immortalité par les vers."
+  ],
+  "problematiques": [
+   "Comment Ronsard fait-il du sonnet un instrument pour lutter contre le temps ?",
+   "Dans quelle mesure la femme aimée est-elle une création du poète ?",
+   "Comment Ronsard concilie-t-il imitation des modèles et invention personnelle ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "« Comme un chevreuil » (Cassandre, LIX) : comparaison sur douze vers puis « Ainsi ».",
+    "utilisation": "Montrer comment la structure du sonnet porte le sens et faire de l’amour une blessure."
+   },
+   {
+    "exemple": "« Marie, levez-vous » : alouette, rossignol, « herbelette perleuse », baisers promis.",
+    "utilisation": "Illustrer le « beau style bas » et la sensualité du cycle de Marie."
+   },
+   {
+    "exemple": "« Je vous envoie un bouquet » : fleurs cueillies le soir, qui seraient tombées le lendemain.",
+    "utilisation": "Montrer comment un objet concret devient une leçon sur le temps."
+   },
+   {
+    "exemple": "« Comme on voit sur la branche » : lait et fleurs offerts à la morte.",
+    "utilisation": "Montrer la transformation du deuil en hommage poétique et le rôle de la mythologie."
+   },
+   {
+    "exemple": "« Quand vous serez bien vieille » : Hélène au coin du feu, le poète chez les morts.",
+    "utilisation": "Analyser le carpe diem et l’affirmation du pouvoir du poète."
+   },
+   {
+    "exemple": "« Adieu belle Cassandre, et vous belle Marie » (Hélène, II, X).",
+    "utilisation": "Montrer l’unité du recueil et l’évolution du poète, du « premier Avril » à l’« Automne »."
+   }
+  ],
+  "liens": "La rose relie les trois femmes et les trois thèmes (beauté, temps, mort). Le procédé de la comparaison développée relie la nature et le sentiment. Le personnage du poète relie l’amour et la gloire : plus il se dit vaincu par l’amour, plus il affirme son pouvoir de rendre immortel.",
+  "sujetsCommentaire": [
+   {
+    "passage": "« Comme on voit sur la branche au mois de mai la rose » (Sur la mort de Marie, III)",
+    "pistes": "Une comparaison filée de la rose à la jeune morte ; le passage brutal de la vie à la mort (« Mais », « La Parque ») ; le rite funéraire antique ; la chute qui fait de la poésie une offrande éternelle."
+   },
+   {
+    "passage": "« Quand vous serez bien vieille… » (Sonnets pour Hélène, II, XLII)",
+    "pistes": "Une scène d’avenir au futur ; l’opposition des deux destins (poète mort mais glorieux, dame vivante mais oubliée) ; le carpe diem final ; ambiguïté entre déclaration d’amour et menace."
+   },
+   {
+    "passage": "« Marie, levez-vous, ma jeune paresseuse » (Amours de Marie, XXII)",
+    "pistes": "Un tableau matinal plein de vie ; la nature associée à la jeune fille ; le ton familier et tendre ; une chute amusée et sensuelle."
+   }
+  ],
+  "erreurs": [
+   "Croire que Les Amours forment un seul livre écrit d’un coup : ce sont plusieurs recueils remaniés pendant trente ans.",
+   "Lire les sonnets comme un journal intime fiable : la part de fiction et d’imitation (Pétrarque) est très grande.",
+   "Confondre les trois femmes, ou attribuer « Quand vous serez bien vieille » à Cassandre ou à Marie : il appartient aux Sonnets pour Hélène.",
+   "Présenter « Mignonne, allons voir si la rose » comme un sonnet : c’est une ode (Odes, I, 17), en strophes de six vers.",
+   "Réduire le carpe diem à « il faut s’amuser » : chez Ronsard, il rappelle surtout la mort et sert à convaincre la femme aimée.",
+   "Citer le texte en orthographe moderne en disant qu’il est « tel quel » : Ronsard écrit en français du XVIe siècle (« tems », « celebroit »)."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "La poésie amoureuse de Ronsard parle-t-elle seulement d’amour ?",
+   "analyse": "Le sujet invite à dépasser une lecture simple des Amours. « Seulement » suggère que l’amour pourrait n’être qu’un point de départ. Il faut donc montrer que les sonnets parlent bien d’amour (déclaration, désir, souffrance), mais aussi d’autres questions : la fuite du temps, la mort, la nature, et la poésie elle-même.",
+   "problematique": "En chantant Cassandre, Marie et Hélène, Ronsard ne se sert-il pas de l’amour pour méditer sur le temps, la mort et le pouvoir de la poésie ?",
+   "plan": [
+    {
+     "titre": "I. Une poésie qui célèbre l’amour sous toutes ses formes",
+     "arguments": [
+      "A. L’amour-passion, blessure et défaite, hérité de Pétrarque (« Qui voudra voir comme un Dieu me surmonte », « Comme un chevreuil »).",
+      "B. L’amour tendre et sensuel du « beau style bas » (« Marie, levez-vous, ma jeune paresseuse »).",
+      "C. L’éloge de la beauté féminine, comparée à la rose et à l’aube (« Nature ornant Cassandre », « Comme on voit sur la branche »)."
+     ]
+    },
+    {
+     "titre": "II. Une méditation sur le temps et la mort",
+     "arguments": [
+      "A. La beauté est éphémère : la rose fanée de « Je vous envoie un bouquet » et de l’ode « Mignonne, allons voir si la rose ».",
+      "B. La mort de l’aimée transforme le chant d’amour en chant de deuil (« La Parque t’a tuée, et cendre tu reposes »).",
+      "C. Le carpe diem invite à profiter du présent (« Cueillez dès aujourd’hui les roses de la vie »)."
+     ]
+    },
+    {
+     "titre": "III. Une réflexion sur le pouvoir de la poésie",
+     "arguments": [
+      "A. Le poète se met en scène et affirme sa gloire (« Ronsard me célébrait du temps que j’étais belle »).",
+      "B. La poésie rend immortel : le corps de Marie devient « roses », Hélène vivra par les vers.",
+      "C. Le sonnet lui-même, forme brève et travaillée, est un art qui défie le temps (remaniements de toute une vie, chute frappante)."
+     ]
+    }
+   ],
+   "introduction": "« Cueillez dès aujourd’hui les roses de la vie » : ce vers, l’un des plus célèbres de la poésie française, conclut un sonnet adressé par Ronsard à Hélène de Surgères. Il résume à lui seul l’ambiguïté des Amours, recueils de sonnets composés entre 1552 et 1578 en l’honneur de Cassandre, de Marie et d’Hélène. On pourrait croire que cette poésie amoureuse ne parle que d’amour : déclarations, plaintes, compliments. Pourtant, derrière la rose offerte à la bien-aimée se cachent la vieillesse, la mort, et la fierté du poète. On peut donc se demander si, en chantant ses amours, Ronsard ne se sert pas de l’amour pour méditer sur le temps, la mort et le pouvoir de la poésie. Nous verrons d’abord que les Amours célèbrent bien l’amour sous toutes ses formes, puis qu’elles sont une méditation sur le temps et la mort, enfin qu’elles affirment la puissance de la poésie elle-même.",
+   "conclusion": "Les Amours sont bien une poésie amoureuse : elles disent la blessure de la passion, la tendresse du quotidien et l’éclat de la beauté féminine. Mais l’amour y est aussi le point de départ d’une réflexion plus vaste sur la fragilité de la vie, que résume le motif de la rose, et sur la mort qui frappe les êtres aimés. Surtout, Ronsard y affirme que seule la poésie peut vaincre le temps : la dame passera, les vers resteront. Une vingtaine d’années après Sur la mort de Marie, Malherbe reprendra l’image de la rose dans sa Consolation à M. du Périer (« Et rose elle a vécu ce que vivent les roses »), preuve que la leçon de Ronsard a, elle aussi, traversé le temps."
+  },
+  {
+   "sujet": "Le sonnet est-il une contrainte qui limite le poète ou une chance qui le rend plus inventif ? Vous répondrez en vous appuyant sur les sonnets de Ronsard étudiés.",
+   "analyse": "Le sujet oppose deux visions de la forme fixe : une prison (« contrainte qui limite ») ou un tremplin (« chance qui rend plus inventif »). Il faut définir le sonnet (quatorze vers, deux quatrains, deux tercets, rimes réglées, chute) et examiner comment Ronsard s’en sert.",
+   "problematique": "Dans Les Amours, la forme stricte du sonnet bride-t-elle l’expression des sentiments ou leur donne-t-elle au contraire plus de force ?",
+   "plan": [
+    {
+     "titre": "I. Une forme exigeante, héritée d’une tradition",
+     "arguments": [
+      "A. Des règles strictes : quatorze vers, quatrains et tercets, rimes imposées, souvent décasyllabes puis alexandrins.",
+      "B. Un modèle à imiter, celui de Pétrarque, avec ses images codées (feu et glace, flèches d’Amour) dans le cycle de Cassandre.",
+      "C. Le risque de la répétition : mêmes motifs (rose, dame cruelle), même schéma d’un sonnet à l’autre."
+     ]
+    },
+    {
+     "titre": "II. Une contrainte qui concentre et intensifie l’émotion",
+     "arguments": [
+      "A. La structure en deux temps permet de construire une comparaison puis son application (« Comme un chevreuil… / Ainsi j’allais »).",
+      "B. La chute frappe la mémoire : « Afin que vif, et mort, ton corps ne soit que roses ».",
+      "C. La brièveté oblige à choisir chaque mot : les quatorze vers de « Quand vous serez bien vieille » contiennent toute une vie."
+     ]
+    },
+    {
+     "titre": "III. Une forme que Ronsard réinvente sans cesse",
+     "arguments": [
+      "A. Variation des tons : savant pour Cassandre, familier pour Marie (« beau style bas »), grave pour Hélène.",
+      "B. Variation des vers et des formes : décasyllabe puis alexandrin ; Ronsard pratique aussi l’ode (« Mignonne, allons voir si la rose »).",
+      "C. Un chantier permanent : Ronsard corrige ses sonnets jusqu’en 1584, preuve que la forme stimule le travail créateur."
+     ]
+    }
+   ],
+   "introduction": "Boileau écrira au XVIIe siècle, dans son Art poétique, qu’« un sonnet sans défaut vaut seul un long poème ». Au milieu du XVIe siècle, cette forme venue d’Italie est encore nouvelle en France, et c’est Ronsard qui, avec Les Amours (1552-1578), en fait la forme reine de la poésie amoureuse. Le sonnet impose pourtant des règles strictes : quatorze vers répartis en deux quatrains et deux tercets, un schéma de rimes précis, une chute finale. On peut alors se demander si cette forme est une contrainte qui limite le poète ou une chance qui le rend plus inventif. Autrement dit, la forme stricte du sonnet bride-t-elle l’expression des sentiments ou leur donne-t-elle plus de force ? Nous verrons d’abord que le sonnet est une forme exigeante, héritée d’une tradition, puis que cette contrainte concentre et intensifie l’émotion, enfin que Ronsard ne cesse de la réinventer.",
+   "conclusion": "Le sonnet impose bien à Ronsard des règles et des modèles, et le risque de la répétition existe. Mais loin de l’enfermer, cette forme lui permet de construire des comparaisons saisissantes, de ménager des chutes inoubliables et de condenser une vie entière en quatorze vers. Ronsard la fait évoluer, du style savant de Cassandre au style simple de Marie et à la gravité des Sonnets pour Hélène. La contrainte devient ainsi une chance. Au XIXe siècle, Baudelaire défendra la même idée à propos du sonnet : selon lui, c’est justement parce que la forme est contraignante que l’idée jaillit avec plus d’intensité."
+  }
+ ],
+ "oral": {
+  "presentation": "Les Amours de Pierre de Ronsard, chef de file de la Pléiade, sont un ensemble de recueils de sonnets publiés et sans cesse remaniés entre 1552 et 1584. Trois femmes y incarnent trois manières d’aimer et d’écrire : Cassandre, dame idéalisée chantée dans le style savant de Pétrarque ; Marie, jeune fille de Bourgueil, chantée dans un « beau stile bas », simple et sensuel, puis pleurée après sa mort ; Hélène, dame de la cour, à qui un poète vieillissant rappelle que la beauté passe. D’un cycle à l’autre reviennent la rose, la fuite du temps, le carpe diem et la certitude que la poésie rend immortel. L’œuvre montre comment une forme brève et contraignante, le sonnet, peut dire toute une vie.",
+  "essentiels": [
+   "Dates : 1552 (Cassandre), 1555-1556 (Marie), 1578 (Sur la mort de Marie, Sonnets pour Hélène), dernière édition du vivant de Ronsard en 1584.",
+   "La Pléiade et la Défense et illustration de la langue française (Du Bellay, 1549).",
+   "Le pétrarquisme et son dépassement : le « beau stile bas ».",
+   "Trois sonnets à savoir expliquer : « Comme on voit sur la branche », « Quand vous serez bien vieille », « Marie, levez-vous ».",
+   "Notions : sonnet, chute, carpe diem, comparaison développée, épanorthose, lyrisme."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi peut-on dire que Les Amours sont une œuvre « en chantier » ?",
+    "reponse": "Parce que Ronsard n’a cessé de les reprendre : le premier livre paraît en 1552, la Continuation en 1555, la Nouvelle Continuation en 1556, les poèmes Sur la mort de Marie et les Sonnets pour Hélène en 1578, et il corrige encore ses vers dans l’édition de 1584. Un exemple précis : en 1555, le sonnet du réveil commence par « Mignonne, levez-vous », et ce n’est que plus tard que le nom de Marie apparaît. Le recueil est donc le travail de toute une vie."
+   },
+   {
+    "question": "Qu’est-ce qui distingue le cycle de Cassandre de celui de Marie ?",
+    "reponse": "Le cycle de Cassandre imite Pétrarque : la dame est presque divine, « Du Ciel à peine elle était descendue », l’amant est vaincu et souffre, la langue est savante. Avec Marie, Ronsard choisit volontairement un « beau stile bas », comme il le dit dans l’Élégie à son livre : scènes de campagne, ton familier, désir plus franc, comme dans « Marie, levez-vous, ma jeune paresseuse »."
+   },
+   {
+    "question": "Le carpe diem de Ronsard est-il une invitation joyeuse au plaisir ?",
+    "reponse": "Pas seulement. C’est bien une invitation à profiter de la jeunesse (« Cueillez dès aujourd’hui les roses de la vie »), mais elle repose sur la conscience de la mort : « Las ! le temps non, mais nous nous en allons ». C’est aussi un argument intéressé : le poète veut convaincre la femme de l’aimer. Le carpe diem mêle donc plaisir, gravité et stratégie amoureuse."
+   },
+   {
+    "question": "Quel est le rôle de la rose dans le recueil ?",
+    "reponse": "La rose est le symbole qui relie tous les thèmes. Elle représente la beauté et la jeunesse, mais elle se fane vite : elle sert donc à la fois à séduire (« Mignonne, allons voir si la rose ») et à pleurer (« Comme on voit sur la branche »). Dans ce dernier sonnet, elle finit même par se confondre avec la morte : « ton corps ne soit que roses »."
+   },
+   {
+    "question": "En quoi « Quand vous serez bien vieille » affirme-t-il le pouvoir du poète ?",
+    "reponse": "Le poète imagine l’avenir : Hélène sera vieille et oubliée, mais elle récitera ses vers et dira « Ronsard me célébrait du temps que j’étais belle ». Le nom du poète réveille même la servante. Lui sera mort, « fantôme sans os », mais sa gloire restera. La beauté de la dame ne survivra que grâce aux vers : c’est le poète qui détient le pouvoir d’immortaliser."
+   },
+   {
+    "question": "Comment Ronsard utilise-t-il la structure du sonnet ?",
+    "reponse": "Il l’utilise souvent comme un raisonnement en deux temps : les quatrains développent une image, les tercets l’appliquent. Dans « Comme un chevreuil », douze vers décrivent l’animal libre puis frappé, et le dernier tercet commence par « Ainsi j’allais sans espoir de dommage ». La chute concentre l’idée forte : « Tira d’un coup mille traits en mon flanc »."
+   }
+  ],
+  "liens": "Objet d’étude : la poésie du Moyen Âge au XVIIIe siècle (parcours proposé : le sonnet, forme de l’amour et du temps). Liens possibles : Pétrarque (modèle), Du Bellay (Les Regrets, autre usage du sonnet, plus personnel et satirique), Louise Labé (une voix féminine), Malherbe (la rose et le deuil), Baudelaire (« À une passante », le sonnet au XIXe siècle), Queneau (réécriture moderne du carpe diem).",
+  "reflexion": [
+   {
+    "question": "Le carpe diem de Ronsard vous paraît-il encore actuel ?",
+    "pistes": "Penser aux formules modernes qui reprennent l’idée (profiter du présent) ; se demander si l’argument de séduction est encore acceptable ; distinguer l’hédonisme léger de la méditation sur la mort."
+   },
+   {
+    "question": "Trouvez-vous « Quand vous serez bien vieille » tendre ou cruel ?",
+    "pistes": "Relever les marques de tendresse (« Vivez, si m’en croyez ») et de cruauté (« vieille accroupie ») ; réfléchir au point de vue d’Hélène, qui n’a pas la parole."
+   },
+   {
+    "question": "Une forme contraignante comme le sonnet aide-t-elle à exprimer des émotions ?",
+    "pistes": "Comparer avec des formes contraintes actuelles (chanson, slam, message court) ; montrer que la contrainte peut obliger à choisir chaque mot."
+   },
+   {
+    "question": "Que vous apprend ce recueil sur la place des femmes dans la poésie de la Renaissance ?",
+    "pistes": "Les femmes sont célébrées mais rarement entendues ; comparer avec Louise Labé, qui écrit en tant que femme et en son nom."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "« Comme un chevreuil… » : la naissance de l’amour",
+   "reference": "Amours de Cassandre, sonnet construit sur une comparaison épique",
+   "enjeu": "Comment une comparaison prolongée transforme-t-elle la rencontre amoureuse en scène de chasse tragique ?",
+   "mouvements": [
+    "Mouvement 1 (quatrains) : le chevreuil libre au printemps. Rythme vif, énumérations de lieux (« Or sur un mont, or dans une vallée »), adjectifs « libre, folâtre » : image d’une jeunesse insouciante en harmonie avec la nature.",
+    "Mouvement 2 (premier tercet) : la menace. Le vers « De rets ne d’arc sa liberté n’a crainte » est aussitôt contredit par « Sinon alors » : le « trait meurtrier » et le sang (« empourpré ») font basculer la scène dans la mort.",
+    "Mouvement 3 (second tercet) : l’application au poète. « Ainsi » révèle le sens de la comparaison : le regard de Cassandre est la flèche ; « l’avril de mon âge » (métaphore de la jeunesse) et l’hyperbole « mille traits » font de l’amour une blessure fatale."
+   ]
+  },
+  {
+   "titre": "« Marie, levez-vous, ma jeune paresseuse »",
+   "reference": "Amours de Marie (Continuation des Amours, 1555)",
+   "enjeu": "Comment un petit tableau matinal devient-il une déclaration d’amour pleine de grâce et de sensualité ?",
+   "mouvements": [
+    "Mouvement 1 (premier quatrain) : le réveil. Apostrophe affectueuse à Marie, adjectif « paresseuse » plein de tendresse, chants de l’alouette et du rossignol : la nature est déjà levée, la jeune fille dort encore.",
+    "Mouvement 2 (second quatrain) : l’invitation à sortir. Impératifs (« Sus debout »), diminutifs (« herbelette », « œillets mignons »), rosier « de boutons couronné » : le jardin, soigné par Marie, devient un miroir de sa propre fraîcheur.",
+    "Mouvement 3 (tercets) : le reproche amusé et la chute. Rappel de la promesse de la veille, image du sommeil qui ferme les paupières, puis menace tendre des baisers « pour vous apprendre à vous lever matin » : la leçon devient jeu amoureux."
+   ]
+  },
+  {
+   "titre": "« Comme on voit sur la branche au mois de mai la rose »",
+   "reference": "Sur la mort de Marie (1578)",
+   "enjeu": "Comment le poète transforme-t-il le deuil en hommage poétique grâce à la comparaison avec la rose ?",
+   "mouvements": [
+    "Mouvement 1 (quatrains) : la vie et la mort de la rose. Comparaison développée (« Comme… »), personnification (la rose rend le ciel « jaloux »), puis rupture avec « Mais » : battue par la pluie ou la chaleur, la rose meurt « feuille à feuille ».",
+    "Mouvement 2 (premier tercet) : l’application à Marie. « Ainsi » relie la rose à la jeune fille ; la beauté honorée par « la terre et le ciel » est brutalement fauchée par la Parque : « cendre tu reposes ».",
+    "Mouvement 3 (second tercet) : le rite funéraire. Offrandes antiques (« vase plein de lait », « panier plein de fleurs ») et chute : « ton corps ne soit que roses ». Le poème lui-même devient l’offrande qui rend Marie éternelle."
+   ]
+  },
+  {
+   "titre": "« Quand vous serez bien vieille, au soir, à la chandelle »",
+   "reference": "Sonnets pour Hélène, livre II (1578)",
+   "enjeu": "Comment ce sonnet, qui semble une menace, est-il à la fois une déclaration d’amour, une leçon de carpe diem et un éloge de la poésie ?",
+   "mouvements": [
+    "Mouvement 1 (quatrains) : une scène d’avenir. Le futur (« Quand vous serez ») projette Hélène dans la vieillesse, filant au coin du feu ; elle récite les vers du poète et une servante s’éveille « au bruit de [son] nom » : la gloire de Ronsard survit à tout.",
+    "Mouvement 2 (premier tercet) : deux destins opposés. Le poète sera mort, « fantôme sans os », reposant parmi les myrtes des amants ; Hélène sera une « vieille accroupie », rongée de regrets : le parallèle est cruel.",
+    "Mouvement 3 (dernier tercet) : la leçon. Les impératifs (« Vivez », « Cueillez ») et la métaphore finale des « roses de la vie » transforment la menace en invitation pressante à aimer maintenant."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Les Amours (1552-1578) réunissent trois cycles : Cassandre (amour pétrarquiste), Marie (« beau style bas » puis deuil), Hélène (amour d’un poète vieillissant).",
+   "Ronsard (1524-1585) est le chef de la Pléiade, le « prince des poètes » de la Renaissance.",
+   "Le sonnet (deux quatrains, deux tercets, une chute) est la forme reine du recueil.",
+   "Le carpe diem (« Cueillez dès aujourd’hui les roses de la vie ») est le grand thème : la beauté passe, il faut aimer maintenant.",
+   "La rose symbolise à la fois la beauté, la jeunesse, l’amour et la mort.",
+   "La poésie a le pouvoir de rendre immortel : « Ronsard me célébrait du temps que j’étais belle ».",
+   "Œuvre remaniée de 1552 à 1584 : le texte change d’une édition à l’autre.",
+   "Le sonnet fonctionne souvent en deux temps : image (« Comme… ») puis application (« Ainsi… »)."
+  ],
+  "citations": [
+   0,
+   4,
+   5,
+   7,
+   8,
+   9
+  ],
+  "pieges": [
+   "« Mignonne, allons voir si la rose » est une ode, pas un sonnet.",
+   "« Quand vous serez bien vieille » appartient aux Sonnets pour Hélène (1578), pas au cycle de Marie.",
+   "La biographie des trois femmes est en partie incertaine : ne pas transformer le poème en récit de vie.",
+   "Le carpe diem vient d’Horace (poète latin), pas de Ronsard."
+  ],
+  "synthese": "Les Amours de Ronsard (1552-1584) racontent trente ans de poésie amoureuse à travers trois femmes : Cassandre (pétrarquisme savant), Marie (« beau stile bas », puis deuil) et Hélène (amour d’un poète vieillissant). Le sonnet, forme brève et réglée, sert à construire des comparaisons (la rose, le chevreuil) et des chutes mémorables. Le grand thème est la fuite du temps : la beauté passe, il faut aimer tout de suite (carpe diem). Mais la poésie, elle, demeure : Ronsard promet l’immortalité à celles qu’il chante… et à lui-même."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Sonnet",
+   "definition": "Poème de quatorze vers composé de deux quatrains et de deux tercets, venu d’Italie. Exemple : « Quand vous serez bien vieille » (alexandrins)."
+  },
+  {
+   "terme": "Chute",
+   "definition": "Dernier vers (ou derniers vers) d’un sonnet, qui porte l’idée forte ou la surprise. Exemple : « Afin que vif, et mort, ton corps ne soit que roses »."
+  },
+  {
+   "terme": "Carpe diem",
+   "definition": "Expression latine d’Horace (« cueille le jour ») : invitation à profiter du présent car la vie est brève. Exemple : « Cueillez dès aujourd’hui les roses de la vie »."
+  },
+  {
+   "terme": "Pétrarquisme",
+   "definition": "Imitation du poète italien Pétrarque : dame idéalisée et inaccessible, amour-souffrance, antithèses (feu/glace). Exemple : « Comme il renflamme et renglace mon cœur »."
+  },
+  {
+   "terme": "Lyrisme",
+   "definition": "Expression des sentiments personnels du poète, à la première personne. Les Amours sont une poésie lyrique."
+  },
+  {
+   "terme": "Comparaison",
+   "definition": "Rapprochement de deux réalités à l’aide d’un outil (comme, ainsi, tel). Exemple : « Comme on voit sur la branche au mois de mai la rose / […] Ainsi en ta première et jeune nouveauté »."
+  },
+  {
+   "terme": "Métaphore",
+   "definition": "Rapprochement sans outil de comparaison. Exemple : « les roses de la vie » (les plaisirs de la jeunesse), « l’avril de mon âge » (la jeunesse)."
+  },
+  {
+   "terme": "Épanorthose",
+   "definition": "Figure qui consiste à corriger ce que l’on vient de dire. Exemple : « Le temps s’en va […] Las ! le temps non, mais nous nous en allons »."
+  },
+  {
+   "terme": "Pléiade",
+   "definition": "Groupe de sept poètes de la Renaissance (Ronsard, Du Bellay, Baïf…) qui veulent enrichir la langue française et imiter les Anciens."
+  },
+  {
+   "terme": "Blason",
+   "definition": "Poème qui fait l’éloge d’une partie du corps ou de la beauté de la femme aimée. Ronsard en reprend l’esprit dans ses portraits de Cassandre et de Marie."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "En quelle année paraît le premier recueil des Amours ?",
+   "choix": [
+    "1549",
+    "1552",
+    "1578",
+    "1584"
+   ],
+   "reponse": 1,
+   "explication": "Les Amours (de Cassandre) paraissent en 1552, et sont augmentées en 1553 avec le commentaire de Muret."
+  },
+  {
+   "question": "Quelle femme Ronsard chante-t-il dans « Quand vous serez bien vieille » ?",
+   "choix": [
+    "Cassandre",
+    "Marie",
+    "Hélène",
+    "Laure"
+   ],
+   "reponse": 2,
+   "explication": "Le sonnet appartient aux Sonnets pour Hélène (1578), consacrés à Hélène de Surgères."
+  },
+  {
+   "question": "Que signifie l’expression carpe diem ?",
+   "choix": [
+    "Aime ton prochain",
+    "Cueille le jour",
+    "Souviens-toi que tu vas mourir",
+    "Le temps fuit"
+   ],
+   "reponse": 1,
+   "explication": "Carpe diem, chez Horace, signifie « cueille le jour » : profite du présent."
+  },
+  {
+   "question": "Comment Ronsard appelle-t-il le style plus simple qu’il adopte pour Marie ?",
+   "choix": [
+    "Le grand style",
+    "Le style sublime",
+    "Le beau style bas",
+    "Le style précieux"
+   ],
+   "reponse": 2,
+   "explication": "Pour les Amours de Marie, Ronsard revendique un « beau style bas », plus simple et familier."
+  },
+  {
+   "question": "Quelle fleur symbolise la beauté éphémère dans les Amours ?",
+   "choix": [
+    "Le lys",
+    "La violette",
+    "La rose",
+    "Le jasmin"
+   ],
+   "reponse": 2,
+   "explication": "La rose, fraîche le matin et fanée le soir, symbolise la beauté et la jeunesse qui passent."
+  },
+  {
+   "question": "Combien de vers compte un sonnet ?",
+   "choix": [
+    "12",
+    "14",
+    "16",
+    "10"
+   ],
+   "reponse": 1,
+   "explication": "Un sonnet compte quatorze vers : deux quatrains et deux tercets."
+  },
+  {
+   "question": "Quel poète italien sert de modèle au cycle de Cassandre ?",
+   "choix": [
+    "Dante",
+    "Boccace",
+    "Pétrarque",
+    "L’Arioste"
+   ],
+   "reponse": 2,
+   "explication": "Pétrarque, auteur du Canzoniere dédié à Laure, est le grand modèle du sonnet amoureux à la Renaissance."
+  },
+  {
+   "question": "Dans « Comme on voit sur la branche », qui a tué la jeune femme ?",
+   "choix": [
+    "Amour",
+    "La Parque",
+    "Vénus",
+    "Le Temps"
+   ],
+   "reponse": 1,
+   "explication": "« La Parque t’a tuée » : les Parques sont les divinités antiques qui coupent le fil de la vie."
+  },
+  {
+   "question": "Quel humaniste publie dès 1553 un commentaire des Amours ?",
+   "choix": [
+    "Jean Dorat",
+    "Marc-Antoine Muret",
+    "Joachim du Bellay",
+    "Clément Marot"
+   ],
+   "reponse": 1,
+   "explication": "L’édition de 1553 est accompagnée du commentaire de Marc-Antoine Muret, qui explique les allusions savantes du cycle de Cassandre."
+  },
+  {
+   "question": "Dans « Comme un chevreuil », quel mot introduit l’application de la comparaison au poète ?",
+   "choix": [
+    "Mais",
+    "Donc",
+    "Ainsi",
+    "Or"
+   ],
+   "reponse": 2,
+   "explication": "« Ainsi j’allais sans espoir de dommage » : le dernier tercet applique au poète l’image du chevreuil blessé."
+  },
+  {
+   "question": "Comment s’appelle la figure de « Le temps s’en va […] Las ! le temps non, mais nous nous en allons » ?",
+   "choix": [
+    "Une épanorthose",
+    "Une litote",
+    "Une prosopopée",
+    "Un oxymore"
+   ],
+   "reponse": 0,
+   "explication": "L’épanorthose consiste à corriger ce qu’on vient de dire : ce n’est pas le temps qui s’en va, c’est nous."
+  },
+  {
+   "question": "Quel vers les Sonnets pour Hélène, comparés au cycle de Cassandre, utilisent-ils surtout ?",
+   "choix": [
+    "L’octosyllabe",
+    "Le décasyllabe",
+    "L’alexandrin",
+    "L’heptasyllabe"
+   ],
+   "reponse": 2,
+   "explication": "Le cycle de Cassandre est surtout en décasyllabes ; les Sonnets pour Hélène sont en alexandrins, plus amples."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Wikisource – Les Amours (Ronsard), texte des éditions Vaganay et Sorg",
+   "url": "https://fr.wikisource.org/wiki/Les_Amours_(Ronsard)"
+  },
+  {
+   "titre": "Wikisource – Continuation des Amours (1555)",
+   "url": "https://fr.wikisource.org/wiki/Continuation_des_Amours_(1555)"
+  },
+  {
+   "titre": "Wikisource – Élégie à son livre (Ronsard, éd. Vaganay)",
+   "url": "https://fr.wikisource.org/wiki/%C3%89l%C3%A9gie_%C3%A0_son_livre"
+  },
+  {
+   "titre": "Wikisource – Boileau, L’Art poétique, chants I et II",
+   "url": "https://fr.wikisource.org/wiki/Boileau_-_%C5%92uvres_po%C3%A9tiques/L%E2%80%99Art_po%C3%A9tique/Chant_II"
+  },
+  {
+   "titre": "Wikisource – Malherbe, Consolation à M. du Périer sur la mort de sa fille",
+   "url": "https://fr.wikisource.org/wiki/Consolation_%C3%A0_M._du_Perrier_sur_la_mort_de_sa_fille"
+  },
+  {
+   "titre": "Wikisource – Louise Labé, Élégies et Sonnets, « Je vis, je meurs… »",
+   "url": "https://fr.wikisource.org/wiki/%C3%89l%C3%A9gies_et_Sonnets/Ie_vis,_ie_meurs_:_ie_me_brule_et_me_noye%E2%80%A6"
+  }
+ ],
+ "aVerifier": [
+  "Numérotation des sonnets : elle varie selon les éditions (ici celle du texte du site, éd. Vaganay et Sorg) ; « Quand vous serez bien vieille » est par exemple numéroté différemment dans d’autres éditions scolaires.",
+  "Identité historique de Marie et destination exacte des poèmes Sur la mort de Marie (Marie de Bourgueil ou Marie de Clèves) : hypothèses de la critique.",
+  "Rôle de Catherine de Médicis dans le choix d’Hélène comme destinataire : tradition rapportée, non prouvée.",
+  "Rattachement de « Je vous envoie un bouquet » au cycle de Marie : il suit ici le classement du texte du site."
+ ]
+}

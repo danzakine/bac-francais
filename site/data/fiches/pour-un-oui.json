@@ -1,0 +1,981 @@
+{
+ "id": "pour-un-oui",
+ "accroche": "Deux vieux amis, une phrase de rien, « C’est bien... ça », et tout bascule : la pièce qui montre qu’une intonation peut briser une amitié.",
+ "identite": {
+  "auteur": "Nathalie Sarraute (1900-1999), née Natalia Tcherniak en Russie, vient en France dans son enfance. Elle fait des études de droit et devient avocate ; juive, elle est exclue du barreau en 1940 par les lois de Vichy et doit se cacher sous l’Occupation. Son premier livre, Tropismes (1939), invente une écriture des mouvements intérieurs infimes qui précèdent nos paroles et nos gestes. Suivent des romans (Portrait d’un inconnu, 1948, préfacé par Sartre ; Martereau, 1953 ; Le Planétarium, 1959 ; Les Fruits d’or, 1963), un recueil d’essais important, L’Ère du soupçon (1956), et un récit autobiographique célèbre, Enfance (1983). Elle vient au théâtre dans les années 1960, d’abord par des pièces écrites pour la radio (Le Silence, Le Mensonge), puis Isma, C’est beau et Elle est là. Pour un oui ou pour un non est sa dernière pièce.",
+  "contexte": "La pièce paraît au début des années 1980, dans une société où la réussite professionnelle et sociale est très valorisée. Sarraute s’intéresse moins aux grands événements qu’aux rapports humains les plus quotidiens : conversations entre amis, politesse, petites phrases. Elle prolonge un soupçon né au XXe siècle à l’égard du langage : après la psychanalyse, on sait que les mots disent plus (ou autre chose) que ce qu’on croit dire. Le théâtre de l’après-guerre a aussi mis en scène les difficultés de la communication (Beckett, Ionesco) : Sarraute y apporte une approche très personnelle, fondée sur l’observation minutieuse des échanges ordinaires.",
+  "mouvement": "Sarraute est associée au Nouveau Roman (avec Robbe-Grillet, Butor, Claude Simon, Duras), qui remet en cause le personnage traditionnel, l’intrigue et le récit linéaire : dans L’Ère du soupçon, elle explique que le lecteur se méfie désormais des personnages traditionnels, avec un nom, un passé et un caractère bien définis. Elle s’intéresse aux « tropismes », mouvements à peine perceptibles qui se produisent en nous au contact des autres, et à la « sous-conversation », ce qui se joue sous les paroles échangées. Au théâtre, elle fait un pas de plus : ce qui restait silencieux dans ses romans devient dialogue, les personnages disent à voix haute ce que d’habitude on tait. Son théâtre, sans action spectaculaire, sans décor important, aux personnages presque anonymes (H.1, H.2), est un théâtre du langage, proche du « nouveau théâtre » par sa remise en cause des conventions, mais distinct du théâtre de l’absurde : chez elle, tout a un sens, et même trop.",
+  "circonstances": "La pièce est d’abord créée à la radio en décembre 1981, puis publiée chez Gallimard en 1982. Une ressource Eduscol souligne pourtant que, contrairement aux premières pièces de Sarraute, elle a été conçue pour la scène : sa première création seulement a été radiophonique. Elle est montée pour la première fois en 1985, en anglais, à New York, puis créée en français en 1986 au théâtre du Rond-Point, à Paris, dans une mise en scène de Simone Benmussa, avec Sami Frey et Jean-François Balmer, qui échangeaient parfois leurs rôles d’un soir à l’autre. Le succès est très grand (plus de six cents représentations selon l’Encyclopædia Universalis). Jacques Doillon en tire un film pour la télévision avec Jean-Louis Trintignant et André Dussollier, et Jacques Lassalle la met en scène au Théâtre national de la Colline en 1998.",
+  "carriere": "Pour un oui ou pour un non est la sixième et dernière pièce de Sarraute, écrite à plus de quatre-vingts ans, juste avant Enfance (1983). Elle condense le travail de toute une vie : depuis Tropismes, Sarraute cherche à saisir les mouvements souterrains que déclenchent les paroles des autres. Dans ses romans, ces mouvements passent par la narration ; au théâtre, ils doivent être dits. La phrase « C’est bien... ça... » apparaissait déjà, selon L. Brignoli, dans le roman Entre la vie et la mort (1968), et Sarraute aurait déclaré que cette reprise était involontaire. Selon le critique Patrice Pavis, cité par Eduscol, c’est la pièce la plus jouée de son théâtre."
+ },
+ "resumeCourt": "H.1 rend visite à son ami de toujours, H.2, qui s’est éloigné de lui depuis quelque temps, et lui demande ce qui s’est passé. H.2 répond d’abord que ce n’est rien, puis avoue : un jour où il s’était vanté d’un petit succès, H.1 lui a répondu « C’est bien... ça... », avec un étirement du « bien » et un suspens avant le « ça » que H.2 a ressentis comme condescendants. H.1 trouve absurde qu’on s’éloigne pour si peu ; H.2, qui sait passer pour quelqu’un qui rompt « pour un oui ou pour un non », se défend et va jusqu’à demander l’avis d’un couple de voisins, H.3 et F, qui ne voient là rien de grave. Après leur départ, la dispute reprend et se retourne : H.1 accuse H.2 de jalousie, H.2 reproche à H.1 son conformisme ; quand H.2, ému, prononce devant la fenêtre « La vie est là... », H.1 y reconnaît un vers de Verlaine et l’accuse de se croire supérieur. Les deux amis découvrent qu’ils appartiennent à deux « camps » opposés : la réussite sociale d’un côté, une vie retirée de l’autre. La pièce s’achève sur un « Non ! » de H.2, et sa fin a reçu des interprétations différentes.",
+ "resume": [
+  {
+   "titre": "1. L’ouverture : une visite et une question",
+   "texte": "La pièce commence sans exposition. H.1 est venu chez H.2 pour comprendre pourquoi son ami s’est éloigné. À la question « Que s’est-il passé ? », H.2 répond « Mais rien... » : selon une ressource Eduscol, le mot « rien » revient onze fois dans ce passage. Le dialogue avance par hésitations, points de suspension et reprises des mots de l’autre. Le spectateur comprend que le vrai sujet est ce qui ne se dit pas."
+  },
+  {
+   "titre": "2. L’aveu : « C’est bien... ça... »",
+   "texte": "Pressé de questions, H.2 finit par reconnaître qu’il s’est passé quelque chose, « juste des mots ». Il raconte qu’un jour, alors qu’il se vantait d’un succès qu’il juge lui-même dérisoire, H.1 lui a répondu « C’est bien... ça... ». Ce ne sont pas les mots qui l’ont blessé, mais leur musique : un accent mis sur « bien », un étirement, un suspens avant le « ça ». H.1 demande qu’on lui répète la phrase et n’en revient pas : c’est pour cela que son ami s’est éloigné ?"
+  },
+  {
+   "titre": "3. Le procès de l’infime",
+   "texte": "S’engage une étrange dispute : peut-on reprocher une intonation ? H.1 trouve le grief absurde ; H.2 sait qu’il paraît ridicule et qu’on le dit capable de rompre « pour un oui ou pour un non », mais il soutient que ce presque rien révèle le vrai rapport entre les deux hommes : une condescendance. Le vocabulaire du procès s’installe : accusation, défense, preuves. H.2 évoque même, avec ironie, les « gens normaux » qui accorderaient les autorisations de rompre, et affirme que son cas n’est pas unique : de tels griefs existent entre parents et enfants, entre époux, entre amis."
+  },
+  {
+   "titre": "4. Le tribunal des voisins",
+   "texte": "H.2 sollicite l’avis d’un couple de voisins, H.3 et F, appelés comme témoins ou comme juges. Leur intervention est brève et presque muette : ces gens ordinaires ne voient rien de grave dans l’affaire. Ce « tribunal des gens normaux », comme l’appelle une ressource Eduscol, montre que le conflit est incompréhensible de l’extérieur : aucune règle ne permet de juger une intonation. La scène est comique, mais elle isole encore H.2."
+  },
+  {
+   "titre": "5. Le retournement : mépris contre jalousie",
+   "texte": "Après le départ des voisins, la dispute reprend et les reproches deviennent réciproques. Au mépris que H.2 attribue à H.1, celui-ci oppose la jalousie de H.2. Le conflit se porte sur la question du bonheur : H.2 reproche à H.1 de classer les gens et les bonheurs, et de le ranger lui-même parmi les contemplatifs ; il lui reproche aussi les guillemets ironiques qu’il place autour des mots « poésie » ou « poétique »."
+  },
+  {
+   "titre": "6. La fenêtre et les deux camps",
+   "texte": "Alors que H.1 s’apprête à partir et s’arrête devant la fenêtre, H.2, ému, prononce « La vie est là... ». H.1 y reconnaît un vers de Verlaine (« la vie est là, / Simple et tranquille ») et accuse son ami d’afficher sa supériorité de poète et d’homme cultivé. Les positions se durcissent : H.1 décrit son « camp », celui des hommes qui luttent et vivent la « vraie » vie, et H.2 nomme pour lui l’autre camp, celui des « ratés ». Derrière une intonation se révèlent deux manières de vivre : la réussite et la stabilité d’un côté, le doute et la marginalité de l’autre."
+  },
+  {
+   "titre": "7. Le dénouement : oui ou non ?",
+   "texte": "La pièce s’achève sur la question de la rupture, et le dernier mot du texte est un « Non ! » prononcé par H.2. Le sens de cette fin est discuté : une ressource Eduscol y voit un accord provisoire des deux hommes sur la nécessité de rompre, sans réconciliation ; l’Encyclopædia Universalis, au contraire, un accord sur l’impossibilité de justifier une rupture définitive, qui ouvre une querelle sans fin. Le spectateur reste juge."
+  }
+ ],
+ "structure": "Pour un oui ou pour un non est une pièce brève (environ une heure de représentation) en un seul tenant : ni actes ni scènes, très peu de didascalies, un décor minimal (l’intérieur de H.2, avec une fenêtre). Elle repose sur un dialogue continu entre deux amis désignés par des sigles, H.1 et H.2, interrompu une seule fois par la brève intervention de deux voisins, H.3 et F. La progression ne vient pas d’événements extérieurs mais de l’approfondissement d’une blessure : la demande d’explication, l’aveu (« C’est bien... ça... »), le procès de l’infime, le tribunal des voisins, le retournement des griefs (mépris contre jalousie), la scène de la fenêtre et la division en deux « camps », enfin la question de la rupture. Le mouvement d’ensemble est une spirale : chaque explication, au lieu d’apaiser, relance la dispute et la creuse. Pour Anne Ubersfeld, citée par Eduscol, on ne peut isoler aucune séquence dont on pourrait se passer : chaque réplique est comme la marche d’un escalier qui conduit vers la fin. Le titre, expression figée qui désigne un motif futile, est sans cesse mis à l’épreuve, jusqu’au dernier mot, « Non ! ».",
+ "personnages": [
+  {
+   "nom": "H.1 (Homme 1)",
+   "role": "Il vient chez H.2 pour comprendre son éloignement : c’est lui qui cherche le rapprochement. D’abord inquiet, il devient incrédule, ironique, parfois blessant devant un grief qu’il juge dérisoire. Bien intégré dans la société, fier de sa famille et de sa réussite, il se révèle à son tour blessé : il accuse H.2 de jalousie et de se croire supérieur. Il n’est pas seulement l’accusé, mais aussi un accusateur.",
+   "relations": "Ami de toujours de H.2, qu’il vient voir pour comprendre son éloignement ; marié et père d’un enfant selon les critiques. Accusé par H.2 de condescendance, il l’accuse à son tour de jalousie."
+  },
+  {
+   "nom": "H.2 (Homme 2)",
+   "role": "L’ami qui s’est éloigné. Extrêmement sensible aux nuances, il a perçu dans une intonation de H.1 une condescendance insupportable. Il sait que son grief paraît ridicule, mais refuse de le tenir pour rien. Tourné vers une vie plus retirée, sans carrière éclatante, attaché à la poésie, il refuse d’être classé, tout en classant lui-même les autres. C’est lui qui prononce le dernier mot, « Non ! ».",
+   "relations": "Ami de H.1, dont il s’est éloigné ; c’est lui qui sollicite l’avis des voisins. Il oppose sa vie retirée à la réussite de H.1."
+  },
+  {
+   "nom": "H.3 (Homme 3)",
+   "role": "Un voisin, appelé avec sa femme à jouer les arbitres. Homme ordinaire et raisonnable, il représente le bon sens commun : avec sa femme, il ne voit rien de bien grave dans l’affaire. Il permet de montrer à quel point le conflit des deux amis échappe aux catégories habituelles.",
+   "relations": "Voisin de H.2, mari de F ; appelé avec elle comme témoin ou arbitre de la dispute."
+  },
+  {
+   "nom": "F (Femme)",
+   "role": "La voisine, compagne de H.3. Comme lui, elle incarne la norme sociale et le jugement extérieur ; sa présence accentue le comique de la scène et l’isolement de H.2, dont la sensibilité paraît suspecte aux yeux des gens « normaux ».",
+   "relations": "Voisine, compagne de H.3 ; témoin extérieur, comme lui, d’un conflit qui lui échappe."
+  }
+ ],
+ "evolution": "La relation entre les deux amis évolue en sens inverse de ce qu’on attend d’une explication : au lieu de se dissiper, le malaise grandit. Au début, H.1 est en position de demandeur et H.2 de fuyant (« Mais rien... ») ; après l’aveu, H.2 devient accusateur et H.1 accusé ; après le départ des voisins, les rôles s’inversent, et H.1 accuse à son tour (la jalousie, la supériorité du poète). Le motif de la dispute s’élargit : d’une intonation (« C’est bien... ça... »), on passe à des guillemets ironiques, à un vers de Verlaine, puis à deux conceptions du bonheur et à deux « camps ». Selon une ressource Eduscol, les deux personnages vont jusqu’à se reprocher mutuellement exagération, voire folie, et il leur arrive d’achever les phrases l’un de l’autre : la frontière entre eux n’est pas fixe. Une amitié présentée comme ancienne et solide se révèle traversée de rivalités anciennes. Selon les lectures, la fin marque la rupture, une trêve provisoire ou une querelle sans fin.",
+ "themes": [
+  {
+   "titre": "L’infime : le pouvoir d’une intonation",
+   "texte": "Toute la pièce naît d’un presque rien : « C’est bien... ça... ». Ce ne sont pas les mots qui blessent, mais leur musique : selon H.2, il y avait « un accent mis sur « bien »... un étirement » et un suspens avant le « ça ». Sarraute montre que le ton, les silences, les hésitations portent un sens caché, parfois plus vrai que le sens des phrases. Ce sont les tropismes : des mouvements intérieurs minuscules, qui se déclenchent au contact des autres et que la politesse ordinaire recouvre. La pièce agrandit ces mouvements comme au microscope, ou comme un film au ralenti."
+  },
+  {
+   "titre": "La parole et la sous-conversation",
+   "texte": "Dans la vie courante, on ne dit pas ce qu’on ressent vraiment ; on parle de surface. Sarraute appelle « sous-conversation » ce qui se joue sous les paroles. Dans cette pièce, les personnages font justement remonter la sous-conversation à la surface : ils disent tout haut ce qu’on tait d’habitude, analysent une intonation, discutent du sens d’un silence. Les points de suspension, les répétitions, les reprises des mots de l’autre, les phrases inachevées traduisent cette recherche difficile d’une parole juste. Le langage apparaît à la fois comme un outil de communication et comme une arme."
+  },
+  {
+   "titre": "L’amitié et sa fragilité",
+   "texte": "H.1 et H.2 sont de vieux amis, qui partagent des souvenirs. Pourtant, une seule phrase suffit à ébranler cette relation. La pièce interroge ce qui fonde une amitié : l’égalité, la reconnaissance mutuelle, le respect de ce que l’autre est. Le grief de H.2 révèle qu’il s’est senti rabaissé ; celui de H.1, qu’il s’est senti jugé. Sous l’affection, il y avait donc une rivalité silencieuse. Le titre souligne cette fragilité : une amitié peut se rompre pour un oui ou pour un non."
+  },
+  {
+   "titre": "La dispute comme procès",
+   "texte": "La dispute prend la forme d’un procès : accusation, défense, recherche de preuves, appel à des témoins, verdict impossible. Les voisins (H.3 et F) sont sollicités comme des arbitres ou des jurés. Mais aucun tribunal ne peut juger une intonation : il n’existe pas de loi contre un suspens ou un accent. Ce registre judiciaire, appliqué à un détail minuscule, est à la fois comique et inquiétant, car il montre que les blessures les plus réelles échappent aux règles et aux preuves."
+  },
+  {
+   "titre": "Deux visions du monde",
+   "texte": "Derrière la querelle apparaissent deux façons de vivre. H.1 valorise la réussite, la famille, la reconnaissance sociale : il revendique le « camp » de ceux qui luttent et vivent la « vraie » vie. H.2 préfère le retrait, la contemplation, la poésie, que résume sa phrase devant la fenêtre, « La vie est là... », empruntée à Verlaine. Chacun ressent la vie de l’autre comme un reproche adressé à la sienne. Le petit malentendu révèle un affrontement de valeurs : qu’est-ce qu’une vie réussie ? Faut-il appartenir au monde ou s’en tenir à l’écart ?"
+  },
+  {
+   "titre": "La norme et le regard des autres",
+   "texte": "Les voisins représentent l’opinion commune, le « bon sens ». Face à eux, le grief de H.2 paraît absurde, et sa sensibilité suspecte, presque maladive. La pièce pose ainsi la question de la normalité : celui qui perçoit les nuances que les autres ignorent est-il fou, ou simplement plus lucide ? Sarraute prend le parti de l’attention aux détails, mais montre aussi l’isolement qu’elle entraîne. Le spectateur, lui, est placé en position de juge, et doit décider s’il rit de H.2 ou s’il le comprend."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Peut-on rompre une amitié pour une intonation ? Le titre parle d’un motif futile, mais la pièce montre que ce « rien » révèle tout.",
+   "Que disent les mots au-delà de leur sens ? Ton, accent, suspens et guillemets portent des jugements cachés.",
+   "Qui a raison ? H.2, qui entend la condescendance, ou H.1, qui trouve le grief absurde ? Le spectateur, privé de juge fiable, doit décider.",
+   "Qu’est-ce qu’une vie réussie ? La dispute oppose la réussite sociale et la vie retirée, la « vraie » vie et la contemplation.",
+   "Le langage permet-il de communiquer, ou devient-il, comme le dit Sarraute, l’arme de « petits crimes » ?"
+  ],
+  "intentions": "Sarraute s’est exprimée sur la pièce et sur sa démarche ; plusieurs de ses déclarations sont citées par les ressources Eduscol. Dans un entretien télévisé de 1986 sur la mise en scène de Simone Benmussa, elle explique que « ce ne sont pas du tout deux personnes qui s’entredéchirent et qui se haïssent, mais c’est deux personnes qui portent chacune des tendances opposées, comme chacun de nous » : la dispute oppose moins deux caractères que deux mouvements présents en chacun. Elle dit aussi : « Je m’attache à recréer des mouvements intérieurs et non à camper des individus » (propos de 1968), ce qui explique les personnages réduits à des sigles. Dès 1954 (« Conversation et sous-conversation »), elle voyait dans les paroles « l’arme quotidienne, insidieuse et très efficace d’innombrables petits crimes ». Enfin, elle définit le mélange des registres de son théâtre : l’humour « perturbe le tragique sitôt que celui-ci tendrait à se former ». (Sources : Eduscol, « Théâtre et dispute (2) », octobre 2024.)",
+  "procedes": [
+   {
+    "nom": "Les points de suspension",
+    "explication": "Omniprésents, ils marquent l’hésitation, l’interruption, le sous-entendu. Ils sont aussi l’objet même de la dispute, puisque c’est un suspens qui a blessé H.2. Une ressource Eduscol rappelle que, pour Sarraute, ils ne sont pas toujours des silences.",
+    "exemple": "« C’est bien... ça... » ; le récit de H.2 : « quand je me suis vanté de je ne sais plus quoi... de je ne sais plus quel succès... oui... dérisoire... »."
+   },
+   {
+    "nom": "La reprise des mots de l’autre",
+    "explication": "Un personnage reprend un mot de son interlocuteur, en le questionnant ou en l’imitant : le mot change de sens en changeant de bouche, et le dialogue avance par ricochets.",
+    "exemple": "H.1 relève le mot de H.2 : « Étaler ? moi ? Qu’est-ce que j’étale ? »."
+   },
+   {
+    "nom": "Le métalangage",
+    "explication": "Les personnages parlent de leur propre façon de parler : ils analysent un accent, un étirement, des guillemets. La sous-conversation devient conversation.",
+    "exemple": "H.2 détaille l’intonation de H.1 (« Un accent mis sur « bien »... un étirement ») ; il lui reproche les guillemets qu’il place autour des mots « Poésie », « Poétique »."
+   },
+   {
+    "nom": "Le registre judiciaire",
+    "explication": "La dispute emprunte le vocabulaire et la forme du procès (grief, réquisitoire, témoins, verdict), appliqués à un délit minuscule, ce qui produit un effet à la fois comique et inquiétant.",
+    "exemple": "L’appel aux voisins H.3 et F, le « tribunal des gens normaux » ; H.2 évoquant d’autres « cas du même ordre »."
+   },
+   {
+    "nom": "L’intertextualité",
+    "explication": "Une citation poétique, prononcée presque malgré soi, devient un objet de dispute et le signe d’une appartenance culturelle.",
+    "exemple": "« La vie est là... » : H.1 y reconnaît Verlaine (Sagesse : « Mon Dieu, mon Dieu, la vie est là, / Simple et tranquille ») et y entend une prétention."
+   },
+   {
+    "nom": "Les personnages sigles",
+    "explication": "Désignés par H.1, H.2, H.3 et F, les personnages n’ont ni nom ni passé détaillé : l’attention se porte sur les mouvements de la parole, et la situation devient universelle.",
+    "exemple": "Benmussa faisait échanger les rôles à ses deux acteurs d’un soir à l’autre, ce qui souligne que H.1 et H.2 sont presque interchangeables."
+   }
+  ],
+  "style": "Le style de Sarraute imite la langue parlée : phrases inachevées, interjections (« Eh bien », « Ah »), répétitions, hésitations, reprises. Mais cette oralité est très construite : la ponctuation (points de suspension, guillemets, italiques) fonctionne comme une partition qui indique au lecteur et à l’acteur le rythme, les silences et les intonations. Sarraute disait d’ailleurs, dans un entretien de 1998 cité par Eduscol : « Quand j’écris, j’écoute. J’écoute chaque mot ». Le vocabulaire est simple et quotidien ; ce sont les détails (un mot, un accent, des guillemets) qui prennent une importance démesurée. Les images de profondeur (plongée, souterrain, sommet) évoquent ce qui se joue sous la surface des conversations.",
+  "registres": [
+   {
+    "nom": "Comique",
+    "explication": "Décalage entre la gravité des personnages et la petitesse du motif ; comique de situation du tribunal des voisins, qui ne comprennent rien ; humour feutré des répliques."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "La souffrance réelle de H.2, sa honte d’avouer un grief si mince, sa solitude face au « bon sens » des autres."
+   },
+   {
+    "nom": "Polémique",
+    "explication": "La dispute oppose deux visions du monde avec des mots de plus en plus violents : deux « camps », la « vraie » vie contre les « ratés »."
+   },
+   {
+    "nom": "Tragique (désamorcé)",
+    "explication": "La rupture d’une amitié semble inévitable, mais, selon Sarraute elle-même, l’humour empêche le tragique de se former : tout reste à mi-chemin."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Les deux personnages portent des tendances présentes en chacun de nous plutôt que deux caractères opposés : c’est la lecture de Sarraute elle-même (entretien de 1986 cité par Eduscol).",
+    "nature": "fait"
+   },
+   {
+    "texte": "H.2 est-il un double de l’auteur, l’artiste hypersensible face au bourgeois ? Le rapprochement est fréquent, mais L. Brignoli montre que c’est H.2 qui classe et nomme avec assurance, tandis que H.1 hésite : la pièce empêche de prendre parti trop vite.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La fin est-elle une rupture, une trêve ou une querelle sans fin ? Eduscol parle d’un accord provisoire sur la nécessité de rompre, l’Encyclopædia Universalis d’un accord sur l’impossibilité de justifier une rupture définitive.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La pièce peut être lue comme une critique de la société de la réussite, qui classe les individus en gagnants et en « ratés ». Cette lecture sociale est possible, mais Sarraute insiste surtout sur les mouvements psychologiques communs à tous.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le tribunal des voisins montre l’inutilité d’un jugement extérieur sur ce qui se joue entre deux personnes : les tropismes ne sont perceptibles que par les intéressés.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Sarraute est associée au Nouveau Roman, qui met en cause le personnage traditionnel et l’intrigue ; son essai L’Ère du soupçon (1956) en est un texte théorique. Sa pièce partage avec le « nouveau théâtre » de l’après-guerre (Beckett, Ionesco) le dépouillement, les personnages sans nom et la mise en question du langage, mais elle s’en distingue : chez elle, aucune réplique n’est absurde, chaque nuance est chargée de sens. Elle s’inscrit aussi dans une méfiance du XXe siècle envers le langage, qui dit souvent plus, ou autre chose, que ce que l’on croit dire. Sarraute se disait toutefois très méfiante envers la psychanalyse, selon Eduscol : elle ne cherche pas l’inconscient freudien, mais des mouvements à la limite de la conscience."
+ },
+ "citations": [
+  {
+   "texte": "Mais rien...",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Début de la pièce (exposition)",
+   "situation": "H.1 demande à son ami ce qui s’est passé entre eux.",
+   "sens": "H.2 nie qu’il y ait un problème.",
+   "procedes": "Point de suspension qui laisse entendre le contraire ; le mot « rien » revient onze fois dans le passage selon Eduscol.",
+   "demontre": "Le paradoxe central : ce « rien » est tout le sujet de la pièce.",
+   "usage": "Introduction d’un commentaire ou d’une dissertation sur le « rien ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Eduscol, « Parcours Théâtre et dispute : écrits d’appropriation » (janvier 2025) : https://eduscol.education.fr/document/64417/download",
+    "note": "La question de H.1 est citée par Eduscol sous la forme « Que s’est-il passé ? »."
+   }
+  },
+  {
+   "texte": "juste des mots",
+   "locuteur": "H.2",
+   "reference": "Début de la pièce, avant l’aveu",
+   "situation": "H.2 finit par reconnaître qu’il s’est passé quelque chose.",
+   "sens": "Ce qui s’est passé n’est fait que de mots.",
+   "procedes": "Adverbe restrictif « juste », qui minimise ce qui va se révéler essentiel.",
+   "demontre": "La pièce va démentir l’idée que les mots seraient sans importance.",
+   "usage": "Thème du langage ; analyse du titre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Encyclopædia Universalis, fiche de lecture « Pour un oui ou pour un non » (G. Belzane) : https://www.universalis.fr/encyclopedie/pour-un-oui-ou-pour-un-non/ ; aussi https://eduscol.education.fr/document/64417/download"
+   }
+  },
+  {
+   "texte": "C’est bien... ça...",
+   "locuteur": "H.1, selon H.2 qui rapporte la phrase",
+   "reference": "Moment de l’aveu (Pléiade, p. 1499, d’après L. Brignoli)",
+   "situation": "Un jour où H.2 se vantait d’un petit succès, H.1 lui a répondu par ces mots.",
+   "sens": "Un compliment banal, que H.2 a entendu comme condescendant.",
+   "procedes": "Points de suspension qui figurent le suspens ; pronom « ça », qui réduit le succès à une chose.",
+   "demontre": "Une intonation peut blesser plus qu’une insulte : c’est un exemple de tropisme.",
+   "usage": "Citation indispensable à l’écrit comme à l’oral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf ; même forme dans Encyclopædia Universalis, fiche de lecture « Pour un oui ou pour un non » (G. Belzane) : https://www.universalis.fr/encyclopedie/pour-un-oui-ou-pour-un-non/",
+    "note": "Certaines sources (Jeu, n° 93, 1999 ; Eduscol) la citent sans points de suspension, « C’est bien, ça »."
+   }
+  },
+  {
+   "texte": "quand je me suis vanté de je ne sais plus quoi... de je ne sais plus quel succès... oui... dérisoire...",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Moment de l’aveu (Pléiade, p. 1499)",
+   "situation": "H.2 raconte dans quelles circonstances H.1 a prononcé la phrase blessante.",
+   "sens": "H.2 reconnaît lui-même que son succès était mince et qu’il s’en était vanté.",
+   "procedes": "Hésitations, reprises et points de suspension ; autodépréciation (« dérisoire »).",
+   "demontre": "H.2 a conscience de la disproportion entre l’incident et sa blessure ; il n’était pas innocent non plus.",
+   "usage": "Nuancer le rôle de victime de H.2.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf"
+   }
+  },
+  {
+   "texte": "Un accent mis sur « bien »... un étirement : « biiien... » et un suspens avant que « ça » arrive... ce n’est pas sans importance.",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Moment de l’aveu (Pléiade, p. 1499)",
+   "situation": "H.1 vient de répéter la phrase à sa façon ; H.2 corrige l’intonation.",
+   "sens": "H.2 décrit précisément ce qui l’a blessé : non les mots, mais leur prononciation.",
+   "procedes": "Métalangage ; graphie expressive « biiien » ; litote finale.",
+   "demontre": "La pièce fait de l’intonation un objet d’analyse : la sous-conversation devient conversation.",
+   "usage": "Analyse de l’écriture de Sarraute et du jeu des acteurs.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf",
+    "note": "Eduscol cite un passage voisin (p. 28 de l’édition qu’elle utilise) : « avec cet accent mis sur le “bien”... avec cet étirement »."
+   }
+  },
+  {
+   "texte": "Étaler ? moi ? Qu’est-ce que j’étale ?",
+   "locuteur": "H.1 (à H.2)",
+   "reference": "Milieu de la pièce (p. 36 de l’édition citée par Eduscol)",
+   "situation": "H.2 vient de reprocher à H.1 d’« étaler » sa réussite devant lui.",
+   "sens": "H.1 se défend en reprenant le mot de son ami.",
+   "procedes": "Reprise du mot de l’autre ; questions en rafale ; ponctuation expressive.",
+   "demontre": "Le dialogue avance par mots relevés et retournés : chaque mot peut devenir une accusation.",
+   "usage": "Procédé de la reprise ; rythme de la dispute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Eduscol, « Enjeux de l’oralité dans Pour un oui ou pour un non » (octobre 2024) : https://eduscol.education.fr/document/61156/download"
+   }
+  },
+  {
+   "texte": "Mon cas n’était pas le seul, du reste. Il y avait d’autres cas du même ordre : entre parents et enfants, entre frères et sœurs, entre époux, entre amis...",
+   "locuteur": "H.2",
+   "reference": "Partie consacrée aux « gens normaux » qui accorderaient les autorisations de rompre",
+   "situation": "H.2 évoque ironiquement une instance qui jugerait les demandes de rupture.",
+   "sens": "Des blessures pour des motifs presque indicibles existent dans toutes les relations.",
+   "procedes": "Énumération des liens les plus intimes ; points de suspension finaux qui ouvrent la liste.",
+   "demontre": "La portée universelle de la pièce : chacun peut s’y reconnaître.",
+   "usage": "Dissertation : universalité de la dispute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Eduscol, « Parcours Théâtre et dispute : écrits d’appropriation » (janvier 2025) : https://eduscol.education.fr/document/64417/download"
+   }
+  },
+  {
+   "texte": "Mon Dieu, comme d’un seul coup tout ressurgit... juste avec ça, ces guillemets...",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Seconde partie de la pièce (p. 42 de l’édition citée par Eduscol)",
+   "situation": "H.2 reproche à H.1 les guillemets ironiques qu’il place autour des mots « Poésie » et « Poétique ».",
+   "sens": "Un simple signe typographique, prononcé par la voix, réveille toute une blessure.",
+   "procedes": "Exclamation ; « d’un seul coup » ; métalangage sur la ponctuation.",
+   "demontre": "Comme l’intonation, les guillemets expriment une distance et un mépris : la blessure se répète.",
+   "usage": "Lien entre ponctuation et sous-entendu ; montée de la dispute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Eduscol, « Enjeux de l’oralité dans Pour un oui ou pour un non » (octobre 2024) : https://eduscol.education.fr/document/61156/download"
+   }
+  },
+  {
+   "texte": "La vie est là...",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Scène de la fenêtre, dans la seconde partie",
+   "situation": "H.1, prêt à partir, s’arrête à la fenêtre ; H.2, ému, prononce ces mots.",
+   "sens": "Une parole de tendresse et de contemplation, que H.1 entend comme une citation prétentieuse.",
+   "procedes": "Citation tronquée de Verlaine (Sagesse : « Mon Dieu, mon Dieu, la vie est là, / Simple et tranquille ») ; points de suspension.",
+   "demontre": "L’intertexte poétique devient une arme : le grief se retourne contre H.2.",
+   "usage": "Retournement de la dispute ; deux visions du monde.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Encyclopædia Universalis, fiche de lecture « Pour un oui ou pour un non » (G. Belzane) : https://www.universalis.fr/encyclopedie/pour-un-oui-ou-pour-un-non/ ; vers de Verlaine vérifié sur Wikisource (Sagesse, « Le ciel est par-dessus le toit ») : https://fr.wikisource.org/wiki/Sagesse_(1893)/Le_ciel_est_par-dessus_le_toit"
+   }
+  },
+  {
+   "texte": "pas celle que tu contemples par la fenêtre, mais la “vraie”, celle que tous vivent",
+   "locuteur": "H.1 (à H.2)",
+   "reference": "Seconde partie (Pléiade, p. 1512 ; p. 45 de l’édition citée par Eduscol)",
+   "situation": "H.1 décrit son « camp », celui des hommes qui luttent et créent la vie autour d’eux.",
+   "sens": "H.1 oppose la vie active, « vraie », à la vie contemplée de H.2.",
+   "procedes": "Antithèse contempler / vivre ; guillemets autour de « vraie » ; adresse directe.",
+   "demontre": "Le conflit s’élargit à deux conceptions de la vie.",
+   "usage": "Thème des deux camps ; dissertation sur ce que révèle la dispute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf ; aussi Eduscol, « Enjeux de l’oralité dans Pour un oui ou pour un non » (octobre 2024) : https://eduscol.education.fr/document/61156/download"
+   }
+  },
+  {
+   "texte": "Eh bien, de l’autre côté il y a les “ratés”.",
+   "locuteur": "H.2 (à H.1)",
+   "reference": "Seconde partie (Pléiade, p. 1512)",
+   "situation": "H.1 n’ose pas nommer l’autre camp ; H.2 le dit à sa place.",
+   "sens": "H.2 formule le jugement qu’il prête à H.1 sur sa propre vie.",
+   "procedes": "Guillemets qui marquent la distance ; parole prononcée « pour » l’autre.",
+   "demontre": "La violence latente de la condescendance est enfin nommée.",
+   "usage": "Moment de crise ; registre polémique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf"
+   }
+  },
+  {
+   "texte": "Non !",
+   "locuteur": "H.2",
+   "reference": "Dernière réplique de la pièce",
+   "situation": "La pièce se clôt sur la question de la rupture.",
+   "sens": "Le dernier mot est un refus.",
+   "procedes": "Mot unique ; exclamation ; le titre (« oui » / « non ») passe du sens figuré au sens propre.",
+   "demontre": "La fin ne réconcilie pas les deux amis ; son interprétation reste discutée.",
+   "usage": "Commenter le dénouement et le titre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf",
+    "note": "L. Brignoli indique que « le dernier mot du texte est un « Non ! » prononcé par » H.2."
+   }
+  },
+  {
+   "texte": "Ce sont des mouvements indéfinissables, qui glissent très rapidement aux limites de notre conscience",
+   "locuteur": "Nathalie Sarraute",
+   "reference": "Préface de L’Ère du soupçon (définition des tropismes)",
+   "situation": "Sarraute explique ce qu’elle cherche à saisir depuis son premier livre, Tropismes (1939).",
+   "sens": "Les tropismes sont des réactions intérieures rapides et presque inconscientes.",
+   "procedes": "Définition ; adjectif « indéfinissables » ; image du glissement.",
+   "demontre": "La pièce rend visibles et audibles ces mouvements, comme la blessure de H.2.",
+   "usage": "Dissertation sur l’écriture de Sarraute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025 (article universitaire en accès libre, qui cite le texte de la Pléiade) : https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf"
+   }
+  },
+  {
+   "texte": "ce ne sont pas du tout deux personnes qui s’entredéchirent et qui se haïssent, mais c’est deux personnes qui portent chacune des tendances opposées, comme chacun de nous",
+   "locuteur": "Nathalie Sarraute (entretien)",
+   "reference": "Entretien télévisé du 24 mars 1986 (France Régions 3), cité par Eduscol",
+   "situation": "Sarraute parle de sa pièce à l’occasion de la mise en scène de Simone Benmussa.",
+   "sens": "H.1 et H.2 incarnent des tendances présentes en chacun, non deux ennemis.",
+   "procedes": "Opposition « ne... pas du tout... mais » ; généralisation finale.",
+   "demontre": "Il ne faut pas lire la pièce comme le combat d’un bon et d’un méchant.",
+   "usage": "Oral : intentions de l’auteur ; nuancer le jugement sur les personnages.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Eduscol, « Théâtre et dispute (2) » (octobre 2024) : https://eduscol.education.fr/document/61159/download"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Théâtre et dispute",
+  "explication": "Le théâtre est par nature un art du conflit : il met face à face des personnages qui s’opposent par la parole. La dispute, sous toutes ses formes (querelle, débat, procès, scène de ménage, joute verbale), est donc l’un de ses ressorts essentiels. Ce parcours invite à étudier comment le théâtre représente la dispute, ce qui la provoque, comment elle progresse, et ce qu’elle révèle : des oppositions de caractères, de valeurs, de classes sociales, ou la difficulté même de communiquer.\n\nPour un oui ou pour un non est une pièce entièrement faite de dispute : il n’y a pas d’autre action que la querelle de deux amis. Mais Sarraute renouvelle profondément le genre : le motif du conflit est infime (une intonation), et toute la pièce cherche à montrer que ce « rien » est essentiel. La dispute devient un instrument d’exploration, qui fait apparaître ce qui se cache sous les mots, la sous-conversation, et met à nu deux visions du monde.\n\nOn pourra la comparer à des disputes plus classiques, où le désaccord porte sur des idées ou des intérêts (Molière, Le Misanthrope), à des querelles comiques ou absurdes (Ionesco, Beckett), ou à des affrontements contemporains (Koltès, Yasmina Reza). La question centrale du parcours est la suivante : la dispute théâtrale est-elle seulement un spectacle d’affrontement, ou un moyen de révéler la vérité des êtres et des relations ?",
+  "textesComplementaires": [
+   {
+    "titre": "Le Misanthrope (1666), acte I, scène 1",
+    "auteur": "Molière",
+    "interet": "Alceste et Philinte, deux amis, se disputent sur la sincérité et la politesse : faut-il dire toute la vérité ou accepter les conventions sociales ? Comme chez Sarraute, l’amitié est mise à l’épreuve par une question de langage et de ton."
+   },
+   {
+    "titre": "La Dispute (1744)",
+    "auteur": "Marivaux",
+    "interet": "Le titre même de la pièce annonce le parcours : un prince et sa compagne se disputent pour savoir qui, de l’homme ou de la femme, a été infidèle le premier, et organisent une expérience cruelle. La dispute y est un débat d’idées porté à la scène."
+   },
+   {
+    "titre": "La Cantatrice chauve (1950), scène finale",
+    "auteur": "Eugène Ionesco",
+    "interet": "Les Smith et les Martin finissent par s’invectiver avec des phrases absurdes, des sons, des syllabes : la dispute devient pure mécanique verbale. À l’inverse, chez Sarraute, chaque nuance du langage est chargée de sens."
+   },
+   {
+    "titre": "En attendant Godot (1952)",
+    "auteur": "Samuel Beckett",
+    "interet": "Vladimir et Estragon se querellent, se réconcilient, menacent de se séparer sans jamais le faire. Comme H.1 et H.2, ils forment un duo lié par une dépendance mutuelle et par des disputes qui tournent en rond."
+   },
+   {
+    "titre": "Dans la solitude des champs de coton (années 1980)",
+    "auteur": "Bernard-Marie Koltès",
+    "interet": "Un dealer et un client s’affrontent dans un long échange où l’objet du désir n’est jamais nommé. Eduscol rapproche cette pièce de Sarraute pour l’anonymat des personnages (Le Dealer, Le Client) et l’escalade d’un duo qui devient duel."
+   },
+   {
+    "titre": "Art (1994)",
+    "auteur": "Yasmina Reza",
+    "interet": "L’achat d’un tableau entièrement blanc par Serge déclenche une dispute entre trois amis, qui révèle des rancœurs anciennes et des rapports de domination. Parallèle très éclairant avec Pour un oui ou pour un non : un motif apparemment futile met en péril une amitié."
+   },
+   {
+    "titre": "Huis clos (1944)",
+    "auteur": "Jean-Paul Sartre",
+    "interet": "Trois morts enfermés ensemble se jugent les uns les autres dans un procès sans fin : la dispute y devient un tribunal permanent, comme le « tribunal des gens normaux » chez Sarraute."
+   },
+   {
+    "titre": "La Réunification des deux Corées (2013), scène « Amitié »",
+    "auteur": "Joël Pommerat",
+    "interet": "Deux personnages désignés comme « Le Premier Homme » et « Le Deuxième Homme » voient leur amitié dégénérer à cause de la suffisance de l’un envers l’autre, jusqu’au corps-à-corps : une escalade comparable à celle de H.1 et H.2 (piste proposée par Eduscol)."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le conflit naît d’une intonation : « C’est bien... ça... », phrase banale entendue comme condescendante.",
+   "Sarraute rend audibles les tropismes, mouvements intérieurs infimes, et fait de la sous-conversation la matière du dialogue.",
+   "La dispute prend la forme d’un procès impossible : aucun juge, même les voisins, ne peut trancher une affaire d’intonation.",
+   "Les griefs sont réciproques : condescendance d’un côté, jalousie et supériorité de l’autre.",
+   "Derrière le « rien » s’opposent deux visions du monde : réussite et vie « vraie » contre retrait, poésie et « ratés ».",
+   "Les personnages sigles et le dépouillement donnent à la pièce une portée universelle."
+  ],
+  "axes": [
+   "Un théâtre de l’infime : comment un détail devient un drame.",
+   "La parole sur la parole : métalangage, ponctuation, intonation.",
+   "La dispute comme procès et comme révélateur.",
+   "Deux visions du monde et la question du bonheur.",
+   "Comique et gravité : un registre « à mi-chemin »."
+  ],
+  "problematiques": [
+   "Comment Sarraute fait-elle d’un rien le sujet d’une pièce de théâtre ?",
+   "La dispute entre H.1 et H.2 est-elle un échec de la communication ou le moment où la vérité apparaît ?",
+   "En quoi la pièce montre-t-elle que les mots sont des armes ?",
+   "Qui a raison, de H.1 ou de H.2, et la pièce permet-elle de le dire ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L’ouverture et le « Mais rien... » de H.2",
+    "utilisation": "Montrer le paradoxe du rien et l’entrée sans exposition."
+   },
+   {
+    "exemple": "L’aveu et l’analyse de « C’est bien... ça... »",
+    "utilisation": "Démontrer le pouvoir de l’intonation ; métalangage ; tropisme."
+   },
+   {
+    "exemple": "Le tribunal des voisins H.3 et F",
+    "utilisation": "Montrer l’impossibilité d’un jugement extérieur et le comique de la dispute."
+   },
+   {
+    "exemple": "Les guillemets autour de « Poésie », « Poétique »",
+    "utilisation": "Montrer que la blessure se répète sous d’autres formes : la ponctuation dit le mépris."
+   },
+   {
+    "exemple": "La fenêtre et « La vie est là... »",
+    "utilisation": "Le retournement : la citation de Verlaine devient une arme contre H.2."
+   },
+   {
+    "exemple": "Les deux « camps » : la « vraie » vie et les « ratés »",
+    "utilisation": "L’élargissement du conflit à deux visions du monde."
+   },
+   {
+    "exemple": "Le « Non ! » final",
+    "utilisation": "Une fin discutée qui laisse le spectateur juge ; le titre pris au pied de la lettre."
+   }
+  ],
+  "liens": "Les tropismes (thème) passent par des procédés d’écriture précis : points de suspension, reprises, métalangage. Le registre judiciaire (procédé) met en scène le thème du jugement et de la norme, incarné par les voisins (personnages). Les deux amis (personnages) portent deux visions du monde (thème), mais leur parole les rapproche autant qu’elle les oppose : ils reprennent les mots l’un de l’autre et échangent les rôles d’accusateur et d’accusé. Le titre relie l’expression figée au dernier mot de la pièce.",
+  "sujetsCommentaire": [
+   {
+    "passage": "L’exposition, de « Alors ? » (H.1) au moment où H.2 reconnaît qu’il s’est passé quelque chose",
+    "pistes": "1. Une entrée sans exposition : personnages sigles, question directe, situation de demande. 2. L’esquive : « Mais rien... », répétitions, points de suspension, reprises qui créent un jeu de miroir. 3. Une fissure : l’insistance de H.1 transforme le rien en « juste des mots » ; le paradoxe central est posé."
+   },
+   {
+    "passage": "L’aveu de H.2 : le récit de « C’est bien... ça... » et l’analyse de l’intonation (Pléiade, p. 1499)",
+    "pistes": "1. Un récit hésitant et autocritique (« succès... dérisoire »). 2. Une analyse au ralenti de l’intonation : accent, étirement, suspens ; le métalangage comme microscope. 3. La réaction de H.1, entre incrédulité et ironie : le décalage entre la gravité du grief et la banalité de la phrase produit un comique inquiétant."
+   },
+   {
+    "passage": "La scène de la fenêtre et des deux « camps », de « La vie est là... » à « les “ratés” »",
+    "pistes": "1. Le retournement : la parole tendre de H.2 devient une preuve contre lui (Verlaine). 2. L’affrontement de deux visions du monde : la « vraie » vie contre la contemplation. 3. La violence des mots : H.2 nomme à la place de H.1 le jugement qu’il lui prête."
+   }
+  ],
+  "erreurs": [
+   "Dire que H.1 et H.2 se disputent pour une insulte ou une trahison : le grief porte sur une intonation, dans une phrase en apparence élogieuse.",
+   "Inverser les rôles : c’est H.1 qui a dit « C’est bien... ça... », et c’est H.2 qui s’est éloigné.",
+   "Faire de H.2 la victime innocente et de H.1 le coupable : les griefs sont réciproques et Sarraute refuse ce partage.",
+   "Présenter la pièce comme du théâtre de l’absurde : les répliques ne sont pas absurdes, chaque nuance a un sens.",
+   "Affirmer que la pièce se termine par une réconciliation, ou par une rupture certaine : la fin est discutée.",
+   "Citer de longs passages de mémoire : il s’agit d’une œuvre récente ; s’en tenir à des formules brèves et exactes (« C’est bien... ça... », « La vie est là... »).",
+   "Confondre tropisme (mouvement intérieur) et figure de style."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Dans Pour un oui ou pour un non, la dispute porte-t-elle vraiment sur « rien » ?",
+   "analyse": "Le sujet reprend le paradoxe de la pièce : H.2 affirme d’abord qu’il n’y a « rien », et le titre désigne une querelle futile. Il faut donc examiner d’abord en quoi le motif de la dispute paraît dérisoire, puis montrer ce que ce « rien » contient (une blessure, un rapport de domination), et enfin ce qu’il révèle de plus vaste (deux visions du monde, la nature du langage). Les guillemets autour de « rien » invitent à interroger le mot lui-même.",
+   "problematique": "Comment Sarraute fait-elle d’un motif apparemment insignifiant le révélateur de tout ce qui se cache sous les mots et sous l’amitié ?",
+   "plan": [
+    {
+     "titre": "I. Une dispute qui semble porter sur rien",
+     "arguments": [
+      "A. Un motif dérisoire : une phrase banale, « C’est bien... ça... », que H.1 a du mal à prendre au sérieux ; le titre lui-même désigne une querelle futile.",
+      "B. Le point de vue du bon sens : H.1, puis les voisins (H.3 et F), qui ne voient rien de grave dans l’affaire ; leur incompréhension produit un effet comique.",
+      "C. Une pièce sans action : pas d’événement extérieur, pas de péripétie spectaculaire ; tout se joue dans le dialogue, comme si le théâtre tournait à vide."
+     ]
+    },
+    {
+     "titre": "II. Ce « rien » est en réalité une blessure profonde",
+     "arguments": [
+      "A. Le poids de l’intonation : le suspens et l’accent sur « bien » expriment une condescendance ; Sarraute montre que le ton dit plus que les mots.",
+      "B. Les tropismes et la sous-conversation : ces mouvements infimes, invisibles d’ordinaire, sont rendus audibles par le dialogue ; la pièce fonctionne comme un microscope.",
+      "C. Une blessure réciproque : le grief de H.1 (la jalousie de H.2, la phrase de Verlaine prononcée à la fenêtre) montre que les deux amis se sont sentis jugés : le « rien » cachait un rapport de forces."
+     ]
+    },
+    {
+     "titre": "III. Un « rien » qui révèle tout",
+     "arguments": [
+      "A. Deux visions du monde : réussite sociale contre vie contemplative ; la querelle met en jeu ce qui donne de la valeur à une existence.",
+      "B. La fragilité des relations humaines : une amitié ancienne se révèle traversée de rivalités ; le titre devient ironique, car une amitié peut réellement se rompre pour un oui ou pour un non.",
+      "C. Une réflexion sur le langage et sur le théâtre : un simple « Non ! » clôt la pièce, et le titre est pris au pied de la lettre ; Sarraute fait du langage ordinaire la matière même du drame."
+     ]
+    }
+   ],
+   "introduction": "« Pour un oui ou pour un non » : l’expression désigne, dans la langue courante, une dispute sans motif sérieux. En choisissant ce titre pour sa pièce, publiée en 1982, Nathalie Sarraute semble annoncer une querelle futile. Et de fait, la brouille entre deux vieux amis, H.1 et H.2, repose sur presque rien : une phrase banale, « C’est bien... ça... », prononcée un jour avec une certaine intonation. H.2 lui-même commence par affirmer qu’il n’y a « rien ». La dispute porte-t-elle vraiment sur rien ? Comment Sarraute fait-elle d’un motif apparemment insignifiant le révélateur de tout ce qui se cache sous les mots et sous l’amitié ? Nous verrons d’abord que la dispute semble porter sur rien, puis que ce rien est en réalité une blessure profonde, avant de montrer qu’il révèle des enjeux beaucoup plus vastes.",
+   "conclusion": "La dispute de Pour un oui ou pour un non semble donc, au premier regard, ne porter sur rien : un motif dérisoire, que le bon sens des voisins juge absurde. Mais ce rien est une blessure réelle, inscrite dans une intonation, que Sarraute rend visible grâce à son attention aux tropismes. Plus encore, il révèle deux visions du monde, la fragilité de l’amitié et le pouvoir du langage. Le « rien » est ainsi, chez Sarraute, le lieu même de la vérité. Cette attention aux petites phrases se retrouve dans Art de Yasmina Reza, où un tableau blanc, presque « rien », suffit à faire éclater une amitié."
+  },
+  {
+   "sujet": "Nathalie Sarraute définit les tropismes comme « des mouvements indéfinissables, qui glissent très rapidement aux limites de notre conscience ». En quoi Pour un oui ou pour un non parvient-il à rendre ces mouvements visibles et audibles sur scène ?",
+   "analyse": "La citation définit les tropismes par trois traits : ils sont « indéfinissables » (difficiles à nommer), rapides (« glissent très rapidement ») et à la limite de la conscience (presque inconscients). Le sujet demande comment le théâtre, art du visible et de la parole explicite, peut représenter des mouvements aussi fugaces. Il faut donc analyser les procédés : dialogue, ponctuation, ralentissement, analyse de l’intonation, jeu des acteurs, personnages extérieurs.",
+   "problematique": "Comment Sarraute transforme-t-elle des mouvements intérieurs presque imperceptibles en matière dramatique, et que révèle ce passage à la scène ?",
+   "plan": [
+    {
+     "titre": "I. Un théâtre qui ralentit et agrandit l’infime",
+     "arguments": [
+      "A. Une action réduite à un détail : tout part d’une intonation (« C’est bien... ça... »), saisie et revécue au ralenti.",
+      "B. Une écriture du suspens : points de suspension, phrases inachevées, répétitions qui miment l’hésitation et le glissement des sensations.",
+      "C. Un dépouillement scénique : personnages réduits à des sigles, décor minimal, absence de péripéties : rien ne distrait de l’essentiel."
+     ]
+    },
+    {
+     "titre": "II. Un théâtre qui fait parler la sous-conversation",
+     "arguments": [
+      "A. Dire tout haut ce que l’on tait : H.2 nomme et analyse ce qu’il a ressenti, ce que la politesse cache d’ordinaire.",
+      "B. La voix et l’intonation au centre : la pièce repose sur le jeu des acteurs, qui doivent faire entendre les nuances ; créée d’abord à la radio, elle est une partition pour la voix, même si elle a été pensée pour la scène.",
+      "C. La dispute comme révélateur : chaque réplique fait surgir un nouveau mouvement (honte, irritation, blessure), jusqu’au retournement des griefs de H.1."
+     ]
+    },
+    {
+     "titre": "III. Les limites et la portée de cette représentation",
+     "arguments": [
+      "A. Des mouvements qui restent « indéfinissables » : personne ne parvient à prouver ou à nommer exactement l’offense ; le procès échoue.",
+      "B. Le regard extérieur : les voisins ne voient rien ; le théâtre montre que les tropismes sont invisibles à ceux qui ne les cherchent pas, et place le spectateur devant ce choix.",
+      "C. Une portée universelle : en rendant ces mouvements audibles, Sarraute fait reconnaître au spectateur ses propres réactions ; le théâtre devient un instrument de connaissance de soi."
+     ]
+    }
+   ],
+   "introduction": "Depuis son premier livre, Tropismes (1939), Nathalie Sarraute s’attache à saisir ce qu’elle définit comme « des mouvements indéfinissables, qui glissent très rapidement aux limites de notre conscience » : ces réactions intérieures infimes qui précèdent nos paroles et nos gestes. Le roman peut les décrire longuement ; mais comment le théâtre, art de la parole prononcée et du visible, pourrait-il les représenter ? C’est le défi que relève Pour un oui ou pour un non (1982), où deux amis se déchirent à cause d’une simple intonation. Comment Sarraute transforme-t-elle ces mouvements presque imperceptibles en matière dramatique, et que révèle ce passage à la scène ? Nous verrons d’abord que la pièce ralentit et agrandit l’infime, puis qu’elle fait parler la sous-conversation, avant d’examiner les limites et la portée de cette représentation.",
+   "conclusion": "Pour un oui ou pour un non parvient donc à rendre visibles et audibles les tropismes : la pièce ralentit et agrandit un détail, fait de la ponctuation et de l’intonation le cœur du drame, et transforme la sous-conversation en conversation. Mais ces mouvements restent en partie insaisissables, comme le montrent l’échec du procès et l’incompréhension des voisins ; c’est précisément ce qui leur donne leur force. Le théâtre de Sarraute devient ainsi un instrument de connaissance de soi, où chacun peut reconnaître ses propres blessures. Dans Enfance (1983), publié l’année suivante, Sarraute appliquera cette même attention aux mots qui blessent à ses propres souvenirs."
+  },
+  {
+   "sujet": "La dispute, au théâtre, est-elle le signe d’un échec de la communication ? Vous répondrez en vous appuyant sur Pour un oui ou pour un non et sur les textes étudiés dans le cadre du parcours « Théâtre et dispute ».",
+   "analyse": "Le sujet invite à se demander si la dispute traduit une impossibilité de se comprendre (incommunicabilité) ou si elle est au contraire une forme de communication, voire un moyen de révéler la vérité. On distinguera les disputes qui échouent (malentendus, dialogues de sourds) et celles qui produisent quelque chose (vérité, connaissance de soi, plaisir du spectateur). Il faut s’appuyer sur la pièce de Sarraute et sur plusieurs textes du parcours.",
+   "problematique": "Si la dispute théâtrale semble souvent montrer que les hommes ne se comprennent pas, n’est-elle pas aussi, paradoxalement, la forme de communication la plus vraie ?",
+   "plan": [
+    {
+     "titre": "I. Oui : la dispute révèle les failles de la communication",
+     "arguments": [
+      "A. Le malentendu : H.1 et H.2 ne donnent pas le même sens à « C’est bien... ça... » ; chacun reste enfermé dans sa perception.",
+      "B. Le dialogue de sourds : dans La Cantatrice chauve, la dispute finale n’est plus qu’un échange de sons absurdes ; chez Beckett, Vladimir et Estragon se querellent sans avancer.",
+      "C. L’impossible arbitrage : les voisins de Sarraute ne comprennent rien ; le procès échoue, comme échoue la tentative de Philinte pour raisonner Alceste dans Le Misanthrope."
+     ]
+    },
+    {
+     "titre": "II. Mais la dispute est aussi une forme intense de communication",
+     "arguments": [
+      "A. Dire enfin ce qui était tu : la dispute oblige H.2 à avouer sa blessure et H.1 à révéler la sienne ; sans elle, la rupture aurait été silencieuse.",
+      "B. Un échange de vérités : Alceste et Philinte confrontent franchement deux conceptions de la sincérité ; dans Art de Reza, la querelle sur un tableau fait remonter des rancœurs anciennes.",
+      "C. Une relation qui persiste : se disputer, c’est encore tenir à l’autre ; H.1 vient voir H.2 parce que leur amitié compte, et les deux personnages de Beckett ne se quittent jamais."
+     ]
+    },
+    {
+     "titre": "III. La dispute, ressort du théâtre et instrument de connaissance",
+     "arguments": [
+      "A. Un ressort dramatique : la dispute crée la tension, le rythme (stichomythies, répliques qui s’enchaînent) et le plaisir du spectateur.",
+      "B. Un instrument de révélation : chez Sarraute, elle met à nu les tropismes ; chez Koltès, elle fait affleurer un désir jamais nommé.",
+      "C. Une communication avec le public : la double énonciation fait du spectateur le juge ; c’est à lui que la dispute s’adresse finalement, comme le montre la fin discutée de Pour un oui ou pour un non."
+     ]
+    }
+   ],
+   "introduction": "Le théâtre est l’art du conflit : depuis l’Antiquité, il met face à face des personnages qui s’opposent par la parole. Mais lorsque des amis se disputent, cela signifie-t-il qu’ils ne parviennent plus à se comprendre ? Dans Pour un oui ou pour un non (1982), Nathalie Sarraute montre deux vieux amis qui se déchirent à cause d’une intonation, au point que des voisins appelés comme arbitres n’y comprennent plus rien. La dispute, au théâtre, est-elle alors le signe d’un échec de la communication ? Si elle semble souvent montrer que les hommes ne se comprennent pas, n’est-elle pas aussi, paradoxalement, la forme de communication la plus vraie ? Nous verrons d’abord que la dispute révèle les failles de la communication, puis qu’elle constitue pourtant une forme intense d’échange, avant de montrer qu’elle est un ressort essentiel du théâtre et un instrument de connaissance.",
+   "conclusion": "La dispute théâtrale montre bien les failles de la communication : malentendus, dialogues de sourds, impossibilité de trouver un juge. Mais elle est aussi une forme d’échange intense, qui oblige à dire ce qui était tu et prouve que la relation compte encore. Surtout, elle est au cœur du théâtre : elle crée la tension dramatique et révèle la vérité des êtres, y compris au spectateur, pris à témoin. Chez Sarraute, la dispute n’est pas l’échec du langage, mais le moment où il devient enfin transparent. Le théâtre contemporain, de Koltès à Yasmina Reza, ne cessera d’explorer cette parole conflictuelle qui, en blessant, dévoile."
+  }
+ ],
+ "oral": {
+  "presentation": "Pour un oui ou pour un non est la dernière pièce de Nathalie Sarraute, créée à la radio en 1981, publiée en 1982 et montée en français en 1986 par Simone Benmussa. H.1 rend visite à son vieil ami H.2, qui s’est éloigné de lui, et finit par apprendre pourquoi : un jour, H.1 a répondu à l’un de ses petits succès par « C’est bien... ça... », avec une intonation que H.2 a ressentie comme condescendante. Pendant une heure, les deux hommes se disputent sur ce presque rien, prennent à témoin des voisins qui ne comprennent pas, puis découvrent qu’ils appartiennent à deux camps : la réussite sociale d’un côté, la vie retirée et la poésie de l’autre. Sarraute porte au théâtre ce qu’elle appelle les tropismes, ces mouvements intérieurs infimes que déclenchent les mots des autres. La pièce, dans le parcours « Théâtre et dispute », montre qu’une querelle pour un rien peut révéler toute la vérité d’une relation.",
+  "essentiels": [
+   "Autrice, date : Nathalie Sarraute, radio 1981, publication 1982, création scénique en français en 1986 (Benmussa, Rond-Point).",
+   "Personnages sigles : H.1, H.2, et deux voisins, H.3 et F.",
+   "La phrase clé : « C’est bien... ça... » (accent sur « bien », étirement, suspens).",
+   "Les notions : tropisme, sous-conversation, métalangage.",
+   "Les étapes : rien, aveu, procès, voisins, griefs réciproques, fenêtre et Verlaine, deux camps, « Non ! ».",
+   "Une fin discutée : rupture, trêve ou querelle sans fin.",
+   "Sarraute : « deux personnes qui portent chacune des tendances opposées, comme chacun de nous »."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi H.2 s’est-il éloigné de H.1 ?",
+    "reponse": "À cause d’une phrase : alors qu’il se vantait d’un petit succès, H.1 lui a dit « C’est bien... ça... ». Ce ne sont pas les mots qui l’ont blessé, mais l’intonation : un accent mis sur « bien », un étirement, un suspens avant le « ça ». H.2 y a entendu de la condescendance, comme si H.1 le regardait de haut. Le grief paraît dérisoire, et H.2 le sait, mais pour lui ce détail révèle tout le rapport entre eux."
+   },
+   {
+    "question": "Qu’est-ce qu’un tropisme, et comment la pièce les montre-t-elle ?",
+    "reponse": "Sarraute définit les tropismes comme « des mouvements indéfinissables, qui glissent très rapidement aux limites de notre conscience » : des réactions intérieures que provoquent les mots ou les gestes des autres. Dans un roman, la narratrice peut les décrire ; au théâtre, les personnages doivent les dire. H.2 analyse donc à voix haute ce qu’il a ressenti, au ralenti, comme au microscope : la sous-conversation devient conversation."
+   },
+   {
+    "question": "À quoi servent les voisins H.3 et F ?",
+    "reponse": "Ils jouent le rôle de juges ou de témoins : H.2 sollicite leur avis. Mais ces gens « normaux » ne voient rien de grave dans l’affaire, et leur intervention, brève et presque muette, ne règle rien. La scène est comique, et elle montre qu’un tel conflit est incompréhensible de l’extérieur : les tropismes ne se jugent pas comme des délits. Elle place aussi le spectateur devant la question : réagirait-il comme eux ?"
+   },
+   {
+    "question": "La dispute est-elle seulement une affaire d’intonation ?",
+    "reponse": "Non. Peu à peu, les reproches deviennent réciproques (mépris contre jalousie) et s’élargissent : les guillemets autour de « poésie », la phrase « La vie est là... » prononcée à la fenêtre, empruntée à Verlaine, puis deux « camps » : celui de H.1, des hommes qui luttent et vivent la « vraie » vie, et celui de H.2, que celui-ci nomme lui-même les « ratés ». L’intonation était le signe d’un désaccord profond sur ce qu’est une vie réussie."
+   },
+   {
+    "question": "H.2 a-t-il raison de se sentir blessé ?",
+    "reponse": "La pièce ne permet pas de trancher. H.2 perçoit des nuances que les autres ignorent, et la suite montre qu’il y avait bien un jugement derrière la phrase. Mais il reconnaît s’être « vanté » d’un succès « dérisoire », et il classe lui-même les autres. Sarraute disait que ses personnages ne sont pas deux ennemis mais deux tendances présentes en chacun de nous : on peut donc comprendre l’un et l’autre."
+   },
+   {
+    "question": "Comment comprenez-vous la fin ?",
+    "reponse": "La pièce s’achève sur un « Non ! » de H.2. Les lectures divergent : pour une ressource Eduscol, les deux hommes s’accordent provisoirement sur la nécessité de rompre, sans se réconcilier ; pour l’Encyclopædia Universalis, ils s’accordent plutôt sur l’impossibilité de justifier une rupture définitive, ce qui ouvre une querelle sans fin. Cette incertitude est cohérente avec la pièce : rien n’y est tranché, et le titre est pris au pied de la lettre."
+   },
+   {
+    "question": "En quoi cette pièce relève-t-elle du parcours « Théâtre et dispute » ?",
+    "reponse": "La pièce n’a pas d’autre action que la dispute : elle en montre la naissance, l’escalade, les retournements, le recours à des arbitres. Mais Sarraute renouvelle la tradition : le motif est infime, et la dispute sert d’instrument d’exploration de ce qui se cache sous les mots. On peut la comparer au Misanthrope (deux amis qui s’opposent sur la sincérité), à Art de Yasmina Reza (une amitié menacée par un détail) ou à Beckett."
+   },
+   {
+    "question": "Pourquoi les personnages n’ont-ils pas de nom ?",
+    "reponse": "Sarraute, fidèle à ses réserves sur le personnage traditionnel (L’Ère du soupçon), refuse de « camper des individus » : elle veut montrer des mouvements intérieurs communs à tous. Les sigles H.1 et H.2 rendent la situation universelle et rapprochent les deux hommes : Benmussa faisait d’ailleurs échanger les rôles à ses acteurs d’un soir à l’autre."
+   }
+  ],
+  "liens": "Objet d’étude : le théâtre du XVIIe au XXIe siècle. Parcours : Théâtre et dispute. Œuvres à rapprocher : Molière, Le Misanthrope (I, 1) ; Marivaux, La Dispute ; Ionesco, La Cantatrice chauve ; Beckett, En attendant Godot ; Sartre, Huis clos ; Koltès, Dans la solitude des champs de coton ; Reza, Art et Le Dieu du carnage ; Pommerat, La Réunification des deux Corées. Dans d’autres genres : Sarraute, Tropismes, L’Ère du soupçon et Enfance, où l’autrice applique la même attention aux mots qui blessent.",
+  "reflexion": [
+   {
+    "question": "Vous est-il déjà arrivé d’être blessé par un ton plutôt que par des mots ?",
+    "pistes": "Penser aux compliments ironiques, aux silences, aux messages écrits dont on ne sait pas comment les lire. La pièce montre que le sens d’une phrase dépend de sa voix."
+   },
+   {
+    "question": "Faut-il dire à un ami ce qui nous a blessé ?",
+    "pistes": "La pièce montre les deux faces : dire permet d’éviter une rupture silencieuse, mais l’explication peut aggraver la blessure. À vous de juger à partir de l’exemple de H.1 et H.2."
+   },
+   {
+    "question": "Avez-vous trouvé la pièce drôle, inquiétante, ou les deux ?",
+    "pistes": "Sarraute disait que l’humour empêche le tragique de se former : appuyez-vous sur le tribunal des voisins (comique) et sur la scène des deux camps (plus violente)."
+   },
+   {
+    "question": "La réussite sociale et la vie retirée sont-elles vraiment opposées ?",
+    "pistes": "Réfléchir à ce que chacun des deux amis envie peut-être chez l’autre ; se demander si l’on peut appartenir aux deux « camps »."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L’ouverture de la pièce",
+   "reference": "Début de la pièce, de « Alors ? » (H.1) jusqu’au moment où H.2 reconnaît qu’il s’est passé quelque chose (passage étudié par Eduscol dans la mise en scène de J. Lassalle).",
+   "enjeu": "Comment Sarraute installe-t-elle, dès les premières répliques, un conflit fondé sur ce qui ne se dit pas ?",
+   "mouvements": [
+    "Mouvement 1 : une entrée sans exposition. Pas de présentation des personnages, réduits à des sigles (H.1, H.2) : le spectateur est plongé directement dans la situation. H.1 vient demander une explication : la pièce s’ouvre sur une demande, presque une accusation.",
+    "Mouvement 2 : l’esquive. H.2 nie qu’il y ait un problème (« Mais rien... »), et le mot « rien » revient avec insistance. Les points de suspension, les hésitations, les reprises des mots de l’autre créent un jeu de miroir et de méfiance. Le public perçoit ce que H.2 refuse de dire.",
+    "Mouvement 3 : l’insistance et la fissure. H.1 insiste, H.2 cède peu à peu : le « rien » devient « juste des mots ». La scène installe le paradoxe central : un rien qui est tout."
+   ]
+  },
+  {
+   "titre": "L’analyse de « C’est bien... ça »",
+   "reference": "Le récit de l’aveu : H.2 rapporte la phrase de H.1 et en analyse l’intonation (Pléiade, p. 1499).",
+   "enjeu": "Comment la pièce transforme-t-elle une phrase banale en objet d’analyse et en véritable événement dramatique ?",
+   "mouvements": [
+    "Mouvement 1 : l’aveu. H.2 raconte, avec beaucoup d’hésitations, dans quelles circonstances H.1 a prononcé la phrase : il se vantait lui-même d’un succès qu’il qualifie de « dérisoire ». Le comique naît du décalage entre la gravité de H.2 et la banalité de la phrase.",
+    "Mouvement 2 : la décomposition. H.1 répète la phrase à sa façon ; H.2 corrige : l’accent sur « bien », l’étirement, le suspens avant le « ça ». La pièce fonctionne comme un ralenti ou un microscope ; la ponctuation et la graphie deviennent des signes chargés de sens. C’est la mise en scène d’un tropisme.",
+    "Mouvement 3 : la réaction de H.1. Incrédulité, ironie, peut-être gêne : H.1 conteste la valeur du grief. Le dialogue tourne au débat sur le sens même des mots et du ton : qui a raison, celui qui s’en tient aux mots ou celui qui entend la musique ? Le spectateur est pris à témoin."
+   ]
+  },
+  {
+   "titre": "Le tribunal des voisins",
+   "reference": "Passage où H.2 sollicite l’avis des voisins, H.3 et F, puis leur départ.",
+   "enjeu": "Quelle est la fonction de ce regard extérieur, à la fois comique et cruel, dans la dispute des deux amis ?",
+   "mouvements": [
+    "Mouvement 1 : la mise en place d’un procès. Le différend est exposé à des tiers : registre judiciaire (plaignant, accusé, témoins, jugement). Le théâtre dans le théâtre est ici implicite : les voisins deviennent les spectateurs d’une affaire qui les dépasse.",
+    "Mouvement 2 : l’incompréhension. Les voisins, gens ordinaires, ne voient là rien de grave ; leur intervention est brève et presque muette. Le décalage entre leur bon sens et la subtilité du grief crée un comique de situation ; il souligne aussi la solitude de H.2.",
+    "Mouvement 3 : un verdict impossible. L’arbitrage tourne court sans avoir rien réglé : aucun tribunal ne peut juger les tropismes. La scène montre que la norme sociale écrase les nuances ; le spectateur, lui, est invité à se demander s’il ne réagirait pas comme H.3 et F."
+   ]
+  },
+  {
+   "titre": "La fenêtre et les deux camps",
+   "reference": "Seconde partie : H.1 s’arrête à la fenêtre, H.2 prononce « La vie est là... », puis les deux hommes définissent leurs « camps » (Pléiade, p. 1512).",
+   "enjeu": "Comment ce retournement transforme-t-il un malentendu personnel en affrontement de deux visions du monde ?",
+   "mouvements": [
+    "Mouvement 1 : la parole tendre retournée. H.2, ému, prononce « La vie est là... » ; H.1 y reconnaît Verlaine et l’accuse de se croire supérieur : l’accusé devient accusateur, la blessure est réciproque.",
+    "Mouvement 2 : l’intertexte comme arme. La citation poétique, apparemment innocente, est reçue comme un jugement de valeur ; elle rejoint les guillemets ironiques que H.2 reprochait à H.1 autour de « poésie ». Encore une sous-conversation.",
+    "Mouvement 3 : les deux camps. H.1 décrit le camp de ceux qui luttent et vivent la « vraie » vie, et ne parvient pas à nommer l’autre ; H.2 le fait pour lui : les « ratés ». Le rythme s’accélère, les répliques se durcissent : la dispute révèle ce que l’amitié recouvrait."
+   ]
+  },
+  {
+   "titre": "Le dénouement : oui ou non",
+   "reference": "Fin de la pièce, lorsque la question de la rupture se pose explicitement, jusqu’au dernier mot, « Non ! » (H.2).",
+   "enjeu": "En quoi cette fin ouverte reprend-elle le titre pour en renouveler le sens et laisser le spectateur juge ?",
+   "mouvements": [
+    "Mouvement 1 : la question décisive. La dispute aboutit à une alternative simple : rompre ou non. Les deux mots du titre passent de l’expression figée (« pour un oui ou pour un non ») à leur sens littéral.",
+    "Mouvement 2 : la parole qui se raidit. Les répliques se raccourcissent ; les mots les plus simples deviennent des enjeux, comme l’avait été « C’est bien... ça... ». Les deux amis, qui s’achèvent parfois les phrases l’un de l’autre, restent liés au moment même où ils parlent de se séparer.",
+    "Mouvement 3 : une fin discutée. Le dernier mot est un « Non ! » de H.2. Les lectures divergent (accord provisoire sur la rupture selon Eduscol, querelle sans fin selon l’Encyclopædia Universalis) : le spectateur, pris à témoin tout au long de la pièce, doit trancher lui-même ; le titre prend une portée ironique."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Nathalie Sarraute, dernière pièce : radio 1981, publication 1982, création en français en 1986 (Benmussa).",
+   "Un seul tenant, personnages sigles (H.1, H.2, H.3, F), décor minimal.",
+   "La brouille naît d’une intonation : « C’est bien... ça... ».",
+   "Sarraute met en scène les tropismes et fait de la sous-conversation une conversation.",
+   "La dispute prend la forme d’un procès impossible : les voisins ne voient rien de grave.",
+   "Les griefs sont réciproques : condescendance contre jalousie.",
+   "Deux camps : la « vraie » vie de la réussite contre la vie retirée des « ratés ».",
+   "Le dernier mot est « Non ! » ; la fin est interprétée de façons différentes."
+  ],
+  "citations": [
+   2,
+   4,
+   8,
+   10,
+   11,
+   12,
+   13
+  ],
+  "pieges": [
+   "C’est H.1 qui a dit « C’est bien... ça... » ; c’est H.2 qui s’est éloigné.",
+   "Ce n’est pas du théâtre de l’absurde : chaque nuance a un sens.",
+   "La pièce a été créée d’abord à la radio, mais pensée pour la scène.",
+   "Ne pas présenter la fin comme une réconciliation.",
+   "Œuvre protégée : citer seulement des formules brèves et exactes."
+  ],
+  "synthese": "Pour un oui ou pour un non (1982) montre deux vieux amis qui se déchirent pour un presque rien : une intonation, « C’est bien... ça... », que H.2 a entendue comme condescendante. Sarraute y porte au théâtre les tropismes, ces mouvements intérieurs infimes, en faisant analyser aux personnages leurs propres mots, leurs accents, leurs guillemets. La dispute tourne au procès, mais aucun juge ne peut trancher : les voisins ne voient rien. Les reproches deviennent réciproques et révèlent deux visions de la vie, la réussite d’un côté, la poésie et le retrait de l’autre. La fin, sur un « Non ! », reste ouverte à l’interprétation. Pour le parcours « Théâtre et dispute », la pièce prouve que la dispute peut être un instrument de vérité."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Tropisme",
+   "definition": "Mot emprunté à la biologie (mouvement d’un organisme vers ou contre une source d’excitation, comme une plante vers la lumière). Chez Sarraute : mouvement intérieur infime, presque inconscient, déclenché par le contact avec autrui. Ex. : la réaction de H.2 à « C’est bien... ça... »."
+  },
+  {
+   "terme": "Sous-conversation",
+   "definition": "Notion forgée par Sarraute : ce qui se joue sous les paroles échangées (sentiments, rapports de force, non-dits). Dans la pièce, la sous-conversation devient conversation : les personnages en parlent ouvertement."
+  },
+  {
+   "terme": "Points de suspension",
+   "definition": "Signe de ponctuation qui marque une hésitation, une interruption, un sous-entendu. Omniprésents chez Sarraute, ils sont même l’objet de la dispute : le suspens de « C’est bien... ça... »."
+  },
+  {
+   "terme": "Intonation",
+   "definition": "Variation de la voix qui donne à une phrase sa couleur (ironie, mépris, tendresse). Toute la pièce repose sur l’idée que l’intonation peut contredire ou dépasser le sens des mots."
+  },
+  {
+   "terme": "In medias res",
+   "definition": "Expression latine (« au milieu des choses ») : début d’une œuvre en pleine action, sans exposition. La pièce s’ouvre directement sur la question de H.1."
+  },
+  {
+   "terme": "Double énonciation",
+   "definition": "Les personnages se parlent, mais l’auteur s’adresse aussi au public. Dans la pièce, le spectateur est pris à témoin comme un juré supplémentaire."
+  },
+  {
+   "terme": "Stichomythie",
+   "definition": "Échange de répliques très brèves, qui accélère le rythme et marque l’affrontement. Ex. : quand H.1 n’ose pas nommer l’autre « camp », les deux amis se renvoient « Eh bien ? » et « Eh bien... » avant que H.2 ne lâche le mot « ratés »."
+  },
+  {
+   "terme": "Registre judiciaire",
+   "definition": "Ensemble de termes et de situations empruntés au monde de la justice (accusation, défense, témoin, verdict). La dispute de H.1 et H.2 prend la forme d’un procès, et les voisins jouent les jurés."
+  },
+  {
+   "terme": "Personnage anonyme",
+   "definition": "Personnage désigné par un sigle ou une fonction plutôt que par un nom (H.1, H.2, H.3, F). Ce choix rompt avec le personnage traditionnel et donne une portée universelle à la situation."
+  },
+  {
+   "terme": "Nouveau théâtre",
+   "definition": "Ensemble de dramaturgies d’après-guerre (Beckett, Ionesco, Adamov) qui remettent en cause l’intrigue, le personnage et le langage. Le théâtre de Sarraute s’en rapproche par son dépouillement, mais chez elle chaque mot fait sens."
+  },
+  {
+   "terme": "Intertextualité",
+   "definition": "Présence d’un texte dans un autre (citation, allusion). Les vers de Verlaine évoqués à propos de la fenêtre de H.2 en sont un exemple."
+  },
+  {
+   "terme": "Fin ouverte",
+   "definition": "Dénouement qui ne résout pas clairement l’intrigue et laisse le spectateur libre de l’interpréter. La pièce s’achève sur un « Non ! » de H.2, dont le sens est discuté."
+  },
+  {
+   "terme": "Métalangage",
+   "definition": "Langage qui parle du langage. Les personnages de Sarraute commentent leurs propres mots, leurs accents, leurs guillemets : « Un accent mis sur « bien »... un étirement »."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Comment les personnages principaux sont-ils désignés ?",
+   "choix": [
+    "Par des sigles : H.1 et H.2",
+    "Par leurs prénoms",
+    "Par leurs métiers",
+    "Par des surnoms"
+   ],
+   "reponse": 0,
+   "explication": "Les personnages sont désignés par des sigles (H.1, H.2, H.3, F) : Sarraute refuse le personnage traditionnel, avec nom, passé et portrait."
+  },
+  {
+   "question": "Quelle phrase est à l’origine de la brouille ?",
+   "choix": [
+    "« Mais rien... »",
+    "« juste des mots »",
+    "« La vie est là... »",
+    "« C’est bien... ça... »"
+   ],
+   "reponse": 3,
+   "explication": "H.1 avait répondu « C’est bien... ça... » à H.2, qui se vantait d’un petit succès, avec une intonation que H.2 a ressentie comme condescendante."
+  },
+  {
+   "question": "Qu’est-ce qui blesse H.2 dans cette phrase ?",
+   "choix": [
+    "Un mot grossier",
+    "Une erreur sur son nom",
+    "L’intonation : le suspens et l’accent sur « bien »",
+    "Le fait qu’elle ait été dite devant témoins"
+   ],
+   "reponse": 2,
+   "explication": "Ce n’est pas le sens des mots qui blesse, mais leur musique : un accent sur « bien », un étirement, un suspens avant le « ça ». C’est un exemple de tropisme."
+  },
+  {
+   "question": "Qui sont H.3 et F ?",
+   "choix": [
+    "Des voisins appelés à donner leur avis",
+    "Les parents de H.2",
+    "Des policiers",
+    "Les enfants de H.1"
+   ],
+   "reponse": 0,
+   "explication": "H.3 et F, un couple de voisins, sont sollicités par H.2 comme témoins ou arbitres ; ils ne voient rien de grave dans l’affaire."
+  },
+  {
+   "question": "Que désigne le mot « tropisme » chez Sarraute ?",
+   "choix": [
+    "Un voyage sous les tropiques",
+    "Une figure de style",
+    "Un type de personnage comique",
+    "Un mouvement intérieur infime, presque inconscient"
+   ],
+   "reponse": 3,
+   "explication": "Les tropismes sont des mouvements intérieurs à peine perceptibles, déclenchés par le contact avec les autres, qui précèdent les paroles et les gestes."
+  },
+  {
+   "question": "Quel poète est évoqué à propos de la fenêtre de H.2 ?",
+   "choix": [
+    "Victor Hugo",
+    "Charles Baudelaire",
+    "Paul Verlaine",
+    "Arthur Rimbaud"
+   ],
+   "reponse": 2,
+   "explication": "Quand H.2 dit « La vie est là... », H.1 y reconnaît un vers de Verlaine (Sagesse : « la vie est là, / Simple et tranquille ») et l’accuse de se croire supérieur."
+  },
+  {
+   "question": "À quel mouvement littéraire Nathalie Sarraute est-elle associée ?",
+   "choix": [
+    "Le Nouveau Roman",
+    "Le Surréalisme",
+    "Le Romantisme",
+    "Le Naturalisme"
+   ],
+   "reponse": 0,
+   "explication": "Sarraute est associée au Nouveau Roman ; son essai L’Ère du soupçon (1956) en est un texte théorique majeur."
+  },
+  {
+   "question": "Comment la pièce est-elle composée ?",
+   "choix": [
+    "En cinq actes",
+    "En trois actes et un prologue",
+    "En un seul tenant, sans actes ni scènes",
+    "En tableaux numérotés"
+   ],
+   "reponse": 2,
+   "explication": "La pièce ne comporte ni actes ni scènes : elle se joue d’un seul tenant, ce qui renforce l’impression d’une dispute continue."
+  },
+  {
+   "question": "Que signifie l’expression « pour un oui ou pour un non » ?",
+   "choix": [
+    "Après une longue hésitation",
+    "Par politesse",
+    "Pour un motif futile",
+    "Sans rien dire"
+   ],
+   "reponse": 2,
+   "explication": "L’expression désigne un motif sans importance ; la pièce montre pourtant que ce motif apparemment futile est essentiel."
+  },
+  {
+   "question": "Comment se termine la pièce ?",
+   "choix": [
+    "Par une réconciliation joyeuse",
+    "Par la mort de H.2",
+    "Par un « Non ! » de H.2, dont le sens est discuté",
+    "Par le départ de H.1 pour l’étranger"
+   ],
+   "reponse": 2,
+   "explication": "Le dernier mot du texte est un « Non ! » prononcé par H.2 ; les critiques y lisent soit un accord provisoire sur la rupture, soit une querelle sans fin."
+  },
+  {
+   "question": "Où la pièce a-t-elle été créée en premier ?",
+   "choix": [
+    "À la Comédie-Française",
+    "À la radio, en 1981",
+    "Au festival d’Avignon",
+    "À la télévision, en 1988"
+   ],
+   "reponse": 1,
+   "explication": "La pièce est créée à la radio en décembre 1981, publiée en 1982, puis montée en français en 1986 au théâtre du Rond-Point par Simone Benmussa."
+  },
+  {
+   "question": "Comment H.2 désigne-t-il, à la place de H.1, le « camp » opposé à celui de la réussite ?",
+   "choix": [
+    "Les artistes",
+    "Les « ratés »",
+    "Les poètes",
+    "Les voisins"
+   ],
+   "reponse": 1,
+   "explication": "H.1 décrit le camp de ceux qui luttent et vivent la « vraie » vie ; H.2 nomme pour lui l’autre camp : « les “ratés” »."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Eduscol, « Enjeux de l’oralité dans Pour un oui ou pour un non » (octobre 2024)",
+   "url": "https://eduscol.education.fr/document/61156/download"
+  },
+  {
+   "titre": "Eduscol, « Théâtre et dispute (2) » (octobre 2024) : déclarations de Sarraute, dénouement, mises en scène",
+   "url": "https://eduscol.education.fr/document/61159/download"
+  },
+  {
+   "titre": "Eduscol, « Parcours Théâtre et dispute : écrits d’appropriation » (janvier 2025)",
+   "url": "https://eduscol.education.fr/document/64417/download"
+  },
+  {
+   "titre": "Eduscol, « Lire, se représenter, créer » (janvier 2025) : mise en scène de J. Lassalle, 1998",
+   "url": "https://eduscol.education.fr/document/64420/download"
+  },
+  {
+   "titre": "Eduscol, « Parcours Théâtre et dispute : lectures cursives et corpus » (juillet 2024)",
+   "url": "https://eduscol.education.fr/document/59763/download"
+  },
+  {
+   "titre": "Encyclopædia Universalis, fiche de lecture « Pour un oui ou pour un non » (G. Belzane)",
+   "url": "https://www.universalis.fr/encyclopedie/pour-un-oui-ou-pour-un-non/"
+  },
+  {
+   "titre": "L. Brignoli, « Le tropisme comme trait suprasegmental du discours », Annali di Ca’ Foscari. Serie occidentale, 59, 2025",
+   "url": "https://edizionicafoscari.it/media/pdf/article/annali-di-ca-foscari-serie-occidentale/2025/59/art-10.30687-AnnOc-2499-1562-2025-14-009.pdf"
+  },
+  {
+   "titre": "M.-A. Brault, « L’infime et l’immense », Jeu. Revue de théâtre, n° 93, 1999 (Érudit)",
+   "url": "https://id.erudit.org/iderudit/25787ac"
+  },
+  {
+   "titre": "Verlaine, Sagesse, « Le ciel est par-dessus le toit » — Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Sagesse_(1893)/Le_ciel_est_par-dessus_le_toit"
+  }
+ ],
+ "aVerifier": [
+  "Date du film de Jacques Doillon : 1988 selon l’Encyclopædia Universalis, 1989 selon Eduscol ; la fiche ne donne pas d’année.",
+  "Date de la mise en scène de Simone Benmussa : Eduscol mentionne une fois 1985, mais la création en français au Rond-Point date de 1986 selon l’Encyclopædia Universalis (1985 correspond à la création en anglais à New York).",
+  "Sens exact du dénouement : les sources consultées divergent (accord provisoire sur la rupture / querelle sans fin) ; seul le dernier mot, « Non ! » de H.2, est attesté par la source universitaire consultée.",
+  "Ordre précis de certains épisodes de la seconde partie (guillemets, fenêtre, deux camps) : reconstitué d’après les sources secondaires, sans accès au texte intégral.",
+  "Les citations « Mais rien... », « Mon cas n’était pas le seul... », « Étaler ? moi ?... » et « Mon Dieu, comme d’un seul coup tout ressurgit... » sont vérifiées dans les ressources Eduscol, dont la pagination renvoie à une édition non précisée (probablement Folio théâtre)."
+ ]
+}

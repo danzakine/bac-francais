@@ -1,0 +1,1031 @@
+{
+ "id": "pluralite-mondes",
+ "accroche": "Un parc, une nuit étoilée, une marquise curieuse : et si la plus grande révolution scientifique tenait dans une conversation galante ?",
+ "identite": {
+  "auteur": "Bernard Le Bovier (ou Le Bouyer) de Fontenelle (1657-1757) naît à Rouen et meurt à Paris à presque cent ans. Neveu de Pierre et Thomas Corneille par sa mère, il commence comme bel esprit et homme de salon : il collabore au Mercure galant, écrit des poèmes galants, des pièces de théâtre et les Nouveaux Dialogues des morts (1683). En 1686, les Entretiens sur la pluralité des mondes connaissent un succès immense, suivis de l'Histoire des oracles (1687), qui critique la crédulité, et de la Digression sur les Anciens et les Modernes (1688), où il défend les Modernes. Élu à l'Académie française en 1691, il devient en 1697 secrétaire perpétuel de l'Académie royale des sciences, fonction qu'il occupe plus de quarante ans : il rédige l'histoire annuelle de l'Académie et les éloges des savants. Il est ainsi le grand passeur entre la science et le public cultivé, et un précurseur des Lumières.",
+  "contexte": "Le XVIIe siècle est celui de la révolution scientifique. Copernic avait proposé en 1543 de placer le Soleil au centre du monde ; Galilée, grâce à la lunette, avait observé les montagnes de la Lune et les satellites de Jupiter (1610) avant d'être condamné par l'Église en 1633 ; Kepler avait établi les lois du mouvement des planètes ; Descartes avait imaginé une physique mécaniste des « tourbillons ». En France, Louis XIV et Colbert fondent l'Académie des sciences (1666) et l'Observatoire de Paris, où travaille Cassini, qui découvre de nouveaux satellites de Saturne. La science devient à la mode dans les salons, où les femmes jouent un rôle important. Mais l'époque reste prudente : en 1685, la révocation de l'édit de Nantes rappelle le poids de l'orthodoxie religieuse, ce qui explique les précautions de la préface. En 1687, Newton publie ses Principia, qui ruineront les tourbillons de Descartes auxquels Fontenelle restera fidèle.",
+  "mouvement": "L'œuvre appartient à la littérature d'idées, sous la forme du dialogue philosophique, genre hérité de Platon, de Cicéron et de Lucien, et récemment illustré par Galilée (Dialogue sur les deux grands systèmes du monde, 1632). C'est aussi un texte de la culture galante et mondaine du XVIIe siècle : conversation élégante, compliments, badinage amoureux, références aux romans précieux (L'Astrée, Clélie) et à l'opéra. Fontenelle invente ainsi la vulgarisation scientifique moderne : rendre le savoir accessible et agréable sans le trahir. Par son esprit critique, son ironie envers la crédulité et sa confiance dans la raison, il annonce les Lumières, et notamment Voltaire.",
+  "circonstances": "Les Entretiens paraissent à Paris en 1686, sans nom d'auteur ; Fontenelle a 29 ans. Le livre connaît un succès immédiat et durable : il est réédité de nombreuses fois du vivant de l'auteur et traduit dans plusieurs langues. Dès 1687, Fontenelle ajoute un sixième soir, « Nouvelles pensées qui confirment celles des Entretiens précédents », qui répond aux objections et présente des observations récentes ; le narrateur l'annonce lui-même à la fin du cinquième soir (« Je publierai un nouvel Entretien qui vint long-temps après les autres »). La préface montre que l'auteur prévoyait deux types de critiques : celle des savants, qui jugeraient le livre trop léger, et celle des théologiens, que pourrait inquiéter l'idée d'hommes sur la Lune ; il y répond que ses habitants des planètes « ne sont point du tout des hommes ». Le texte du site est celui d'une édition de 1800 (Lyon, Leroy), qui reproduit le texte augmenté avec l'orthographe de l'époque (« étoit », « connoître »).",
+  "carriere": "Les Entretiens sont l'œuvre qui fait passer Fontenelle du statut de bel esprit de salon, auteur de poésies galantes, d'opéras et des Nouveaux Dialogues des morts (1683), à celui de penseur et de vulgarisateur. Ils ouvrent une période très féconde : l'Histoire des oracles (1687) applique le même esprit critique aux croyances anciennes, la Digression sur les Anciens et les Modernes (1688) défend le progrès des connaissances. Élu à l'Académie française en 1691, il devient en 1697 secrétaire perpétuel de l'Académie royale des sciences, où il rédige pendant plus de quarante ans l'histoire annuelle des travaux et les éloges des savants disparus : la carrière de passeur entre la science et le public, inaugurée par les Entretiens, devient alors une fonction officielle. Resté fidèle à la physique de Descartes, il défendra encore les tourbillons contre Newton dans sa vieillesse."
+ },
+ "resumeCourt": "Un soir d'automne, dans le parc de son château, la Marquise de G*** demande au narrateur, un philosophe homme du monde, de lui expliquer pourquoi il rêve en regardant les étoiles. Il lui avoue sa « folie » : chaque étoile pourrait être un monde. Pendant plusieurs soirées, il lui enseigne la nouvelle astronomie : la Terre tourne sur elle-même et autour du Soleil, comme l'a montré Copernic ; la Lune est une terre, sans doute habitée ; les autres planètes le sont probablement aussi, par des êtres très différents de nous ; enfin les étoiles fixes sont autant de soleils entourés de leurs propres mondes. La Marquise, vive et spirituelle, objecte, plaisante, s'effraie de l'immensité de l'univers et finit par s'écrier : « Je suis savante ! ». Publié en 1686 et augmenté d'un sixième soir en 1687, l'ouvrage est un modèle de vulgarisation : Fontenelle y mêle raisonnements scientifiques, comparaisons familières et galanterie pour donner à tous le goût de la science. En voie technologique, seuls les trois premiers soirs sont au programme (Bulletin officiel n° 30 du 24 juillet 2025).",
+ "resume": [
+  {
+   "titre": "Préface : instruire et divertir (toutes voies)",
+   "texte": "Fontenelle se compare à Cicéron, qui avait mis la philosophie grecque à la portée des Romains. Il a voulu « traiter la philosophie d'une manière qui ne fût point philosophique », c'est-à-dire ni trop sèche pour les gens du monde, ni trop légère pour les savants. Il a choisi comme personnage une femme ignorante des sciences pour encourager les lectrices : il ne leur demande que l'attention qu'elles accordent à La Princesse de Clèves. Il précise que le vrai et le faux sont mêlés dans le livre, mais toujours faciles à distinguer, et désamorce l'objection religieuse : les habitants des autres mondes ne sont pas des hommes, donc pas des descendants d'Adam."
+  },
+  {
+   "titre": "Lettre « À Monsieur L*** » : le cadre (toutes voies)",
+   "texte": "Le narrateur répond à un ami qui lui demande comment il a passé son séjour à la campagne chez la Marquise de G***. Au lieu de fêtes et de chasses, il racontera des conversations sur « des planètes, des mondes, des tourbillons ». Il fait l'éloge de la Marquise, jeune, belle et vive d'esprit, à qui il ne manque que d'avoir ouvert des livres. Il divise son récit « par soirs », car ils ne parlaient de philosophie que le soir, dans le parc."
+  },
+  {
+   "titre": "Premier soir (1) : la nuit, la curiosité et l'opéra",
+   "texte": "Sous une nuit claire, la Marquise compare le jour à une beauté blonde et la nuit à une beauté brune « plus touchante ». Le narrateur avoue sa « folie » : chaque étoile pourrait être un monde. La Marquise exige qu'on lui apprenne les étoiles. Il pose alors le principe : « Toute la philosophie [...] n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais. » Il compare la nature à un opéra dont les machines sont cachées : les Anciens imaginaient des « vertu secrète » pour expliquer le vol de Phaéton, Descartes et les Modernes ont découvert les cordes et les contrepoids. La Marquise, elle, estime l'univers « beaucoup plus, depuis que je sais qu'il ressemble à une montre »."
+  },
+  {
+   "titre": "Premier soir (2) : de Ptolémée à Copernic, la Terre tourne",
+   "texte": "Le narrateur expose le système de Ptolémée, avec la Terre immobile au centre et des cieux de cristal compliqués, puis la révolution de Copernic : « Figurez-vous un Allemand nommé Copernic » (il était en réalité polonais), qui met le Soleil au centre et fait tourner la Terre. Il se réjouit que Copernic ait « rabattu la vanité des hommes », ce que la Marquise conteste avec humour. Pour lui faire sentir la rotation de la Terre, il lui décrit les peuples qui défilent en vingt-quatre heures sous le même point du ciel : Anglais, Iroquois, femmes de la terre de Jesso... Le spectacle de cette « variété infinie » la séduit."
+  },
+  {
+   "titre": "Second soir : la Lune est une terre habitée",
+   "texte": "Le lendemain, la Marquise a dormi en tournant « aussi tranquillement qu'aurait pu faire Copernic ». Le narrateur prouve que la Lune est une terre : les astronomes y voient avec leurs lunettes des mers, des montagnes, des abîmes. Pour justifier qu'elle soit habitée, il imagine un bourgeois de Paris qui, du haut de Notre-Dame, refuserait de croire Saint-Denis habité parce qu'il n'y voit personne : « Notre Saint-Denis c'est la lune ». Il raconte le voyage d'Astolfe dans la Lune chez l'Arioste, se moque des peurs superstitieuses liées aux éclipses, puis rappelle la stupeur des Américains découvrant les Européens : un jour, peut-être, on ira dans la Lune. « En vérité, dit la Marquise en me regardant, vous êtes fou. »"
+  },
+  {
+   "titre": "Troisième soir : la Lune, puis toutes les planètes habitées",
+   "texte": "Le narrateur se corrige : la Lune pourrait bien ne pas être habitée. Ses taches ne changent jamais, donc elle n'a pas de nuages, donc pas d'évaporation ni d'eau : ce serait un « amas de rochers et de marbres ». La Marquise refuse de perdre ses Lunaires ; il lui conseille de ne donner aux croyances de ce genre « que la moitié de son esprit » et d'en garder une autre moitié libre pour le contraire. Ils imaginent comment la nature varie le spectacle de l'univers selon le point de vue. Puis le narrateur étend le raisonnement par analogie : toutes les planètes sont des corps opaques de même nature que la Terre, il est donc probable qu'elles soient habitées, car « ce pourquoi non a une vertu qui peuplera tout ». Pour montrer combien ces habitants peuvent être étranges, il décrit un peuple organisé autour d'une reine... qui se révèle être celui des abeilles. La Marquise reconnaît que sa raison est convaincue, mais que son imagination est « accablée »."
+  },
+  {
+   "titre": "Quatrième soir : Vénus, Mercure, Mars, Jupiter et Saturne (voie générale)",
+   "texte": "Le narrateur fait voyager la Marquise de planète en planète. Les habitants de Vénus, plus proches du Soleil, seraient très amoureux : le menu peuple y « n'est composé que de Céladons et de Silvandres », héros de romans pastoraux, et, quand la Marquise les imagine semblables aux « Mores grenadins », le narrateur répond qu'ils seraient bien plus ardents encore ; ceux de Mercure seraient « fous à force de vivacité » ; Mars n'offre rien de remarquable ; Jupiter a ses quatre lunes ; Saturne, avec son anneau et ses lunes, est si loin du Soleil que ses habitants seraient lents et graves. La Marquise suggère que la Terre, placée au milieu, réunit les tempéraments. Ce soir révèle aussi les préjugés de l'époque (comparaisons dévalorisantes avec certains peuples)."
+  },
+  {
+   "titre": "Cinquième soir : les étoiles sont des soleils (voie générale)",
+   "texte": "Les étoiles fixes sont si éloignées qu'elles brillent de leur propre lumière : ce sont des soleils, chacun au centre d'un tourbillon (selon la physique de Descartes) avec ses planètes. La Marquise est saisie de vertige : « voilà l'univers si grand que je m'y perds, je ne sais plus où je suis, je ne suis plus rien ». Le narrateur évoque la Voie lactée, « fourmilière d'astres », les comètes, les étoiles qui apparaissent et disparaissent. Avec l'apologue des roses qui croient leur jardinier immortel, il montre que les cieux aussi peuvent changer. La Marquise conclut : « Je suis savante ! »"
+  },
+  {
+   "titre": "Sixième soir : nouvelles pensées, dernières découvertes (voie générale)",
+   "texte": "Ajouté en 1687, ce soir se passe à Paris, longtemps après. Deux beaux esprits se sont moqués de la Marquise, qui croit les planètes habitées. Le narrateur explique pourquoi les vérités qui choquent nos sens et notre imagination ont du mal à s'imposer : « on ne persuade pas facilement aux hommes de mettre leur raison en la place de leurs yeux ». Il ajoute une nouvelle preuve du mouvement de la Terre, puis présente des observations récentes : changements sur la Terre elle-même (la mer qui se serait jetée entre l'Europe et l'Afrique, la Sicile séparée de l'Italie), lumière aperçue sur Jupiter, lumière visible au crépuscule, étoiles qui se transforment. Il conclut sur un « certain génie » propre à l'Europe, qui s'étend des sciences aux « choses d'agrément », et renvoie la Marquise à ces dernières : une fin qui révèle aussi les préjugés de l'époque."
+  }
+ ],
+ "structure": "L'ouvrage s'ouvre sur une préface, où Fontenelle explique son projet (instruire et divertir, s'adresser aux femmes, rassurer les théologiens), puis sur une lettre « À Monsieur L*** » qui installe la fiction : le narrateur raconte ses conversations avec la Marquise de G***. Le cœur du livre est divisé en soirs, chacun annoncé par un titre-programme. La progression est rigoureuse et va du proche au lointain, comme un voyage dans l'espace : la Terre (1er soir), la Lune (2e soir), les autres planètes (3e et 4e soirs), les étoiles et l'infini (5e soir). Les cinq premiers soirs datent de 1686 ; le sixième, ajouté en 1687, revient sur les objections et présente les dernières découvertes. À chaque étape, le savoir s'élargit tandis que la place de l'homme rétrécit. Les digressions (opéra, Arioste, abeilles, roses) relancent l'attention. En voie technologique, l'étude porte sur les trois premiers soirs (Terre, Lune, planètes habitées), selon le Bulletin officiel n° 30 du 24 juillet 2025.",
+ "personnages": [
+  {
+   "nom": "Le narrateur (le philosophe)",
+   "role": "Double de Fontenelle, homme du monde et savant, il raconte les soirées à un ami. Pédagogue habile, il part des questions de la Marquise, multiplie les comparaisons familières et ne cache pas ses doutes. Il mêle à la leçon la galanterie (compliments, badinage) et l'humour, souvent tourné contre lui-même (sa « folie », sa fiole d'esprit qui se remplit dans la Lune).",
+   "relations": "Maître et galant de la Marquise, qu'il instruit en la complimentant ; il rend compte de ces soirées à son ami M. L*** ; il se pose en héritier de Copernic et de Descartes, contre les Anciens ; au sixième soir, il défend la Marquise contre les beaux esprits moqueurs."
+  },
+  {
+   "nom": "La Marquise de G***",
+   "role": "Jeune femme vive, spirituelle et sans aucune culture scientifique. Loin d'être une élève passive, elle objecte, résiste, plaisante, tire elle-même des conséquences et parfois devance son maître. Elle incarne le lecteur et surtout la lectrice que Fontenelle veut gagner : la preuve que la science est accessible à tout esprit curieux. Elle finit par s'écrier : « Je suis savante ! »",
+   "relations": "Élève et interlocutrice du narrateur, elle le contredit, le pousse à préciser et parfois le devance (elle déduit elle-même, au cinquième soir, que les étoiles ont leurs planètes) ; elle représente les lectrices auxquelles la préface s'adresse."
+  },
+  {
+   "nom": "Monsieur L***",
+   "role": "Destinataire de la lettre qui encadre le récit, ami « philosophe » du narrateur. Il justifie la forme du livre (un compte rendu de séjour) et représente le lecteur cultivé.",
+   "relations": "Ami et destinataire du narrateur : la lettre qui lui est adressée encadre le récit et fait du livre un compte rendu de séjour."
+  },
+  {
+   "nom": "Copernic",
+   "role": "Héros de la révolution astronomique, présenté de façon théâtrale et comique (« Saisi d'une noble fureur d'astronome, il prend la Terre et l'envoie bien loin »). Fontenelle le croit allemand alors qu'il était polonais. Il symbolise la victoire de la raison sur les apparences et sur la vanité humaine.",
+   "relations": "Opposé à Ptolémée et aux Anciens, il est présenté par le narrateur comme le libérateur de la raison ; Descartes complète son système."
+  },
+  {
+   "nom": "Les Anciens (Ptolémée, Pythagore, Platon, Aristote)",
+   "role": "Figures d'un savoir dépassé : ils expliquaient le vol de Phaéton à l'opéra par des « vertu secrète » ou des « nombres ». Ptolémée a construit un système compliqué autour d'une Terre immobile. Fontenelle, partisan des Modernes, s'en moque avec respect.",
+   "relations": "Contre-modèles des Modernes (Copernic, Descartes), ils représentent l'autorité de la tradition que le narrateur discute avec ironie."
+  },
+  {
+   "nom": "Descartes",
+   "role": "Le maître de la physique moderne pour Fontenelle : il a découvert les « cordes » cachées de la machine du monde, et sa théorie des tourbillons organise tout le cinquième soir. L'œuvre est d'esprit cartésien : clarté, méthode, refus du « faux merveilleux ».",
+   "relations": "Maître à penser du narrateur, il prolonge Copernic par sa physique mécaniste ; le livre en fait connaître les tourbillons au public mondain."
+  },
+  {
+   "nom": "Astolfe (personnage de l'Arioste)",
+   "role": "Chevalier du Roland furieux qui voyage dans la Lune pour y chercher la raison perdue de Roland, rangée dans une fiole. Fontenelle raconte cet épisode au second soir : il mêle la fiction poétique à la leçon pour amuser et faire réfléchir sur la folie humaine.",
+   "relations": "Personnage de fiction convoqué par le narrateur pour divertir la Marquise : il oppose la Lune poétique des romans à la Lune des astronomes."
+  },
+  {
+   "nom": "Les habitants des autres mondes",
+   "role": "Personnages imaginaires mais raisonnés : Lunaires, Vénusiens amoureux, Mercuriens trop vifs, Saturniens lents et graves. Ils illustrent l'idée de la « diversité infinie » de la nature et invitent à relativiser la place de l'homme. Fontenelle refuse de les décrire comme des hommes.",
+   "relations": "Créatures hypothétiques que le narrateur et la Marquise inventent ensemble ; ils servent de miroir aux hommes et relativisent leur place."
+  },
+  {
+   "nom": "Les beaux esprits moqueurs (sixième soir)",
+   "role": "Deux hommes « d'esprit et assez connus dans le monde » qui se moquent de la Marquise. Ils représentent le public sceptique et les préjugés qui résistent aux idées nouvelles, ce qui permet au narrateur de réfléchir aux obstacles à la diffusion de la science.",
+   "relations": "Ils s'opposent à la Marquise et au narrateur, qui les range malicieusement parmi ceux qui « ne raisonnent jamais »."
+  }
+ ],
+ "evolution": "Le personnage qui évolue est la Marquise. Au premier soir, elle ne sait rien d'astronomie et se laisse d'abord séduire par la beauté de la nuit ; mais elle exige aussitôt qu'on l'instruise (« apprenez-moi vos étoiles »). Au fil des soirs, elle passe de l'écoute à l'objection (elle refuse de perdre ses habitants de la Lune au troisième soir), puis au raisonnement autonome : au cinquième soir, c'est elle qui tire la conclusion que chaque étoile est un soleil entouré de planètes, ce qui pousse le narrateur à lui répondre par le vers de Racine « C'est toi qui l'as nommé ». Elle traverse aussi une crise, le vertige de l'infini (« je ne suis plus rien »), avant de s'écrier « Je suis savante ! ». Au sixième soir, elle défend devant deux beaux esprits ce qu'elle a appris. Le narrateur, lui, évolue peu, mais il change d'avis devant elle (la Lune, d'abord habitée, pourrait ne pas l'être), ce qui montre la place du doute dans la science. Les idées progressent du proche au lointain : la Terre perd sa place centrale, puis le Soleil lui-même devient une étoile parmi d'autres, et l'homme se découvre de plus en plus petit dans un univers de plus en plus vaste.",
+ "themes": [
+  {
+   "titre": "Le goût de la science : curiosité et plaisir de comprendre",
+   "texte": "Pour Fontenelle, la science naît de la curiosité : « Toute la philosophie [...] n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais. » La connaissance est présentée comme un plaisir : la Marquise veut qu'on lui donne la « folie » des étoiles, et le narrateur décrit un plaisir « qui ne fait rire que l'esprit ». Comprendre l'univers ne le désenchante pas : la Marquise l'« estime beaucoup plus » depuis qu'elle sait qu'il ressemble à une montre. Le livre veut faire naître ce goût chez le lecteur."
+  },
+  {
+   "titre": "Les apparences et la raison",
+   "texte": "Nos sens nous trompent : on voit le Soleil tourner alors que c'est la Terre qui tourne. « Ainsi les vrais philosophes passent leur vie à ne point croire ce qu'ils voient, et à tâcher de deviner ce qu'ils ne voient point. » L'image de l'opéra (on voit le décor, pas les cordes ni les contrepoids) résume cette démarche. Le sixième soir constate la difficulté : « on ne persuade pas facilement aux hommes de mettre leur raison en la place de leurs yeux »."
+  },
+  {
+   "titre": "La vulgarisation : instruire en plaisant",
+   "texte": "Fontenelle reprend le vieil idéal classique, hérité d'Horace, qui veut que l'œuvre plaise pour instruire ; sa préface dit qu'il a « cru pouvoir les instruire et les divertir tout ensemble ». Il veut rendre la philosophie ni « trop sèche pour les gens du monde, ni trop badine pour les savants » (orthographe modernisée). Ses moyens : le dialogue vivant, les comparaisons concrètes (l'opéra, la montre, Paris et Saint-Denis, les roses et le jardinier, la Voie lactée comme les îles Maldives), les anecdotes (Astolfe dans la Lune, les abeilles), l'humour et la galanterie. Il affirme même : « il n'y a pas jusqu'aux vérités auxquelles l'agrément ne soit nécessaire »."
+  },
+  {
+   "titre": "La place de l'homme dans l'univers : une leçon d'humilité",
+   "texte": "Le passage de Ptolémée à Copernic détrône l'homme : le narrateur se réjouit que Copernic ait « rabattu la vanité des hommes, qui s'étaient mis à la plus belle place de l'univers ». L'analogie de Saint-Denis montre que nous sommes des bourgeois enfermés dans notre ville. Au cinquième soir, l'immensité provoque le vertige de la Marquise : « je ne suis plus rien ». Mais Fontenelle transforme ce vertige pascalien en plaisir intellectuel plutôt qu'en angoisse."
+  },
+  {
+   "titre": "La diversité de la nature et l'imagination",
+   "texte": "L'idée qui « règne dans tout le livre », selon la préface, est « la diversité infinie que la nature doit avoir mise dans ses ouvrages ». D'où l'hypothèse de mondes habités par des êtres différents de nous : le « pourquoi non » peuple les planètes. L'imagination est à la fois une alliée (elle rend la science « riante ») et un danger (elle invente des Lunaires semblables aux hommes). L'exemple des abeilles montre que la réalité dépasse souvent nos fictions."
+  },
+  {
+   "titre": "Une femme et la science",
+   "texte": "Choisir une marquise comme élève est un geste fort en 1686 : Fontenelle veut « encourager les Dames par l'exemple d'une femme » sans formation scientifique. La Marquise n'est pas un faire-valoir : elle raisonne, objecte et conclut « Je suis savante ! ». On peut néanmoins discuter cette image : le narrateur garde le savoir, la galanterie peut paraître condescendante, et le dernier mot du livre renvoie les femmes aux « choses d'agrément ». L'œuvre ouvre la voie à des savantes comme Émilie du Châtelet."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment rendre la science nouvelle (Copernic, Descartes, la lunette astronomique) accessible et agréable à un public mondain qui n'a pas de formation savante ?",
+   "Comment apprendre à se méfier des apparences et à raisonner au-delà de ce que l'on voit ?",
+   "Que devient la place de l'homme dans un univers où la Terre n'est plus au centre et où les mondes se multiplient à l'infini ?",
+   "Jusqu'où l'imagination peut-elle accompagner la science sans la trahir (habitants des planètes, conjectures) ?",
+   "Une femme du monde peut-elle devenir savante ? Que révèle le dialogue sur la place des femmes dans le savoir à la fin du XVIIe siècle ?"
+  ],
+  "intentions": "Fontenelle expose lui-même ses intentions dans la préface. Il dit avoir voulu « traiter la philosophie d'une manière qui ne fût point philosophique » et l'amener « à un point où elle ne fût ni trop sèche pour les gens du monde, ni trop badine pour les savants » (orthographe modernisée). Il précise qu'il a « cru pouvoir les instruire et les divertir tout ensemble » (ceux à qui ces matières sont nouvelles) et qu'il a choisi une femme ignorante des sciences pour encourager les lectrices : il ne leur demande que « la même application qu'il faut donner à la Princesse de Clèves » (orthographe modernisée). Il revendique aussi le sérieux de son contenu : « j'ai employé de vrais raisonnements de physique » (orthographe modernisée). Enfin, il désamorce par avance l'objection religieuse : ses habitants des planètes ne sont pas des hommes, donc pas des descendants d'Adam. En revanche, rien dans la préface ne dit que Fontenelle voulait attaquer la religion : cette lecture, développée plus tard, reste une interprétation.",
+  "procedes": [
+   {
+    "nom": "Le dialogue et le jeu des questions",
+    "explication": "Le savoir se construit dans l'échange : la Marquise questionne, objecte, résume ; le narrateur reformule et corrige. Le lecteur suit le même chemin qu'elle.",
+    "exemple": "Au cinquième soir, la Marquise enchaîne les questions (« pourquoi chaque étoile fixe n'en aura-t-elle pas aussi qu'elle éclairera ? ») et découvre seule la conclusion ; le narrateur lui répond par le mot de Phèdre à Œnone : « C'est toi qui l'as nommé »."
+   },
+   {
+    "nom": "La comparaison familière et la métaphore filée",
+    "explication": "Les réalités astronomiques, invisibles ou abstraites, sont rapprochées d'objets connus du public mondain : spectacle, objet de luxe, ville, jardin.",
+    "exemple": "La nature est « un grand spectacle qui ressemble à celui de l'opéra », avec ses machines et ses contrepoids cachés ; « On veut que l'univers ne soit en grand, que ce qu'une montre est en petit » (premier soir)."
+   },
+   {
+    "nom": "Le raisonnement par analogie",
+    "explication": "Le narrateur conclut d'une ressemblance à une autre ; l'analogie rend plausibles des hypothèses que l'on ne peut pas vérifier, mais la Marquise en montre aussi les limites.",
+    "exemple": "Le bourgeois de Paris qui ne croit pas Saint-Denis habité parce qu'il n'y voit personne : « Notre Saint-Denis c'est la lune » (second soir)."
+   },
+   {
+    "nom": "Le récit et l'apologue",
+    "explication": "De petites histoires relancent l'attention et portent une idée : elles font du livre un récit autant qu'un exposé.",
+    "exemple": "Les roses qui croient leur jardinier immortel parce que « de mémoire de rose on n'a vu que lui » (cinquième soir) : nos courtes vies nous font croire les cieux immuables."
+   },
+   {
+    "nom": "L'humour, l'ironie et la galanterie",
+    "explication": "Le ton léger rend la leçon agréable et désamorce les sujets sensibles ; l'ironie vise la crédulité et la vanité humaines.",
+    "exemple": "Copernic, « saisi d'une noble fureur d'astronome », prend la Terre et l'envoie loin du centre (premier soir) ; Tycho Brahé, grand astronome, rentre chez lui si un lièvre traverse son chemin (quatrième soir)."
+   },
+   {
+    "nom": "La maxime",
+    "explication": "Des formules brèves et frappantes condensent la méthode scientifique et restent en mémoire.",
+    "exemple": "« Toute la philosophie, lui dis-je, n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais » (premier soir)."
+   }
+  ],
+  "style": "Le style de Fontenelle est celui de la conversation mondaine du XVIIe siècle : phrases claires, vocabulaire courant, refus du jargon technique (les notions savantes sont toujours expliquées par des images). Le dialogue est rapporté au passé par le narrateur, avec des incises vives (« lui dis-je », « reprit-elle », « s'écria-t-elle ») qui donnent du rythme. L'auteur aime la pointe, la formule spirituelle qui surprend (« l'esprit curieux et les yeux mauvais », « ce pourquoi non a une vertu qui peuplera tout »). La galanterie colore tout le texte : compliments, allusions aux romans précieux (Céladon, Clélie) et à l'opéra. Ce ton léger n'empêche pas la rigueur : les raisonnements suivent un ordre logique et les hypothèses sont présentées comme telles. Le texte du site garde l'orthographe de 1800 (« étoit », « connoître », « mouvemens ») : il faut s'y habituer en lisant.",
+  "registres": [
+   {
+    "nom": "Didactique",
+    "explication": "Le narrateur enseigne : définitions, explications, progression du simple au complexe, récapitulations de la Marquise."
+   },
+   {
+    "nom": "Comique et ironique",
+    "explication": "Copernic en héros de comédie, Tycho Brahé superstitieux, raisonnements des roses, autodérision du narrateur : le rire sert la critique de la crédulité et de la vanité."
+   },
+   {
+    "nom": "Galant et lyrique",
+    "explication": "La nuit dans le parc, la beauté « brune » de la nuit, les compliments à la Marquise : un registre de la conversation amoureuse qui donne au savoir un charme poétique."
+   },
+   {
+    "nom": "Épique et sublime (ponctuellement)",
+    "explication": "L'infini des mondes et des tourbillons suscite le vertige (« je ne suis plus rien ») puis l'enthousiasme du narrateur, qui respire plus à l'aise dans un univers agrandi."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Fontenelle expose la physique de Descartes (les tourbillons) et l'astronomie de Copernic ; la théorie des tourbillons sera abandonnée au profit de celle de Newton, publiée en 1687.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le choix d'une femme comme élève est présenté dans la préface comme un encouragement adressé aux lectrices ; on peut y voir une ouverture du savoir aux femmes, mais la fin du sixième soir, qui renvoie la Marquise aux « choses d'agrément », limite cette ouverture. Les lectures divergent.",
+    "nature": "debat"
+   },
+   {
+    "texte": "En insistant sur la diversité des mondes et sur la petitesse de l'homme, le livre ébranlerait discrètement l'idée d'un univers créé pour l'homme ; certains lecteurs y voient une critique voilée de la religion, que la préface prend soin de désamorcer.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le philosophe Victor Delbos juge que Fontenelle « voulut d'abord être un bel esprit, et il ne cessa point de l'être », tout en reconnaissant qu'il instruisait réellement son public : le livre est-il d'abord mondain ou d'abord savant ?",
+    "nature": "debat"
+   },
+   {
+    "texte": "Certaines comparaisons (habitants de Mercure, peuples non européens, « génie » propre à l'Europe au sixième soir) reflètent des préjugés de l'époque ; il faut les signaler sans les reprendre à son compte.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Les Entretiens se situent au tournant du classicisme et des Lumières. Du classicisme, ils gardent l'idéal de clarté, la référence à l'honnête homme et le principe de plaire pour instruire ; de la culture galante des salons, le ton de la conversation et la place donnée aux femmes. Ils participent de la querelle des Anciens et des Modernes, du côté des Modernes : les Anciens sont respectés mais dépassés (le premier soir oppose Ptolémée à Copernic). Par leur esprit critique (méfiance envers les apparences, ironie contre la superstition), ils annoncent les Lumières : Voltaire reprendra la pluralité des mondes dans Micromégas (1752), et l'Encyclopédie partagera le projet de diffuser le savoir."
+ },
+ "citations": [
+  {
+   "texte": "J'ai voulu traiter la philosophie d'une manière qui ne fût point philosophique ; j'ai tâché de l'amener à un point où elle ne fût ni trop sèche pour les gens du monde, ni trop badine pour les savants.",
+   "locuteur": "Fontenelle (préface)",
+   "reference": "Préface",
+   "situation": "Fontenelle se compare à Cicéron, qui avait fait connaître la philosophie grecque aux Romains, et présente son projet.",
+   "sens": "Il veut parler de science sans jargon, en trouvant un juste milieu entre le sérieux des savants et la légèreté des mondains.",
+   "procedes": "Paradoxe (« la philosophie d'une manière qui ne fût point philosophique ») ; balancement « ni trop... ni trop » entre deux publics.",
+   "demontre": "Le projet de vulgarisation est pensé et revendiqué : c'est un choix d'écriture, non une faiblesse.",
+   "usage": "Citation d'introduction pour toute dissertation sur plaire et instruire ou sur la vulgarisation.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)",
+    "note": "orthographe modernisée (le texte du site porte l'orthographe de l'édition de 1800 : « Philosophie », « Savans »)"
+   }
+  },
+  {
+   "texte": "Je ne demande aux dames, pour tout ce système de philosophie, que la même application qu'il faut donner à la Princesse de Clèves, si on veut en suivre bien l'intrigue, et en connaître toute la beauté.",
+   "locuteur": "Fontenelle (préface)",
+   "reference": "Préface",
+   "situation": "Fontenelle explique pourquoi il a choisi une femme sans culture scientifique comme interlocutrice.",
+   "sens": "La science n'exige pas de connaissances préalables, seulement l'attention qu'on accorde à un roman à la mode.",
+   "procedes": "Comparaison inattendue entre un système scientifique et le roman de Mme de La Fayette (1678) ; restriction « ne... que ».",
+   "demontre": "Fontenelle ouvre la science à un nouveau public, les femmes du monde, et rapproche savoir et plaisir de lecture.",
+   "usage": "Pour la question des femmes et du savoir ; pour montrer le lien entre littérature et science.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)",
+    "note": "orthographe modernisée (le texte du site porte l'orthographe de l'édition de 1800 : « Dames », « systême », « Cleves », « connoître »)"
+   }
+  },
+  {
+   "texte": "Selon moi, il n'y a pas jusqu'aux vérités auxquelles l'agrément ne soit nécessaire.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Premier soir",
+   "situation": "Dans le parc, au début de la conversation, le narrateur justifie le plaisir qu'il prend à rêver sur les étoiles.",
+   "sens": "Même la vérité a besoin d'être agréable pour être reçue.",
+   "procedes": "Maxime ; tournure restrictive et négative (« il n'y a pas jusqu'aux... ne soit ») qui donne une portée générale.",
+   "demontre": "L'agrément n'est pas un ornement superflu : il fait partie de la transmission du vrai.",
+   "usage": "Pour justifier la forme galante du livre et répondre à un sujet sur plaire et instruire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Toute la philosophie, lui dis-je, n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Premier soir",
+   "situation": "Le narrateur commence sa leçon en expliquant à la Marquise d'où vient la science.",
+   "sens": "La science naît du désir de savoir et de l'imperfection de nos sens, qui ne nous montrent pas tout.",
+   "procedes": "Maxime paradoxale ; association surprenante d'une qualité (« esprit curieux ») et d'un défaut (« yeux mauvais »).",
+   "demontre": "La démarche scientifique consiste à dépasser les apparences par la raison.",
+   "usage": "Formule-clé du parcours « Le goût de la science » : la curiosité comme moteur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Ainsi les vrais philosophes passent leur vie à ne point croire ce qu'ils voient, et à tâcher de deviner ce qu'ils ne voient point",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Premier soir",
+   "situation": "Suite de la définition de la philosophie, juste avant la comparaison de l'opéra.",
+   "sens": "Le savant se méfie de ce qu'il voit et cherche les causes cachées.",
+   "procedes": "Antithèses (croire / deviner ; voir / ne pas voir) ; chiasme implicite ; connecteur conclusif « Ainsi ».",
+   "demontre": "L'esprit critique est au cœur de la science moderne.",
+   "usage": "Pour une partie sur le doute et la méfiance envers les apparences.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "je me figure toujours que la nature est un grand spectacle qui ressemble à celui de l'opéra.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Premier soir",
+   "situation": "Début de la comparaison de l'opéra, qui explique la démarche des savants.",
+   "sens": "Comme le spectateur d'opéra voit les effets sans voir les machines, nous voyons les phénomènes sans voir leurs causes.",
+   "procedes": "Comparaison filée (décor, machines, cordes, contrepoids, machiniste) ; référence au spectacle à la mode.",
+   "demontre": "La nature est une mécanique cachée que la raison peut démonter : c'est la vision de Descartes.",
+   "usage": "Exemple de vulgarisation par l'image ; pour le commentaire du premier soir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Je lui sais bon gré, répliquai-je, d'avoir rabattu la vanité des hommes, qui s'étaient mis à la plus belle place de l'univers",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Premier soir",
+   "situation": "Après le portrait de Copernic qui chasse la Terre du centre de l'univers.",
+   "sens": "Le narrateur se réjouit que l'astronomie moderne ait remis l'homme à sa place.",
+   "procedes": "Métaphore de la vanité « rabattue » ; ironie à l'égard de l'orgueil humain.",
+   "demontre": "La révolution scientifique est aussi une leçon morale d'humilité.",
+   "usage": "Pour le thème de la place de l'homme dans l'univers ; lien avec Pascal et Voltaire (Micromégas).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)",
+    "note": "orthographe modernisée (le texte du site porte l'orthographe de l'édition de 1800 : « s'étoient »)"
+   }
+  },
+  {
+   "texte": "Notre Saint-Denis c'est la lune, et chacun de nous est ce bourgeois de Paris, qui n'est jamais sorti de sa ville.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Second soir",
+   "situation": "Conclusion de l'analogie entre Paris, vu du haut de Notre-Dame, et Saint-Denis.",
+   "sens": "Refuser de croire la Lune habitée parce qu'on n'y voit personne, c'est raisonner comme un bourgeois borné.",
+   "procedes": "Analogie ; présentatif (« c'est ») ; ironie qui vise le lecteur lui-même (« chacun de nous »).",
+   "demontre": "L'argument par analogie rend plausible une hypothèse invérifiable, tout en se moquant de l'étroitesse d'esprit.",
+   "usage": "Exemple type du raisonnement par analogie ; pour le commentaire du second soir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "il faut ne donner que la moitié de son esprit aux choses de cette espèce que l'on croit, et en réserver une autre moitié libre, où le contraire puisse être admis, s'il en est besoin.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Troisième soir",
+   "situation": "Le narrateur vient de reconnaître que la Lune pourrait ne pas être habitée ; la Marquise proteste.",
+   "sens": "Il faut croire une hypothèse sans s'y enfermer et rester prêt à changer d'avis.",
+   "procedes": "Image concrète de l'esprit partagé en deux moitiés ; modalité prudente (« s'il en est besoin »).",
+   "demontre": "L'esprit scientifique se définit par la prudence et la révision possible des opinions.",
+   "usage": "Pour montrer que le goût de la science est aussi le goût du doute.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "ce pourquoi non a une vertu qui peuplera tout.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Troisième soir",
+   "situation": "Le narrateur reprend en riant l'argument de la Marquise sur les planètes habitées.",
+   "sens": "Si rien n'interdit qu'une planète soit habitée, l'argument « pourquoi non » permet de peupler toutes les planètes.",
+   "procedes": "Substantivation de « pourquoi non » ; humour ; personnification de l'argument doté d'une « vertu ».",
+   "demontre": "Le texte reconnaît la fragilité des conjectures et la part de l'imagination dans l'hypothèse.",
+   "usage": "Pour discuter les limites de la vulgarisation et la frontière entre science et imagination.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "voilà l'univers si grand que je m'y perds, je ne sais plus où je suis, je ne suis plus rien.",
+   "locuteur": "La Marquise de G***",
+   "reference": "Cinquième soir",
+   "situation": "La Marquise vient de déduire que chaque étoile est un soleil entouré de mondes.",
+   "sens": "L'immensité de l'univers lui donne le vertige : elle se sent anéantie.",
+   "procedes": "Gradation descendante (« je m'y perds », « je ne sais plus », « je ne suis plus rien ») ; rythme ternaire.",
+   "demontre": "La science nouvelle bouleverse la place de l'homme et peut provoquer l'effroi.",
+   "usage": "À rapprocher de Pascal ; pour une partie sur le vertige de l'infini.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Quoi, s'écria-t-elle, j'ai dans la tête tout le système de l'univers ! Je suis savante !",
+   "locuteur": "La Marquise de G***",
+   "reference": "Cinquième soir (fin)",
+   "situation": "À la fin du cinquième soir, la Marquise mesure tout ce qu'elle a appris.",
+   "sens": "Elle s'émerveille d'avoir compris l'organisation de l'univers.",
+   "procedes": "Exclamations ; hyperbole (« tout le système de l'univers ») ; possible pointe d'ironie, que le narrateur nuance aussitôt (« assez raisonnablement »).",
+   "demontre": "Le savoir est accessible à tout esprit curieux ; la science procure une joie.",
+   "usage": "Pour le thème des femmes et de la science et pour la réussite du projet pédagogique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "je l'en estime beaucoup plus, depuis que je sais qu'il ressemble à une montre.",
+   "locuteur": "La Marquise de G***",
+   "reference": "Premier soir",
+   "situation": "Le narrateur craint que la philosophie mécaniste (l'univers comme une montre) déçoive la Marquise.",
+   "sens": "Comprendre le mécanisme de l'univers ne le rend pas moins admirable, au contraire.",
+   "procedes": "Comparatif (« beaucoup plus ») ; comparaison avec un objet de précision ; réplique qui déjoue l'attente du narrateur.",
+   "demontre": "La science ne désenchante pas le monde : elle déplace l'admiration vers la simplicité des lois.",
+   "usage": "Excellente citation pour un sujet sur science et émerveillement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Nous avons toujours vu le même jardinier, de mémoire de rose on n'a vu que lui",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Cinquième soir",
+   "situation": "Le narrateur explique pourquoi les Anciens croyaient les cieux immuables, au moyen d'un apologue.",
+   "sens": "Les roses, qui ne vivent qu'un jour, croient le jardinier immortel : nos vies courtes nous trompent de même sur les cieux.",
+   "procedes": "Apologue ; prosopopée (les roses parlent) ; expression « de mémoire de rose » forgée sur « de mémoire d'homme ».",
+   "demontre": "Nos jugements dépendent de notre point de vue limité : il faut relativiser.",
+   "usage": "Pour illustrer l'apologue et la relativité du point de vue.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Et moi, répondis-je, cela me met à mon aise.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Cinquième soir",
+   "situation": "Réponse au vertige de la Marquise devant l'infini des mondes.",
+   "sens": "Là où la Marquise s'effraie, le narrateur se sent libéré par l'immensité de l'univers.",
+   "procedes": "Antithèse avec la réplique précédente (« Cela me confond, me trouble, m'épouvante ») ; phrase courte et apaisée.",
+   "demontre": "Fontenelle transforme l'effroi en plaisir intellectuel : un contre-point à Pascal.",
+   "usage": "Pour opposer Fontenelle et Pascal dans une dissertation sur le goût de la science.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "on ne persuade pas facilement aux hommes de mettre leur raison en la place de leurs yeux.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Sixième soir",
+   "situation": "Le narrateur explique à la Marquise pourquoi deux beaux esprits se sont moqués d'elle.",
+   "sens": "Les hommes croient plus volontiers leurs sens que leurs raisonnements.",
+   "procedes": "Maxime au présent de vérité générale ; opposition raison / yeux.",
+   "demontre": "Les obstacles à la science sont autant psychologiques qu'intellectuels.",
+   "usage": "Pour une partie sur les résistances aux idées nouvelles.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  },
+  {
+   "texte": "Contentons-nous d'être une petite troupe choisie qui les croyons, et ne divulguons pas nos mystères dans le peuple.",
+   "locuteur": "Le narrateur (le philosophe)",
+   "reference": "Sixième soir",
+   "situation": "À propos des habitants des planètes, après le départ des deux beaux esprits.",
+   "sens": "Le narrateur propose, sur le ton du jeu, de garder ces idées pour un petit cercle d'initiés.",
+   "procedes": "Impératifs à la première personne du pluriel ; vocabulaire religieux détourné (« mystères ») ; ironie.",
+   "demontre": "Le projet de vulgarisation a ses limites : il vise un public choisi, mondain, plus que le « peuple ».",
+   "usage": "Pour nuancer l'idée d'une science ouverte à tous et discuter l'élitisme de l'œuvre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), orthographe de l'édition — Wikisource (https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le goût de la science",
+  "explication": "Le parcours invite à étudier comment la littérature d'idées fait naître le désir de savoir. Le mot « goût » est important : il désigne à la fois une inclination (aimer la science), un plaisir presque sensible (savourer une découverte) et un jugement esthétique (le bon goût, l'art de présenter les idées avec élégance). Il s'agit donc de voir comment un écrivain transforme la science en plaisir, et comment la curiosité devient une attitude de vie.\n\nLes Entretiens de Fontenelle répondent parfaitement à ces trois sens. La Marquise prend goût à la science au fil des soirs, jusqu'à s'écrier « Je suis savante ! » ; le narrateur fait de la connaissance un plaisir « qui ne fait rire que l'esprit » ; et Fontenelle invente une manière élégante et galante de parler des astres. Mais l'œuvre montre aussi les limites et les risques de ce goût : séduire peut conduire à simplifier, l'imagination peut se laisser emporter, et certaines hypothèses (les tourbillons, les habitants des planètes) se sont révélées fausses. Le goût de la science, c'est aussi le goût du doute et de la remise en question.\n\nEn voie technologique, seuls les trois premiers soirs sont au programme : la rotation de la Terre et l'opéra du monde (1er soir), la Lune habitée et l'analogie de Saint-Denis (2e soir), les planètes habitées et le « pourquoi non » (3e soir). Cela suffit à montrer l'essentiel : la méthode du dialogue, le passage des apparences à la raison et le plaisir de la découverte. En voie générale, les quatrième, cinquième et sixième soirs ajoutent le voyage interplanétaire, le vertige de l'infini et la réflexion sur la diffusion des idées nouvelles.",
+  "textesComplementaires": [
+   {
+    "titre": "Pensées (1670), fragments sur les deux infinis et sur la disproportion de l'homme",
+    "auteur": "Blaise Pascal",
+    "interet": "Face à l'infini, Pascal éprouve l'effroi (« Le silence éternel de ces espaces infinis m'effraie », fragment 206 de l'éd. Brunschvicg) et en tire une leçon religieuse. Le contraste avec le vertige amusé de la Marquise est très éclairant pour une dissertation."
+   },
+   {
+    "titre": "L'Autre Monde ou les États et Empires de la Lune (1657)",
+    "auteur": "Cyrano de Bergerac",
+    "interet": "Récit de voyage imaginaire dans la Lune, plein de fantaisie et de libre pensée. Comme Fontenelle, Cyrano utilise la fiction lunaire pour défendre Copernic et critiquer l'orgueil humain."
+   },
+   {
+    "titre": "Micromégas (1752)",
+    "auteur": "Voltaire",
+    "interet": "Un géant venu de Sirius et un habitant de Saturne visitent la Terre : le conte philosophique reprend la pluralité des mondes et la relativité du point de vue, avec une ironie plus mordante que celle de Fontenelle."
+   },
+   {
+    "titre": "Discours sur le bonheur (écrit vers 1746-1747)",
+    "auteur": "Émilie du Châtelet",
+    "interet": "La traductrice de Newton fait de la passion de l'étude l'une des plus sûres sources de bonheur, en particulier pour les femmes, à qui elle offre une indépendance. Une réponse concrète à la Marquise de Fontenelle : une femme devenue réellement savante."
+   },
+   {
+    "titre": "Astronomie populaire (1880)",
+    "auteur": "Camille Flammarion",
+    "interet": "Deux siècles après Fontenelle, Flammarion, auteur aussi de La Pluralité des mondes habités (1862), poursuit le projet de rendre l'astronomie accessible et enthousiasmante pour le grand public."
+   },
+   {
+    "titre": "Patience dans l'azur (1981)",
+    "auteur": "Hubert Reeves",
+    "interet": "Un astrophysicien raconte l'histoire de l'univers à des lecteurs non spécialistes, avec images et comparaisons familières : la vulgarisation scientifique moderne, héritière directe des Entretiens."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Les Entretiens sont un dialogue de vulgarisation : la science nouvelle (Copernic, Descartes, observations à la lunette) est expliquée à une femme du monde.",
+   "La science naît de la curiosité et de la méfiance envers les apparences : « l'esprit curieux et les yeux mauvais ».",
+   "Plaire et instruire ne s'opposent pas : l'agrément (galanterie, images, anecdotes) est un moyen de faire comprendre.",
+   "La progression va du proche au lointain : la Terre, la Lune, les planètes, les étoiles ; à chaque étape la place de l'homme diminue.",
+   "L'esprit scientifique est fait de prudence : distinguer preuves et conjectures, garder « une autre moitié libre » pour le contraire.",
+   "La Marquise n'est pas une élève passive : elle objecte, raisonne et conclut ; le livre pose la question des femmes et du savoir.",
+   "L'œuvre a ses limites : hypothèses fausses (tourbillons, habitants des planètes), élitisme mondain, préjugés de l'époque."
+  ],
+  "axes": [
+   "Un art de la conversation au service de la science (dialogue, galanterie, humour).",
+   "Les images comme outils de pensée : opéra, montre, Saint-Denis, roses et jardinier.",
+   "Une leçon d'esprit critique : apparences, préjugés, crédulité, doute.",
+   "Une leçon d'humilité : la Terre détrônée et l'homme perdu dans l'infini, mais un vertige transformé en plaisir.",
+   "Une femme face au savoir : progrès réel et limites d'une émancipation mondaine."
+  ],
+  "problematiques": [
+   "Comment Fontenelle fait-il de la conversation galante un moyen de transmettre la science nouvelle ?",
+   "En quoi les Entretiens apprennent-ils moins des connaissances qu'une manière de penser ?",
+   "Comment le dialogue transforme-t-il le vertige de l'infini en goût de la science ?",
+   "Le plaisir est-il chez Fontenelle un simple ornement ou la condition même du savoir ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "La préface : « traiter la philosophie d'une manière qui ne fût point philosophique » et la comparaison avec La Princesse de Clèves.",
+    "utilisation": "Montrer que le projet de vulgarisation et l'ouverture aux lectrices sont revendiqués par l'auteur."
+   },
+   {
+    "exemple": "Premier soir : la nature comparée à l'opéra, avec ses machines et ses contrepoids cachés, et l'univers comparé à une montre.",
+    "utilisation": "Analyser la comparaison filée comme outil pédagogique et la vision mécaniste de Descartes."
+   },
+   {
+    "exemple": "Premier soir : Copernic « saisi d'une noble fureur d'astronome » prend la Terre et l'envoie loin du centre.",
+    "utilisation": "Étudier le registre héroï-comique et la leçon d'humilité de la révolution copernicienne."
+   },
+   {
+    "exemple": "Second soir : le bourgeois de Paris et Saint-Denis.",
+    "utilisation": "Montrer la force et les limites du raisonnement par analogie."
+   },
+   {
+    "exemple": "Troisième soir : le narrateur revient sur les habitants de la Lune et conseille de garder « une autre moitié libre » de son esprit.",
+    "utilisation": "Illustrer le doute et la révision des hypothèses comme vertus scientifiques."
+   },
+   {
+    "exemple": "Troisième soir : le peuple des « Arabes » qui se révèle être celui des abeilles.",
+    "utilisation": "Montrer que la nature dépasse nos fictions et que l'imagination doit être guidée par l'observation."
+   },
+   {
+    "exemple": "Cinquième soir : « je ne suis plus rien » (la Marquise) / « cela me met à mon aise » (le narrateur).",
+    "utilisation": "Opposer l'effroi et l'émerveillement devant l'infini ; comparer avec Pascal."
+   }
+  ],
+  "liens": "Les thèmes et les procédés se répondent. Le thème de la curiosité passe par le dialogue : c'est la Marquise qui réclame la leçon. Le thème des apparences trompeuses passe par les comparaisons (l'opéra et ses machines cachées) et par l'analogie (Saint-Denis). Le thème de l'humilité passe par l'humour (Copernic en héros de comédie) et par les apologues (les roses). Le personnage de la Marquise relie le thème des femmes et du savoir à la structure du livre : sa progression, du rêve devant la nuit à « Je suis savante ! », est le fil conducteur des soirs. Enfin, le registre galant n'est pas séparé du savoir : il fait de la science un plaisir partagé, ce qui est le sens même du « goût de la science ».",
+  "sujetsCommentaire": [
+   {
+    "passage": "Premier soir, de « Toute la philosophie, lui dis-je, n'est fondée que sur deux choses » à « depuis que je sais qu'il ressemble à une montre ».",
+    "pistes": "1) Une définition paradoxale de la science (maxime, antithèses voir / deviner). 2) La comparaison filée de l'opéra et la satire des explications des Anciens (le vol de Phaéton, la « vertu secrète »). 3) Une nature mécanique et pourtant admirable (la montre, la réplique de la Marquise contre le « faux merveilleux »)."
+   },
+   {
+    "passage": "Second soir, l'analogie du bourgeois de Paris, jusqu'à « Notre Saint-Denis c'est la lune, et chacun de nous est ce bourgeois de Paris ».",
+    "pistes": "1) La prudence affichée du narrateur, qui vit « civilement » avec ceux qui ne pensent pas comme lui. 2) Une petite fiction argumentative (hypothèse, dialogue imaginé). 3) L'application ironique au lecteur et la résistance de la Marquise, qui montre les limites de l'analogie."
+   },
+   {
+    "passage": "Cinquième soir, de « pourquoi chaque étoile fixe n'en aura-t-elle pas aussi qu'elle éclairera ? » à la Voie lactée « fourmilière d'astres » (voie générale).",
+    "pistes": "1) Une élève qui raisonne seule (questions en chaîne, citation de Racine). 2) Le vertige de l'infini (gradation « je ne suis plus rien », questions angoissées). 3) La réponse du narrateur : l'infini comme libération et les images familières (fourmilière, îles Maldives) qui l'apprivoisent."
+   }
+  ],
+  "erreurs": [
+   "Présenter les Entretiens comme un traité d'astronomie : c'est un dialogue littéraire, avec un cadre fictif, des personnages et un ton galant.",
+   "Croire que tout ce que dit le narrateur est vrai pour la science actuelle : les tourbillons de Descartes et les habitants des planètes sont des hypothèses dépassées ; Fontenelle lui-même dit que le vrai et le faux sont mêlés.",
+   "Voir la Marquise comme un simple faire-valoir : elle objecte, résiste et raisonne seule au cinquième soir.",
+   "À l'inverse, faire de Fontenelle un féministe au sens moderne : la fin du sixième soir renvoie la Marquise aux « choses d'agrément ».",
+   "Confondre l'attitude de la Marquise devant l'infini (« je ne suis plus rien ») et celle du narrateur (« cela me met à mon aise »).",
+   "Oublier la date : le livre paraît en 1686, avant les Principia de Newton (1687) ; Copernic y est dit « Allemand » (il était polonais) : ne pas recopier cette erreur à son compte."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Les Entretiens sur la pluralité des mondes cherchent-ils davantage à plaire qu'à instruire ?",
+   "analyse": "Le sujet oppose deux finalités de la littérature d'idées : « plaire » (divertir, séduire par l'agrément, la galanterie, l'humour) et « instruire » (transmettre un savoir vrai). « Davantage » invite à hiérarchiser : l'agrément serait-il l'essentiel, au risque de faire de la science un simple ornement mondain ? Il faut montrer que l'œuvre plaît beaucoup, mais que ce plaisir est au service de la connaissance, et même qu'il fait partie du savoir lui-même (le « goût » de la science).",
+   "problematique": "Chez Fontenelle, le plaisir n'est-il qu'un habillage de la science, ou devient-il la condition même d'un savoir partagé et d'un esprit critique ?",
+   "plan": [
+    {
+     "titre": "I. Une œuvre qui cherche d'abord à plaire",
+     "arguments": [
+      "A. Un cadre galant et romanesque : le parc la nuit, la belle Marquise, les compliments (beauté blonde et beauté brune), le badinage amoureux ; la science est présentée comme une « folie » agréable.",
+      "B. Des digressions divertissantes : le voyage d'Astolfe dans la Lune (l'Arioste), les fioles d'esprit perdu, les peuples qui défilent en vingt-quatre heures, l'apologue des abeilles déguisées en « Arabes ».",
+      "C. Un style brillant : formules piquantes (« l'esprit curieux et les yeux mauvais »), humour, autodérision du narrateur, vivacité des répliques (« vous êtes fou »)."
+     ]
+    },
+    {
+     "titre": "II. Mais le plaisir est au service d'un véritable enseignement",
+     "arguments": [
+      "A. Un contenu scientifique sérieux : système de Ptolémée et de Copernic, rotation de la Terre, observations à la lunette (mers et montagnes de la Lune), satellites de Jupiter et de Saturne, tourbillons de Descartes. La préface affirme : « j'ai employé de vrais raisonnements de physique » (orthographe modernisée).",
+      "B. Une progression pédagogique rigoureuse : du plus proche (la Terre) au plus lointain (les étoiles), un soir par étape, avec des titres-programmes ; la Marquise reformule et vérifie ce qu'elle a compris.",
+      "C. Les images comme outils de compréhension : l'opéra, la montre, Paris et Saint-Denis, les roses et le jardinier rendent concrètes des idées abstraites. Plaire, c'est ici faire comprendre."
+     ]
+    },
+    {
+     "titre": "III. Plaire et instruire se confondent dans le goût de la science",
+     "arguments": [
+      "A. Le plaisir est la source du savoir : la curiosité de la Marquise déclenche la leçon ; comprendre est un plaisir « qui ne fait rire que l'esprit », et la Marquise admire davantage l'univers devenu « montre ».",
+      "B. Le dialogue apprend à penser, pas seulement à savoir : objections, doutes, hypothèses (« ce pourquoi non »), distinction du « vrai » et du « faux » annoncée par la préface ; on apprend l'esprit critique.",
+      "C. Une ambition sociale : élargir le public de la science (les femmes, les gens du monde), comme le feront Voltaire avec Micromégas ou Hubert Reeves aujourd'hui. Les limites existent (simplifications, hypothèses fausses, galanterie condescendante), mais elles n'annulent pas le projet."
+     ]
+    }
+   ],
+   "introduction": "Depuis Horace, la littérature se donne souvent pour mission de plaire et d'instruire. Mais les deux visées ne s'équilibrent pas toujours, et l'on reproche volontiers à la vulgarisation de sacrifier le savoir à l'agrément. En 1686, Fontenelle publie les Entretiens sur la pluralité des mondes : un philosophe y explique la nouvelle astronomie à une marquise, au fil de soirées galantes dans un parc. Ce livre cherche-t-il davantage à plaire qu'à instruire ? Le cadre mondain, les compliments et les digressions pourraient le faire croire. Chez Fontenelle, le plaisir n'est-il qu'un habillage de la science, ou devient-il la condition même d'un savoir partagé et d'un esprit critique ? Nous verrons d'abord que l'œuvre cherche à plaire, puis que ce plaisir est au service d'un véritable enseignement, avant de montrer que plaire et instruire se confondent dans ce que l'on peut appeler le goût de la science.",
+   "conclusion": "Les Entretiens sur la pluralité des mondes séduisent par leur cadre galant, leurs anecdotes et leur esprit. Mais cet agrément n'est pas un simple décor : il sert un contenu scientifique réel, organisé avec méthode, et des images qui font comprendre. Surtout, Fontenelle montre que le plaisir et le savoir sont inséparables : la curiosité est un désir, comprendre est une joie, et le dialogue apprend à douter. Plutôt que de choisir entre plaire et instruire, l'œuvre invente le goût de la science. Au siècle suivant, Émilie du Châtelet fera, dans son Discours sur le bonheur, de la passion de l'étude l'une des sources les plus sûres du bonheur : la Marquise de Fontenelle en était déjà la preuve."
+  },
+  {
+   "sujet": "Selon le philosophe Victor Delbos, « Fontenelle voulut d'abord être un bel esprit, et il ne cessa point de l'être » (La Philosophie française, publié en 1919, chapitre V). Ce jugement vous paraît-il rendre compte des Entretiens sur la pluralité des mondes ?",
+   "analyse": "Un « bel esprit », au XVIIe siècle, est un homme de salon qui brille par l'élégance, les mots d'esprit, la galanterie, parfois avec une nuance péjorative de superficialité et de préciosité. Delbos suggère que Fontenelle est resté un mondain, même en parlant de science. Le jugement peut se lire comme un reproche (la science réduite à un ornement) ou comme un constat neutre (l'esprit comme style de pensée). Il faut confirmer la part du bel esprit, puis montrer qu'elle sert un projet scientifique et critique.",
+   "problematique": "Le bel esprit de Fontenelle n'est-il qu'une élégance mondaine qui affaiblit la science, ou bien l'instrument d'une véritable pensée critique et d'un nouveau rapport au savoir ?",
+   "plan": [
+    {
+     "titre": "I. Fontenelle, bel esprit de salon",
+     "arguments": [
+      "A. Le monde des salons : une marquise, un château, des compliments galants ; références au roman précieux (Céladon, Clélie, La Princesse de Clèves) et à l'opéra.",
+      "B. Le goût du trait d'esprit : maximes et pointes (« l'esprit curieux et les yeux mauvais », « ce pourquoi non a une vertu qui peuplera tout »), ironie, autodérision.",
+      "C. Une légèreté assumée : la préface parle d'un « livre aussi peu grave » ; les hypothèses sur les habitants de Vénus ou de Mercure relèvent du jeu, parfois au prix de clichés sur les peuples."
+     ]
+    },
+    {
+     "titre": "II. Mais un bel esprit au service de la science",
+     "arguments": [
+      "A. Un savoir exact pour son temps : Copernic, Descartes, observations de la Lune à la lunette, satellites et anneau de Saturne, découvertes de l'Observatoire présentées au sixième soir.",
+      "B. Une méthode : la progression du proche au lointain, l'analogie (Paris et Saint-Denis), la distinction des preuves et des conjectures ; le narrateur vit « civilement » avec ceux qui ne pensent pas comme lui.",
+      "C. L'esprit comme outil de clarté : les comparaisons (opéra, montre, roses et jardinier) éclairent au lieu d'orner ; Fontenelle refuse le « faux merveilleux enveloppé d'une obscurité »."
+     ]
+    },
+    {
+     "titre": "III. L'esprit, arme critique : vers les Lumières",
+     "arguments": [
+      "A. L'ironie contre la crédulité : peurs des éclipses, superstitions de Tycho Brahé, vanité humaine ; « je ne sache rien au monde qui ne soit le monument de quelque sottise des hommes ».",
+      "B. Une pensée du relatif : les points de vue changent selon les planètes ; l'homme n'est plus au centre ; le rire libère des préjugés.",
+      "C. Une nouvelle figure : Fontenelle devient secrétaire perpétuel de l'Académie des sciences ; le bel esprit se mue en passeur de savoir, modèle de Voltaire (Micromégas). Delbos lui-même reconnaît derrière cette élégance une intelligence supérieure."
+     ]
+    }
+   ],
+   "introduction": "Dans les salons du XVIIe siècle, le « bel esprit » brille par l'élégance de sa conversation, ses compliments et ses traits d'esprit, mais l'expression peut aussi suggérer une certaine superficialité. C'est en ces termes que le philosophe Victor Delbos juge l'auteur des Entretiens sur la pluralité des mondes : « Fontenelle voulut d'abord être un bel esprit, et il ne cessa point de l'être. » Publiés en 1686, ces dialogues où un philosophe enseigne l'astronomie à une marquise semblent lui donner raison. Mais le bel esprit de Fontenelle n'est-il qu'une élégance mondaine qui affaiblit la science, ou bien l'instrument d'une véritable pensée critique et d'un nouveau rapport au savoir ? Nous verrons d'abord que Fontenelle est bien un bel esprit de salon, puis que cet esprit est au service de la science, avant de montrer qu'il devient une arme critique qui annonce les Lumières.",
+   "conclusion": "Le jugement de Delbos est juste : Fontenelle ne cesse jamais d'être un bel esprit, galant, précieux parfois, toujours brillant. Mais ce bel esprit n'est pas une faiblesse : il sert un savoir sérieux, une méthode claire et une pédagogie efficace. Mieux, l'esprit devient chez lui une arme contre la crédulité et la vanité humaine : en faisant rire, il libère des préjugés. Les Entretiens montrent ainsi que l'élégance et la rigueur ne s'opposent pas. Le XVIIIe siècle s'en souviendra : de Voltaire à Diderot, les philosophes des Lumières feront de l'esprit et de l'ironie les meilleurs alliés de la raison."
+  },
+  {
+   "sujet": "Le goût de la science naît-il seulement de l'émerveillement ? Vous répondrez en vous appuyant sur les Entretiens sur la pluralité des mondes et sur les textes étudiés dans le cadre du parcours « Le goût de la science ».",
+   "analyse": "L'« émerveillement » est l'étonnement admiratif devant la beauté ou la grandeur du monde (le ciel étoilé, l'immensité de l'univers). Le sujet suppose qu'il serait à l'origine du désir de savoir. « Seulement » invite à chercher d'autres sources : la curiosité, le doute, l'insatisfaction devant les apparences, le plaisir de raisonner, le désir de partager, voire l'effroi. Il faut aussi se demander si la science, en expliquant, ne détruit pas l'émerveillement, ou si elle le renouvelle.",
+   "problematique": "Le désir de connaître vient-il de l'émerveillement devant le monde, ou bien aussi du doute, de la raison et du plaisir de comprendre, qui transforment cet émerveillement ?",
+   "plan": [
+    {
+     "titre": "I. L'émerveillement, point de départ du goût de la science",
+     "arguments": [
+      "A. La beauté du ciel : les Entretiens s'ouvrent sur une nuit étoilée qui fait « rêver » le narrateur ; les étoiles « d'un or pur et éclatant » déclenchent la conversation.",
+      "B. L'étonnement devant l'immensité : la Voie lactée, « fourmilière d'astres » et « graine de mondes » ; le plaisir de la découverte chez la Marquise.",
+      "C. Dans le parcours : la tradition antique (Platon, Aristote : la philosophie commence par l'étonnement) et les vulgarisateurs modernes comme Flammarion ou Hubert Reeves partent de la beauté du ciel."
+     ]
+    },
+    {
+     "titre": "II. Mais la science naît aussi du doute et de la curiosité critique",
+     "arguments": [
+      "A. Se méfier des apparences : « l'esprit curieux et les yeux mauvais » ; « les vrais philosophes passent leur vie à ne point croire ce qu'ils voient ».",
+      "B. Démonter le merveilleux : l'opéra et ses machines cachées, l'univers comparé à une montre ; Fontenelle combat le « faux merveilleux » et la superstition (éclipses, Tycho Brahé).",
+      "C. L'effroi plutôt que l'émerveillement : le vertige de la Marquise (« je ne suis plus rien ») ou l'angoisse de Pascal devant « le silence éternel de ces espaces infinis » peuvent aussi pousser à penser."
+     ]
+    },
+    {
+     "titre": "III. Un émerveillement transformé par la raison",
+     "arguments": [
+      "A. Comprendre, c'est admirer autrement : la Marquise estime l'univers « beaucoup plus, depuis que je sais qu'il ressemble à une montre » ; la simplicité des lois devient belle.",
+      "B. Le plaisir de raisonner et de partager : le dialogue fait de la science une conversation, un plaisir « qui ne fait rire que l'esprit » ; Émilie du Châtelet fera de la passion de l'étude une source de bonheur.",
+      "C. Un goût qui s'éduque : la Marquise progresse jusqu'à « Je suis savante ! » ; le goût de la science naît de l'émerveillement mais se cultive par l'effort, la méthode et la transmission."
+     ]
+    }
+   ],
+   "introduction": "Pour Aristote, c'est l'étonnement qui a d'abord poussé les hommes à philosopher. On imagine volontiers que la science naît d'un regard ébloui sur le monde, et c'est bien par une nuit étoilée que s'ouvrent les Entretiens sur la pluralité des mondes de Fontenelle (1686), où un philosophe initie une marquise à l'astronomie. Le goût de la science naît-il seulement de l'émerveillement ? Le désir de connaître vient-il de l'admiration devant le monde, ou bien aussi du doute, de la raison et du plaisir de comprendre, qui transforment cet émerveillement ? Nous verrons d'abord que l'émerveillement est bien un point de départ, puis que la science naît aussi du doute et de la curiosité critique, avant de montrer que la raison transforme l'émerveillement en un goût durable du savoir.",
+   "conclusion": "L'émerveillement devant le ciel étoilé est bien l'une des sources du goût de la science : Fontenelle commence par une nuit qui fait rêver. Mais il n'est pas la seule : la curiosité, la méfiance envers les apparences, voire l'effroi devant l'infini poussent aussi à chercher. Surtout, la science ne détruit pas l'émerveillement : elle le transforme en admiration raisonnée pour la simplicité des lois et en plaisir partagé de comprendre. Le goût de la science est donc moins un éblouissement qu'une éducation du regard. C'est ce que montrera, à sa manière, Voltaire dans Micromégas : regarder la Terre depuis Sirius, c'est à la fois s'émerveiller et apprendre l'humilité."
+  }
+ ],
+ "oral": {
+  "presentation": "Les Entretiens sur la pluralité des mondes sont un dialogue publié en 1686 par Fontenelle, homme de lettres qui deviendra secrétaire perpétuel de l'Académie des sciences. Un philosophe raconte à un ami les soirées passées dans le parc d'une marquise, à qui il a expliqué la nouvelle astronomie : la Terre tourne autour du Soleil, la Lune est une terre, les planètes sont peut-être habitées et les étoiles sont d'autres soleils. Le livre, augmenté d'un sixième soir en 1687, invente la vulgarisation scientifique : Fontenelle veut une philosophie « ni trop sèche pour les gens du monde, ni trop badine pour les savants ». Par le dialogue, les comparaisons familières comme l'opéra ou la montre, l'humour et la galanterie, il transmet moins des connaissances qu'une manière de penser : se méfier des apparences, raisonner, douter. C'est pourquoi l'œuvre illustre parfaitement le parcours « Le goût de la science ».",
+  "essentiels": [
+   "Auteur : Fontenelle (1657-1757), neveu de Corneille, bel esprit devenu secrétaire perpétuel de l'Académie des sciences (1697).",
+   "Date : 1686 ; sixième soir ajouté en 1687.",
+   "Genre : dialogue philosophique de vulgarisation, encadré par une lettre à M. L***.",
+   "Personnages : le narrateur philosophe et la Marquise de G***, jeune femme vive et sans culture scientifique.",
+   "Structure : du proche au lointain — la Terre, la Lune, les planètes, les étoiles, puis les dernières découvertes.",
+   "Méthode : « l'esprit curieux et les yeux mauvais » ; comparaisons (opéra, montre), analogies (Saint-Denis), apologues (roses).",
+   "Limites : tourbillons de Descartes, habitants des planètes, préjugés de l'époque, élitisme mondain."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Fontenelle choisit-il la forme du dialogue ?",
+    "reponse": "Le dialogue permet de faire entendre les objections d'un lecteur non spécialiste : la Marquise pose les questions que nous nous posons. La leçon avance au rythme de sa compréhension, ce qui la rend plus claire. Il donne aussi au livre le charme de la conversation de salon. Enfin, il montre que le savoir se construit dans l'échange : au cinquième soir, c'est la Marquise qui trouve la conclusion, et le narrateur lui répond « C'est toi qui l'as nommé », comme Phèdre à Œnone chez Racine."
+   },
+   {
+    "question": "Quel rôle jouent les comparaisons dans l'œuvre ?",
+    "reponse": "Elles rendent visible ce qui ne l'est pas. La plus célèbre est celle de l'opéra : la nature est « un grand spectacle qui ressemble à celui de l'opéra », dont nous voyons les effets sans voir les cordes ni les contrepoids. Le philosophe ressemble au spectateur qui veut comprendre comment fonctionne la machine. La comparaison avec la montre résume ensuite la physique mécaniste de Descartes. Ces images ne sont pas de simples ornements : elles portent une idée et font comprendre une méthode."
+   },
+   {
+    "question": "La Marquise est-elle une véritable élève ou un simple faire-valoir ?",
+    "reponse": "C'est une véritable élève. Elle exige qu'on lui apprenne les étoiles, objecte souvent, refuse de renoncer à ses habitants de la Lune, et finit par raisonner seule au cinquième soir. Fontenelle la choisit, dit-il dans la préface, pour encourager les lectrices. On peut toutefois nuancer : le narrateur garde la maîtrise du savoir, il la complimente sans cesse, et le dernier soir la renvoie aux « choses d'agrément ». L'œuvre ouvre la science aux femmes, mais dans les limites de son époque."
+   },
+   {
+    "question": "Fontenelle affirme-t-il que les planètes sont habitées ?",
+    "reponse": "Il le présente comme une hypothèse plausible, non comme une certitude. Il raisonne par analogie : les planètes ressemblent à la Terre, donc il est possible qu'elles soient habitées ; et il reconnaît en riant que « ce pourquoi non a une vertu qui peuplera tout ». Il revient même sur ses propos : la Lune pourrait ne pas être habitée, faute d'eau. Il conseille de ne donner à ces croyances « que la moitié de son esprit ». L'œuvre enseigne donc autant la prudence que l'hypothèse."
+   },
+   {
+    "question": "En quoi l'œuvre est-elle une leçon d'humilité ?",
+    "reponse": "Avec Copernic, la Terre quitte le centre de l'univers et devient une planète parmi d'autres ; le narrateur se réjouit qu'il ait « rabattu la vanité des hommes ». Puis le Soleil lui-même n'est qu'une étoile parmi des milliers d'autres, chacune avec ses mondes. La Marquise s'écrie alors : « je ne suis plus rien ». L'apologue des roses qui croient leur jardinier immortel montre aussi que nos jugements dépendent de notre point de vue limité. Mais Fontenelle transforme cette humilité en plaisir : le narrateur se sent « à son aise » dans un univers agrandi."
+   },
+   {
+    "question": "Que reste-t-il de vrai dans ce livre aujourd'hui ?",
+    "reponse": "Le cœur astronomique reste valable : la Terre tourne sur elle-même et autour du Soleil, la Lune a des montagnes, les étoiles sont des soleils, et l'on sait aujourd'hui qu'il existe des planètes autour d'autres étoiles. En revanche, les tourbillons de Descartes ont été abandonnés après Newton, et aucun habitant n'a été trouvé sur la Lune ou les planètes. Fontenelle le savait en partie : sa préface dit que le vrai et le faux sont mêlés. L'essentiel est ailleurs : la méthode, le doute, le plaisir de comprendre."
+   },
+   {
+    "question": "Pourquoi l'œuvre relève-t-elle du parcours « Le goût de la science » ?",
+    "reponse": "Parce qu'elle montre comment naît le désir de savoir : la Marquise, qui ne connaît rien, prend goût à la science au point de s'écrier « Je suis savante ! ». Le mot « goût » désigne aussi le plaisir : le narrateur parle d'un plaisir qui « ne fait rire que l'esprit », et la Marquise admire davantage l'univers depuis qu'elle sait qu'il ressemble à une montre. Enfin, il désigne une élégance : Fontenelle invente une manière agréable et claire de parler de science."
+   },
+   {
+    "question": "Quel lien faites-vous entre cette œuvre et les Lumières ?",
+    "reponse": "Fontenelle meurt en 1757, en pleine époque des Lumières, et il en est un précurseur. Son livre combat la crédulité (les peurs liées aux éclipses, la superstition de Tycho Brahé), défend les Modernes contre l'autorité des Anciens et veut diffuser le savoir hors du cercle des savants, comme le fera l'Encyclopédie. Voltaire reprendra le thème des autres mondes et la relativité du point de vue dans Micromégas (1752)."
+   }
+  ],
+  "liens": "Parcours « Le goût de la science » : naissance de la curiosité, plaisir de comprendre, élégance de la vulgarisation, mais aussi doute et limites. Objet d'étude : la littérature d'idées du XVIe au XVIIIe siècle ; l'œuvre illustre une forme d'argumentation indirecte et plaisante (dialogue fictif), à comparer avec l'apologue ou le conte philosophique. Autres œuvres : Pascal, Pensées (l'effroi devant l'infini) ; Cyrano de Bergerac, L'Autre Monde ; Voltaire, Micromégas ; Émilie du Châtelet, Discours sur le bonheur ; la vulgarisation moderne (Flammarion, Hubert Reeves). On peut aussi relier la Marquise aux débats sur l'éducation des femmes (Molière, Les Femmes savantes, 1672, qui raille les femmes savantes ; Graffigny, Lettres d'une Péruvienne).",
+  "reflexion": [
+   {
+    "question": "La science doit-elle être agréable pour être comprise ?",
+    "pistes": "L'agrément motive et facilite la mémoire (images, récits) ; mais il peut simplifier à l'excès ou tromper (les habitants des planètes) ; penser aux vidéos de vulgarisation actuelles."
+   },
+   {
+    "question": "Comprendre le fonctionnement de l'univers le rend-il moins beau ?",
+    "pistes": "La réponse de la Marquise (« je l'en estime beaucoup plus ») ; l'émerveillement devant la simplicité des lois ; mais aussi la nostalgie d'un monde enchanté."
+   },
+   {
+    "question": "Faut-il savoir douter de ce que l'on voit ?",
+    "pistes": "« l'esprit curieux et les yeux mauvais » ; les apparences trompeuses (le Soleil qui semble tourner) ; aujourd'hui, les images truquées et les fausses informations."
+   },
+   {
+    "question": "L'infini vous effraie-t-il ou vous enthousiasme-t-il ?",
+    "pistes": "Opposer la Marquise (« je ne suis plus rien ») et le narrateur (« cela me met à mon aise ») ; Pascal ; les images actuelles des télescopes spatiaux."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'ouverture : la nuit, les étoiles et la « folie » du narrateur",
+   "reference": "Premier soir (toutes voies), du début (« Nous allâmes donc un soir après souper nous promener dans le parc ») à « apprenez-moi vos étoiles ».",
+   "enjeu": "Comment cette scène d'ouverture galante transforme-t-elle une rêverie amoureuse en désir de savoir ?",
+   "mouvements": [
+    "Mouvement 1 : un décor romanesque. La description de la nuit (« un frais délicieux », les rayons de la lune entre les branches, les étoiles « d'un or pur et éclatant » sur « le fond bleu ») crée une atmosphère poétique, presque pastorale. Le narrateur avoue sa rêverie : la science commence par la contemplation et l'émotion.",
+    "Mouvement 2 : un badinage galant. La comparaison de la Marquise (le jour, « beauté blonde », la nuit, « beauté brune qui est plus touchante ») et les compliments du narrateur installent le registre de la conversation mondaine. Le dialogue est vif, les répliques s'enchaînent : la philosophie surgit au milieu d'un jeu amoureux.",
+    "Mouvement 3 : l'aveu et la demande de savoir. Le narrateur confesse sa « folie » (« chaque étoile pourrait bien être un monde ») et affirme qu'« il n'y a pas jusqu'aux vérités auxquelles l'agrément ne soit nécessaire ». La Marquise renverse les rôles : elle refuse d'être exclue des « plaisirs qui ne sont que dans la raison » et exige : « apprenez-moi vos étoiles ». La curiosité féminine devient le moteur du livre ; la feinte résistance du narrateur rend la leçon plus désirable."
+   ]
+  },
+  {
+   "titre": "La nature comme un opéra",
+   "reference": "Premier soir (toutes voies), de « Toute la philosophie, lui dis-je, n'est fondée que sur deux choses » à « depuis que je sais qu'il ressemble à une montre ».",
+   "enjeu": "Comment Fontenelle rend-il accessible la démarche scientifique moderne grâce à une comparaison empruntée au spectacle ?",
+   "mouvements": [
+    "Mouvement 1 : une définition de la philosophie. La formule paradoxale (« l'esprit curieux et les yeux mauvais ») et l'antithèse (« ne point croire ce qu'ils voient », « deviner ce qu'ils ne voient point ») posent le principe : la science dépasse les apparences. Le ton reste léger, avec une pointe d'autodérision (« cette condition n'est pas [...] trop à envier »).",
+    "Mouvement 2 : la comparaison filée de l'opéra. La nature est « un grand spectacle » ; le public voit les décors, le « machiniste caché dans le parterre » veut comprendre les « roues » et les « contrepoids ». L'exemple du vol de Phaéton permet une satire des Anciens : les explications de Pythagore, Platon ou Aristote (« vertu secrète », « nombres », « amitié pour le haut du théâtre ») sont rendues ridicules par l'énumération en « L'un... L'autre... ». Descartes arrive enfin avec la vraie explication : des cordes et un contrepoids.",
+    "Mouvement 3 : une nature mécanique et admirable. La Marquise s'inquiète d'une philosophie « bien mécanique », le narrateur feint de le craindre, puis l'image de la montre (« l'univers [...] en grand, que ce qu'une montre est en petit ») résume le mécanisme cartésien. La réplique de la Marquise (« je l'en estime beaucoup plus ») montre que comprendre n'est pas désenchanter : la simplicité des causes devient elle-même objet d'admiration, contre le « faux merveilleux »."
+   ]
+  },
+  {
+   "titre": "Copernic et la Terre détrônée",
+   "reference": "Premier soir (toutes voies), de « Figurez-vous un Allemand nommé Copernic » aux répliques de la Marquise sur « la vanité des hommes ».",
+   "enjeu": "Comment Fontenelle raconte-t-il la révolution copernicienne comme une scène de théâtre pour en faire une leçon d'humilité ?",
+   "mouvements": [
+    "Mouvement 1 : Copernic en héros de comédie. L'impératif « Figurez-vous » invite à imaginer une scène. Copernic est un personnage énergique : il « fait main basse » sur les cercles des Anciens, « détruit », « met les autres en pièces », et, « saisi d'une noble fureur d'astronome », « prend la Terre et l'envoie bien loin ». Les verbes d'action et l'héroï-comique rendent spectaculaire un changement abstrait.",
+    "Mouvement 2 : la Terre punie. La personnification de la Terre, coupable du « long repos qu'elle s'était attribué », que Copernic « charge le plus qu'il peut » de mouvements, transforme l'astronomie en petite fable morale. Il ne reste à la Terre que la Lune, et la Marquise plaisante sur cette fidélité.",
+    "Mouvement 3 : la vanité humaine en débat. Le narrateur se réjouit de voir la Terre « dans la foule des planètes » ; la Marquise proteste que sa vanité ne s'étend pas à l'astronomie. Le dialogue permet de nuancer : l'homme est moins jaloux de son rang dans l'univers que de son rang en société. La leçon scientifique devient une réflexion morale, à la manière des moralistes."
+   ]
+  },
+  {
+   "titre": "« Notre Saint-Denis c'est la lune »",
+   "reference": "Second soir (toutes voies), de « voici ce qui m'a fait pencher du côté des habitants de la lune » à la protestation de la Marquise (« nous ne sommes point si sots que votre bourgeois »).",
+   "enjeu": "Comment un raisonnement par analogie, tiré de la vie quotidienne, rend-il plausible l'idée d'une Lune habitée ?",
+   "mouvements": [
+    "Mouvement 1 : une prudence affichée. Le narrateur commence par une précaution : il vit « civilement » avec ceux qui ne croient pas la Lune habitée et se dit prêt à changer d'avis. Cette modestie donne de la crédibilité à l'hypothèse et montre l'esprit scientifique : une opinion, pas un dogme.",
+    "Mouvement 2 : la petite fiction du bourgeois. Le présent hypothétique (« Supposons ») installe un apologue : un bourgeois de Paris, du haut de Notre-Dame, refuse de croire Saint-Denis habité, car « je vois bien les habitants de Paris, mais ceux de Saint-Denis je ne les vois point ». L'interlocuteur raisonnable avance les ressemblances (clochers, maisons, murailles) ; le bourgeois « s'obstinera » : il incarne le préjugé qui ne croit que ce qu'il voit.",
+    "Mouvement 3 : l'application. La phrase clé, « Notre Saint-Denis c'est la lune, et chacun de nous est ce bourgeois de Paris », opère le transfert de l'analogie. L'ironie vise le lecteur lui-même. La Marquise proteste aussitôt (la Lune ne ressemble pas autant à la Terre que Saint-Denis à Paris) : le dialogue montre les limites de l'analogie et oblige le narrateur à fournir d'autres preuves, observations à la lunette à l'appui."
+   ]
+  },
+  {
+   "titre": "La surprise des Américains et le voyage vers la Lune",
+   "reference": "Second soir (toutes voies), de l'évocation des Américains découvrant les Européens à la réplique « Les gens de la lune seraient donc déjà venus ? ».",
+   "enjeu": "Comment Fontenelle utilise-t-il l'histoire de la découverte de l'Amérique pour défendre l'audace de l'imagination scientifique ?",
+   "mouvements": [
+    "Mouvement 1 : se mettre à la place des Américains. Une série de questions (« D'où sont-ils venus ? Qui a pu les amener par-dessus les mers ? ») fait revivre la stupeur des peuples d'Amérique devant les Européens armés et à cheval. Le décentrement du regard prépare l'idée que ce qui paraît impossible aujourd'hui peut arriver demain.",
+    "Mouvement 2 : l'analogie audacieuse. Puisque les Américains ne croyaient pas possible un commerce avec l'Europe, « je ne veux plus jurer qu'il ne puisse y avoir commerce quelque jour entre la lune et la terre ». Le narrateur évoque les premiers essais pour voler. L'interruption de la Marquise (« vous êtes fou ») et l'aveu amusé du narrateur font du dialogue un jeu entre raison et imagination.",
+    "Mouvement 3 : le renversement final. Les Lunaires pourraient venir chez nous plutôt que l'inverse ; la Marquise, « presque en colère », s'en inquiète, et le narrateur répond « en éclatant de rire » que les Européens ont mis des millénaires à traverser l'Océan. L'humour désamorce l'invraisemblance tout en montrant que la science avance par étapes. Pour le lecteur d'aujourd'hui, la prophétie s'est réalisée en 1969 : la fiction de Fontenelle anticipait la conquête spatiale. On peut aussi noter le regard européen de l'époque sur les peuples d'Amérique."
+   ]
+  },
+  {
+   "titre": "Le vertige de l'infini",
+   "reference": "Cinquième soir (voie générale uniquement), de « Notre Soleil a des planètes qu'il éclaire » à l'évocation de la Voie lactée comme « fourmilière d'astres ».",
+   "enjeu": "Comment Fontenelle transforme-t-il l'effroi devant l'immensité de l'univers en émerveillement ?",
+   "mouvements": [
+    "Mouvement 1 : la Marquise tire elle-même la conclusion. Par une série de questions (« pourquoi chaque étoile fixe n'en aura-t-elle pas aussi qu'elle éclairera ? »), elle déduit que les étoiles sont des soleils avec leurs mondes. Le narrateur répond par une citation de Racine (Phèdre à Œnone : « C'est toi qui l'as nommé ») : la tragédie est détournée de façon plaisante, l'élève a dépassé le maître.",
+    "Mouvement 2 : le vertige. « Voilà l'univers si grand que je m'y perds, je ne sais plus où je suis, je ne suis plus rien » : la gradation descendante dit l'anéantissement du moi. Les questions qui suivent (« Tout cet espace immense [...] ne sera qu'une petite parcelle de l'univers ? ») et le rythme ternaire « Cela me confond, me trouble, m'épouvante » traduisent l'effroi, proche de Pascal.",
+    "Mouvement 3 : du vertige à l'enchantement. Le narrateur répond par une antithèse : « Et moi, répondis-je, cela me met à mon aise. » Dans un univers immense, il dit respirer « avec plus de liberté ». Il propose ensuite une image rassurante : la Voie lactée est une « fourmilière d'astres », une « graine de mondes », comparée aux îles Maldives entre lesquelles on pourrait presque se donner la main. Les métaphores familières apprivoisent l'infini : le goût de la science, c'est aussi le plaisir de penser ce qui nous dépasse."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Les Entretiens sur la pluralité des mondes (1686, sixième soir ajouté en 1687) sont un dialogue de vulgarisation : un philosophe explique l'astronomie à une marquise, le soir, dans un parc.",
+   "Progression du proche au lointain : la Terre tourne (1er soir), la Lune est une terre (2e), les planètes sont habitées (3e), Vénus, Mercure, Mars, Jupiter, Saturne (4e), les étoiles sont des soleils (5e), nouvelles découvertes (6e).",
+   "Projet : « traiter la philosophie d'une manière qui ne fût point philosophique » ; instruire et divertir ensemble.",
+   "Méthode : « l'esprit curieux et les yeux mauvais » ; se méfier des apparences, chercher les machines cachées de l'opéra.",
+   "Images clés : l'opéra et la montre (Descartes), Copernic héros comique, Paris et Saint-Denis, les abeilles, les roses et le jardinier.",
+   "Esprit critique : garder « une autre moitié libre » de son esprit ; le « pourquoi non » montre la part des conjectures.",
+   "Leçon d'humilité : la Terre détrônée, la Marquise qui s'écrie « je ne suis plus rien » ; mais l'infini devient plaisir (« cela me met à mon aise »).",
+   "La Marquise objecte, raisonne et s'écrie « Je suis savante ! » ; ouverture du savoir aux femmes, avec les limites de l'époque.",
+   "Fontenelle (1657-1757), neveu de Corneille, partisan des Modernes, secrétaire perpétuel de l'Académie des sciences, précurseur des Lumières."
+  ],
+  "citations": [
+   0,
+   3,
+   4,
+   5,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "pieges": [
+   "Ne pas confondre les hypothèses du livre (tourbillons, habitants des planètes) avec des vérités scientifiques.",
+   "Copernic est dit « Allemand » dans le texte : il était polonais.",
+   "Le sixième soir n'existe pas dans la première édition (ajouté en 1687).",
+   "La Marquise n'est pas passive, mais Fontenelle n'est pas pour autant féministe au sens moderne.",
+   "Le texte du site est en orthographe ancienne (« étoit », « connoître ») : citer en orthographe modernisée en le signalant."
+  ],
+  "synthese": "En 1686, Fontenelle invente la vulgarisation scientifique : dans les Entretiens sur la pluralité des mondes, un philosophe explique à une marquise, au fil de soirées dans un parc, que la Terre tourne, que la Lune est une terre, que les planètes sont peut-être habitées et que les étoiles sont des soleils. Le dialogue, les comparaisons (l'opéra, la montre, Saint-Denis), l'humour et la galanterie rendent la science agréable sans la trahir. Le livre apprend surtout une manière de penser : se méfier des apparences, raisonner, douter. La Marquise, qui finit par s'écrier « Je suis savante ! », incarne le goût de la science, malgré les limites d'une époque qui réserve ce savoir à une élite mondaine."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Dialogue philosophique",
+   "definition": "Genre argumentatif où des personnages échangent des idées. Il rend la pensée vivante, fait entendre des objections et associe le lecteur. Ici, le narrateur et la Marquise construisent ensemble le savoir."
+  },
+  {
+   "terme": "Vulgarisation",
+   "definition": "Fait de rendre un savoir spécialisé accessible au grand public, sans jargon. Fontenelle en est l'un des inventeurs : il veut que la philosophie ne soit « ni trop sèche pour les gens du monde, ni trop badine pour les savants » (préface, orthographe modernisée)."
+  },
+  {
+   "terme": "Raisonnement par analogie",
+   "definition": "Raisonnement qui conclut d'une ressemblance à une autre. Paris et Saint-Denis se ressemblent, donc Saint-Denis est habité comme Paris ; la Lune ressemble à la Terre, donc elle pourrait être habitée. Puissant mais fragile, comme le fait remarquer la Marquise."
+  },
+  {
+   "terme": "Comparaison et métaphore filée",
+   "definition": "Image qui rapproche deux réalités, développée sur plusieurs phrases. La nature est comparée à un opéra (décors, machines, cordes, contrepoids) ; l'univers à une montre."
+  },
+  {
+   "terme": "Apologue",
+   "definition": "Court récit à visée argumentative. L'histoire des roses qui croient leur jardinier immortel (cinquième soir) ou celle du bourgeois de Paris (second soir) illustrent une idée."
+  },
+  {
+   "terme": "Maxime",
+   "definition": "Formule brève et frappante, de portée générale. « Toute la philosophie [...] n'est fondée que sur deux choses, sur ce qu'on a l'esprit curieux et les yeux mauvais. »"
+  },
+  {
+   "terme": "Héroï-comique",
+   "definition": "Registre qui traite un sujet sérieux sur un ton épique et amusant (ou l'inverse). Copernic « saisi d'une noble fureur d'astronome », qui « prend la Terre et l'envoie bien loin »."
+  },
+  {
+   "terme": "Galanterie",
+   "definition": "Art de plaire en société, fait de politesse, de compliments et de badinage amoureux, typique des salons du XVIIe siècle. Elle donne au dialogue son ton léger (beauté blonde et beauté brune)."
+  },
+  {
+   "terme": "Placere et docere (plaire et instruire)",
+   "definition": "Principe de l'esthétique classique, hérité d'Horace : l'œuvre doit plaire pour mieux instruire. Fontenelle l'applique à la science : il a « cru pouvoir les instruire et les divertir tout ensemble » (préface)."
+  },
+  {
+   "terme": "Concession",
+   "definition": "Procédé qui consiste à reconnaître une part de vérité à l'adversaire. Le narrateur admet que la Lune pourrait ne pas être habitée (troisième soir), ce qui renforce sa crédibilité."
+  },
+  {
+   "terme": "Héliocentrisme / géocentrisme",
+   "definition": "Le géocentrisme (Ptolémée) place la Terre immobile au centre de l'univers ; l'héliocentrisme (Copernic) y place le Soleil. Le premier soir raconte le passage de l'un à l'autre."
+  },
+  {
+   "terme": "Préciosité",
+   "definition": "Mouvement des salons du XVIIe siècle qui recherche le raffinement du langage et des sentiments. Fontenelle y fait allusion (Céladon, Clélie) et en garde l'élégance, avec une distance ironique."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Qui est l'interlocutrice du narrateur ?",
+   "choix": [
+    "La Princesse de Clèves",
+    "La Marquise de G***",
+    "Madame de Sévigné",
+    "Émilie du Châtelet"
+   ],
+   "reponse": 1,
+   "explication": "Une marquise imaginaire, jeune et vive, sans connaissances scientifiques, que le narrateur initie à l'astronomie."
+  },
+  {
+   "question": "Sur quoi est fondée « toute la philosophie », selon le narrateur ?",
+   "choix": [
+    "Sur la foi et la raison",
+    "Sur l'esprit curieux et les yeux mauvais",
+    "Sur les livres des Anciens",
+    "Sur l'observation et le calcul"
+   ],
+   "reponse": 1,
+   "explication": "La curiosité pousse à chercher, et nos sens imparfaits obligent à raisonner au-delà des apparences."
+  },
+  {
+   "question": "À quel spectacle le narrateur compare-t-il la nature ?",
+   "choix": [
+    "La tragédie",
+    "La comédie de Molière",
+    "L'opéra",
+    "Le ballet de cour"
+   ],
+   "reponse": 2,
+   "explication": "La nature est « un grand spectacle qui ressemble à celui de l'opéra » : on voit les effets, pas les machines cachées."
+  },
+  {
+   "question": "Quel savant « prend la Terre et l'envoie bien loin » ?",
+   "choix": [
+    "Ptolémée",
+    "Galilée",
+    "Descartes",
+    "Copernic"
+   ],
+   "reponse": 3,
+   "explication": "Copernic, que Fontenelle croit allemand, place le Soleil au centre et fait tourner la Terre."
+  },
+  {
+   "question": "Dans l'analogie du second soir, quelle ville représente la Lune ?",
+   "choix": [
+    "Versailles",
+    "Saint-Denis",
+    "Rouen",
+    "Londres"
+   ],
+   "reponse": 1,
+   "explication": "« Notre Saint-Denis c'est la lune » : le bourgeois de Paris refuse de croire Saint-Denis habité parce qu'il n'y voit personne."
+  },
+  {
+   "question": "Quel personnage de l'Arioste voyage dans la Lune ?",
+   "choix": [
+    "Roland",
+    "Astolfe",
+    "Renaud",
+    "Médor"
+   ],
+   "reponse": 1,
+   "explication": "Astolfe va chercher dans la Lune la raison perdue de Roland, conservée dans une fiole."
+  },
+  {
+   "question": "Quel peuple étrange le narrateur décrit-il au troisième soir avant de révéler sa véritable identité ?",
+   "choix": [
+    "Des fourmis",
+    "Des abeilles",
+    "Des vers à soie",
+    "Des castors"
+   ],
+   "reponse": 1,
+   "explication": "Ses « Arabes » organisés autour d'une reine sont des abeilles : la réalité de la nature dépasse nos fictions."
+  },
+  {
+   "question": "Au cinquième soir, le narrateur répond à la Marquise : « C'est toi qui l'as nommé ». D'où vient ce mot ?",
+   "choix": [
+    "Du Cid de Corneille",
+    "De Phèdre de Racine",
+    "D'Andromaque de Racine",
+    "Du Misanthrope de Molière"
+   ],
+   "reponse": 1,
+   "explication": "Quand la Marquise conclut elle-même que chaque étoile a ses planètes, le narrateur répond par le mot de Phèdre à Œnone, « C'est toi qui l'as nommé » : c'est elle qui a trouvé la réponse."
+  },
+  {
+   "question": "Que dit la Marquise au cinquième soir, face à l'immensité de l'univers ?",
+   "choix": [
+    "Je suis perdue à jamais",
+    "Je m'y perds, je ne sais plus où je suis, je ne suis plus rien",
+    "Dieu seul le sait",
+    "Revenons sur Terre"
+   ],
+   "reponse": 1,
+   "explication": "La Marquise dit : « voilà l'univers si grand que je m'y perds, je ne sais plus où je suis, je ne suis plus rien ». Gradation descendante qui évoque Pascal ; les autres réponses ne figurent pas dans le texte."
+  },
+  {
+   "question": "Quelle fonction Fontenelle occupe-t-il à partir de 1697 ?",
+   "choix": [
+    "Précepteur du Dauphin",
+    "Secrétaire perpétuel de l'Académie des sciences",
+    "Directeur de l'Observatoire",
+    "Historiographe du roi"
+   ],
+   "reponse": 1,
+   "explication": "Il est secrétaire perpétuel de l'Académie royale des sciences pendant plus de quarante ans : un passeur entre savants et public."
+  },
+  {
+   "question": "Que répond la Marquise quand le narrateur craint qu'elle trouve la philosophie « bien mécanique » ?",
+   "choix": [
+    "Qu'elle préférait les explications des Anciens",
+    "Qu'elle estime l'univers beaucoup plus depuis qu'elle sait qu'il ressemble à une montre",
+    "Qu'elle ne veut plus entendre parler de science",
+    "Que la nature est une magie incompréhensible"
+   ],
+   "reponse": 1,
+   "explication": "« je l'en estime beaucoup plus, depuis que je sais qu'il ressemble à une montre » : comprendre ne désenchante pas le monde. Elle critique au contraire ceux qui ont en tête un « faux merveilleux »."
+  },
+  {
+   "question": "Que montre l'apologue des roses et du jardinier (cinquième soir) ?",
+   "choix": [
+    "Que les fleurs ont une âme",
+    "Que nos vies courtes nous font croire immuable ce qui change",
+    "Que les jardiniers sont immortels",
+    "Que la Terre est au centre du monde"
+   ],
+   "reponse": 1,
+   "explication": "Les roses disent que « de mémoire de rose on n'a vu que » le même jardinier : de même, les Anciens croyaient les cieux immuables parce qu'ils ne les observaient que depuis peu."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Fontenelle, Entretiens sur la pluralité des mondes, éd. Leroy (Lyon, 1800), Wikisource — texte intégral du site",
+   "url": "https://fr.wikisource.org/wiki/Entretiens_sur_la_pluralit%C3%A9_des_mondes"
+  },
+  {
+   "titre": "Victor Delbos, La Philosophie française, chapitre V « Fontenelle et Bayle » (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/La_Philosophie_fran%C3%A7aise/Chapitre_V"
+  },
+  {
+   "titre": "Pascal, Pensées, éd. Brunschvicg, section III (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Pens%C3%A9es_(Pascal,_%C3%A9d._Brunschvicg)/Pens%C3%A9es/Section_III"
+  },
+  {
+   "titre": "Bulletin officiel n° 30 du 24 juillet 2025 : œuvres au programme des EAF (session 2028)",
+   "url": "https://www.education.gouv.fr/bo/2025/Hebdo30/MENE2518792N"
+  }
+ ],
+ "aVerifier": [
+  "Détails matériels de la première édition (1686 : éditeur, anonymat) et nombre exact des rééditions et traductions du vivant de l'auteur : non vérifiés sur des fac-similés.",
+  "La citation d'Émilie du Châtelet (Discours sur le bonheur) est résumée sans guillemets : formulation exacte non vérifiée."
+ ]
+}

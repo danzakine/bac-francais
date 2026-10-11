@@ -1,0 +1,344 @@
+[
+ {
+  "id": "chretien-de-troyes",
+  "nom": "Chrétien de Troyes",
+  "dates": "vers 1135 - vers 1185",
+  "mouvements": [
+   "litterature-courtoise"
+  ],
+  "bio": "On ne sait presque rien de sa vie : c'est un clerc lettré qui a écrit pour la cour de Champagne, au service de Marie de Champagne, fille d'Aliénor d'Aquitaine, puis pour le comte de Flandre Philippe d'Alsace. Il est considéré comme le créateur du roman arthurien en langue romane (le français de l'époque), écrit en octosyllabes à rimes plates. Ses cinq romans (Érec et Énide, Cligès, Lancelot ou le Chevalier de la charrette, Yvain ou le Chevalier au lion, Perceval ou le Conte du Graal) font de l'aventure chevaleresque une quête intérieure. Ils interrogent tous la conciliation entre l'amour et la prouesse, entre le service d'une dame et les devoirs du chevalier.",
+  "aRetenir": [
+   "Fondateur du roman de chevalerie arthurien (seconde moitié du XIIe siècle).",
+   "Écrit en vers : octosyllabes à rimes plates, destinés à être lus à voix haute.",
+   "Le Chevalier de la charrette met en scène la fin'amor : Lancelot accepte l'humiliation de la charrette d'infamie par amour pour la reine Guenièvre.",
+   "Dans le prologue, il dit tenir la matière et le sens de l'œuvre de la comtesse de Champagne, sa commanditaire.",
+   "Perceval ou le Conte du Graal, resté inachevé, introduit le motif du Graal dans la littérature."
+  ]
+ },
+ {
+  "id": "la-boetie",
+  "nom": "Étienne de La Boétie",
+  "dates": "1530-1563",
+  "mouvements": [
+   "humanisme"
+  ],
+  "bio": "Né à Sarlat, formé au droit à Orléans, il devient conseiller au parlement de Bordeaux. Il rédige très jeune, vers 1548, le Discours de la servitude volontaire, qui circule en manuscrit avant d'être publié par des protestants en lutte contre la monarchie (version complète en 1576). Le texte pose une question radicale : pourquoi des peuples entiers obéissent-ils à un seul homme, alors qu'il suffirait de cesser de le soutenir pour être libres ? Ami intime de Montaigne, qui lui consacre le chapitre « De l'amitié » des Essais, il meurt à trente-deux ans.",
+  "aRetenir": [
+   "Humaniste nourri des auteurs antiques (exemples grecs et romains dans tout le Discours).",
+   "Thèse : la tyrannie ne tient que par le consentement de ceux qui la subissent.",
+   "Causes de la servitude : la coutume, les divertissements offerts au peuple, la chaîne des complices qui profitent du tyran.",
+   "Texte récupéré par les protestants après la Saint-Barthélemy comme pamphlet politique.",
+   "Liée à Montaigne : leur amitié est célébrée au livre I des Essais."
+  ]
+ },
+ {
+  "id": "ronsard",
+  "nom": "Pierre de Ronsard",
+  "dates": "1524-1585",
+  "mouvements": [
+   "humanisme",
+   "pleiade"
+  ],
+  "bio": "Gentilhomme vendômois promis à une carrière de cour, il devient sourd et se tourne vers l'étude des lettres antiques au collège de Coqueret, auprès de l'helléniste Jean Dorat, avec Du Bellay et Baïf. Chef de file de la Pléiade, il veut doter la langue française d'une grande poésie à l'égal des Anciens et des Italiens. Il publie les Odes (1550), puis les Amours (Cassandre en 1552, Marie à partir de 1555, Sonnets pour Hélène en 1578). Poète officiel de Charles IX, il s'engage aussi dans les guerres de religion avec les Discours des misères de ce temps (1562).",
+  "aRetenir": [
+   "Surnommé « le prince des poètes » de son vivant.",
+   "Grand maître du sonnet amoureux, influencé par Pétrarque.",
+   "Thèmes majeurs : fuite du temps, beauté éphémère, carpe diem, immortalité conférée par la poésie.",
+   "Imitation des Anciens (Horace, Pindare, Anacréon) et enrichissement de la langue française.",
+   "Poète de cour et poète engagé dans les guerres de religion (camp catholique)."
+  ]
+ },
+ {
+  "id": "du-bellay",
+  "nom": "Joachim du Bellay",
+  "dates": "vers 1522-1560",
+  "mouvements": [
+   "humanisme",
+   "pleiade"
+  ],
+  "bio": "Issu de la noblesse angevine, il rejoint Ronsard au collège de Coqueret et signe en 1549 le manifeste de la Pléiade, Défense et illustration de la langue française, qui appelle à enrichir le français par l'imitation des Anciens. La même année, L'Olive est l'un des premiers recueils de sonnets amoureux en français. De 1553 à 1557, il séjourne à Rome comme secrétaire de son cousin le cardinal Jean du Bellay : l'expérience de la ville pontificale, décevante, nourrit Les Antiquités de Rome et Les Regrets, publiés en 1558. Il meurt à Paris le 1er janvier 1560, vers trente-sept ans.",
+  "aRetenir": [
+   "Auteur du manifeste de la Pléiade (1549).",
+   "Les Regrets : 191 sonnets en alexandrins.",
+   "Trois tonalités dans Les Regrets : plainte élégiaque de l'exil, satire de la cour romaine, éloge final de la cour de France.",
+   "Refus affiché de la grande inspiration : une poésie plus personnelle, proche de la confidence.",
+   "Le sonnet « Heureux qui, comme Ulysse » réécrit le thème antique du retour."
+  ]
+ },
+ {
+  "id": "corneille",
+  "nom": "Pierre Corneille",
+  "dates": "1606-1684",
+  "mouvements": [
+   "baroque",
+   "classicisme"
+  ],
+  "bio": "Avocat à Rouen, il commence par des comédies avant de connaître le triomphe avec Le Cid (1637), qui déclenche une querelle sur le respect des règles et de la vraisemblance. Il impose ensuite la tragédie à sujet romain (Horace, Cinna, Polyeucte), où le héros fait passer l'honneur, la gloire ou la foi avant la passion. Son œuvre, qui précède la pleine affirmation du classicisme, garde une part d'invention baroque : L'Illusion comique (créée vers 1635-1636, publiée en 1639) et Le Menteur (publié en 1644), adapté d'une comédie espagnole de Juan Ruiz de Alarcón, jouent sur l'illusion et le mensonge. À la fin de sa carrière, il est concurrencé par Racine.",
+  "aRetenir": [
+   "Le Menteur (créé vers 1643-1644, publié en 1644) : comédie en alexandrins dont le héros, Dorante, ment par plaisir d'inventer.",
+   "Le « héros cornélien » surmonte un dilemme par la volonté et le sens de l'honneur.",
+   "La querelle du Cid (1637) contribue à fixer les règles de la tragédie classique.",
+   "Œuvre à cheval entre esthétique baroque (illusion, théâtre dans le théâtre) et classicisme.",
+   "Élu à l'Académie française en 1647."
+  ]
+ },
+ {
+  "id": "moliere",
+  "nom": "Molière",
+  "dates": "1622-1673",
+  "mouvements": [
+   "classicisme"
+  ],
+  "bio": "Jean-Baptiste Poquelin, fils d'un tapissier du roi, fonde l'Illustre-Théâtre en 1643 et adopte en 1644 le nom de Molière ; après la faillite de la troupe, il parcourt la province pendant une douzaine d'années. Revenu à Paris en 1658, il obtient la protection de Louis XIV et triomphe comme auteur, chef de troupe et acteur. Il fait de la comédie un genre aussi ambitieux que la tragédie : comédies de mœurs et de caractère (Tartuffe, Le Misanthrope, L'Avare), comédies-ballets avec Lully (Le Bourgeois gentilhomme). Plusieurs pièces suscitent de violentes querelles, notamment Tartuffe, interdit de 1664 à 1669. Il meurt en 1673 après la quatrième représentation du Malade imaginaire.",
+  "aRetenir": [
+   "Objectif de la comédie classique : corriger les vices des hommes en les faisant rire.",
+   "Le Misanthrope (1666) : Alceste, épris de sincérité absolue, aime Célimène, coquette mondaine ; la pièce oppose franchise et politesse sociale.",
+   "Mélange de registres : farce, comédie de caractère, moments presque graves.",
+   "Molière jouait lui-même les rôles principaux (dont Alceste).",
+   "Comédies souvent en cinq actes et en alexandrins pour les « grandes comédies »."
+  ]
+ },
+ {
+  "id": "la-fontaine",
+  "nom": "Jean de La Fontaine",
+  "dates": "1621-1695",
+  "mouvements": [
+   "classicisme"
+  ],
+  "bio": "Né à Château-Thierry, maître des eaux et forêts, il est protégé par le surintendant Fouquet, auquel il reste fidèle après sa disgrâce en 1661. Il publie des Contes en vers, puis en 1668 un premier recueil de Fables (livres I à VI), dédié au Dauphin, suivi de recueils en 1678-1679 et 1694. Il reprend des sujets d'Ésope et de Phèdre mais en fait de courts récits vivants, variés, au vers libre et souple. Ses fables, sous l'apparence d'histoires d'animaux, proposent une peinture critique de la société de cour et des rapports de force. Il est élu à l'Académie française en 1684.",
+  "aRetenir": [
+   "Fables : 12 livres ; le premier recueil (1668) contient les livres I à VI.",
+   "L'apologue unit un récit et une morale, explicite ou implicite : « plaire et instruire ».",
+   "Vers hétérométriques (mélange d'alexandrins, d'octosyllabes, etc.) au service du rythme du récit.",
+   "Critique implicite des puissants, de la flatterie, de la justice du plus fort.",
+   "Dans la querelle des Anciens et des Modernes, il se range du côté des Anciens."
+  ]
+ },
+ {
+  "id": "racine",
+  "nom": "Jean Racine",
+  "dates": "1639-1699",
+  "mouvements": [
+   "classicisme"
+  ],
+  "bio": "Orphelin, il est élevé à Port-Royal, foyer du jansénisme, où il reçoit une solide culture grecque et latine. Il triomphe avec Andromaque (1667), puis donne Britannicus, Bérénice et Phèdre (1677), qui incarnent la tragédie classique : action simple, unités respectées, alexandrin d'une grande musicalité. Ses héros sont dominés par des passions fatales qu'ils ne parviennent pas à maîtriser. Après Phèdre, il cesse d'écrire pour le théâtre profane, devient historiographe du roi, et n'écrit plus que deux tragédies bibliques pour les jeunes filles de Saint-Cyr (Esther, Athalie).",
+  "aRetenir": [
+   "Modèle de la tragédie classique : règles des trois unités, bienséance, vraisemblance.",
+   "Phèdre (1677) : l'épouse de Thésée brûle d'un amour coupable pour son beau-fils Hippolyte.",
+   "Vision tragique influencée par le jansénisme : l'être humain est faible face à la passion.",
+   "Dans sa préface, Racine affirme que le vice y est peint de manière à le faire haïr.",
+   "Rival de Corneille, à qui l'on oppose souvent sa peinture des passions."
+  ]
+ },
+ {
+  "id": "fontenelle",
+  "nom": "Bernard Le Bovier de Fontenelle",
+  "dates": "1657-1757",
+  "mouvements": [
+   "classicisme",
+   "lumieres"
+  ],
+  "bio": "Neveu de Corneille, il vit presque cent ans et fait le lien entre le siècle de Louis XIV et celui des Lumières. Dans les Entretiens sur la pluralité des mondes (1686), un philosophe explique à une marquise, au cours de soirées dans un parc, le système de Copernic et l'hypothèse de mondes habités. Avec l'Histoire des oracles (1687), il critique la crédulité, et il défend les Modernes dans la querelle des Anciens et des Modernes. Secrétaire perpétuel de l'Académie des sciences pendant plus de quarante ans, il est un grand vulgarisateur.",
+  "aRetenir": [
+   "Entretiens sur la pluralité des mondes : vulgarisation scientifique sous forme de dialogue galant.",
+   "Enjeu : rendre la science accessible à un public mondain, en particulier aux femmes.",
+   "Esprit critique et méthode rationnelle : un précurseur des Lumières.",
+   "Partisan des Modernes dans la querelle des Anciens et des Modernes.",
+   "Dialogue : art de plaire pour instruire, humour et images (la nature comparée à un opéra)."
+  ]
+ },
+ {
+  "id": "graffigny",
+  "nom": "Françoise de Graffigny",
+  "dates": "1695-1758",
+  "mouvements": [
+   "lumieres"
+  ],
+  "bio": "Née en Lorraine, séparée d'un mari violent, elle vit de sa plume et de protections. Elle séjourne en 1738-1739 au château de Cirey, chez Voltaire et Émilie du Châtelet, puis s'installe à Paris où elle tient un salon. Ses Lettres d'une Péruvienne (1747, édition augmentée en 1752) sont l'un des plus grands succès romanesques du siècle. Elle triomphe aussi au théâtre avec la comédie Cénie (1750). Sa correspondance, très abondante, est un document précieux sur la vie littéraire du temps.",
+  "aRetenir": [
+   "Roman épistolaire : Zilia, princesse inca enlevée lors de la conquête espagnole, écrit à son fiancé Aza.",
+   "Regard étranger (comme dans les Lettres persanes de Montesquieu) qui critique la société française.",
+   "Critique de l'éducation des filles, du luxe, des mariages d'intérêt et de la vanité mondaine.",
+   "Dénouement original : Zilia refuse le mariage et choisit une vie indépendante consacrée à l'amitié et à l'étude.",
+   "Une des rares autrices reconnues du XVIIIe siècle."
+  ]
+ },
+ {
+  "id": "voltaire",
+  "nom": "Voltaire",
+  "dates": "1694-1778",
+  "mouvements": [
+   "lumieres"
+  ],
+  "bio": "François-Marie Arouet, dit Voltaire, est embastillé à deux reprises dans sa jeunesse (1717 et 1726), puis s'exile en Angleterre (1726-1728) ; il en tire les Lettres philosophiques (1734), éloge de la tolérance et de la liberté anglaises. Poète, dramaturge, historien et conteur, il devient la figure majeure des Lumières. Installé près de Genève (aux Délices en 1755), puis à Ferney, domaine acquis en 1758, il mène des combats contre le fanatisme et l'injustice, notamment lors de l'affaire Calas (Traité sur la tolérance, 1763). Ses contes philosophiques (Zadig, Micromégas, Candide) diffusent ses idées sous une forme plaisante et ironique.",
+  "aRetenir": [
+   "Candide (1759) répond à l'optimisme de Leibniz, résumé par Pangloss : « tout est au mieux ».",
+   "Le tremblement de terre de Lisbonne (1755) a ébranlé cette philosophie optimiste.",
+   "Arme principale : l'ironie (antiphrase, fausse naïveté, rapprochements absurdes).",
+   "Combats : tolérance religieuse, critique de la guerre, de l'esclavage, de l'Inquisition, des abus de pouvoir.",
+   "Conclusion de Candide : « il faut cultiver notre jardin », éloge du travail concret et modeste."
+  ]
+ },
+ {
+  "id": "balzac",
+  "nom": "Honoré de Balzac",
+  "dates": "1799-1850",
+  "mouvements": [
+   "realisme"
+  ],
+  "bio": "Après des échecs comme imprimeur et des dettes qui le poursuivent toute sa vie, Balzac écrit à un rythme considérable. À partir du Père Goriot (1835), il fait revenir les mêmes personnages d'un roman à l'autre, et regroupe ses récits sous le titre de La Comédie humaine (avant-propos de 1842). Il veut peindre toute la société de son temps, de la Restauration à la monarchie de Juillet, comme un naturaliste étudie les espèces animales. L'argent, l'ambition, la passion et le désir de réussir à Paris sont au cœur de son œuvre.",
+  "aRetenir": [
+   "La Comédie humaine : environ 90 romans et nouvelles organisés en « Études ».",
+   "Le Père Goriot (1835) : premier roman où apparaît le procédé du retour des personnages (Rastignac, Vautrin).",
+   "Descriptions précises des lieux, qui expliquent les personnages (la pension Vauquer).",
+   "Précurseur du réalisme : volonté de faire de l'histoire des mœurs.",
+   "Personnages de types sociaux : l'ambitieux, le père sacrifié, le bagnard révolté."
+  ]
+ },
+ {
+  "id": "hugo",
+  "nom": "Victor Hugo",
+  "dates": "1802-1885",
+  "mouvements": [
+   "romantisme"
+  ],
+  "bio": "Chef de file du romantisme, il en publie le manifeste théâtral avec la Préface de Cromwell (1827) et le fait triompher lors de la « bataille d'Hernani » (1830). Poète, dramaturge et romancier, il s'engage très tôt contre la peine de mort (Le Dernier Jour d'un condamné, 1829 ; Claude Gueux, 1834). Pair de France puis député, il s'oppose au coup d'État de Louis-Napoléon Bonaparte et vit en exil de 1851 à 1870 (Bruxelles, puis Jersey et Guernesey), où il écrit Les Châtiments et Les Contemplations et achève Les Misérables. À sa mort, il reçoit des funérailles nationales et entre au Panthéon.",
+  "aRetenir": [
+   "Le drame romantique selon Hugo : mélange du sublime et du grotesque, refus des unités de temps et de lieu.",
+   "Ruy Blas (1838) : un laquais amoureux de la reine d'Espagne devient ministre ; drame politique et amoureux.",
+   "Claude Gueux (1834) : récit inspiré d'un fait divers, plaidoyer contre la peine de mort et pour l'instruction du peuple.",
+   "Écrivain engagé : peine de mort, misère, liberté politique.",
+   "Figure du poète-mage, guide du peuple."
+  ]
+ },
+ {
+  "id": "musset",
+  "nom": "Alfred de Musset",
+  "dates": "1810-1857",
+  "mouvements": [
+   "romantisme"
+  ],
+  "bio": "Admis très jeune dans le cénacle romantique, il connaît l'échec au théâtre avec La Nuit vénitienne (1830) et décide d'écrire des pièces destinées à la lecture, publiées pour la plupart dans la Revue des Deux Mondes et réunies sous le titre Un spectacle dans un fauteuil (volume en prose de 1834). Ces pièces libres de toute contrainte scénique (Lorenzaccio, Les Caprices de Marianne, On ne badine pas avec l'amour) ne seront jouées que plus tard. Sa liaison orageuse avec George Sand (1833-1835) marque son œuvre. Dans La Confession d'un enfant du siècle (1836), il décrit le « mal du siècle » d'une jeunesse désenchantée.",
+  "aRetenir": [
+   "On ne badine pas avec l'amour (publié en 1834, créé en 1861) : « proverbe » dramatique en trois actes et en prose.",
+   "Mélange des registres : bouffonnerie des fantoches (Blazius, Bridaine, dame Pluche) et dénouement tragique.",
+   "Thèmes : orgueil amoureux, jeux de la séduction, sincérité des sentiments.",
+   "Théâtre conçu pour la lecture, d'où une grande liberté de lieux et de structure.",
+   "Le « mal du siècle » romantique : mélancolie et désillusion."
+  ]
+ },
+ {
+  "id": "zola",
+  "nom": "Émile Zola",
+  "dates": "1840-1902",
+  "mouvements": [
+   "naturalisme"
+  ],
+  "bio": "Journaliste et critique d'art, ami de Cézanne, il se fait connaître avec Thérèse Raquin (1867), dont la préface de 1868 annonce sa méthode : étudier des « tempéraments » comme un savant. Il entreprend ensuite Les Rougon-Macquart (1871-1893), vingt romans retraçant l'« histoire naturelle et sociale d'une famille sous le Second Empire », dont L'Assommoir, Pot-Bouille et Germinal. Chef de file du naturalisme, il en expose la théorie dans Le Roman expérimental (1880). En 1898, il publie « J'accuse…! » dans L'Aurore pour défendre le capitaine Dreyfus ; condamné pour diffamation, il s'exile près d'un an en Angleterre (juillet 1898 - juin 1899).",
+  "aRetenir": [
+   "Méthode naturaliste : enquête documentaire, influence de l'hérédité et du milieu.",
+   "Pot-Bouille (1882) : l'envers hypocrite d'un immeuble bourgeois parisien.",
+   "Thérèse Raquin (1867) : un adultère et un meurtre étudiés comme une expérience sur les nerfs et le sang.",
+   "« J'accuse…! » (13 janvier 1898) : modèle de l'engagement de l'écrivain, origine de la figure de l'« intellectuel ».",
+   "Mort en 1902, transféré au Panthéon en 1908."
+  ]
+ },
+ {
+  "id": "maupassant",
+  "nom": "Guy de Maupassant",
+  "dates": "1850-1893",
+  "mouvements": [
+   "realisme",
+   "naturalisme"
+  ],
+  "bio": "Normand, employé de ministère, il apprend le métier d'écrivain auprès de Flaubert. Il se fait connaître avec Boule de suif, publié en 1880 dans Les Soirées de Médan, recueil collectif du groupe naturaliste réuni autour de Zola. En une dizaine d'années, il écrit environ trois cents contes et nouvelles et six romans, dont Une vie (1883), Bel-Ami (1885) et Pierre et Jean (1888), dont la préface définit le romancier réaliste comme un « illusionniste ». Il pratique aussi le fantastique (Le Horla). Atteint de la syphilis, il est interné en 1892 et meurt l'année suivante.",
+  "aRetenir": [
+   "Maître de la nouvelle : récits brefs, chute, regard ironique et pessimiste.",
+   "Bel-Ami (1885) : ascension sociale d'un arriviste, Georges Duroy, grâce au journalisme et aux femmes.",
+   "Le Horla (version de 1887) : journal d'un homme persuadé d'être possédé par un être invisible ; l'hésitation fantastique.",
+   "Disciple de Flaubert : style sobre, refus de juger les personnages.",
+   "Proche des naturalistes, mais méfiant envers les théories d'école."
+  ]
+ },
+ {
+  "id": "rimbaud",
+  "nom": "Arthur Rimbaud",
+  "dates": "1854-1891",
+  "mouvements": [
+   "parnasse",
+   "symbolisme"
+  ],
+  "bio": "Né à Charleville, élève brillant, il écrit ses premiers grands poèmes en 1870, à quinze et seize ans, au moment de la guerre franco-prussienne. Lors de fugues, il recopie vingt-deux poèmes qu'il confie à Douai au poète Paul Demeny : c'est le « Cahier de Douai ». En 1871, il annonce dans la lettre dite « du Voyant » une poésie nouvelle, fondée sur le dérèglement de tous les sens. Après sa liaison tumultueuse avec Verlaine, il publie Une saison en enfer (1873) ; les Illuminations paraissent en 1886. Il renonce à la littérature vers vingt ans et devient commerçant à Aden et au Harar (Éthiopie) ; il meurt à Marseille à trente-sept ans.",
+  "aRetenir": [
+   "Cahier de Douai (1870) : poèmes de jeunesse, révolte contre l'ordre bourgeois, la guerre, la religion ; bonheur de la fugue.",
+   "Formes encore régulières (sonnets, alexandrins) bousculées par les enjambements et un lexique familier.",
+   "Influence parnassienne au début, puis rupture : il est revendiqué comme un précurseur par les symbolistes.",
+   "Poèmes à connaître : « Le Dormeur du val », « Ma Bohème », « Roman », « Au Cabaret-Vert ».",
+   "Figure du poète révolté et précoce, admiré ensuite par les surréalistes."
+  ]
+ },
+ {
+  "id": "ponge",
+  "nom": "Francis Ponge",
+  "dates": "1899-1988",
+  "mouvements": [
+   "poesie-contemporaine"
+  ],
+  "bio": "Ponge se fait connaître avec Le Parti pris des choses (1942), recueil de poèmes en prose consacrés à des objets ordinaires (le cageot, l'huître, la bougie, le pain). Il veut rompre avec le lyrisme de l'épanchement personnel pour décrire les choses au plus près, en tenant compte à la fois de l'objet et des mots qui le disent. La Rage de l'expression (1952) réunit des textes écrits entre 1938 et 1944 qui montrent le travail d'écriture en train de se faire : notes datées, variantes, reprises, aveux d'échec. Il a aussi réfléchi sur son art dans de nombreux essais.",
+  "aRetenir": [
+   "Le « parti pris des choses » : écrire sur les objets plutôt que sur soi.",
+   "La Rage de l'expression : une poésie du brouillon, du chantier, de la recherche du mot juste.",
+   "Textes célèbres du recueil : « Le Carnet du bois de pins », « Le Mimosa », « Notes prises pour un oiseau ».",
+   "Poésie en prose et formes hybrides, entre poème, journal de travail et essai.",
+   "Le poète comme artisan du langage."
+  ]
+ },
+ {
+  "id": "sarraute",
+  "nom": "Nathalie Sarraute",
+  "dates": "1900-1999",
+  "mouvements": [
+   "nouveau-roman"
+  ],
+  "bio": "Née en Russie, installée en France dès l'enfance, elle exerce d'abord le métier d'avocate. Son premier livre, Tropismes (1939), décrit de minuscules mouvements intérieurs, ces sensations fugitives qui précèdent et accompagnent les paroles. Dans L'Ère du soupçon (1956), elle critique le personnage et l'intrigue traditionnels et devient l'une des figures du Nouveau Roman. Elle écrit aussi pour le théâtre, d'abord pour la radio, et publie un récit d'enfance original, Enfance (1983).",
+  "aRetenir": [
+   "Notion clé : les « tropismes », mouvements infimes et inavoués de la conscience.",
+   "La « sous-conversation » : ce qui se joue sous les paroles banales.",
+   "Pour un oui ou pour un non (diffusé à la radio en 1981, publié en 1982) : deux amis, H.1 et H.2, se brouillent à cause d'une intonation.",
+   "Personnages sans nom ni histoire, réduits à des voix.",
+   "L'Ère du soupçon (1956) : essai fondateur du Nouveau Roman."
+  ]
+ },
+ {
+  "id": "schwarz-bart",
+  "nom": "Simone Schwarz-Bart",
+  "dates": "née en 1938",
+  "mouvements": [
+   "litterature-antillaise"
+  ],
+  "bio": "Romancière guadeloupéenne, elle publie d'abord avec son mari André Schwarz-Bart Un plat de porc aux bananes vertes (1967). Pluie et vent sur Télumée Miracle (1972), son premier roman écrit seule, raconte la vie de Télumée, héritière d'une lignée de femmes de la Guadeloupe rurale, dans les décennies qui suivent l'abolition de l'esclavage. Elle écrit une langue française nourrie du créole, de ses proverbes, de ses images et de ses rythmes oraux. Elle a aussi publié Ti Jean L'horizon (1979) et une pièce de théâtre, Ton beau capitaine (1987).",
+  "aRetenir": [
+   "Pluie et vent sur Télumée Miracle (1972) : roman de la résistance d'une femme face à la misère et au malheur.",
+   "Transmission entre femmes : la grand-mère Reine Sans Nom est une figure essentielle.",
+   "Héritage de l'esclavage et société post-esclavagiste de la Guadeloupe.",
+   "Écriture marquée par l'oralité créole (proverbes, contes, images).",
+   "Œuvre majeure de la littérature antillaise d'expression française."
+  ]
+ },
+ {
+  "id": "dorion",
+  "nom": "Hélène Dorion",
+  "dates": "née en 1958",
+  "mouvements": [
+   "poesie-contemporaine"
+  ],
+  "bio": "Poète québécoise née à Québec, Hélène Dorion a publié depuis les années 1980 une œuvre abondante, surtout poétique, traduite dans de nombreuses langues. Sa poésie interroge le rapport entre l'être humain et le monde, la fragilité, le temps et la place de l'intime dans l'univers. Dans Mes forêts (2021), la forêt devient un paysage à la fois réel et intérieur : arbres, écorces, saisons et lumière disent la mémoire, la blessure et le renouvellement. Ses vers libres, brefs, laissent une grande place au silence et au blanc de la page.",
+  "aRetenir": [
+   "Mes forêts (2021) : recueil de poésie contemporaine en vers libres.",
+   "La forêt comme métaphore de l'être et lieu de mémoire.",
+   "Préoccupation écologique : fragilité du vivant, lien entre l'humain et la nature.",
+   "Écriture dépouillée, fragmentée, attentive aux sensations.",
+   "Voix majeure de la poésie québécoise contemporaine."
+  ]
+ }
+]

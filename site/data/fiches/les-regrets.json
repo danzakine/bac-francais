@@ -1,0 +1,888 @@
+{
+ "id": "les-regrets",
+ "accroche": "Un poète exilé à Rome, qui rêve de son petit village d’Anjou et se moque de la cour des papes : la nostalgie et l’ironie en 191 sonnets.",
+ "identite": {
+  "auteur": "Joachim du Bellay (vers 1522-1560) naît au château de la Turmelière, à Liré, en Anjou, dans une famille noble mais il perd tôt ses parents. Il étudie le droit à Poitiers, puis rejoint à Paris le collège de Coqueret où, avec Ronsard, il suit l’enseignement de l’helléniste Jean Dorat. En 1549, il publie la Défense et illustration de la langue française, manifeste de la Pléiade, et L’Olive, premier recueil de sonnets amoureux en français. De 1553 à 1557, il vit à Rome au service de son cousin le cardinal Jean du Bellay. À son retour, il publie en 1558 Les Antiquités de Rome, Les Regrets, les Divers jeux rustiques et des poèmes latins. Atteint de surdité et malade, il meurt en 1560, à trente-sept ans environ.",
+  "contexte": "Au milieu du XVIe siècle, Rome attire les humanistes : c’est la ville des ruines antiques et la capitale de la chrétienté. Mais la papauté est aussi une puissance politique, mêlée aux guerres d’Italie entre la France et l’Espagne. Le cardinal du Bellay y défend les intérêts du roi de France Henri II. Le poète découvre une cour pleine d’ambitieux, de banquiers et de courtisanes. En France, c’est l’époque de la Renaissance, du mécénat royal, mais aussi de tensions religieuses qui annoncent les guerres de Religion (1562).",
+  "mouvement": "Du Bellay appartient à la Pléiade, groupe de poètes humanistes qui veulent élever la langue française au niveau du grec et du latin en imitant les grands genres antiques et italiens. Il a lui-même rédigé leur manifeste. Mais Les Regrets s’éloignent du grand style : Du Bellay y pratique une poésie plus simple, personnelle, proche de la conversation, et mêle deux registres hérités de l’Antiquité : l’élégie (plainte mélancolique, sur le modèle des Tristes d’Ovide, poète exilé) et la satire (critique moqueuse des mœurs, sur le modèle d’Horace et de Juvénal).",
+  "circonstances": "Les sonnets ont été composés en grande partie à Rome, entre 1553 et 1557, pendant que Du Bellay était au service de son cousin le cardinal Jean du Bellay, chargé de défendre les intérêts du roi de France auprès du pape. Ce poste d’intendant l’accable de soucis matériels (dettes, créanciers, gestion de la maison du cardinal) : c’est le « soin ménager » évoqué au début du sonnet XII. Rentré en France en 1557, Du Bellay publie le recueil à Paris en 1558, la même année que Les Antiquités de Rome et les Divers jeux rustiques. Il le fait précéder d’une épître en vers à Jean d’Avanson, ambassadeur du roi auprès du pape, où il présente ses vers comme imparfaits, excusés par « le lieu, le temps, l’âge » où il les a faits et par ses « ennuis ». Le recueil est dédié à des protecteurs puissants et se termine par l’éloge de Marguerite de France et d’Henri II : la satire de Rome s’accompagne d’une recherche de faveur à la cour.",
+  "carriere": "Les Regrets arrivent à la fin d’une carrière très courte (Du Bellay meurt au début de 1560). En 1549, il était le théoricien de la Pléiade avec la Défense et illustration de la langue française et le poète savant de L’Olive, premier recueil de sonnets amoureux en français, à la manière de Pétrarque. Les Regrets marquent un tournant : Du Bellay y renonce au grand style et à l’imitation de Pétrarque (« Et moins veux-je imiter d’un Pétrarque la grâce », sonnet IV) pour une poésie personnelle, familière et satirique. Il publie la même année Les Antiquités de Rome, méditation grave sur les ruines, puis en 1559 Le Poète courtisan, satire en vers des poètes flatteurs. Les Regrets sont aujourd’hui son œuvre la plus lue."
+ },
+ "resumeCourt": "En 1553, Joachim du Bellay part pour Rome comme secrétaire et intendant de son cousin, le cardinal Jean du Bellay. Il rêve de découvrir la ville des Anciens ; il y trouve des soucis d’argent, l’ennui et une cour pontificale pleine d’intrigues. Les Regrets, publiés en 1558 après son retour, rassemblent 191 sonnets en alexandrins. Le recueil suit à peu près le trajet du poète : d’abord la plainte de l’exilé, qui pleure la France et son village de Liré ; puis la satire de Rome, de ses courtisans, de ses cardinaux et de ses vices ; enfin le retour en France, la déception devant la cour française et l’éloge des grands. Du Bellay invente ainsi un lyrisme simple et personnel, presque un journal intime en vers, qui mêle mélancolie et moquerie.",
+ "resume": [
+  {
+   "titre": "Les sonnets liminaires : un nouvel art poétique (sonnets 1 à 4)",
+   "texte": "Du Bellay commence par expliquer ce qu’il ne fera pas : il ne veut pas « fouiller au sein de la nature » ni chanter de grands sujets savants. Il écrit « à l’aventure », au fil des jours, et confie à ses vers ses plaintes et ses secrets. Il refuse d’imiter les Grecs, Horace, Pétrarque ou Ronsard : ses sonnets seront des « papiers journaux », un journal intime en vers."
+  },
+  {
+   "titre": "La perte de l’inspiration (sonnets 5 à 8)",
+   "texte": "Le poète se compare à ce qu’il était en France, quand la cour et Marguerite, sœur du roi, aimaient ses vers. À Rome, il a perdu « ce mépris de Fortune » et cette « divine ardeur » : « Maintenant la Fortune est maîtresse de moi ». Les Muses le fuient. L’exil est aussi une crise de l’écriture."
+  },
+  {
+   "titre": "La plainte de l’exilé (sonnets 9 à 49 environ)",
+   "texte": "C’est la partie élégiaque. Dans le sonnet 9, le poète s’adresse à la « France, mère des arts, des armes et des lois » comme un agneau perdu qui appelle sa mère ; seul l’écho lui répond. Dans le sonnet 31, « Heureux qui, comme Ulysse, a fait un beau voyage », il envie les héros revenus chez eux et préfère son « petit Liré » au mont Palatin. Dans le sonnet 32, il constate qu’il a perdu en voyageant « le meilleur de [son] âge » et ne rapporte, tel un marin malheureux, que des harengs au lieu de lingots d’or."
+  },
+  {
+   "titre": "La satire de Rome (sonnets 50 à 127 environ)",
+   "texte": "Le ton change : le poète observe et se moque. Rome n’est plus la ville glorieuse des Anciens, mais une capitale de l’hypocrisie, de l’argent et des plaisirs. Le sonnet 80 parcourt la ville : orgueil au Palais, usure à la banque, débauche partout, et seulement « de vieux monuments un grand monceau pierreux ». Le sonnet 81 décrit l’élection d’un pape où l’on vend « dix Cardinaux » pour moins d’un écu. Le sonnet 86, « Marcher d’un grave pas », dresse le portrait ironique du courtisan romain, tout en gestes et en apparences."
+  },
+  {
+   "titre": "Le regard critique sur l’humanité (sonnet 68 et autres)",
+   "texte": "La satire ne vise pas que Rome. Dans le sonnet 68, l’anaphore « Je hais » passe en revue tous les peuples, Florentins, Vénitiens, Espagnols, Anglais… et même les Français, avant de se retourner contre le poète lui-même : « Je hais moi-même encor mon imperfection ». La vraie cible finale est le « savoir pédantesque », la fausse science qui se donne de grands airs."
+  },
+  {
+   "titre": "Le retour en France et la déception (sonnets 128 à 160 environ)",
+   "texte": "Rentré en 1557, Du Bellay croyait retrouver la douceur du foyer. Mais le sonnet 130, « Et je pensais aussi ce que pensait Ulysse », avoue l’amertume : chez lui l’attendent « mille soucis mordants ». La cour de France n’est pas meilleure que celle de Rome : le sonnet 150 se moque des « vieux singes de cour » qui imitent les princes et rient sans savoir pourquoi."
+  },
+  {
+   "titre": "L’éloge des grands et la fin du recueil (sonnets 160 à 191)",
+   "texte": "Les derniers sonnets s’adressent aux puissants : Marguerite de France, protectrice des poètes, le cardinal de Lorraine, le roi Henri II. Le poète loue et demande protection. Le dernier sonnet, adressé au roi, affirme que « rien n’est après Dieu si grand qu’un Roi de France » et termine sur une prière habile : qu’un grand roi fasse « de rien » quelque chose, c’est-à-dire qu’il favorise le poète."
+  }
+ ],
+ "structure": "Les Regrets comptent 191 sonnets en alexandrins, précédés d’une épigramme latine « Ad lectorem » et d’une épître en vers « À Monsieur d’Avanson », ambassadeur du roi à Rome. Le recueil suit un mouvement à peu près chronologique en trois grands ensembles : la plainte élégiaque de l’exilé (environ sonnets 1 à 49), la satire de Rome (environ 50 à 127), le retour en France, avec une satire de la cour française puis l’éloge des grands (environ 128 à 191). Ces limites sont souples : les tons se mélangent souvent. Le choix de l’alexandrin, plus ample que le décasyllabe, et d’une langue simple donne au recueil l’allure d’un journal intime. Les citations sont données ici en orthographe modernisée.",
+ "personnages": [
+  {
+   "nom": "Le poète exilé",
+   "role": "Voix lyrique du recueil. Il se présente comme un homme ordinaire, accablé de soucis matériels, qui a perdu son inspiration et sa jeunesse. Il se compare à Ulysse, à un agneau perdu, à un marin malheureux. Lucide, il se moque des autres mais aussi de lui-même.",
+   "relations": "Il se définit par rapport à la France (l’enfant et sa mère), à Rome (l’étranger qui observe) et à ses amis (le confident)."
+  },
+  {
+   "nom": "La France",
+   "role": "Personnifiée en mère nourricière (« France, mère des arts, des armes et des lois »), elle est l’objet de la nostalgie de l’exilé. Mais à son retour, le poète découvre qu’elle a aussi ses défauts et sa cour hypocrite.",
+   "relations": "Relation de mère à enfant abandonné : le poète l’appelle, elle ne répond pas (sonnet IX)."
+  },
+  {
+   "nom": "Liré et l’Anjou",
+   "role": "Le « petit Liré », village natal, et « la douceur angevine » symbolisent le foyer, la simplicité, l’enracinement. Ils s’opposent à la grandeur orgueilleuse de Rome.",
+   "relations": "Ils s’opposent terme à terme à Rome dans le sonnet XXXI : le village contre le Palatin, la Loire contre le Tibre."
+  },
+  {
+   "nom": "Rome",
+   "role": "Ville double : la Rome antique, glorieuse mais réduite à des ruines, et la Rome moderne, capitale de la papauté, des intrigues, de l’argent et des plaisirs. Elle est la cible principale de la satire.",
+   "relations": "Rome s’oppose à la France et à l’Anjou ; elle est le lieu de l’exil, de l’hypocrisie et de la ruine."
+  },
+  {
+   "nom": "Le courtisan",
+   "role": "Figure satirique qui revient souvent : il marche « d’un grave pas », flatte, baise les mains, cache sa pauvreté sous de beaux habits. Du Bellay le retrouve à Rome comme à Paris.",
+   "relations": "Il est le double inversé du poète : il cache sa misère sous les apparences, alors que le poète avoue la sienne."
+  },
+  {
+   "nom": "Les amis destinataires",
+   "role": "Beaucoup de sonnets s’adressent à des amis poètes ou humanistes : Ronsard, Olivier de Magny, Jean Dorat, Maurice Scève… Ces adresses donnent au recueil un ton de lettre familière, de confidence.",
+   "relations": "Ils sont les témoins et les confidents de l’exil : Magny dans le sonnet XII, Dorat dans le sonnet CXXX, Ronsard à plusieurs reprises."
+  },
+  {
+   "nom": "Ulysse",
+   "role": "Héros de l’Odyssée qui met dix ans à rentrer à Ithaque. Il est le modèle du voyageur qui retrouve enfin son foyer ; le poète l’envie (sonnet 31) puis constate amèrement que le retour ne guérit pas tout (sonnet 130).",
+   "relations": "Il sert de modèle puis de contre-modèle au poète : le retour d’Ulysse est heureux, celui de Du Bellay est amer."
+  }
+ ],
+ "evolution": "Le recueil suit à peu près l’évolution du séjour. D’abord, le poète se plaint : il a perdu sa liberté, son inspiration et sa jeunesse, et appelle une France qui ne répond pas (sonnets VI, IX, XXXI, XXXII). Ensuite, il se met à observer et à rire : la plainte cède la place à la satire de Rome et de ses courtisans (sonnets LXVIII, LXXX, LXXXI, LXXXVI). Enfin, il rentre en France, mais le retour déçoit : « Mille soucis mordants » l’attendent (CXXX) et la cour de France ne vaut pas mieux que celle de Rome (CL). Le recueil s’achève sur l’éloge des grands, en particulier du roi (CXCI). On passe donc de la nostalgie à la lucidité : le « je » apprend à regarder le monde, et lui-même, sans illusions.",
+ "themes": [
+  {
+   "titre": "L’exil et la nostalgie",
+   "texte": "C’est le cœur des premiers sonnets. Le poète se sent abandonné, comme un agneau parmi « les loups cruels » (sonnet 9), et rêve de « fumer la cheminée » de son village (sonnet 31). La nostalgie s’exprime par des comparaisons (Ulysse, Jason), des oppositions entre Rome et l’Anjou, et des questions angoissées (« Quand reverrai-je, hélas… »)."
+  },
+  {
+   "titre": "Le temps perdu et la désillusion",
+   "texte": "Du Bellay a cru s’enrichir de savoir à Rome ; il y a perdu sa jeunesse. Le sonnet 32 l’affirme avec ironie : le marin « rapporte des harengs en lieu de lingots d’or ». Le voyage n’est pas une aventure héroïque, mais une perte. Même le retour déçoit (sonnet 130)."
+  },
+  {
+   "titre": "La satire de Rome et des courtisans",
+   "texte": "Le poète dénonce l’hypocrisie de la cour pontificale : cérémonies vides, ambition, argent, débauche. Le sonnet 86 accumule les infinitifs pour tourner en ridicule les gestes du courtisan ; le sonnet 81 montre l’élection d’un pape comme un marché. La satire devient universelle dans le sonnet 68 (« Je hais ») et dans le sonnet 150 contre les courtisans français."
+  },
+  {
+   "titre": "Une poésie simple et personnelle",
+   "texte": "Du Bellay refuse le grand style : « Je ne veux point fouiller au sein de la nature » (sonnet 1). Il écrit comme on tient un journal, au rythme des jours, et ses vers sont ses confidents. Il ne chante pas, il pleure : « Je ne chante (Magny), je pleure mes ennuis » (sonnet 12). Cette sincérité apparente fait la modernité du recueil."
+  },
+  {
+   "titre": "La perte de l’inspiration poétique",
+   "texte": "L’exil fait taire la Muse : « Les Muses de moi, comme étranges, s’enfuient » (sonnet 6). Le poète, qui se rêvait inspiré par la « fureur » divine, n’a plus que la nécessité et les soucis. Paradoxalement, c’est en disant qu’il ne peut plus écrire qu’il écrit l’un des plus beaux recueils du siècle."
+  },
+  {
+   "titre": "L’amour de la patrie et de la langue",
+   "texte": "L’éloge de la France, de ses rois, de ses poètes, traverse le recueil. L’auteur de la Défense et illustration de la langue française reste attaché à sa langue et à son pays : sa nostalgie est aussi patriotique, et les derniers sonnets célèbrent le roi Henri II et sa sœur Marguerite, protectrice des lettres."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment faire de la poésie avec sa vie quotidienne, ses soucis et sa tristesse ?",
+   "Comment un même poète peut-il être tour à tour élégiaque, satirique et élogieux ?",
+   "Le voyage enrichit-il ou appauvrit-il celui qui le fait ?",
+   "Quelle est la place du poète face au pouvoir (Rome, la cour, le roi) ?"
+  ],
+  "intentions": "Du Bellay a expliqué son projet dans les textes d’ouverture. Dans le sonnet I, il refuse les grands sujets (« Je ne veux point fouiller au sein de la nature ») et annonce des vers écrits « à l’aventure », qui seront ses « papiers journaux ». Dans le sonnet IV, il refuse d’imiter les Grecs, Horace, Pétrarque ou Ronsard, et dit se contenter « de simplement écrire / Ce que la passion seulement [lui] fait dire ». Dans l’épître à M. d’Avanson, il excuse l’imperfection de ses vers par les circonstances de leur composition. (Texte du site, éd. Séché.) Attention : cette simplicité affichée est elle-même un choix d’écrivain ; le recueil est très travaillé.",
+  "procedes": [
+   {
+    "nom": "L’anaphore",
+    "explication": "La répétition en tête de vers crée un rythme obsédant, qu’il soit plaintif ou satirique.",
+    "exemple": "« Je ne veux point » trois fois dans le sonnet I ; « Je hais » dans le sonnet LXVIII ; « Plus » dans les tercets du sonnet XXXI."
+   },
+   {
+    "nom": "L’apostrophe et la personnification",
+    "explication": "Le poète s’adresse à la France comme à une personne, et même à une mère : la plainte devient appel pathétique.",
+    "exemple": "« France, mère des arts, des armes et des lois » ; « France, France, réponds à ma triste querelle » (sonnet IX)."
+   },
+   {
+    "nom": "L’antithèse",
+    "explication": "Elle oppose l’Anjou à Rome, la simplicité à la grandeur, le passé heureux au présent malheureux.",
+    "exemple": "« Plus mon petit Liré, que le mont Palatin » (sonnet XXXI)."
+   },
+   {
+    "nom": "L’accumulation d’infinitifs",
+    "explication": "Une suite de verbes à l’infinitif, sans sujet, transforme le courtisan en mécanique de gestes vides.",
+    "exemple": "« Marcher d’un grave pas […] Balancer tous ses mots, répondre de la tête » (sonnet LXXXVI)."
+   },
+   {
+    "nom": "La chute ironique",
+    "explication": "Le dernier vers renverse ce qui précède et produit un effet de surprise, souvent comique ou amer.",
+    "exemple": "« Et pour moins d’un écu dix Cardinaux en vente » (sonnet LXXXI) ; « Rapporte des harengs en lieu de lingots d’or » (XXXII)."
+   },
+   {
+    "nom": "Le chiasme et le jeu sur les mots",
+    "explication": "La répétition croisée des termes montre que la douleur et le chant se transforment l’un dans l’autre.",
+    "exemple": "« Je ne chante (Magny) je pleure mes ennuis : / Ou, pour le dire mieux, en pleurant je les chante » (sonnet XII)."
+   }
+  ],
+  "style": "Du Bellay choisit l’alexandrin, plus ample que le décasyllabe, et une langue simple, proche de la conversation : beaucoup de sonnets s’adressent à un ami nommé (Magny, Dorat, Ronsard), comme des lettres. Le ton est familier, parfois proche du dialogue, avec des exclamations et des questions. Ce naturel apparent cache un grand art : rythmes réguliers, anaphores, parallélismes, chutes soignées. Le mélange de mélancolie et d’ironie, de plainte et d’autodérision, fait l’originalité du recueil.",
+  "registres": [
+   {
+    "nom": "Élégiaque",
+    "explication": "Plainte mélancolique de l’exilé sur sa patrie, sa jeunesse et son inspiration perdues (sonnets VI, IX, XXXI)."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Critique moqueuse des mœurs de Rome et des courtisans (sonnets LXXX, LXXXI, LXXXVI, CL)."
+   },
+   {
+    "nom": "Épidictique (éloge)",
+    "explication": "Louange de la France, de Marguerite de France et du roi Henri II (sonnet CXCI)."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "Expression personnelle du « je » qui confie ses sentiments à ses vers (sonnet I)."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le recueil mêle trois registres principaux (élégie, satire, éloge) et suit à peu près la chronologie du séjour romain puis du retour.",
+    "nature": "fait"
+   },
+   {
+    "texte": "La sincérité du « journal » est en partie une construction : Du Bellay imite aussi des modèles antiques (Ovide exilé, Horace et Juvénal satiriques).",
+    "nature": "fait"
+   },
+   {
+    "texte": "La satire de Rome vise-t-elle la papauté elle-même ou seulement les mœurs des courtisans ? Le recueil reste prudent, et les lectures divergent.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le sonnet XXXI a souvent été lu comme un hymne heureux au pays natal ; replacé dans le recueil, il exprime surtout une souffrance, que le sonnet CXXX vient démentir.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Les sonnets d’éloge final peuvent être lus comme une recherche intéressée de protection autant que comme un hommage sincère.",
+    "nature": "debat"
+   }
+  ],
+  "liens": "Les Regrets montrent un membre de la Pléiade qui prend ses distances avec le programme de 1549 : au lieu d’imiter les grands genres et de viser l’immortalité, Du Bellay écrit une poésie du quotidien. Il reste pourtant un humaniste : il connaît Ovide, Horace, Homère (Ulysse), et il défend la langue française. Le contexte est celui des guerres d’Italie et de la rivalité entre la France et l’Espagne auprès du pape, ce qui explique le séjour romain et l’atmosphère d’intrigue de la cour pontificale."
+ },
+ "citations": [
+  {
+   "texte": "Je me plains à mes vers, si j’ai quelque regret, / Je me ris avec eux, je leur dis mon secret, / Comme étant de mon cœur les plus sûrs secrétaires.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet I",
+   "situation": "Premier tercet du sonnet d’ouverture, qui sert d’art poétique au recueil.",
+   "sens": "Les vers sont les confidents du poète, à qui il confie ses plaintes comme ses rires.",
+   "procedes": "Parallélisme « Je me plains / Je me ris », métaphore des « secrétaires » (ceux qui gardent les secrets).",
+   "demontre": "Le projet d’une poésie intime, qui annonce les deux registres du recueil : élégie et satire.",
+   "usage": "Pour présenter le recueil et sa poétique de la simplicité.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Maintenant la Fortune est maîtresse de moi",
+   "locuteur": "Le poète",
+   "reference": "Sonnet VI",
+   "situation": "Premier tercet, après deux quatrains qui rappellent avec regret la liberté et l’inspiration d’autrefois.",
+   "sens": "Le poète n’est plus maître de lui-même : il dépend du hasard et des soucis.",
+   "procedes": "Opposition « Maintenant » / passé, personnification de la Fortune.",
+   "demontre": "L’exil comme perte de liberté intérieure et crise de l’inspiration.",
+   "usage": "Pour le thème de la perte de l’inspiration.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "France, mère des arts, des armes et des lois",
+   "locuteur": "Le poète",
+   "reference": "Sonnet IX",
+   "situation": "Premier vers d’une plainte adressée à la patrie.",
+   "sens": "La France est une mère glorieuse dont le poète se sent éloigné.",
+   "procedes": "Apostrophe, personnification, rythme ternaire, allitération en [m].",
+   "demontre": "La nostalgie de l’exilé et l’éloge patriotique.",
+   "usage": "Citation-clé du registre élégiaque.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Mais nul, sinon Écho, ne répond à ma voix.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet IX",
+   "situation": "Fin du second quatrain : le poète a appelé la France, qui ne répond pas.",
+   "sens": "Personne n’entend l’exilé ; seul l’écho lui renvoie sa propre voix.",
+   "procedes": "Négation forte « nul », allusion à la nymphe Écho, chute du quatrain.",
+   "demontre": "La solitude absolue de l’exilé.",
+   "usage": "Pour illustrer le pathétique de la plainte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Je ne chante (Magny) je pleure mes ennuis : / Ou, pour le dire mieux, en pleurant je les chante.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet XII",
+   "situation": "Le poète répond à son ami Olivier de Magny, étonné qu’il puisse écrire malgré ses soucis.",
+   "sens": "La poésie naît de la douleur et la transforme en chant.",
+   "procedes": "Apostrophe à un ami, correction (« pour le dire mieux »), chiasme chanter / pleurer.",
+   "demontre": "La définition de l’élégie et le pouvoir consolateur de la poésie.",
+   "usage": "Pour une dissertation sur poésie et souffrance.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Heureux qui, comme Ulysse, a fait un beau voyage",
+   "locuteur": "Le poète",
+   "reference": "Sonnet XXXI",
+   "situation": "Premier vers du sonnet le plus célèbre du recueil.",
+   "sens": "Le bonheur appartient à ceux qui, comme Ulysse, ont pu rentrer chez eux après le voyage.",
+   "procedes": "Référence mythologique, exclamation, éloge du retour plus que du voyage.",
+   "demontre": "La nostalgie du foyer.",
+   "usage": "Incipit à connaître par cœur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Plus mon petit Liré, que le mont Palatin, / Et plus que l’air marin la douceur angevine.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet XXXI",
+   "situation": "Fin du sonnet : série de comparaisons entre l’Anjou natal et Rome.",
+   "sens": "Le poète préfère son humble village à la grandeur romaine.",
+   "procedes": "Anaphore de « Plus », antithèses, diminutif affectif « petit », chute sur « la douceur angevine ».",
+   "demontre": "L’éloge de la simplicité et du pays natal contre la grandeur de Rome.",
+   "usage": "Pour l’opposition Rome / Anjou.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Ainsi le marinier souvent pour tout trésor / Rapporte des harengs en lieu de lingots d’or",
+   "locuteur": "Le poète",
+   "reference": "Sonnet XXXII",
+   "situation": "Second tercet : le poète, qui voulait tout apprendre en Italie, fait le bilan de son voyage.",
+   "sens": "Le voyage ne lui a rien rapporté de précieux.",
+   "procedes": "Comparaison ironique, opposition « harengs » / « lingots d’or ».",
+   "demontre": "La désillusion et l’autodérision.",
+   "usage": "Pour nuancer l’image du voyage formateur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Bref, je hais quelque vice en chaque nation, / Je hais moi-même encor mon imperfection",
+   "locuteur": "Le poète",
+   "reference": "Sonnet LXVIII",
+   "situation": "Premier tercet final, après onze vers qui passent en revue les défauts de nombreux peuples.",
+   "sens": "Le poète trouve des défauts partout, y compris en lui-même.",
+   "procedes": "Anaphore « Je hais », généralisation (« Bref »), retournement vers soi.",
+   "demontre": "Une satire universelle qui devient autocritique.",
+   "usage": "Pour montrer que la satire n’est pas seulement anti-romaine.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Voilà de cette cour la plus grande vertu, / Dont souvent mal monté, mal sain, et mal vêtu, / Sans barbe et sans argent on s’en retourne en France.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet LXXXVI",
+   "situation": "Dernier tercet, après le long portrait des gestes du courtisan romain.",
+   "sens": "Les manières de la cour ne rapportent rien : on rentre ruiné.",
+   "procedes": "Présentatif « Voilà », antiphrase « la plus grande vertu », triple « mal ».",
+   "demontre": "La satire du paraître et de l’hypocrisie de cour.",
+   "usage": "Exemple-type de chute satirique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Je ne veux point fouiller au sein de la nature",
+   "locuteur": "Le poète",
+   "reference": "Sonnet I",
+   "situation": "Premier vers du recueil.",
+   "sens": "Le poète refuse la poésie savante et philosophique.",
+   "procedes": "Négation, anaphore annoncée (« Je ne veux point » trois fois), métaphore « fouiller au sein ».",
+   "demontre": "Un art poétique par le refus : la poésie sera simple et personnelle.",
+   "usage": "Pour une question sur la conception de la poésie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Et perdre en voyageant le meilleur de mon âge.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet XXXII",
+   "situation": "Fin du premier tercet : le poète constate le résultat de son séjour.",
+   "sens": "Le voyage lui a fait perdre sa jeunesse.",
+   "procedes": "Antithèse implicite entre l’ambition de départ et la perte, gérondif « en voyageant ».",
+   "demontre": "Le thème du temps perdu.",
+   "usage": "Pour le thème de la désillusion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Mille soucis mordants je trouve en ma maison",
+   "locuteur": "Le poète",
+   "reference": "Sonnet CXXX",
+   "situation": "Premier tercet du sonnet du retour, qui reprend la figure d’Ulysse.",
+   "sens": "À son retour, le poète trouve des soucis au lieu du bonheur espéré.",
+   "procedes": "Inversion (complément en tête), métaphore « mordants », hyperbole « mille ».",
+   "demontre": "La déception du retour, qui répond au sonnet XXXI.",
+   "usage": "Pour montrer l’évolution du recueil.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  },
+  {
+   "texte": "Que de rien un grand Roi peut faire quelque chose.",
+   "locuteur": "Le poète",
+   "reference": "Sonnet CXCI",
+   "situation": "Dernier vers du recueil, adressé au roi Henri II.",
+   "sens": "Le poète, qui « n’est rien », demande au roi de le favoriser.",
+   "procedes": "Antithèse « rien / quelque chose », éloge, chute habile.",
+   "demontre": "La fonction sociale de la poésie et la recherche de protection.",
+   "usage": "Pour la conclusion du recueil et le registre de l’éloge.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Du Bellay, Les Regrets (1558), Œuvres complètes, t. 3, éd. L. Séché, 1903, via Wikisource",
+    "note": "Orthographe modernisée (texte du XVIe siècle vérifié mot à mot)."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Le sonnet, entre plainte intime et regard critique",
+  "explication": "Les Regrets sont présentés ici comme une œuvre complémentaire de culture littéraire : le programme de seconde n’impose aucune œuvre, et ce recueil ne figure sur aucune liste officielle. Il s’étudie naturellement dans le cadre de l’objet d’étude « La poésie du Moyen Âge au XVIIIe siècle », dont le programme cite la Pléiade parmi les mouvements qui peuvent éclairer le corpus. Le parcours « Le sonnet, entre plainte intime et regard critique » est donc une proposition du site, pas un intitulé officiel. Il montre qu’une même forme fixe, le sonnet, peut servir à des usages très différents : se plaindre (registre élégiaque), se moquer (registre satirique) ou louer (registre épidictique), et comment Du Bellay détourne le sonnet amoureux de Pétrarque pour en faire un instrument d’introspection et de critique sociale.\n\nLe recueil répond à ce parcours de manière exemplaire. Dans la première partie, la structure du sonnet (quatrains qui posent une situation, tercets qui la retournent) sert à exprimer la nostalgie : « Heureux qui, comme Ulysse » oppose la gloire des héros à la simplicité du village natal. Dans la seconde, la même forme devient une arme : accumulations, anaphores et chutes ironiques ridiculisent les courtisans. Le « je » lyrique ne parle plus d’amour mais de lui-même, de ses soucis, de son regard sur le monde.\n\nLes textes complémentaires permettent de remonter aux sources antiques de l’élégie de l’exil et de la satire, de comparer avec la poésie amoureuse de Ronsard, et de voir comment le thème du voyage décevant a été repris par la suite.",
+  "textesComplementaires": [
+   {
+    "titre": "Les Tristes (extraits)",
+    "auteur": "Ovide (vers 8-12 ap. J.-C.)",
+    "interet": "Le grand modèle antique de l’élégie de l’exil : le poète latin, banni par Auguste au bord de la mer Noire, pleure Rome comme Du Bellay pleure la France."
+   },
+   {
+    "titre": "Les Antiquités de Rome, sonnet III « Nouveau venu qui cherches Rome en Rome »",
+    "auteur": "Joachim du Bellay (1558)",
+    "interet": "Publié la même année, ce recueil médite sur les ruines de la Rome antique : il complète la vision satirique de la Rome moderne dans Les Regrets."
+   },
+   {
+    "titre": "Sonnets pour Hélène, « Quand vous serez bien vieille »",
+    "auteur": "Pierre de Ronsard (1578)",
+    "interet": "Le sonnet amoureux de l’ami et rival : on compare deux usages du sonnet, l’un amoureux et triomphant, l’autre intime et désabusé."
+   },
+   {
+    "titre": "Essais, III, 9 « De la vanité »",
+    "auteur": "Michel de Montaigne (1588)",
+    "interet": "Montaigne, qui a aussi voyagé à Rome, livre une vision opposée : le voyage comme école de l’esprit et plaisir de la diversité."
+   },
+   {
+    "titre": "Les Fleurs du mal, « Le Voyage »",
+    "auteur": "Charles Baudelaire (1861)",
+    "interet": "Trois siècles plus tard, le voyage décevant : « Amer savoir, celui qu’on tire du voyage ! » prolonge la désillusion de Du Bellay."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Les Regrets transforment le sonnet amoureux en journal de l’exil et en arme satirique.",
+   "Le recueil suit le séjour : plainte, satire de Rome, retour décevant, éloge des grands.",
+   "La simplicité affichée (« papiers journaux ») est un choix poétique réfléchi.",
+   "Le voyage n’est pas formateur mais décevant : le poète y perd sa jeunesse et son inspiration.",
+   "La satire est universelle : elle vise Rome, la France, et le poète lui-même."
+  ],
+  "axes": [
+   "La plainte élégiaque de l’exilé (apostrophe, pathétique, nostalgie).",
+   "La satire des courtisans et de Rome (accumulation, antiphrase, chute).",
+   "Un art poétique de la simplicité (refus des modèles, confidence).",
+   "Le thème du voyage et du retour (Ulysse, Jason, le marinier)."
+  ],
+  "problematiques": [
+   "Comment Du Bellay fait-il d’une expérience personnelle d’exil une œuvre poétique universelle ?",
+   "Comment l’élégie et la satire se répondent-elles dans Les Regrets ?",
+   "En quoi Les Regrets renouvellent-ils l’usage du sonnet ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Sonnet I : « Je ne veux point fouiller au sein de la nature », les vers « secrétaires », les « papiers journaux ».",
+    "utilisation": "Montrer que le recueil définit une poésie intime et simple."
+   },
+   {
+    "exemple": "Sonnet IX : la France mère, l’agneau perdu, l’Écho.",
+    "utilisation": "Illustrer le pathétique et la personnification dans le registre élégiaque."
+   },
+   {
+    "exemple": "Sonnet XXXI : Ulysse, la cheminée du village, Liré contre le Palatin.",
+    "utilisation": "Analyser l’éloge de la simplicité et l’opposition Rome/Anjou."
+   },
+   {
+    "exemple": "Sonnet XXXII : le poète qui voulait tout apprendre et rapporte des « harengs ».",
+    "utilisation": "Montrer l’autodérision et la désillusion du voyage."
+   },
+   {
+    "exemple": "Sonnet LXXXI : un conclave décrit comme un marché, « dix Cardinaux en vente ».",
+    "utilisation": "Illustrer la satire de la cour pontificale."
+   },
+   {
+    "exemple": "Sonnet CXXX : « Et je pensais aussi ce que pensait Ulysse ».",
+    "utilisation": "Montrer que le retour ne guérit pas et que le recueil évolue vers la lucidité."
+   }
+  ],
+  "liens": "Le personnage du poète relie les deux registres : il est à la fois la victime qui se plaint et l’observateur qui se moque. Ulysse relie la plainte (XXXI) et la désillusion (CXXX). L’accumulation sert la plainte (sonnet XII : « Ainsi chante l’ouvrier… ») comme la satire (sonnet LXXXVI). La France est d’abord une mère regrettée, puis une cour aussi hypocrite que Rome.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Sonnet XXXI, « Heureux qui, comme Ulysse… »",
+    "pistes": "L’éloge du retour à travers les héros antiques ; la plainte personnelle (questions, « hélas ») ; le parallèle entre Rome et l’Anjou fondé sur l’anaphore et l’antithèse ; la valeur des choses simples."
+   },
+   {
+    "passage": "Sonnet LXXXVI, « Marcher d’un grave pas… »",
+    "pistes": "Un portrait en action par les infinitifs ; le courtisan comme comédien (italianismes, répétition de « grave ») ; la chute satirique et la ruine finale."
+   },
+   {
+    "passage": "Sonnet IX, « France, mère des arts… »",
+    "pistes": "L’apostrophe et la métaphore maternelle ; l’allégorie de l’agneau et des loups ; le silence de la France et la solitude de l’exilé ; la dignité finale du poète."
+   }
+  ],
+  "erreurs": [
+   "Croire que Du Bellay est exilé pour une faute : il est à Rome pour son travail, au service de son cousin cardinal.",
+   "Lire « Heureux qui, comme Ulysse » comme un poème joyeux sur le voyage : c’est une plainte d’exilé qui envie ceux qui sont rentrés.",
+   "Réduire le recueil à la nostalgie : la satire occupe une grande partie des sonnets.",
+   "Prendre à la lettre la « simplicité » revendiquée : le travail de la forme est très soigné.",
+   "Confondre Les Regrets et Les Antiquités de Rome, publiés la même année : le second recueil médite sur les ruines antiques.",
+   "Confondre la Rome antique (admirée, en ruines) et la Rome moderne (la cour du pape, critiquée)."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Les Regrets sont-ils seulement le recueil d’une plainte ?",
+   "analyse": "Le titre du recueil évoque la nostalgie et la tristesse. Le mot « seulement » invite à nuancer : la plainte (élégie) est bien présente, mais le recueil contient aussi la satire, l’autodérision, l’éloge et une réflexion sur la poésie.",
+   "problematique": "Les Regrets ne dépassent-ils pas la simple plainte de l’exilé pour devenir un regard critique sur le monde et une réflexion sur la poésie ?",
+   "plan": [
+    {
+     "titre": "I. Une plainte élégiaque",
+     "arguments": [
+      "A. La souffrance de l’exil et la nostalgie de la France (sonnet 9 : « France, mère des arts, des armes et des lois »).",
+      "B. Le regret du foyer et du village natal (sonnet 31 : « Plus mon petit Liré, que le mont Palatin »).",
+      "C. Le temps perdu et la perte de l’inspiration (sonnets 6 et 32)."
+     ]
+    },
+    {
+     "titre": "II. Une satire mordante",
+     "arguments": [
+      "A. La Rome moderne, capitale de l’hypocrisie et de l’argent (sonnets 80 et 81).",
+      "B. Le portrait ridicule du courtisan (sonnet 86 : « Marcher d’un grave pas »).",
+      "C. Une satire universelle qui vise aussi la France et le poète lui-même (sonnets 68 et 150)."
+     ]
+    },
+    {
+     "titre": "III. Une réflexion sur la poésie",
+     "arguments": [
+      "A. Un nouvel art poétique : écrire « à l’aventure », comme un journal (sonnet 1).",
+      "B. La douleur transformée en chant (sonnet 12 : « en pleurant je les chante »).",
+      "C. L’éloge des grands et la quête de protection : la poésie a aussi une fonction sociale (derniers sonnets au roi)."
+     ]
+    }
+   ],
+   "introduction": "« Heureux qui, comme Ulysse, a fait un beau voyage » : ce vers de Du Bellay est devenu le symbole de la nostalgie. Publiés en 1558, après quatre années passées à Rome au service de son cousin cardinal, Les Regrets portent un titre qui annonce la tristesse et le souvenir douloureux. On pourrait donc y voir uniquement le recueil d’une plainte, celle d’un exilé malheureux. Pourtant, le lecteur y rencontre aussi des sonnets moqueurs, des portraits ridicules et des éloges. On peut alors se demander si Les Regrets ne dépassent pas la simple plainte pour devenir un regard critique sur le monde et une réflexion sur la poésie. Nous verrons d’abord que le recueil est bien une plainte élégiaque, puis qu’il est aussi une satire mordante, enfin qu’il propose une véritable réflexion sur la poésie.",
+   "conclusion": "Les Regrets sont bien le recueil d’une plainte : celle d’un homme exilé, nostalgique de sa patrie et de son village, qui sent passer sa jeunesse. Mais cette plainte se double d’une satire vigoureuse de Rome, des courtisans et de tous les hommes, poète compris. Surtout, Du Bellay y invente une poésie nouvelle, simple et intime, qui transforme la douleur en chant. Ce mélange de mélancolie et d’ironie annonce les grands poètes de la mélancolie moderne, comme Baudelaire, qui écrira dans « Le Voyage » : « Amer savoir, celui qu’on tire du voyage ! »"
+  },
+  {
+   "sujet": "Selon vous, la poésie est-elle plus forte lorsqu’elle exprime une souffrance personnelle ? Vous répondrez en vous appuyant sur Les Regrets.",
+   "analyse": "Le sujet interroge le lien entre sincérité et force poétique. « Souffrance personnelle » renvoie à l’élégie et au lyrisme. Il faut se demander si l’émotion vécue suffit à faire un grand poème, ou si la force vient aussi du travail de la forme et d’autres registres (satire, humour).",
+   "problematique": "La puissance des Regrets vient-elle seulement de l’expression d’une souffrance vécue, ou aussi du travail poétique qui la transforme ?",
+   "plan": [
+    {
+     "titre": "I. La souffrance vécue donne au poème sa force d’émotion",
+     "arguments": [
+      "A. Le lecteur partage la douleur d’un homme réel (exil, soucis, maladie).",
+      "B. La simplicité de la langue rend la plainte touchante (« Quand reverrai-je, hélas, de mon petit village / Fumer la cheminée »).",
+      "C. Le « je » qui se confie crée une intimité avec le lecteur (sonnet 1 : les vers sont des « secrétaires »)."
+     ]
+    },
+    {
+     "titre": "II. Mais la force vient aussi du travail de la forme",
+     "arguments": [
+      "A. La structure du sonnet organise l’émotion (quatrains/tercets, chute du sonnet 31).",
+      "B. Les figures de style amplifient la plainte (apostrophe et personnification du sonnet 9, chiasme du sonnet 12).",
+      "C. Les références antiques (Ulysse, Jason, Ovide) donnent à la douleur une portée universelle."
+     ]
+    },
+    {
+     "titre": "III. Et la poésie est parfois plus forte encore quand elle dépasse la souffrance",
+     "arguments": [
+      "A. L’ironie et l’autodérision (sonnet 32 : les « harengs » au lieu des « lingots d’or »).",
+      "B. La satire, qui transforme la souffrance en regard critique (sonnet 86).",
+      "C. La lucidité morale (sonnet 68 : « Je hais moi-même encor mon imperfection »)."
+     ]
+    }
+   ],
+   "introduction": "Musset écrira au XIXe siècle, dans « La Nuit de mai » : « Les plus désespérés sont les chants les plus beaux ». Cette idée, selon laquelle la souffrance fait les grands poèmes, semble trouver une illustration parfaite dans Les Regrets de Du Bellay (1558), recueil né de l’exil à Rome et de la nostalgie de la France. Mais la douleur suffit-elle à faire la force d’un poème ? La puissance des Regrets vient-elle seulement de l’expression d’une souffrance vécue, ou aussi du travail poétique qui la transforme ? Nous verrons d’abord que la souffrance vécue donne au recueil une grande force d’émotion, puis que cette force vient aussi du travail de la forme, enfin que la poésie de Du Bellay est peut-être plus forte encore quand elle dépasse la plainte par l’ironie et la satire.",
+   "conclusion": "La souffrance vécue par Du Bellay donne aux Regrets leur émotion et leur sincérité : le lecteur partage la nostalgie d’un homme réel. Mais cette douleur n’atteint sa force qu’à travers le travail de la forme, la rigueur du sonnet, les figures et les références antiques. Et c’est peut-être lorsque le poète prend de la distance avec sa peine, par l’ironie ou la satire, que sa poésie devient la plus originale. La souffrance est donc une source, non une garantie. Verlaine, dans « Chanson d’automne », montrera à son tour qu’une douleur ne devient poème que par la musique des mots."
+  }
+ ],
+ "oral": {
+  "presentation": "Les Regrets de Joachim du Bellay, publiés en 1558, réunissent 191 sonnets en alexandrins écrits pendant et après un séjour de quatre ans à Rome, où le poète servait son cousin le cardinal Jean du Bellay. Le recueil suit à peu près ce séjour : d’abord la plainte de l’exilé, nostalgique de la France et de son village de Liré ; puis la satire de la cour pontificale et des courtisans ; enfin le retour en France, décevant, et l’éloge des grands. Membre de la Pléiade, Du Bellay y renonce au grand style pour une poésie simple, présentée comme un journal intime. Le sonnet devient tour à tour plainte, arme satirique et confidence.",
+  "essentiels": [
+   "Dates : séjour à Rome 1553-1557, publication 1558, mort en 1560.",
+   "Trois registres : élégie, satire, éloge.",
+   "Sonnets à connaître : I (art poétique), IX (France mère), XXXI (Ulysse), XXXII (les harengs), LXXXVI (le courtisan), CXXX (le retour).",
+   "Modèles antiques : Ovide (exil), Horace et Juvénal (satire), Homère (Ulysse).",
+   "Notions : alexandrin, anaphore, antithèse, antiphrase, chiasme, chute."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi parle-t-on d’« exil » alors que Du Bellay est parti volontairement ?",
+    "reponse": "Il s’agit d’un exil vécu plutôt que d’une condamnation : Du Bellay est à Rome pour servir son cousin cardinal, mais il s’y sent étranger et malheureux. Il se compare à Ulysse, à un agneau perdu (sonnet IX) et imite Ovide, le grand poète exilé. Le mot exprime donc un sentiment d’éloignement et d’abandon plus qu’une situation juridique."
+   },
+   {
+    "question": "Quel est le projet poétique annoncé dans les premiers sonnets ?",
+    "reponse": "Du Bellay définit son projet par des refus : il ne veut pas « fouiller au sein de la nature » (sonnet I) ni imiter Pétrarque ou Ronsard (sonnet IV). Il écrira « à l’aventure », au fil des jours, et ses vers seront ses « secrétaires », c’est-à-dire ses confidents. Le recueil se présente comme des « papiers journaux », un journal intime en vers."
+   },
+   {
+    "question": "Le sonnet XXXI est-il un poème heureux ?",
+    "reponse": "Il commence par le mot « Heureux », mais ce bonheur est celui des autres, d’Ulysse et de Jason, qui sont rentrés. Le poète, lui, se demande « Quand reverrai-je, hélas » son village. Les tercets font un éloge de l’Anjou, mais cet éloge est né du manque. C’est donc un poème de la nostalgie, et le sonnet CXXX montrera même que le retour déçoit."
+   },
+   {
+    "question": "Comment Du Bellay construit-il la satire du courtisan dans le sonnet LXXXVI ?",
+    "reponse": "Il accumule les infinitifs sans sujet (« Marcher », « Balancer », « Discourir ») : le courtisan devient une suite de gestes mécaniques. La répétition de « grave » et les formules italiennes (« Messer non ») le montrent comme un comédien. La chute renverse tout : « Voilà de cette cour la plus grande vertu » est une antiphrase, et le courtisan rentre en France « sans barbe et sans argent »."
+   },
+   {
+    "question": "La satire ne vise-t-elle que Rome ?",
+    "reponse": "Non. Dans le sonnet LXVIII, l’anaphore « Je hais » passe en revue tous les peuples, Français compris, et finit sur le poète lui-même : « Je hais moi-même encor mon imperfection ». Dans le sonnet CL, il se moque des « vieux singes de cour » français. La satire devient une lucidité générale sur la nature humaine."
+   },
+   {
+    "question": "Comment Du Bellay relie-t-il souffrance et poésie ?",
+    "reponse": "Dans le sonnet XII, il répond à son ami Magny : « Je ne chante (Magny) je pleure mes ennuis : / Ou, pour le dire mieux, en pleurant je les chante ». Le chiasme montre que la douleur devient chant et que le chant console. La poésie n’est pas un ornement mais un moyen de supporter la peine, comme le chant de l’ouvrier ou du marinier énumérés à la fin du sonnet."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), à rattacher à l’objet d’étude de seconde « La poésie du Moyen Âge au XVIIIe siècle » ; parcours proposé par le site (non officiel) : le sonnet, entre plainte intime et regard critique. Liens possibles : Ovide, Tristes (exil) ; Ronsard, Les Amours (autre usage du sonnet, amoureux) ; Du Bellay, Les Antiquités de Rome (les ruines) ; Montaigne, « De la vanité » (le voyage comme plaisir) ; Baudelaire, « Le Voyage » (le voyage décevant).",
+  "reflexion": [
+   {
+    "question": "Partir loin de chez soi est-il une chance ou une épreuve ?",
+    "pistes": "Opposer la déception de Du Bellay et l’enthousiasme de Montaigne ; penser aux expériences actuelles (études à l’étranger, migration) ; distinguer voyage choisi et voyage subi."
+   },
+   {
+    "question": "Peut-on rire de ce qui nous fait souffrir ?",
+    "pistes": "L’autodérision du sonnet XXXII ; l’humour comme distance ; les limites de l’ironie."
+   },
+   {
+    "question": "Une poésie simple, proche de la conversation, est-elle moins « poétique » ?",
+    "pistes": "Comparer le grand style de Ronsard et le naturel de Du Bellay ; montrer que la simplicité demande du travail."
+   },
+   {
+    "question": "Le sonnet XXXI vous parle-t-il encore aujourd’hui ?",
+    "pistes": "La nostalgie du lieu d’enfance ; la valeur des choses simples ; le contraste entre lieux célèbres et lieux aimés."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "Sonnet 1 : « Je ne veux point fouiller au sein de la nature »",
+   "reference": "Ouverture du recueil, art poétique",
+   "enjeu": "Comment Du Bellay définit-il, par une série de refus, une poésie nouvelle, simple et intime ?",
+   "mouvements": [
+    "Mouvement 1 (premier quatrain) : le refus de la grande poésie savante. Anaphore « Je ne veux point » (trois fois), verbes de recherche (fouiller, chercher, sonder) : Du Bellay écarte la poésie philosophique et scientifique.",
+    "Mouvement 2 (second quatrain) : le choix d’écrire « à l’aventure ». Opposition marquée par « Mais » : au lieu des « hauts arguments », le poète suit les « accidents divers » de sa vie, « soit de bien, soit de mal ».",
+    "Mouvement 3 (tercets) : les vers confidents. Parallélisme « Je me plains / Je me ris », métaphore des « secrétaires » du cœur, et chute : ces poèmes seront des « papiers journaux » ou des « commentaires », un journal intime sans ornement."
+   ]
+  },
+  {
+   "titre": "Sonnet 9 : « France, mère des arts, des armes et des lois »",
+   "reference": "Partie élégiaque, plainte de l’exilé",
+   "enjeu": "Comment le poète transforme-t-il sa plainte d’exilé en appel pathétique à une France maternelle ?",
+   "mouvements": [
+    "Mouvement 1 (premier quatrain) : l’éloge et l’appel. Apostrophe, rythme ternaire, métaphore de la mère nourricière (« du lait de ta mamelle ») et comparaison avec l’agneau qui appelle sa nourrice.",
+    "Mouvement 2 (second quatrain) : le silence de la France. Questions et reproches (« ô cruelle »), répétition pathétique « France, France », et chute : seul « Écho » répond, la solitude est totale.",
+    "Mouvement 3 (tercets) : la détresse et la revendication. Image des loups et de l’hiver menaçant, contraste avec les autres agneaux bien nourris, et dernier vers fier : « Si ne suis-je pourtant le pire du troupeau »."
+   ]
+  },
+  {
+   "titre": "Sonnet 31 : « Heureux qui, comme Ulysse, a fait un beau voyage »",
+   "reference": "Partie élégiaque, le rêve du retour",
+   "enjeu": "Comment ce sonnet fait-il l’éloge du foyer et de la simplicité contre la grandeur de Rome ?",
+   "mouvements": [
+    "Mouvement 1 (premier quatrain) : le bonheur des héros revenus. Références mythologiques (Ulysse, Jason et la Toison d’or), retour « plein d’usage et raison » : le voyage n’a de sens que s’il permet le retour.",
+    "Mouvement 2 (second quatrain) : la plainte personnelle. Questions rhétoriques et interjection « hélas », images humbles (« fumer la cheminée », « le clos de ma pauvre maison ») : la maison vaut une province.",
+    "Mouvement 3 (tercets) : le parallèle Rome/Anjou. Anaphore de « Plus », série d’antithèses (palais romains / séjour des aïeux, marbre / ardoise, Tibre / Loire, Palatin / Liré) et chute sur « la douceur angevine »."
+   ]
+  },
+  {
+   "titre": "Sonnet 86 : « Marcher d’un grave pas et d’un grave souci »",
+   "reference": "Partie satirique, portrait du courtisan romain",
+   "enjeu": "Comment Du Bellay construit-il un portrait satirique du courtisan qui révèle le vide derrière les apparences ?",
+   "mouvements": [
+    "Mouvement 1 (quatrains) : la comédie des gestes. Accumulation d’infinitifs (marcher, faire fête, balancer, répondre, entremêler, contrefaire, discourir), répétition ironique de « grave », formules italiennes (« Messer non », « Son Servitor ») : le courtisan est un acteur.",
+    "Mouvement 2 (premier tercet) : l’art de paraître. « Seigneuriser chacun d’un baisement de main », « cacher sa pauvreté d’une brave apparence » : l’hypocrisie est un système.",
+    "Mouvement 3 (dernier tercet) : la chute satirique. Le présentatif « Voilà » et l’antiphrase « la plus grande vertu », puis la triple répétition de « mal » et l’image finale du retour « sans barbe et sans argent » : ruine et ridicule."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Les Regrets (1558) : 191 sonnets en alexandrins écrits pendant et après le séjour de Du Bellay à Rome (1553-1557).",
+   "Trois grands ensembles : plainte élégiaque de l’exilé, satire de Rome, retour en France (satire de la cour et éloge des grands).",
+   "Deux registres principaux : l’élégie (« France, mère des arts ») et la satire (« Marcher d’un grave pas »).",
+   "Un art poétique nouveau : une poésie simple, intime, comme un journal (« papiers journaux », sonnet 1).",
+   "Sonnet 31 à connaître : « Heureux qui, comme Ulysse » oppose la grandeur de Rome à la douceur du village natal.",
+   "Du Bellay (vers 1522-1560), membre de la Pléiade, auteur de la Défense et illustration de la langue française (1549).",
+   "Le recueil mêle nostalgie, désillusion, ironie et autodérision.",
+   "Le retour en France déçoit lui aussi (sonnet CXXX) : le recueil va de la nostalgie à la lucidité."
+  ],
+  "citations": [
+   2,
+   4,
+   5,
+   6,
+   7,
+   9
+  ],
+  "pieges": [
+   "Du Bellay n’est pas exilé par une condamnation : il sert son cousin cardinal à Rome.",
+   "Ne pas confondre Les Regrets (1558) et Les Antiquités de Rome (même année).",
+   "« Heureux qui, comme Ulysse » n’est pas un éloge du voyage mais du retour.",
+   "Les sonnets sont en alexandrins, pas en décasyllabes."
+  ],
+  "synthese": "Les Regrets (1558) sont le journal en sonnets d’un poète de la Pléiade envoyé à Rome de 1553 à 1557. Du Bellay y renonce au grand style pour une poésie simple et confidentielle. Le recueil passe de la plainte élégiaque (« France, mère des arts », « Heureux qui, comme Ulysse ») à la satire de la cour pontificale et des courtisans (« Marcher d’un grave pas »), puis au retour décevant et à l’éloge du roi. Le sonnet devient un outil à tout faire : plainte, moquerie, autodérision, éloge. Leçon : le voyage n’enrichit pas forcément, mais la poésie transforme la douleur en chant."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Élégie",
+   "definition": "Poème ou registre de la plainte mélancolique (deuil, exil, amour malheureux). Exemple : sonnet 9, « France, mère des arts »."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Texte ou registre qui critique les mœurs en s’en moquant. Exemple : le portrait du courtisan dans le sonnet 86."
+  },
+  {
+   "terme": "Alexandrin",
+   "definition": "Vers de douze syllabes, souvent coupé en deux hémistiches de six. Tous les sonnets des Regrets sont en alexandrins."
+  },
+  {
+   "terme": "Apostrophe",
+   "definition": "Figure qui consiste à s’adresser directement à quelqu’un ou à quelque chose. Exemple : « France, mère des arts, des armes et des lois »."
+  },
+  {
+   "terme": "Anaphore",
+   "definition": "Répétition d’un mot en début de vers ou de phrase. Exemple : « Je hais… » dans le sonnet 68, « Plus… » dans le sonnet 31."
+  },
+  {
+   "terme": "Antithèse",
+   "definition": "Rapprochement de deux termes opposés. Exemple : « Plus mon petit Liré, que le mont Palatin »."
+  },
+  {
+   "terme": "Antiphrase",
+   "definition": "Figure de l’ironie : dire le contraire de ce que l’on pense. Exemple : « Voilà de cette cour la plus grande vertu »."
+  },
+  {
+   "terme": "Chiasme",
+   "definition": "Construction en miroir (A B / B A). Exemple : « je pleure mes ennuis […] en pleurant je les chante »."
+  },
+  {
+   "terme": "Pléiade",
+   "definition": "Groupe de poètes humanistes (Ronsard, Du Bellay…) qui veulent enrichir la langue française. Du Bellay a écrit leur manifeste, la Défense et illustration de la langue française (1549)."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Combien de sonnets compte Les Regrets ?",
+   "choix": [
+    "100",
+    "150",
+    "191",
+    "365"
+   ],
+   "reponse": 2,
+   "explication": "Le recueil compte 191 sonnets en alexandrins."
+  },
+  {
+   "question": "Pourquoi Du Bellay se trouve-t-il à Rome ?",
+   "choix": [
+    "Il y étudie la théologie",
+    "Il est exilé par le roi",
+    "Il accompagne son cousin le cardinal Jean du Bellay",
+    "Il y fait un pèlerinage"
+   ],
+   "reponse": 2,
+   "explication": "De 1553 à 1557, il est secrétaire et intendant du cardinal Jean du Bellay."
+  },
+  {
+   "question": "Quel est le village natal du poète, cité dans le sonnet 31 ?",
+   "choix": [
+    "Vendôme",
+    "Liré",
+    "Blois",
+    "Angers"
+   ],
+   "reponse": 1,
+   "explication": "« Plus mon petit Liré, que le mont Palatin » : Liré est en Anjou."
+  },
+  {
+   "question": "Quel héros grec ouvre le sonnet 31 ?",
+   "choix": [
+    "Achille",
+    "Hector",
+    "Ulysse",
+    "Persée"
+   ],
+   "reponse": 2,
+   "explication": "« Heureux qui, comme Ulysse, a fait un beau voyage » : Ulysse est le modèle du voyageur qui rentre chez lui."
+  },
+  {
+   "question": "Quel registre domine dans le sonnet 86 (« Marcher d’un grave pas ») ?",
+   "choix": [
+    "Élégiaque",
+    "Satirique",
+    "Épique",
+    "Tragique"
+   ],
+   "reponse": 1,
+   "explication": "Le sonnet se moque des manières hypocrites du courtisan romain : c’est une satire."
+  },
+  {
+   "question": "Quel manifeste Du Bellay a-t-il publié en 1549 ?",
+   "choix": [
+    "L’Art poétique",
+    "La Défense et illustration de la langue française",
+    "Les Essais",
+    "Le Discours de la méthode"
+   ],
+   "reponse": 1,
+   "explication": "La Défense et illustration de la langue française est le manifeste de la Pléiade."
+  },
+  {
+   "question": "Dans le sonnet 9, qui seul répond au poète ?",
+   "choix": [
+    "Le roi",
+    "Ronsard",
+    "Écho",
+    "La Muse"
+   ],
+   "reponse": 2,
+   "explication": "« Mais nul, sinon Écho, ne répond à ma voix » : image de la solitude de l’exilé."
+  },
+  {
+   "question": "Quel poète latin, lui aussi exilé, est un modèle de l’élégie de Du Bellay ?",
+   "choix": [
+    "Virgile",
+    "Ovide",
+    "Horace",
+    "Lucrèce"
+   ],
+   "reponse": 1,
+   "explication": "Ovide, exilé par Auguste, a écrit Les Tristes et Les Pontiques, plaintes d’exil."
+  },
+  {
+   "question": "À qui le poète répond-il dans le sonnet XII (« Je ne chante… je pleure mes ennuis ») ?",
+   "choix": [
+    "Ronsard",
+    "Olivier de Magny",
+    "Jean Dorat",
+    "Pontus de Tyard"
+   ],
+   "reponse": 1,
+   "explication": "Le sonnet s’adresse à Olivier de Magny, poète ami de Du Bellay, présent lui aussi à Rome."
+  },
+  {
+   "question": "Que rapporte le « marinier » du sonnet XXXII ?",
+   "choix": [
+    "Des lingots d’or",
+    "Des épices",
+    "Des harengs",
+    "Des livres"
+   ],
+   "reponse": 2,
+   "explication": "« Rapporte des harengs en lieu de lingots d’or » : image ironique d’un voyage qui n’a rien rapporté de précieux."
+  },
+  {
+   "question": "Quel recueil de Du Bellay, publié la même année que Les Regrets, médite sur les ruines de Rome ?",
+   "choix": [
+    "L’Olive",
+    "Les Antiquités de Rome",
+    "Le Poète courtisan",
+    "Les Tristes"
+   ],
+   "reponse": 1,
+   "explication": "Les Antiquités de Rome paraissent en 1558, comme Les Regrets. Les Tristes sont d’Ovide."
+  },
+  {
+   "question": "Dans quel sonnet le poète avoue-t-il que le retour en France l’a déçu ?",
+   "choix": [
+    "Sonnet I",
+    "Sonnet IX",
+    "Sonnet XXXI",
+    "Sonnet CXXX"
+   ],
+   "reponse": 3,
+   "explication": "Dans le sonnet CXXX, « Et je pensais aussi ce que pensait Ulysse », il trouve « mille soucis mordants » dans sa maison."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Wikisource – Les Regrets (du Bellay), éd. Séché, 1903",
+   "url": "https://fr.wikisource.org/wiki/Les_Regrets_(du_Bellay)"
+  },
+  {
+   "titre": "Wikisource – Du Bellay, Les Antiquités de Rome (sonnet III)",
+   "url": "https://fr.wikisource.org/wiki/Les_Antiquit%C3%A9s_de_Rome"
+  },
+  {
+   "titre": "Wikisource – Baudelaire, « Le Voyage », Les Fleurs du mal (1861)",
+   "url": "https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)/Le_Voyage"
+  },
+  {
+   "titre": "Wikisource – Musset, « La Nuit de mai »",
+   "url": "https://fr.wikisource.org/wiki/Po%C3%A9sies_nouvelles_(1836-1852)/La_Nuit_de_mai"
+  }
+ ],
+ "aVerifier": [
+  "Limites des trois grands ensembles du recueil (vers les sonnets 49 et 127) : découpage indicatif, variable selon les commentateurs.",
+  "Degré de prudence de la satire envers la papauté : point d’interprétation débattu."
+ ]
+}

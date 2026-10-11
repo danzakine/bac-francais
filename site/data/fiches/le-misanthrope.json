@@ -1,0 +1,887 @@
+{
+ "id": "le-misanthrope",
+ "accroche": "Faut-il dire toute la vérité, même quand elle blesse ? Alceste le croit, et il aime la plus brillante coquette de Paris : la comédie peut commencer.",
+ "identite": {
+  "auteur": "Molière, de son vrai nom Jean-Baptiste Poquelin (1622-1673), est le fils d’un tapissier du roi. Il renonce à la charge paternelle pour fonder en 1643 l’Illustre-Théâtre avec la famille Béjart, puis parcourt la province pendant une douzaine d’années. Revenu à Paris en 1658, il obtient la protection de Louis XIV et s’impose avec Les Précieuses ridicules (1659) et L’École des femmes (1662). Il est à la fois auteur, directeur de troupe et comédien : il crée lui-même le rôle d’Alceste, tandis que sa femme, Armande Béjart, joue Célimène. Il meurt en 1673, peu après une représentation du Malade imaginaire.",
+  "contexte": "La pièce est créée en 1666, sous le règne personnel de Louis XIV. La vie mondaine se concentre à la cour et dans les salons parisiens, où l’on cultive la conversation, la galanterie et le bel esprit. L’idéal social est celui de l’« honnête homme » : cultivé, poli, modéré, il sait plaire sans se faire remarquer. Les apparences, la flatterie et les protections comptent beaucoup, jusque dans la justice : il est alors d’usage de « solliciter » ses juges, ce qu’Alceste refuse. C’est aussi l’époque des moralistes : La Rochefoucauld publie la première édition de ses Maximes en 1665 et y dévoile l’amour-propre caché sous les vertus.",
+  "mouvement": "Le Misanthrope est une « grande comédie » classique : cinq actes en alexandrins, unité de lieu (le salon de Célimène), de temps (une journée) et d’action, respect de la bienséance. C’est une comédie de caractère (elle peint un type humain, le misanthrope) et de mœurs (elle peint la société mondaine). Le comique y est plus subtil que dans la farce : comique de caractère, de situation et de mots plutôt que coups de bâton. La pièce applique l’ambition classique de plaire et d’instruire, que Molière formule ailleurs pour la comédie en général : corriger les hommes en les divertissant.",
+  "circonstances": "La pièce est créée le 4 juin 1666 au théâtre du Palais-Royal par la troupe de Molière. Elle arrive après deux années difficiles : Le Tartuffe est interdit depuis 1664 et Dom Juan (1665) a été retiré de l’affiche malgré son succès. Le registre de la troupe, cité par les éditeurs du XIXe siècle, montre que la pièce fut jouée vingt et une fois de suite, ce qui dément la légende d’un échec. Elle est publiée en 1667, précédée d’une Lettre écrite sur la comédie du Misanthrope de Jean Donneau de Visé, jusque-là adversaire de Molière, qui fait l’éloge de la pièce.",
+  "carriere": "Le Misanthrope appartient au cœur de la carrière de Molière, entre la querelle du Tartuffe (1664-1669) et les grandes comédies de la fin (L’Avare, 1668 ; Les Femmes savantes, 1672). Avec L’École des femmes, Le Tartuffe et Les Femmes savantes, c’est l’une de ses comédies en cinq actes et en vers, le genre le plus prestigieux de la comédie. C’est aussi la plus grave : pas de valet rusé, pas de père tyrannique, pas de mariage final pour le héros. La pièce est souvent considérée comme son chef-d’œuvre de « haute comédie », et Molière enchaîne aussitôt avec une farce, Le Médecin malgré lui (août 1666), preuve qu’il pratiquait toutes les formes du comique."
+ },
+ "resumeCourt": "Le Misanthrope, comédie en cinq actes et en alexandrins créée par Molière en 1666, se déroule en une journée dans le salon de Célimène, à Paris. Alceste déteste l’hypocrisie de la société et exige une sincérité totale ; son ami Philinte, au contraire, accepte les hommes tels qu’ils sont et pratique la politesse mondaine. Paradoxe comique : Alceste est amoureux de Célimène, jeune veuve de vingt ans, coquette et médisante, qui charme tous les hommes et se moque de tout le monde. En une journée, Alceste se brouille avec Oronte en critiquant son sonnet, assiste aux portraits satiriques que trace Célimène, apprend par la prude Arsinoé que Célimène le trompe, et perd un procès. Au dernier acte, des lettres de Célimène se moquant de tous ses soupirants sont lues en public. Alceste lui pardonne à une condition : qu’elle le suive loin du monde. Elle refuse. Seul, il quitte la société pour chercher « un endroit écarté », tandis que Philinte et Éliante vont s’unir.",
+ "resume": [
+  {
+   "titre": "Acte I, scène 1 : le débat sur la sincérité",
+   "texte": "Alceste reproche violemment à Philinte d’avoir embrassé avec chaleur un homme dont il connaît à peine le nom. Pour lui, il faut être sincère en toute occasion : « Je veux qu’on soit sincère, et qu’en homme d’honneur / On ne lâche aucun mot qui ne parte du cœur. » Philinte défend la politesse et la modération : « La parfaite raison fuit toute extrémité ». Alceste avoue qu’il hait « tous les hommes » ; Philinte s’étonne alors qu’il aime Célimène, coquette et médisante. Alceste reconnaît sa faiblesse mais espère la corriger."
+  },
+  {
+   "titre": "Acte I, scènes 2 et 3 : le sonnet d’Oronte",
+   "texte": "Oronte, gentilhomme vaniteux, vient offrir son amitié à Alceste et lui lire un sonnet pour avoir son avis. Philinte le couvre d’éloges ; Alceste, après plusieurs détours comiques (« Je ne dis pas cela »), finit par déclarer qu’il est « bon à mettre au cabinet » et lui oppose une vieille chanson populaire. Oronte, vexé, se fâche : on sent qu’Alceste vient de se faire un ennemi."
+  },
+  {
+   "titre": "Acte II : Célimène et la scène des portraits",
+   "texte": "Alceste reproche à Célimène d’accueillir tous ses soupirants et lui demande de choisir. Arrivent les marquis Acaste et Clitandre, Éliante (cousine de Célimène) et Philinte. Célimène brille dans un jeu mondain (II, 5 dans le texte du site ; II, 4 dans la plupart des éditions) : elle trace des portraits satiriques des absents (Damon, « un parleur étrange », Timante, « homme tout mystère », Bélise…), applaudie par les marquis. Alceste dénonce cette médisance et les flatteurs qui l’encouragent. Éliante lui répond qu’un amoureux aime jusqu’aux défauts de celle qu’il aime. Un garde de la maréchaussée convoque alors Alceste devant le tribunal des maréchaux de France, chargé de régler les querelles d’honneur entre gentilshommes : c’est la suite de l’affaire du sonnet."
+  },
+  {
+   "titre": "Acte III : la rivalité de Célimène et d’Arsinoé",
+   "texte": "Acaste et Clitandre se promettent de céder la place à celui qui obtiendra une preuve d’amour de Célimène. Arsinoé, femme prude et jalouse, rend visite à Célimène et lui fait la leçon sur sa réputation ; Célimène lui renvoie la pareille avec une ironie redoutable : « Il est une saison pour la galanterie ; / Il en est une aussi propre à la pruderie. » (III, 5 dans le texte du site ; III, 4 dans la plupart des éditions). Restée seule avec Alceste, qu’elle aime en secret, Arsinoé lui propose une preuve de l’infidélité de Célimène."
+  },
+  {
+   "titre": "Acte IV : la lettre et la jalousie",
+   "texte": "Philinte raconte à Éliante comment l’affaire du sonnet a été réglée par les maréchaux : Alceste a seulement concédé qu’il aurait voulu « Avoir trouvé tantôt votre sonnet meilleur ». Alceste arrive furieux : Arsinoé lui a remis une lettre de Célimène, apparemment adressée à Oronte. Par dépit, il offre son cœur à Éliante, qui refuse avec sagesse. Face à Célimène (IV, 3), il éclate en reproches ; mais elle refuse de se justifier (« Il ne me plaît pas, moi »), le domine et le pousse presque à s’excuser : « Efforcez-vous ici de paraître fidèle, / Et je m’efforcerai, moi, de vous croire telle. » Son valet Dubois vient lui annoncer, de façon embrouillée, qu’il doit fuir : son procès tourne mal."
+  },
+  {
+   "titre": "Acte V, scènes 1 à 3 : le procès perdu et l’ultimatum",
+   "texte": "Alceste a perdu son procès contre un adversaire malhonnête, qui fait en outre courir le bruit qu’il est l’auteur d’un « livre abominable ». Il refuse de faire appel pour garder le droit de dénoncer l’injustice des hommes et décide de quitter la société : « Trop de perversité règne au siècle où nous sommes ». Oronte et Alceste, rivaux, exigent tous deux que Célimène choisisse entre eux ; elle se dérobe."
+  },
+  {
+   "titre": "Acte V, scènes 4 à 8 (texte du site) : le dénouement",
+   "texte": "Acaste et Clitandre lisent à voix haute des lettres où Célimène se moque de chacun de ses soupirants (« l’homme aux rubans verts » désigne Alceste). Tous l’abandonnent. Alceste lui pardonne encore, à condition qu’elle le suive dans son « désert ». Elle refuse : « La solitude effraye une âme de vingt ans. » Alceste renonce à elle, ne se juge pas digne d’Éliante, qui accepte d’épouser Philinte, puis part chercher « un endroit écarté / Où d’être homme d’honneur on ait la liberté ». Philinte et Éliante le suivent pour l’en dissuader. Dans la plupart des éditions, tout ce dénouement forme une seule scène (V, 4)."
+  }
+ ],
+ "structure": "Comédie en cinq actes et en alexandrins (1 808 vers), qui respecte l’unité de lieu (le salon de Célimène, à Paris), de temps (une journée) et d’action (l’amour d’Alceste pour Célimène, compliqué par son caractère). L’action progresse par une série de rencontres et de crises : le débat initial et la brouille avec Oronte (I), la scène des portraits et la convocation devant les maréchaux (II), la rivalité féminine (III), la lettre (IV), le procès perdu, l’ultimatum et le dévoilement des lettres (V). Le dénouement est original pour une comédie : pas de mariage pour le héros, qui part seul.\n\nNumérotation des scènes : cette fiche suit le texte du site (édition Chasles, Calmann Lévy, 1887), qui découpe davantage les actes II, III et V que la plupart des éditions scolaires. Correspondances utiles : portraits = II, 5 sur le site (II, 4 ailleurs) ; garde des maréchaux = II, 7 (II, 6) ; duel Célimène-Arsinoé = III, 5 (III, 4) ; Alceste et Arsinoé = III, 7 (III, 5) ; lecture des lettres et dénouement = V, 4 à V, 8 (une seule scène V, 4 ailleurs). Les actes I et IV sont numérotés de la même façon partout.",
+ "personnages": [
+  {
+   "nom": "Alceste",
+   "role": "Le misanthrope (du grec : « qui hait les hommes »). Gentilhomme intransigeant, il exige une sincérité absolue et dénonce l’hypocrisie mondaine. Admirable par son exigence de vérité, il est aussi ridicule par ses excès, son orgueil (« Je veux qu’on me distingue ») et sa contradiction : il aime Célimène, qui incarne tout ce qu’il condamne.",
+   "relations": "Ami (exigeant) de Philinte ; amoureux de Célimène ; estimé d’Éliante ; ennemi d’Oronte après l’affaire du sonnet ; aimé en secret d’Arsinoé."
+  },
+  {
+   "nom": "Philinte",
+   "role": "Ami d’Alceste, il représente l’« honnête homme » : modéré, indulgent, lucide sur les défauts humains mais décidé à les supporter avec calme. Il sert de contrepoint raisonnable au héros et finit par épouser Éliante.",
+   "relations": "Ami fidèle d’Alceste, qu’il tente jusqu’au bout de retenir ; épris d’Éliante, qu’il épouse au dénouement."
+  },
+  {
+   "nom": "Célimène",
+   "role": "Jeune veuve de vingt ans, brillante, spirituelle et coquette. Elle reçoit tous les soupirants, excelle dans les portraits médisants et refuse de choisir. Elle aime peut-être Alceste, mais pas au point de renoncer au monde.",
+   "relations": "Courtisée par Alceste, Oronte, Acaste et Clitandre ; cousine d’Éliante ; rivale d’Arsinoé."
+  },
+  {
+   "nom": "Éliante",
+   "role": "Cousine de Célimène, sincère et sage. Elle estime Alceste et l’aimerait, mais refuse d’être un choix par dépit. Elle épouse finalement Philinte. Elle incarne une sincérité tempérée par la bienveillance.",
+   "relations": "Cousine et confidente de Célimène ; amie sincère d’Alceste ; elle accepte la main de Philinte."
+  },
+  {
+   "nom": "Oronte",
+   "role": "Gentilhomme vaniteux et poète médiocre, rival d’Alceste auprès de Célimène. Son sonnet provoque la brouille et le recours au tribunal des maréchaux.",
+   "relations": "Rival d’Alceste auprès de Célimène ; c’est lui qui, avec Alceste, exige qu’elle choisisse à l’acte V."
+  },
+  {
+   "nom": "Arsinoé",
+   "role": "Femme prude, jalouse de Célimène et secrètement éprise d’Alceste. Sous couvert d’amitié, elle vient faire la morale à Célimène, puis tente d’attirer Alceste en lui révélant l’infidélité de sa maîtresse : elle incarne la fausse vertu.",
+   "relations": "Fausse amie de Célimène ; amoureuse d’Alceste, à qui elle remet la lettre compromettante."
+  },
+  {
+   "nom": "Acaste et Clitandre",
+   "role": "Deux « petits marquis » fats et vaniteux, soupirants de Célimène, qui applaudissent ses médisances. Ce sont eux qui, au dernier acte, révèlent publiquement ses lettres.",
+   "relations": "Rivaux entre eux et soupirants de Célimène ; complices de la scène des portraits, puis ses accusateurs."
+  },
+  {
+   "nom": "Basque et Dubois",
+   "role": "Valets : Basque, valet de Célimène, annonce les visites ; Dubois, valet d’Alceste, apporte à l’acte IV des nouvelles confuses et comiques du procès (il a oublié sur la table le billet qu’il devait remettre).",
+   "relations": "Basque sert Célimène ; Dubois sert Alceste."
+  }
+ ],
+ "evolution": "Alceste ne change pas de principes, mais la pièce le montre de plus en plus isolé : brouillé avec Oronte (I), il perd son procès (V, 1) et voit ses soupçons sur Célimène confirmés par la lecture publique des lettres. Sa misanthropie, d’abord théorique et un peu théâtrale dans la scène 1 (« je hais tous les hommes »), devient une décision : quitter le monde. Célimène, longtemps maîtresse du jeu (elle domine Alceste en IV, 3), est démasquée et abandonnée par tous ; elle garde pourtant sa dignité et sa lucidité dans son refus (« La solitude effraye une âme de vingt ans »). Philinte et Éliante, couple discret, s’unissent : la sagesse modérée trouve sa récompense. La situation de départ (un débat d’idées) se transforme ainsi en rupture définitive entre un homme et la société.",
+ "themes": [
+  {
+   "titre": "Sincérité et hypocrisie",
+   "texte": "C’est le cœur de la pièce. Alceste exige « Je veux que l’on soit homme, et qu’en toute rencontre / Le fond de notre cœur dans nos discours se montre » (I, 1). Il le prouve en critiquant le sonnet d’Oronte, malgré ses précautions comiques. Face à lui, la société pratique la flatterie : Philinte loue le sonnet, les marquis applaudissent Célimène. Mais la sincérité d’Alceste est-elle toujours pure ? Elle cache aussi de l’orgueil et un désir d’être distingué."
+  },
+  {
+   "titre": "La société mondaine et ses masques",
+   "texte": "Le salon de Célimène est un théâtre où chacun joue un rôle : les marquis vaniteux, la prude Arsinoé, le poète Oronte. La scène des portraits (II, 5 sur le site ; II, 4 ailleurs) en est la satire : Célimène ridiculise les absents (Timante, qui « jusques au bonjour, il dit tout à l’oreille ») pendant que ses auditeurs rient, avant d’être eux-mêmes ridiculisés dans les lettres du dernier acte."
+  },
+  {
+   "titre": "L’amour et ses contradictions",
+   "texte": "Alceste, qui hait l’hypocrisie, aime la coquette la plus habile du salon : contradiction comique et douloureuse, qu’il reconnaît lui-même (« Mais la raison n’est pas ce qui règle l’amour », I, 1). Éliante l’analyse : un amant « Aime jusqu’aux défauts des personnes qu’il aime » (II, 5). La scène de la lettre (IV, 3) montre Alceste dominé par Célimène. Au dénouement, l’amour se heurte à des choix de vie incompatibles : la solitude pour lui, le monde pour elle."
+  },
+  {
+   "titre": "La modération contre l’excès",
+   "texte": "Philinte incarne l’idéal classique de l’honnête homme : « La parfaite raison fuit toute extrémité, / Et veut que l’on soit sage avec sobriété » (I, 1). Il voit les défauts humains aussi clairement qu’Alceste mais refuse de s’en indigner : « Et c’est une folie à nulle autre seconde / De vouloir se mêler de corriger le monde. » La pièce oppose deux sagesses et laisse le spectateur juger."
+  },
+  {
+   "titre": "La justice et l’injustice",
+   "texte": "Alceste perd un procès contre un adversaire malhonnête, sans vouloir solliciter les juges comme c’était l’usage. Il refuse de faire appel pour garder le droit de dénoncer la corruption. Le tribunal des maréchaux, saisi pour un sonnet, montre aussi le ridicule des affaires d’honneur mondaines."
+  },
+  {
+   "titre": "Le comique et le sérieux",
+   "texte": "Alceste fait rire par ses colères, ses répétitions (« Je ne dis pas cela »), son obstination ; mais il émeut aussi par sa souffrance et sa solitude finale. Au XVIIIe siècle, Rousseau, dans sa Lettre à d’Alembert sur les spectacles (1758), reprochera à Molière d’avoir rendu ridicule un homme vertueux. Cette ambiguïté fait la richesse de la pièce, à mi-chemin entre comédie et drame."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Peut-on vivre en société sans un minimum de politesse, c’est-à-dire de mensonge ?",
+   "La sincérité absolue est-elle une vertu ou une forme d’orgueil (« Je veux qu’on me distingue ») ?",
+   "Qui a raison, d’Alceste qui veut corriger le monde ou de Philinte qui prend « les hommes comme ils sont » ?",
+   "Comment une comédie peut-elle faire rire d’un homme qui a souvent raison et qui souffre ?"
+  ],
+  "intentions": "Molière n’a laissé ni préface ni déclaration sur Le Misanthrope. On connaît en revanche sa conception de la comédie par le Premier placet présenté au roi sur Le Tartuffe (1664) : « Le devoir de la comédie étant de corriger les hommes en les divertissant », il dit avoir voulu attaquer « par des peintures ridicules les vices de [son] siècle ». La Lettre de Donneau de Visé imprimée en tête de l’édition de 1667 propose une lecture contemporaine de la pièce, mais rien ne prouve qu’elle exprime la pensée de Molière lui-même. Toute affirmation sur ce que Molière « voulait dire » par le personnage d’Alceste relève donc de l’interprétation.",
+  "procedes": [
+   {
+    "nom": "Le débat d’idées en alexandrins",
+    "explication": "La scène d’exposition est une joute argumentée : deux visions de la vie sociale s’affrontent en maximes frappées comme des sentences.",
+    "exemple": "Philinte : « La parfaite raison fuit toute extrémité, / Et veut que l’on soit sage avec sobriété » contre Alceste : « Je veux qu’on soit sincère, et qu’en homme d’honneur / On ne lâche aucun mot qui ne parte du cœur » (I, 1)."
+   },
+   {
+    "nom": "Le comique de répétition",
+    "explication": "La répétition d’une formule révèle un caractère et crée un effet mécanique qui fait rire.",
+    "exemple": "Alceste, sommé de juger le sonnet, répète « Je ne dis pas cela » tout en disant exactement ce qu’il nie dire (I, 2)."
+   },
+   {
+    "nom": "L’hyperbole et l’emportement",
+    "explication": "Les exagérations d’Alceste traduisent son absolutisme moral et le rendent comique.",
+    "exemple": "« Je m’irais, de regret, pendre tout à l’instant » ; « Morbleu ! c’est une chose indigne, lâche, infâme » (I, 1)."
+   },
+   {
+    "nom": "Le portrait satirique",
+    "explication": "Genre mondain à la mode dans les salons : en quelques vers, Célimène croque un caractère par une antithèse ou une chute spirituelle.",
+    "exemple": "Damon : « C’est un parleur étrange, et qui trouve toujours / L’art de ne vous rien dire avec de grands discours » (II, 5 sur le site ; II, 4 ailleurs)."
+   },
+   {
+    "nom": "Le parallélisme et l’ironie",
+    "explication": "Dans le duel verbal, Célimène reprend la structure même des phrases d’Arsinoé pour lui renvoyer ses reproches.",
+    "exemple": "« Il est une saison pour la galanterie ; / Il en est une aussi propre à la pruderie » (III, 5 sur le site ; III, 4 ailleurs)."
+   },
+   {
+    "nom": "Le théâtre dans le théâtre",
+    "explication": "Lectures publiques (sonnet, lettres) et jeu des portraits sont de petites représentations devant un public de personnages : le salon devient une scène.",
+    "exemple": "La lecture des lettres de Célimène par Acaste et Clitandre, où chacun découvre son portrait (« l’homme aux rubans verts », V, 4)."
+   }
+  ],
+  "style": "L’alexandrin du Misanthrope est souple et proche de la conversation : vers partagés entre plusieurs personnages (« Qu’est-ce donc ? qu’avez-vous ? — Laissez-moi, je vous prie »), exclamations et jurons d’Alceste (« Morbleu ! »), maximes bien frappées de Philinte. La langue de Célimène est brillante et pointue (antithèses, chutes), celle d’Arsinoé fausse et sucrée (« Madame, l’amitié doit surtout éclater… »). Molière insère aussi d’autres formes : un sonnet précieux, une chanson populaire, des lettres en prose. Chaque personnage se reconnaît à sa manière de parler.",
+  "registres": [
+   {
+    "nom": "Comique",
+    "explication": "Comique de caractère (l’intransigeance d’Alceste), de situation (le tribunal des maréchaux pour un sonnet, Dubois qui oublie le billet), de mots (portraits, répétitions)."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Peinture critique des mœurs mondaines : flatterie, médisance, vanité des marquis, fausse pruderie d’Arsinoé."
+   },
+   {
+    "nom": "Polémique",
+    "explication": "Les tirades d’Alceste contre l’hypocrisie et la justice corrompue (I, 1 ; V, 1) sont de véritables réquisitoires."
+   },
+   {
+    "nom": "Pathétique",
+    "explication": "La souffrance amoureuse d’Alceste (IV, 3) et sa solitude finale (V, 8) assombrissent la comédie."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Rousseau, dans la Lettre à d’Alembert sur les spectacles (1758), accuse Molière d’avoir rendu ridicule un homme vertueux et voit en Philinte « un de ces honnêtes gens du grand monde, dont les maximes ressemblent beaucoup à celles des fripons ». C’est un texte réel et célèbre ; il ne faut pas le confondre avec l’opinion de Molière.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Alceste est-il ridicule ou admirable ? Les deux lectures s’appuient sur le texte : ses excès et ses contradictions font rire, mais les lettres de Célimène et le procès perdu lui donnent en partie raison. Les mises en scène modernes tirent tantôt la pièce vers la comédie, tantôt vers le drame.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Philinte est-il le porte-parole de la sagesse classique ou un conformiste ? Ses maximes de modération correspondent à l’idéal de l’honnête homme ; mais on peut aussi y lire une résignation devant l’injustice.",
+    "nature": "debat"
+   },
+   {
+    "texte": "On a cherché des « clés » (Alceste serait le duc de Montausier, Oronte le duc de Saint-Aignan…). Les éditeurs du XIXe siècle rapportent ces identifications tout en les jugeant douteuses : elles restent invérifiables.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Certains critiques ont lu dans le couple Alceste-Célimène un écho du mariage difficile de Molière et d’Armande Béjart, qui jouaient les deux rôles. C’est une lecture biographique séduisante, mais aucun document ne permet de l’établir.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "La pièce reflète l’idéal classique de l’honnête homme et l’esthétique de la « grande comédie » : régularité (trois unités, alexandrins), bienséance, vraisemblance, peinture des caractères. Elle dialogue avec les moralistes contemporains (La Rochefoucauld, puis La Bruyère) qui démontent l’amour-propre et les masques sociaux. Mais par son dénouement sans mariage et la gravité de son héros, elle pousse la comédie classique à sa limite, au point qu’on a pu y voir une comédie sérieuse, presque un drame."
+ },
+ "citations": [
+  {
+   "texte": "Je veux qu’on soit sincère, et qu’en homme d’honneur / On ne lâche aucun mot qui ne parte du cœur.",
+   "locuteur": "Alceste",
+   "reference": "Acte I, scène 1, v. 35-36",
+   "situation": "Alceste reproche à Philinte d’avoir couvert de compliments un inconnu.",
+   "sens": "Profession de foi d’Alceste : chaque parole doit exprimer exactement ce que l’on pense.",
+   "procedes": "Verbe de volonté « Je veux », négation totale « aucun mot », rime honneur / cœur qui associe morale et sincérité.",
+   "demontre": "L’exigence de sincérité absolue d’Alceste, mais aussi son autoritarisme : il impose sa règle aux autres.",
+   "usage": "Indispensable pour présenter le héros et le thème de la sincérité ; à opposer à la maxime de Philinte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Je veux qu’on me distingue, et, pour le trancher net, / L’ami du genre humain n’est point du tout mon fait.",
+   "locuteur": "Alceste",
+   "reference": "Acte I, scène 1, v. 63-64",
+   "situation": "Alceste explique pourquoi les embrassades mondaines le révoltent : une estime donnée à tous ne vaut rien.",
+   "sens": "Il veut être préféré, reconnu pour lui-même, et refuse une amitié générale.",
+   "procedes": "Répétition de « Je veux », formule familière « pour le trancher net », périphrase ironique « l’ami du genre humain ».",
+   "demontre": "Que la sincérité d’Alceste se mêle d’orgueil : il veut être distingué.",
+   "usage": "Pour nuancer le portrait d’Alceste (sujet « ridicule ou admirable ? »).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Non, elle est générale, et je hais tous les hommes : / Les uns, parce qu’ils sont méchants et malfaisants, / Et les autres, pour être aux méchants complaisants",
+   "locuteur": "Alceste",
+   "reference": "Acte I, scène 1, v. 118-120",
+   "situation": "Philinte demande si la haine d’Alceste vise vraiment tout le monde.",
+   "sens": "Alceste hait les méchants, et aussi ceux qui les tolèrent.",
+   "procedes": "Hyperbole « tous les hommes », construction binaire « Les uns… / Et les autres… ».",
+   "demontre": "Le sens du mot « misanthrope » et la logique implacable du personnage, qui condamne aussi la complaisance de Philinte.",
+   "usage": "Pour définir la misanthropie ; utile en introduction.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Orthographe modernisée ; le texte du site (graphie du XVIIe siècle) porte : « Les uns, parce qu’ils sont méchans et malfaisans, / Et les autres pour être aux méchans complaisans, ». Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "La parfaite raison fuit toute extrémité, / Et veut que l’on soit sage avec sobriété.",
+   "locuteur": "Philinte",
+   "reference": "Acte I, scène 1, v. 151-152",
+   "situation": "Philinte répond aux excès d’Alceste.",
+   "sens": "La vraie sagesse est modération.",
+   "procedes": "Maxime au présent de vérité générale, personnification de « la raison ».",
+   "demontre": "L’idéal classique de l’honnête homme, opposé à l’absolutisme d’Alceste.",
+   "usage": "Pour opposer deux sagesses ; utile dans tout sujet sur la morale de la pièce.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Et c’est une folie à nulle autre seconde / De vouloir se mêler de corriger le monde.",
+   "locuteur": "Philinte",
+   "reference": "Acte I, scène 1, v. 157-158",
+   "situation": "Philinte explique pourquoi il ne s’indigne pas des défauts humains.",
+   "sens": "Vouloir réformer les hommes est la plus grande des folies.",
+   "procedes": "Hyperbole « à nulle autre seconde », vocabulaire de la folie appliqué à l’ambition morale.",
+   "demontre": "Le réalisme désabusé de Philinte ; ironie : corriger le monde par le rire est justement le projet de la comédie.",
+   "usage": "Pour une réflexion sur les fonctions de la comédie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Franchement, il est bon à mettre au cabinet",
+   "locuteur": "Alceste",
+   "reference": "Acte I, scène 2, v. 376",
+   "situation": "Après plusieurs détours, Alceste donne enfin son avis sur le sonnet d’Oronte.",
+   "sens": "Le sonnet ne vaut rien ; il faut le cacher, voire le jeter.",
+   "procedes": "Adverbe « Franchement » placé en tête, chute brutale après les précautions.",
+   "demontre": "Que la sincérité d’Alceste devient provocation et lui fait un ennemi.",
+   "usage": "Pour illustrer le comique de situation et le coût social de la franchise.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "C’est ainsi qu’un amant, dont l’ardeur est extrême, / Aime jusqu’aux défauts des personnes qu’il aime.",
+   "locuteur": "Éliante",
+   "reference": "Acte II, scène 5, v. 729-730 (II, 4 dans la plupart des éditions)",
+   "situation": "Éliante conclut sa tirade sur l’aveuglement des amoureux, en réponse à Alceste.",
+   "sens": "L’amour embellit tout : l’amoureux transforme les défauts en qualités.",
+   "procedes": "Maxime finale, polyptote aime / aime, rime extrême / aime.",
+   "demontre": "Que l’exigence d’Alceste (aimer sans illusion) est contraire à la nature de l’amour.",
+   "usage": "Pour le thème de l’amour et le personnage d’Éliante, sagesse indulgente.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Il est une saison pour la galanterie ; / Il en est une aussi propre à la pruderie.",
+   "locuteur": "Célimène",
+   "reference": "Acte III, scène 5, v. 977-978 (III, 4 dans la plupart des éditions)",
+   "situation": "Célimène répond aux leçons de morale d’Arsinoé.",
+   "sens": "Elle suggère que la vertu d’Arsinoé n’est qu’un effet de l’âge.",
+   "procedes": "Parallélisme, rime galanterie / pruderie, ironie.",
+   "demontre": "L’esprit redoutable de Célimène et la satire de la fausse vertu.",
+   "usage": "Pour le duel verbal et la satire des mœurs mondaines.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Efforcez-vous ici de paraître fidèle, / Et je m’efforcerai, moi, de vous croire telle.",
+   "locuteur": "Alceste",
+   "reference": "Acte IV, scène 3, v. 1389-1390",
+   "situation": "Alceste a une preuve de l’infidélité de Célimène, mais elle refuse de se justifier.",
+   "sens": "Il la supplie de lui mentir et promet de faire semblant de la croire.",
+   "procedes": "Parallélisme « Efforcez-vous… / je m’efforcerai », mise en relief « moi ».",
+   "demontre": "La contradiction comique et pathétique d’Alceste : l’ennemi du mensonge réclame un mensonge.",
+   "usage": "Argument clé pour montrer qu’Alceste est ridicule et touchant.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Orthographe modernisée ; le texte du site (graphie du XVIIe siècle) porte : « Efforcez-vous ici de paroître fidèle, ». Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Trop de perversité règne au siècle où nous sommes",
+   "locuteur": "Alceste",
+   "reference": "Acte V, scène 1, v. 1485",
+   "situation": "Alceste vient de perdre son procès et annonce qu’il veut quitter la société.",
+   "sens": "Le monde contemporain est trop corrompu pour qu’il y vive.",
+   "procedes": "Hyperbole, personnification (la perversité « règne »).",
+   "demontre": "Que la misanthropie d’Alceste devient une décision de rupture.",
+   "usage": "Pour le thème de la justice et l’évolution du héros.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "La solitude effraye une âme de vingt ans.",
+   "locuteur": "Célimène",
+   "reference": "Acte V, scène 7, v. 1774 (V, 4 dans la plupart des éditions)",
+   "situation": "Alceste pardonne à Célimène à condition qu’elle le suive dans son « désert ».",
+   "sens": "Elle refuse de renoncer au monde à son âge.",
+   "procedes": "Vers simple et équilibré, sujet abstrait « la solitude », rappel de son âge.",
+   "demontre": "La lucidité de Célimène et l’incompatibilité des deux amants.",
+   "usage": "Pour le dénouement et pour nuancer le jugement sur Célimène.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  },
+  {
+   "texte": "Et chercher sur la terre un endroit écarté / Où d’être homme d’honneur on ait la liberté.",
+   "locuteur": "Alceste",
+   "reference": "Acte V, scène 8, v. 1805-1806 (V, 4 dans la plupart des éditions)",
+   "situation": "Dernière réplique d’Alceste avant son départ.",
+   "sens": "Il part loin de la société, seul lieu où il pourrait rester fidèle à son idéal.",
+   "procedes": "Rime écarté / liberté, vocabulaire moral « homme d’honneur ».",
+   "demontre": "Un dénouement amer, sans mariage pour le héros : la comédie frôle le drame.",
+   "usage": "Pour la conclusion d’une dissertation ou l’étude du dénouement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173) ; numéros de vers d’après l’édition Louandre (Charpentier, 1910) sur Wikisource",
+    "note": "Texte conforme au texte du site (apostrophes et espaces typographiques harmonisés). Numéro de vers : édition Louandre (Wikisource), numérotation continue de la pièce."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Œuvre complémentaire (culture littéraire) : le théâtre, miroir des masques sociaux (parcours proposé)",
+  "explication": "Le Misanthrope est présenté ici comme une œuvre complémentaire, de culture littéraire, et non comme une œuvre imposée : en seconde, aucune liste nationale d’œuvres ni de parcours n’est imposée ; le professeur choisit les œuvres et l’angle d’étude. Le parcours ci-dessous est une simple proposition de lecture ; il peut se rattacher à l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle ». La comédie classique tend aux spectateurs un miroir de leurs propres défauts ; ce parcours s’intéresse à la manière dont le théâtre, art du masque et du jeu, dénonce paradoxalement les masques et les rôles que chacun joue dans la vie sociale.\n\nLe Misanthrope s’y prête particulièrement : tout s’y passe dans un salon, lieu de représentation où chacun se met en scène. La scène des portraits est un spectacle dans le spectacle ; la lecture du sonnet, puis celle des lettres, sont de petites représentations publiques. Alceste prétend refuser tout masque, mais son personnage d’homme intègre est lui aussi un rôle, parfois excessif. Molière invite à réfléchir : peut-on vivre en société sans un minimum de politesse, donc de comédie ?\n\nLes textes complémentaires élargissent la réflexion à d’autres hypocrites de théâtre, aux moralistes du XVIIe siècle et à la critique de Rousseau.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Tartuffe ou l’Imposteur (1664-1669)",
+    "auteur": "Molière",
+    "interet": "Un autre masque social : l’hypocrisie religieuse. Comparer le faux dévot Tartuffe, hypocrite véritable, et Alceste, ennemi déclaré de l’hypocrisie."
+   },
+   {
+    "titre": "Réflexions ou sentences et maximes morales (1665)",
+    "auteur": "François de La Rochefoucauld",
+    "interet": "Contemporain de Molière (première édition en 1665), le moraliste dévoile l’amour-propre caché sous les vertus ; l’épigraphe placée en tête du recueil à partir de la 4e édition (1675) le résume : « Nos vertus ne sont le plus souvent que des vices déguisés »."
+   },
+   {
+    "titre": "Les Caractères, « De la société et de la conversation » (1688)",
+    "auteur": "Jean de La Bruyère",
+    "interet": "Des portraits satiriques en prose qui rappellent ceux de Célimène : la même société mondaine vue par un moraliste."
+   },
+   {
+    "titre": "Lettre à d’Alembert sur les spectacles (1758)",
+    "auteur": "Jean-Jacques Rousseau",
+    "interet": "Rousseau accuse Molière d’avoir ridiculisé la vertu en Alceste et voit en Philinte un homme dont « les maximes ressemblent beaucoup à celles des fripons » : un débat célèbre sur la morale de la pièce."
+   },
+   {
+    "titre": "Pour un oui ou pour un non (1982)",
+    "auteur": "Nathalie Sarraute",
+    "interet": "Deux amis se brouillent pour une intonation : comme dans le débat Alceste-Philinte, le théâtre explore la violence cachée sous les conventions de la conversation."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "La pièce oppose deux conceptions de la vie sociale : la sincérité absolue (Alceste) et la politesse modérée (Philinte).",
+   "Le salon de Célimène est un théâtre des apparences : flatterie, médisance, vanité.",
+   "Alceste est à la fois juste dans sa critique et ridicule par ses excès, son orgueil et sa contradiction amoureuse.",
+   "Célimène n’est pas qu’une coquette : jeune, brillante, lucide, elle refuse de s’enterrer dans le « désert » d’Alceste.",
+   "Le dénouement sans mariage rend la comédie grave et ouverte : le spectateur reste juge."
+  ],
+  "axes": [
+   "Une comédie de caractère : le portrait comique d’un homme excessif.",
+   "Une satire des mœurs mondaines : masques, flatterie et médisance.",
+   "Une comédie qui interroge : la sincérité est-elle possible en société ?",
+   "Une comédie au bord du drame : souffrance amoureuse, injustice, solitude."
+  ],
+  "problematiques": [
+   "En quoi Le Misanthrope fait-il de la sincérité un problème plutôt qu’une simple vertu ?",
+   "Comment Molière fait-il rire d’un personnage qui a souvent raison ?",
+   "En quoi le salon de Célimène est-il un théâtre des masques sociaux ?",
+   "Le dénouement du Misanthrope est-il celui d’une comédie ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Le débat Alceste-Philinte (I, 1).",
+    "utilisation": "Montrer que la pièce s’ouvre sur un débat d’idées et oppose deux sagesses."
+   },
+   {
+    "exemple": "La critique du sonnet d’Oronte et le « Je ne dis pas cela » (I, 2).",
+    "utilisation": "Illustrer le comique de répétition et le prix social de la franchise."
+   },
+   {
+    "exemple": "La scène des portraits (II, 5 sur le site ; II, 4 ailleurs).",
+    "utilisation": "Analyser la satire de la médisance et le théâtre dans le théâtre."
+   },
+   {
+    "exemple": "Le duel Célimène-Arsinoé (III, 5 sur le site ; III, 4 ailleurs).",
+    "utilisation": "Montrer l’hypocrisie mondaine et l’ironie de Célimène."
+   },
+   {
+    "exemple": "« Efforcez-vous ici de paraître fidèle » (IV, 3).",
+    "utilisation": "Prouver la contradiction d’Alceste, à la fois comique et pathétique."
+   },
+   {
+    "exemple": "La lecture des lettres et le départ d’Alceste (V, 4 à V, 8 sur le site).",
+    "utilisation": "Étudier un dénouement original qui démasque Célimène sans récompenser Alceste."
+   }
+  ],
+  "liens": "Le thème de la sincérité se lie au personnage d’Alceste et au procédé du débat (I, 1) ; celui des masques mondains à Célimène, aux marquis et à Arsinoé, et aux procédés du portrait et de l’ironie ; l’amour contrarié unit les deux fils de l’intrigue, puisque l’ennemi de l’hypocrisie aime la plus habile des coquettes. Le comique de caractère sert la satire, et le pathétique final montre que la comédie peut aussi faire réfléchir.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Acte I, scène 1, du début jusqu’à « On ne lâche aucun mot qui ne parte du cœur ».",
+    "pistes": "Une exposition in medias res ; le comique de l’emportement (hyperboles, jurons) ; la thèse d’Alceste et ce qu’elle révèle de son caractère."
+   },
+   {
+    "passage": "Acte II, scène 5 (II, 4 dans la plupart des éditions) : la galerie de portraits de Célimène.",
+    "pistes": "L’art du portrait (antithèses, chutes) ; le public complice des marquis ; la riposte d’Alceste et la tirade d’Éliante."
+   },
+   {
+    "passage": "Acte V, scènes 7 et 8 (fin de V, 4 dans la plupart des éditions) : l’ultimatum d’Alceste et son départ.",
+    "pistes": "Un pardon sous condition ; le refus lucide de Célimène ; un dénouement sans mariage, entre comédie et drame."
+   }
+  ],
+  "erreurs": [
+   "Faire d’Alceste le porte-parole de Molière : la pièce rend ses excès ridicules et donne aussi la parole à Philinte et à Éliante.",
+   "Réduire Philinte à un hypocrite : il est lucide sur les défauts humains et reste un ami fidèle (c’est la lecture de Rousseau, discutable).",
+   "Voir Célimène comme une simple méchante : elle a vingt ans, elle est libre (veuve), brillante, et son refus final est lucide.",
+   "Croire que la pièce fut un échec à sa création : c’est une légende démentie par le registre de la troupe.",
+   "Citer les numéros de scène sans vérifier l’édition : les portraits sont II, 4 dans la plupart des éditions, II, 5 dans le texte du site.",
+   "Attribuer à Molière la devise latine « castigat ridendo mores » : elle est postérieure et ne figure pas dans ses œuvres."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Alceste est-il un personnage ridicule ou admirable ?",
+   "analyse": "Le sujet oppose deux lectures du héros : un personnage de comédie dont on rit (ridicule) et un homme dont on approuve les valeurs (admirable). Il faut montrer que la pièce rend possible les deux et réfléchir à l’intention de Molière.",
+   "problematique": "Molière fait-il d’Alceste un simple objet de rire, ou un personnage dont l’exigence de vérité mérite notre admiration ?",
+   "plan": [
+    {
+     "titre": "I. Un personnage de comédie ridicule",
+     "arguments": [
+      "A. L’excès et l’emportement : colères, hyperboles (« Je m’irais, de regret, pendre tout à l’instant », I, 1).",
+      "B. Le comique de répétition et de situation : « Je ne dis pas cela » (I, 2), le tribunal des maréchaux saisi pour un sonnet (II, 7 sur le site ; II, 6 ailleurs).",
+      "C. La contradiction : il hait la coquetterie et aime Célimène ; il exige la vérité et supplie qu’on lui mente (IV, 3)."
+     ]
+    },
+    {
+     "titre": "II. Un homme admirable par son exigence morale",
+     "arguments": [
+      "A. Le refus de l’hypocrisie et de la flatterie : « Je veux qu’on soit sincère » (I, 1).",
+      "B. Le courage de dire la vérité, même à ses dépens (sonnet d’Oronte, procès perdu sans solliciter les juges).",
+      "C. Sa critique de la médisance mondaine est juste (II, 5 sur le site ; II, 4 ailleurs) : les lettres de Célimène lui donnent raison."
+     ]
+    },
+    {
+     "titre": "III. Un personnage complexe, entre comédie et drame",
+     "arguments": [
+      "A. Son orgueil gâte sa vertu : « Je veux qu’on me distingue » (I, 1).",
+      "B. Philinte et Éliante proposent une sagesse plus humaine, faite de lucidité et d’indulgence.",
+      "C. La solitude finale émeut : la comédie frôle le drame et laisse le spectateur juger (débat ouvert par Rousseau en 1758)."
+     ]
+    }
+   ],
+   "introduction": "Quand Molière crée Le Misanthrope en 1666, il joue lui-même le rôle d’Alceste. Ce gentilhomme, qui exige de tous une sincérité absolue et dénonce l’hypocrisie de la société mondaine, est-il un héros ou un fou ? Au siècle suivant, Rousseau reprochera à Molière d’avoir ridiculisé un homme vertueux. La question demeure : Alceste est-il un personnage ridicule ou admirable ? Autrement dit, Molière fait-il de lui un simple objet de rire, ou un personnage dont l’exigence de vérité mérite notre admiration ? Nous verrons d’abord qu’Alceste est un personnage de comédie ridicule, puis qu’il est aussi admirable par son exigence morale, enfin qu’il est un personnage complexe, entre comédie et drame.",
+   "conclusion": "Alceste fait rire par ses excès, ses contradictions et ses colères ; mais il force aussi l’admiration par son refus de l’hypocrisie et son courage. Molière ne tranche pas : il montre que la vertu poussée à l’extrême devient intolérance et orgueil, et il propose, avec Philinte et Éliante, une sagesse plus humaine. C’est cette ambiguïté qui fait la profondeur de la pièce. Au XXe siècle, de nombreuses mises en scène ont accentué la part sombre du personnage, preuve que chaque époque y lit sa propre question."
+  },
+  {
+   "sujet": "Peut-on rire de tout au théâtre ? Vous vous appuierez notamment sur Le Misanthrope.",
+   "analyse": "Le sujet interroge les limites du comique : peut-on rire de la vertu, de la souffrance, de l’amour ? Le Misanthrope fait rire d’un homme sincère et malheureux : il faut se demander ce que ce rire produit (critique, réflexion, malaise) et où il s’arrête.",
+   "problematique": "En faisant rire d’un homme vertueux et malheureux, Le Misanthrope montre-t-il que le théâtre peut rire de tout, ou que le rire atteint ses limites quand il touche à la souffrance ?",
+   "plan": [
+    {
+     "titre": "I. Le théâtre comique peut rire de tous les travers humains",
+     "arguments": [
+      "A. Rire des vices : la vanité d’Oronte et des marquis, l’hypocrisie d’Arsinoé, la médisance de Célimène.",
+      "B. Rire même de la vertu quand elle devient excès : les colères d’Alceste.",
+      "C. Le rire corrige : pour Molière, la comédie doit « corriger les hommes en les divertissant » (Premier placet sur Le Tartuffe, 1664) ; le spectateur se reconnaît."
+     ]
+    },
+    {
+     "titre": "II. Mais certains sujets résistent au rire",
+     "arguments": [
+      "A. La souffrance amoureuse d’Alceste émeut (IV, 3 ; V, 4).",
+      "B. L’injustice (le procès perdu) et la solitude finale assombrissent la comédie.",
+      "C. Le risque de ridiculiser la vertu : la critique de Rousseau."
+     ]
+    },
+    {
+     "titre": "III. Un rire qui fait réfléchir",
+     "arguments": [
+      "A. Le rire du Misanthrope est plus pensif qu’éclatant : dès 1667, Donneau de Visé souligne que la pièce fait réfléchir autant que rire.",
+      "B. Il met en question le spectateur : rions-nous d’Alceste ou de nous-mêmes ?",
+      "C. La comédie moderne prolonge ce mélange de rire et de gravité (Sarraute, Pour un oui ou pour un non)."
+     ]
+    }
+   ],
+   "introduction": "« Le devoir de la comédie étant de corriger les hommes en les divertissant… » : dans son premier placet au roi au sujet du Tartuffe (1664), Molière définit le rire comme une arme morale. Mais peut-on rire de tout au théâtre ? Le Misanthrope (1666) pose la question avec force : Molière y fait rire d’Alceste, un homme qui exige la sincérité et souffre de la fausseté du monde. En faisant rire d’un homme vertueux et malheureux, la pièce montre-t-elle que le théâtre peut rire de tout, ou que le rire atteint ses limites quand il touche à la souffrance ? Nous verrons d’abord que le théâtre comique peut rire de tous les travers humains, puis que certains sujets résistent au rire, enfin que Molière invente un rire qui fait réfléchir.",
+   "conclusion": "Le Misanthrope montre que le théâtre peut rire de tous les excès, même de ceux de la vertu. Mais la souffrance amoureuse, l’injustice et la solitude d’Alceste rendent ce rire plus grave, presque mélancolique. Molière invente ainsi un comique qui ne se contente pas de divertir mais qui interroge le spectateur sur lui-même. Le rire n’a donc pas de limite de sujet, mais il change de nature quand il touche à la douleur. Au XXe siècle, Beckett fera dire à un personnage de Fin de partie que rien n’est plus drôle que le malheur : le mélange du rire et de la détresse est devenu une marque du théâtre moderne."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Misanthrope est une comédie en cinq actes et en alexandrins de Molière, créée en 1666 au Palais-Royal ; Molière y jouait lui-même Alceste. En une journée, dans le salon de Célimène, Alceste, qui exige une sincérité absolue et hait l’hypocrisie mondaine, se brouille avec Oronte pour un sonnet, assiste aux portraits médisants de Célimène, qu’il aime pourtant, perd un procès et découvre, par la lecture publique de ses lettres, que la jeune femme se moque de tous ses soupirants. Elle refuse de le suivre loin du monde, et il part seul. La pièce oppose deux sagesses, celle d’Alceste et celle de Philinte, et fait rire d’un homme qui a souvent raison : c’est ce qui en fait une comédie grave, à la limite du drame.",
+  "essentiels": [
+   "Molière, 1666, comédie de caractère et de mœurs, cinq actes, alexandrins, trois unités.",
+   "Alceste (sincérité absolue) contre Philinte (modération de l’honnête homme).",
+   "Scènes clés : I, 1 ; I, 2 (sonnet) ; portraits (II, 4 / II, 5 sur le site) ; IV, 3 (lettre) ; dénouement.",
+   "Paradoxe central : l’ennemi de l’hypocrisie aime une coquette.",
+   "Dénouement sans mariage pour le héros : départ vers « un endroit écarté ».",
+   "Débat critique : Rousseau (1758) accuse Molière d’avoir ridiculisé la vertu."
+  ],
+  "questions": [
+   {
+    "question": "Alceste a-t-il raison ?",
+    "reponse": "En partie. Sa critique de la flatterie et de la médisance est confirmée par la pièce : les lettres de Célimène prouvent qu’elle se moque de tous, et son procès perdu montre une justice influençable. Mais sa manière d’avoir raison est excessive : il veut qu’on le « distingue », il se met en colère pour un sonnet et, dans la scène de la lettre, il supplie Célimène de lui mentir. Molière ne lui donne donc ni tout à fait tort ni tout à fait raison : il montre qu’une vertu sans mesure devient insociable."
+   },
+   {
+    "question": "Quel rôle joue Philinte ?",
+    "reponse": "Philinte est le contrepoint d’Alceste. Il voit les mêmes défauts humains, mais choisit de les supporter avec calme : « Je prends tout doucement les hommes comme ils sont ». Il incarne l’idéal de l’honnête homme, fondé sur la modération (« La parfaite raison fuit toute extrémité »). Il reste fidèle à son ami jusqu’au dernier vers, où il veut l’empêcher de partir. Rousseau le jugera complaisant, ce qui montre que son rôle peut être discuté."
+   },
+   {
+    "question": "Pourquoi peut-on dire que Le Misanthrope est une comédie ?",
+    "reponse": "Par sa forme et ses procédés : un personnage dominé par un trait de caractère, des effets comiques de répétition (« Je ne dis pas cela »), de situation (le tribunal des maréchaux pour un sonnet, les nouvelles embrouillées de Dubois) et de mots (les portraits de Célimène). La pièce fait la satire des mœurs mondaines. Mais c’est une comédie particulière, car le héros n’obtient pas le mariage et part seul : le rire y devient pensif."
+   },
+   {
+    "question": "Que pensez-vous du personnage de Célimène ?",
+    "reponse": "Elle est d’abord la cible de la satire : coquette, elle encourage tous ses soupirants et brille par la médisance. Mais elle est aussi la plus spirituelle du salon : elle domine Arsinoé dans le duel verbal et Alceste dans la scène de la lettre. Au dénouement, démasquée, elle garde sa dignité ; son refus (« La solitude effraye une âme de vingt ans ») est lucide. Elle accepte même d’épouser Alceste, mais pas de s’enterrer dans un désert. On peut donc la juger avec plus de nuance qu’Alceste."
+   },
+   {
+    "question": "Pourquoi Molière place-t-il toute l’action dans un salon ?",
+    "reponse": "Le salon est le lieu de la vie mondaine, où l’on se montre, où l’on converse et où l’on juge les autres. C’est un véritable théâtre : Oronte y lit son sonnet, Célimène y donne le spectacle des portraits, les marquis y lisent les lettres. L’unité de lieu, règle classique, prend ainsi un sens : Alceste est enfermé dans le monde qu’il déteste, et il ne peut s’en libérer qu’en sortant définitivement."
+   },
+   {
+    "question": "Quel lien faites-vous avec le parcours sur les masques sociaux ?",
+    "reponse": "Le Misanthrope montre que la société repose sur des rôles : compliments d’usage, flatterie des marquis, fausse vertu d’Arsinoé. Alceste veut arracher les masques, mais il joue lui aussi un rôle, celui de l’homme intègre qui veut être distingué. Le théâtre, art du masque, dénonce ainsi les masques de la vie sociale. On peut rapprocher la pièce du Tartuffe, où l’hypocrisie devient escroquerie, et de Pour un oui ou pour un non de Sarraute, où une simple intonation fait éclater une amitié."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), en lien avec l’objet d’étude « Le théâtre du XVIIe siècle au XXIe siècle » (comédie classique). Parcours proposé par la fiche, non officiel : le théâtre, miroir des masques sociaux. Autres œuvres : Le Tartuffe de Molière (l’hypocrite véritable), les Maximes de La Rochefoucauld et Les Caractères de La Bruyère (moralistes), la Lettre à d’Alembert de Rousseau (critique de la pièce), Pour un oui ou pour un non de Sarraute (violence cachée sous la politesse).",
+  "reflexion": [
+   {
+    "question": "Faut-il toujours dire la vérité ?",
+    "pistes": "Distinguer mentir et taire ; la politesse comme respect d’autrui ou comme hypocrisie ; exemples de la pièce (le sonnet d’Oronte, les compliments de Philinte) et de la vie courante (réseaux sociaux, critiques)."
+   },
+   {
+    "question": "Préférez-vous Alceste ou Philinte ?",
+    "pistes": "Ce que chacun apporte (exigence morale / bienveillance) ; leurs limites (orgueil / résignation) ; le rôle d’Éliante, sincère sans dureté."
+   },
+   {
+    "question": "Un monde sans politesse serait-il meilleur ?",
+    "pistes": "La politesse comme « masque » nécessaire à la vie en commun ; les risques de la franchise brutale ; la réponse que suggère la solitude finale d’Alceste."
+   },
+   {
+    "question": "Peut-on rire d’un personnage qui souffre ?",
+    "pistes": "Le rire et la distance ; le malaise du spectateur dans la scène de la lettre ; comparer avec d’autres comédies grinçantes ou des séries comiques actuelles."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "La scène d’exposition (I, 1)",
+   "reference": "Acte I, scène 1, du début jusqu’à la profession de foi d’Alceste",
+   "enjeu": "Comment cette ouverture in medias res présente-t-elle, par une dispute comique, l’opposition entre deux conceptions de la vie en société ?",
+   "mouvements": [
+    "Mouvement 1 : une entrée en matière brutale. Stichomythies et vers partagés (« Qu’est-ce donc ? Qu’avez-vous ? — Laissez-moi, je vous prie »), refus d’Alceste de répondre, rupture de l’amitié (« Rayez cela de vos papiers ») : le spectateur est plongé dans une querelle.",
+    "Mouvement 2 : le réquisitoire d’Alceste. Récit des « embrassements » de Philinte, hyperboles et colère (« Morbleu ! c’est une chose indigne, lâche, infâme »), exagération comique (« Je m’irais, de regret, pendre tout à l’instant »).",
+    "Mouvement 3 : l’ironie de Philinte et la thèse d’Alceste. Philinte plaisante (« Et ne me pende pas pour cela, s’il vous plaît ») ; Alceste formule son idéal : « Je veux qu’on soit sincère, et qu’en homme d’honneur / On ne lâche aucun mot qui ne parte du cœur »."
+   ]
+  },
+  {
+   "titre": "Le sonnet d’Oronte (I, 2)",
+   "reference": "Acte I, scène 2, lecture et critique du sonnet",
+   "enjeu": "Comment la scène met-elle à l’épreuve, de façon comique, l’idéal de sincérité d’Alceste ?",
+   "mouvements": [
+    "Mouvement 1 : les compliments excessifs d’Oronte et la lecture du sonnet. Oronte offre son amitié avec emphase ; son sonnet précieux (« Belle Philis, on désespère, / Alors qu’on espère toujours ») est couvert d’éloges par Philinte, tandis qu’Alceste s’impatiente en aparté.",
+    "Mouvement 2 : la critique détournée. Alceste prétend parler d’un autre poète et répète « Je ne dis pas cela » : comique de répétition qui montre qu’il essaie, maladroitement, d’être poli.",
+    "Mouvement 3 : la franchise brutale. « Franchement, il est bon à mettre au cabinet » ; Alceste condamne « Ce style figuré, dont on fait vanité » et lui préfère une vieille chanson populaire (« Si le roi m’avait donné / Paris, sa grand’ville ») : la sincérité devient provocation et entraîne la brouille."
+   ]
+  },
+  {
+   "titre": "La scène des portraits (II, 5 sur le site ; II, 4 dans la plupart des éditions)",
+   "reference": "Acte II, scène 5 du texte du site (II, 4 dans la plupart des éditions), salon de Célimène",
+   "enjeu": "Comment Molière fait-il de ce jeu mondain une satire de la médisance et de la flatterie ?",
+   "mouvements": [
+    "Mouvement 1 : l’ultimatum d’Alceste interrompu. Alceste exige que Célimène se déclare (« Non. Mais vous choisirez ») ; l’arrivée des marquis détourne la conversation : la vie mondaine l’emporte sur la sincérité.",
+    "Mouvement 2 : la galerie de portraits. Les marquis lancent des noms, Célimène les croque : Damon, « un parleur étrange », Timante, « homme tout mystère », Bélise… Rythme vif, antithèses, chutes spirituelles : Célimène est une artiste de la médisance, et son public rit avec elle.",
+    "Mouvement 3 : la révolte d’Alceste. Il dénonce les marquis flatteurs qui encouragent la médisance (« Plus on aime quelqu’un, moins il faut qu’on le flatte ») ; Éliante lui répond par sa tirade sur l’aveuglement des amants : le comique se teinte de réflexion morale."
+   ]
+  },
+  {
+   "titre": "Le dénouement (V, 7-8 sur le site ; fin de V, 4 ailleurs)",
+   "reference": "Acte V, scènes 7 et 8 du texte du site (fin de la scène 4 dans la plupart des éditions), après la lecture des lettres de Célimène",
+   "enjeu": "En quoi ce dénouement, qui refuse le mariage final, est-il original et ambigu pour une comédie ?",
+   "mouvements": [
+    "Mouvement 1 : l’offre d’Alceste. Il pardonne à Célimène (« Oui, je veux bien, perfide, oublier vos forfaits »), mais pose une condition : qu’elle le suive dans son « désert ».",
+    "Mouvement 2 : le refus de Célimène. « La solitude effraye une âme de vingt ans » : elle offre le mariage, mais pas la retraite ; Alceste la rejette (« Allez, je vous refuse »).",
+    "Mouvement 3 : le départ. Alceste s’efface devant Éliante, qui choisit Philinte, puis annonce son départ vers « un endroit écarté / Où d’être homme d’honneur on ait la liberté » ; les derniers vers de Philinte laissent la fin ouverte."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Le Misanthrope (1666) : grande comédie de Molière en cinq actes et en alexandrins, dans le salon de Célimène, en une journée.",
+   "Conflit central : la sincérité absolue d’Alceste contre la politesse mondaine (Philinte) et la coquetterie (Célimène).",
+   "Paradoxe comique : l’ennemi de l’hypocrisie aime la plus habile des coquettes.",
+   "Alceste est à la fois ridicule (excès, orgueil, contradictions) et admirable (refus de l’hypocrisie).",
+   "Philinte incarne l’honnête homme : « La parfaite raison fuit toute extrémité ».",
+   "Satire des mœurs : portraits médisants, marquis vaniteux, fausse vertu d’Arsinoé.",
+   "Dénouement original : pas de mariage pour le héros, qui part seul chercher « un endroit écarté ».",
+   "Débat critique : Rousseau (1758) reproche à Molière d’avoir rendu la vertu ridicule."
+  ],
+  "citations": [
+   0,
+   1,
+   3,
+   6,
+   8,
+   10,
+   11
+  ],
+  "pieges": [
+   "Numérotation : portraits = II, 4 dans la plupart des éditions, II, 5 dans le texte du site ; dénouement = V, 4 ou V, 4-8.",
+   "Alceste n’est pas le porte-parole de Molière ; Philinte n’est pas un hypocrite.",
+   "La pièce n’a pas été un échec en 1666.",
+   "« castigat ridendo mores » n’est pas une formule de Molière."
+  ],
+  "synthese": "Le Misanthrope met en scène, dans le salon de Célimène, un homme qui exige la sincérité absolue et refuse les compromis de la vie mondaine. Molière en fait un personnage double : juste dans sa critique de la flatterie, de la médisance et de la justice corrompue, mais ridicule par ses excès, son orgueil et son amour pour une coquette. Face à lui, Philinte défend une sagesse modérée. La comédie fait rire (sonnet, portraits, répétitions) mais se teinte de gravité : démasquée, Célimène refuse de suivre Alceste, qui part seul. La pièce laisse le spectateur juger : peut-on vivre en société sans un peu de comédie ?"
+ },
+ "vocabulaire": [
+  {
+   "terme": "Misanthrope",
+   "definition": "Du grec misos (haine) et anthrôpos (homme) : celui qui déteste le genre humain. Alceste : « je hais tous les hommes » (I, 1)."
+  },
+  {
+   "terme": "Comédie de caractère",
+   "definition": "Comédie centrée sur un type humain et ses défauts (l’avare, le misanthrope, l’hypocrite). Le Misanthrope en est un modèle."
+  },
+  {
+   "terme": "Scène d’exposition",
+   "definition": "Première(s) scène(s) qui présentent les personnages, la situation et l’enjeu. Ici, le débat Alceste-Philinte (I, 1)."
+  },
+  {
+   "terme": "Tirade",
+   "definition": "Longue réplique d’un personnage. Exemple : la tirade d’Éliante sur l’aveuglement des amants (II, 5 sur le site ; II, 4 ailleurs)."
+  },
+  {
+   "terme": "Stichomythie",
+   "definition": "Échange rapide de répliques courtes, d’un vers ou d’un demi-vers. Exemple : l’ultimatum d’Alceste à Célimène (« Vous perdez le sens. — Point. Vous vous déclarerez »)."
+  },
+  {
+   "terme": "Aparté",
+   "definition": "Réplique dite à part, que les autres personnages sont censés ne pas entendre. Pendant la lecture du sonnet (I, 2), Alceste commente à part pour Philinte les vers d’Oronte."
+  },
+  {
+   "terme": "Comique de répétition",
+   "definition": "Effet comique produit par la reprise d’un mot ou d’une situation. Exemple : « Je ne dis pas cela » (I, 2)."
+  },
+  {
+   "terme": "Honnête homme",
+   "definition": "Idéal social du XVIIe siècle : homme cultivé, poli, modéré, qui sait plaire en société. Philinte en est l’incarnation."
+  },
+  {
+   "terme": "Règle des trois unités",
+   "definition": "Règle classique : une seule action, en un seul lieu, en une seule journée. Le Misanthrope la respecte (le salon de Célimène, une journée)."
+  },
+  {
+   "terme": "Dénouement",
+   "definition": "Fin de la pièce qui résout l’intrigue. Celui du Misanthrope est original : le héros part seul, sans mariage."
+  },
+  {
+   "terme": "Tribunal des maréchaux",
+   "definition": "Juridiction des maréchaux de France chargée de régler les querelles d’honneur entre gentilshommes pour éviter les duels. Alceste y est convoqué pour l’affaire du sonnet (II, 7 sur le site)."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "En quelle année Le Misanthrope est-il créé ?",
+   "choix": [
+    "1659",
+    "1664",
+    "1666",
+    "1673"
+   ],
+   "reponse": 2,
+   "explication": "La pièce est créée le 4 juin 1666 au théâtre du Palais-Royal."
+  },
+  {
+   "question": "Que reproche Alceste à Philinte au début de la pièce ?",
+   "choix": [
+    "De lui avoir menti",
+    "D’avoir flatté un inconnu",
+    "D’aimer Célimène",
+    "D’avoir écrit un sonnet"
+   ],
+   "reponse": 1,
+   "explication": "Philinte a accablé de « caresses » un homme dont il connaît à peine le nom : pour Alceste, c’est de l’hypocrisie."
+  },
+  {
+   "question": "Comment Alceste juge-t-il le sonnet d’Oronte ?",
+   "choix": [
+    "Il le trouve admirable",
+    "Il le juge « bon à mettre au cabinet »",
+    "Il refuse de l’écouter",
+    "Il en écrit un meilleur"
+   ],
+   "reponse": 1,
+   "explication": "« Franchement, il est bon à mettre au cabinet » : il faut le jeter."
+  },
+  {
+   "question": "Qui trace les portraits satiriques des absents à l’acte II ?",
+   "choix": [
+    "Éliante",
+    "Arsinoé",
+    "Célimène",
+    "Acaste"
+   ],
+   "reponse": 2,
+   "explication": "Célimène brille dans la « scène des portraits » (II, 4 dans la plupart des éditions ; II, 5 dans le texte du site)."
+  },
+  {
+   "question": "Quel personnage incarne la modération de l’honnête homme ?",
+   "choix": [
+    "Oronte",
+    "Philinte",
+    "Acaste",
+    "Alceste"
+   ],
+   "reponse": 1,
+   "explication": "Philinte : « La parfaite raison fuit toute extrémité »."
+  },
+  {
+   "question": "Qui apporte à Alceste une lettre compromettante de Célimène ?",
+   "choix": [
+    "Éliante",
+    "Oronte",
+    "Arsinoé",
+    "Dubois"
+   ],
+   "reponse": 2,
+   "explication": "Arsinoé, jalouse de Célimène et éprise d’Alceste, lui remet cette lettre."
+  },
+  {
+   "question": "Pourquoi Célimène refuse-t-elle de suivre Alceste ?",
+   "choix": [
+    "Elle aime Oronte",
+    "« La solitude effraye une âme de vingt ans »",
+    "Elle veut épouser Philinte",
+    "Elle part en voyage"
+   ],
+   "reponse": 1,
+   "explication": "« La solitude effraye une âme de vingt ans » : elle accepterait le mariage, mais pas de renoncer au monde (V, 7 sur le site)."
+  },
+  {
+   "question": "Comment se termine la pièce ?",
+   "choix": [
+    "Par le mariage d’Alceste et de Célimène",
+    "Par la mort d’Alceste",
+    "Par le départ d’Alceste, seul",
+    "Par le mariage d’Alceste et d’Éliante"
+   ],
+   "reponse": 2,
+   "explication": "Alceste part chercher « un endroit écarté » ; Éliante épousera Philinte."
+  },
+  {
+   "question": "Quel personnage de la pièce Molière jouait-il lui-même ?",
+   "choix": [
+    "Philinte",
+    "Oronte",
+    "Alceste",
+    "Acaste"
+   ],
+   "reponse": 2,
+   "explication": "Molière créa le rôle d’Alceste ; sa femme, Armande Béjart, jouait Célimène."
+  },
+  {
+   "question": "Quel procédé comique Alceste utilise-t-il avec « Je ne dis pas cela » ?",
+   "choix": [
+    "Le comique de geste",
+    "Le comique de répétition",
+    "Le quiproquo",
+    "Le déguisement"
+   ],
+   "reponse": 1,
+   "explication": "Il répète la formule tout en critiquant le sonnet : la répétition révèle sa franchise mal contenue."
+  },
+  {
+   "question": "Que reproche Rousseau à Molière dans la Lettre à d’Alembert (1758) ?",
+   "choix": [
+    "D’avoir copié Corneille",
+    "D’avoir rendu la vertu ridicule",
+    "D’avoir écrit en prose",
+    "D’avoir flatté Louis XIV"
+   ],
+   "reponse": 1,
+   "explication": "Pour Rousseau, Molière fait rire d’un homme vertueux, Alceste, et donne le beau rôle à Philinte."
+  },
+  {
+   "question": "Quelle forme poétique Oronte soumet-il au jugement d’Alceste ?",
+   "choix": [
+    "Un rondeau",
+    "Une ode",
+    "Un sonnet",
+    "Une ballade"
+   ],
+   "reponse": 2,
+   "explication": "C’est un sonnet précieux (« Belle Philis, on désespère… »), qu’Alceste juge « bon à mettre au cabinet »."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte intégral du site : Molière, Le Misanthrope, éd. Philarète Chasles, Calmann Lévy, 1887 (Project Gutenberg n° 50173)",
+   "url": "https://www.gutenberg.org/ebooks/50173"
+  },
+  {
+   "titre": "Wikisource, Le Misanthrope, édition Louandre (1910) : liste des personnages et distribution de la création",
+   "url": "https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910"
+  },
+  {
+   "titre": "Wikisource, Notice du Misanthrope (éd. Louandre, 1910) : succès de la création, Lettre de Donneau de Visé, clés, critique de Rousseau",
+   "url": "https://fr.wikisource.org/wiki/Le_Misanthrope/Notice"
+  },
+  {
+   "titre": "Wikisource, Molière, Premier placet présenté au roi sur la comédie du Tartuffe (éd. Louandre)",
+   "url": "https://fr.wikisource.org/wiki/Tartuffe_ou_l%E2%80%99Imposteur/%C3%89dition_Louandre,_1910/Premier_Placet"
+  },
+  {
+   "titre": "Wikisource, Rousseau, Lettre à M. d’Alembert sur les spectacles",
+   "url": "https://fr.wikisource.org/wiki/%C3%80_M._d%E2%80%99Alembert"
+  },
+  {
+   "titre": "Wikisource, La Rochefoucauld, Réflexions ou sentences et maximes morales (Œuvres, t. 1)",
+   "url": "https://fr.wikisource.org/wiki/%C5%92uvres_de_La_Rochefoucauld_-_T.1/R%C3%A9flexions_ou_sentences_et_maximes_morales"
+  },
+  {
+   "titre": "Wikisource, Le Misanthrope, édition Louandre (1910), texte numéroté utilisé pour les numéros de vers",
+   "url": "https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I"
+  }
+ ],
+ "aVerifier": [
+  "Correspondance des numéros de scène avec « la plupart des éditions » : établie pour les scènes principales (portraits, duel Célimène-Arsinoé, dénouement) ; à contrôler sur l’édition utilisée en classe.",
+  "Le contenu exact de la Lettre de Donneau de Visé n’a pas pu être consulté en ligne : la fiche ne la cite pas et se limite à sa place en tête de l’édition originale.",
+  "Numéros de vers établis d’après l’édition Louandre (Wikisource) par décompte automatique entre les repères de cinq en cinq vers : un écart d’un vers reste possible selon l’édition utilisée."
+ ]
+}

@@ -1,0 +1,1077 @@
+{
+ "id": "therese-raquin",
+ "accroche": "Un amour adultère, un meurtre dans la Seine, puis la lente vengeance d'un noyé : Zola dissèque deux êtres rongés par leurs nerfs et leur sang.",
+ "identite": {
+  "auteur": "Émile Zola (1840-1902) grandit à Aix-en-Provence ; orphelin de père à sept ans, il connaît la pauvreté, échoue au baccalauréat et travaille chez l'éditeur Hachette, où il découvre le monde du livre et de la presse. Journaliste et critique d'art, il défend Manet. Thérèse Raquin (1867), publié à vingt-sept ans, est son premier grand succès et son premier scandale. Il se lance ensuite dans le cycle des Rougon-Macquart (vingt romans, 1871-1893), « Histoire naturelle et sociale d'une famille sous le second Empire » (L'Assommoir, Germinal…). À la fin de sa vie, il s'engage dans l'affaire Dreyfus (« J'accuse… ! », 1898).",
+  "contexte": "Le roman paraît sous le Second Empire (1852-1870) de Napoléon III, période de modernisation de Paris et d'essor de la bourgeoisie. C'est aussi un grand moment de la science : la physiologie, la médecine expérimentale de Claude Bernard (1865), les théories de l'hérédité et du tempérament fascinent les écrivains. Le critique Hippolyte Taine, que Zola admire, explique les œuvres et les hommes par des causes (race, milieu, moment). Zola veut appliquer au roman cette rigueur. Le cadre est pourtant étroit et modeste : une mercerie sombre du passage du Pont-Neuf, sur la rive gauche, et la petite bourgeoisie des employés.",
+  "mouvement": "Thérèse Raquin est souvent considéré comme le premier roman naturaliste de Zola, avant même que le mot ne s'impose. Le naturalisme prolonge le réalisme de Balzac et de Flaubert (représenter le réel, y compris le laid et le banal) en y ajoutant une ambition scientifique : montrer comment le tempérament, l'hérédité et le milieu déterminent les comportements. Dans la préface de 1868, Zola affirme avoir voulu « étudier des tempéraments et non des caractères » et se range parmi le « groupe d'écrivains naturalistes ». Mais le roman emprunte aussi au roman noir, au fantastique et à la tragédie : le noyé qui hante les meurtriers relève presque de l'histoire de fantômes, même si Zola l'explique par les nerfs.",
+  "circonstances": "Zola développe une nouvelle parue dans Le Figaro le 24 décembre 1866 (« Un mariage d'amour »). Le roman paraît d'abord dans la revue L'Artiste d'août à octobre 1867, sous ce titre, puis en volume chez Albert Lacroix en novembre 1867, sous le titre Thérèse Raquin (d'après Wikipédia). La critique se déchaîne : Louis Ulbach, sous le pseudonyme de Ferragus, publie dans Le Figaro un article intitulé « La littérature putride ». Pour la deuxième édition, Zola ajoute une préface datée du 15 avril 1868, où il répond aux attaques et expose sa méthode.",
+  "carriere": "Thérèse Raquin est le roman qui fait connaître Zola. Il précède Madeleine Férat (1868) et le grand projet des Rougon-Macquart, dont le premier volume, La Fortune des Rougon, paraît en 1871. On y trouve déjà les thèmes et les méthodes du cycle (tempéraments, milieu, corps, regard clinique), mais sans la dimension sociale et historique d'ensemble : c'est un roman de laboratoire, resserré sur quatre personnages. Zola en tirera aussi un drame, joué en 1873."
+ },
+ "resumeCourt": "À Paris, dans la mercerie humide du passage du Pont-Neuf, Thérèse s'ennuie à mourir auprès de son mari Camille, cousin chétif et égoïste, et de sa tante, Mme Raquin. Lorsque Camille amène Laurent, un ancien camarade robuste et paresseux, Thérèse devient sa maîtresse : la passion se déchaîne. Pour vivre librement leur liaison, les amants noient Camille lors d'une promenade en canot à Saint-Ouen ; Camille, en se débattant, mord Laurent au cou. Le crime passe pour un accident et, plus d'un an après, ils se marient avec la bénédiction de Mme Raquin. Mais le cadavre du noyé s'installe entre eux : hallucinations, nuits blanches, terreur, puis haine réciproque. Mme Raquin, devenue paralysée et muette, apprend la vérité et assiste, impuissante, à leur déchéance. Incapables de vivre ensemble ou séparément, Thérèse et Laurent, qui voulaient s'entretuer, finissent par s'empoisonner ensemble sous le regard implacable de la vieille femme.",
+ "resume": [
+  {
+   "titre": "Chapitres I à IV — Le passage du Pont-Neuf : une vie enterrée",
+   "texte": "Le roman s'ouvre sur le passage du Pont-Neuf, corridor étroit, sombre et humide entre la rue Mazarine et la rue de Seine, où Mme Raquin tient une petite mercerie. On remonte ensuite le temps : Thérèse, née à Oran d'un capitaine, Degans, et d'une « femme indigène », a été confiée enfant à sa tante, ancienne mercière de Vernon, qui l'élève avec son fils Camille, enfant maladif nourri de tisanes. Thérèse grandit dans cette atmosphère de chambre de malade, apprenant à se taire et à dissimuler. Mme Raquin la marie à Camille ; huit jours après, Camille exige de partir vivre à Paris. Thérèse étouffe dans la boutique, tandis que chaque jeudi les mêmes invités (le vieux Michaud, ancien commissaire de police, son fils Olivier, sa bru Suzanne, l'employé Grivet) viennent jouer aux dominos : Thérèse croit vivre parmi des « cadavres mécaniques »."
+  },
+  {
+   "titre": "Chapitres V et VI — L'arrivée de Laurent",
+   "texte": "Un jeudi, Camille amène un ami d'enfance retrouvé à son bureau, à l'administration du chemin de fer d'Orléans : Laurent, fils d'un paysan de Jeufosse, grand, fort, sanguin et surtout paresseux, qui a fait semblant d'étudier le droit, a tâté de la peinture et attend que son père meure pour « vivre sans rien faire ». Il fait le portrait de Camille : malgré lui, le visage peint ressemble déjà à « la face verdâtre d'un noyé ». Un jour où ils se trouvent seuls, Laurent prend Thérèse dans ses bras : « L'acte fut silencieux et brutal » (chap. VI)."
+  },
+  {
+   "titre": "Chapitres VII à X — La passion des amants et l'idée du meurtre",
+   "texte": "Les amants trouvent leur liaison « nécessaire, fatale, toute naturelle ». Au premier baiser, Thérèse s'est révélée : son « sang » longtemps contenu s'enflamme, avec une violence qui surprend Laurent lui-même. Ils se retrouvent l'après-midi dans la chambre conjugale ; le soir, devant Camille et Mme Raquin, Thérèse joue parfaitement la comédie. Pendant huit mois, ils vivent ainsi. Quand le chef de Laurent lui interdit de s'absenter (chap. IX), les rendez-vous deviennent impossibles et l'idée du meurtre naît. Un jeudi, Michaud raconte des crimes impunis, et c'est Camille qui conclut naïvement qu'il y a « des meurtriers qui se promènent au soleil » (chap. X)."
+  },
+  {
+   "titre": "Chapitres XI à XIII — Le meurtre et la Morgue",
+   "texte": "Un dimanche d'automne, lors d'une promenade à Saint-Ouen, le trio loue un canot. Au milieu de la Seine, Laurent saisit Camille et le jette à l'eau ; le malheureux, dans un dernier réflexe, lui mord le cou. Laurent fait chavirer le canot pour simuler un accident et joue le sauveteur (chap. XI). Il va chercher le vieux Michaud ; tout le monde croit à l'accident (chap. XII). Pour être sûr de la mort de Camille, Laurent va chaque jour à la Morgue, « spectacle à la portée de toutes les bourses », jusqu'au jour où il reconnaît le cadavre décomposé de sa victime : « Voilà ce que j'en ai fait. Il est ignoble. » (chap. XIII)."
+  },
+  {
+   "titre": "Chapitres XIV à XX — L'attente et le mariage calculé",
+   "texte": "Mme Raquin, accablée, s'enferme dans sa douleur ; Laurent revient peu à peu dans la boutique, et les jeudis reprennent. Quinze mois passent (chap. XVI). La peur s'installe : Laurent, la nuit, voit le spectre de Camille ; Thérèse est visitée par les mêmes terreurs. Seul le mariage, pensent-ils, les délivrera de leurs nuits d'angoisse. Ils jouent une comédie habile pour que Mme Raquin et le vieux Michaud eux-mêmes proposent leur union (chap. XIX). Le mariage a lieu à la mairie et à l'église (chap. XX)."
+  },
+  {
+   "titre": "Chapitres XXI à XXIII — Les nuits de noces : le noyé entre eux",
+   "texte": "Dès la nuit de noces (chap. XXI), rien ne se passe comme prévu : au lieu de l'ivresse retrouvée, la peur ; le portrait de Camille semble les regarder, et Laurent croit que Camille est entré dans le chat François. Les nuits suivantes (chap. XXII), une large place reste vide dans le lit : « Là couchait le cadavre de Camille. » Ils croient sentir le corps humide et pourri du noyé ; Laurent comprend « que le noyé était jaloux ». La cicatrice de la morsure le brûle. Il tente de chasser Camille en forçant Thérèse à des baisers sur cette blessure (chap. XXIII), en vain."
+  },
+  {
+   "titre": "Chapitres XXIV et XXV — Laurent peintre, la ressemblance obsédante",
+   "texte": "Les soirées du jeudi reprennent, faussement joyeuses : les invités admirent le bonheur des époux (chap. XXIV). Au bout de quatre mois, Laurent quitte son emploi, loue un atelier et se remet à peindre (chap. XXV). Paradoxe : le crime a affiné ses nerfs et son talent progresse ; mais un ami peintre lui fait remarquer que toutes ses têtes se ressemblent, et Laurent constate avec horreur qu'elles « ressemblent à Camille ». Il ne peut plus peindre sans faire surgir sa victime."
+  },
+  {
+   "titre": "Chapitres XXVI et XXVII — Mme Raquin, témoin muet",
+   "texte": "Mme Raquin est frappée de paralysie : elle ne peut plus ni bouger ni parler, seuls ses yeux vivent (chap. XXVI). Lors d'une crise de terreur, les époux évoquent le meurtre devant elle : elle comprend tout. Sa tendresse se change en haine : « Ce sont mes enfants qui ont tué mon enfant ». Un jeudi, retrouvant un instant l'usage de ses doigts, elle trace sur la table : « Thérèse et Laurent ont… » ; mais la paralysie la reprend et Grivet complète naïvement la phrase par « bien soin de moi » (chap. XXVII). Les meurtriers sont sauvés de justesse."
+  },
+  {
+   "titre": "Chapitres XXVIII à XXXI — La haine et la décomposition du couple",
+   "texte": "La vie du couple devient un enfer : disputes, accusations mutuelles, coups (chap. XXVIII). Thérèse se met à pleurer Camille et joue des scènes de remords à genoux devant Mme Raquin, qui refuse du regard tout pardon (chap. XXIX). Mme Raquin songe à se laisser mourir de faim ; Laurent, exaspéré par le regard du chat François, le jette par la fenêtre (chap. XXX). Thérèse se jette dans la débauche, Laurent aussi, sans trouver l'oubli. Chacun songe alors à se débarrasser de l'autre : Laurent vole de l'acide prussique chez un ami, Thérèse cache un couteau (chap. XXXI)."
+  },
+  {
+   "titre": "Chapitre XXXII — Le double suicide",
+   "texte": "Après un dernier jeudi particulièrement gai, chacun s'apprête à tuer l'autre : Laurent verse le poison dans un verre d'eau sucrée, Thérèse tient le couteau. Ils se découvrent mutuellement : « ils se firent pitié et horreur ». Ils éclatent en sanglots et partagent le verre empoisonné. Ils tombent morts l'un sur l'autre, la bouche de Thérèse heurtant la cicatrice de la morsure. Pendant près de douze heures, Mme Raquin contemple leurs cadavres, « les écrasant de regards lourds »."
+  }
+ ],
+ "structure": "Le roman, précédé de la préface de 1868, compte 32 chapitres courts, construits comme une tragédie en deux temps séparés par le meurtre (chapitre XI). Avant : exposition (I-IV : le milieu et les personnages), naissance de la passion (V-X), préparation du crime. Après : la Morgue (XIII), l'attente et le mariage (XIV-XX), puis une longue descente aux enfers (XXI-XXXII) rythmée par des étapes de plus en plus violentes : nuit de noces ratée, hallucinations, portraits, paralysie de Mme Raquin, phrase interrompue, haine, double suicide. Zola découpe ainsi le récit en « phases » successives, comme un médecin note l'évolution d'une maladie (chap. XXIX : « Une nouvelle phase se déclara »). La structure est circulaire : le roman commence et finit dans le même lieu clos, et chaque jeudi revient comme un rituel figé. La préface sert de clé de lecture.",
+ "personnages": [
+  {
+   "nom": "Thérèse Raquin",
+   "role": "Héroïne éponyme. Née à Oran d'un capitaine et d'une « femme indigène », élevée par sa tante dans une atmosphère étouffante, elle a appris à se taire et à feindre. Tempérament nerveux, elle cache sous son calme une énergie sauvage que Laurent réveille. Complice du meurtre, elle sombre ensuite dans la terreur, le remords théâtral et la débauche. Elle incarne la passion comprimée qui explose.",
+   "relations": "Nièce et belle-fille de Mme Raquin, épouse de Camille puis de Laurent, maîtresse puis ennemie de Laurent."
+  },
+  {
+   "nom": "Laurent",
+   "role": "Ami d'enfance de Camille, fils d'un paysan de Jeufosse. Grand, fort, « sanguin », profondément paresseux : il rêve de jouir de la vie sans travailler. Il séduit Thérèse par calcul autant que par désir, conçoit et exécute le meurtre. Peu à peu, ses nerfs se détraquent : hallucinations, peur du portrait, du chat, de la cicatrice. Zola montre en lui la transformation d'un tempérament sous l'effet du crime.",
+   "relations": "Ami d'enfance et collègue de Camille, amant puis mari de Thérèse, protégé puis bourreau de Mme Raquin ; ennemi du chat François."
+  },
+  {
+   "nom": "Camille Raquin",
+   "role": "Fils de Mme Raquin et mari de Thérèse. Enfant malade, gâté, élevé dans les tisanes, il est devenu un employé médiocre, égoïste et vaniteux, aveugle à tout ce qui se passe sous ses yeux. Vivant, il est insignifiant ; mort, il devient tout-puissant : le noyé hante le couple, sa morsure reste gravée dans la chair de Laurent.",
+   "relations": "Fils de Mme Raquin, cousin et mari de Thérèse, ami naïf de Laurent, admirateur de son chef Grivet."
+  },
+  {
+   "nom": "Madame Raquin",
+   "role": "Ancienne mercière de Vernon, mère aimante et aveugle qui encourage le mariage de Thérèse avec Laurent. Frappée de paralysie, muette, elle découvre la vérité et devient un témoin terrible : son regard immobile est le seul juge des meurtriers. Elle passe de la bonté naïve à une haine implacable.",
+   "relations": "Mère de Camille, tante de Thérèse, amie du vieux Michaud ; elle traite Laurent comme un fils avant de découvrir le crime."
+  },
+  {
+   "nom": "Le vieux Michaud",
+   "role": "Ancien commissaire de police à Vernon, ami de Mme Raquin, habitué des jeudis. Ironie cruelle : ce policier raconte des crimes impunis sans voir celui qui a été commis sous ses yeux, et il travaille lui-même au mariage des meurtriers."
+  },
+  {
+   "nom": "Olivier et Suzanne Michaud",
+   "role": "Le fils de Michaud, commis principal à la préfecture de police, et sa femme, petite, lente et maladive. Figures grises et mécaniques des soirées du jeudi, ils représentent la médiocrité petite-bourgeoise ; à la fin, Suzanne est enceinte, comme pour souligner que la vie ordinaire continue."
+  },
+  {
+   "nom": "Grivet",
+   "role": "Vieil employé, premier commis au chemin de fer d'Orléans et chef de bureau de Camille, maniaque et satisfait de lui-même. C'est lui qui complète de travers la phrase accusatrice de Mme Raquin (« bien soin de moi », chap. XXVII) : figure comique et grinçante de l'aveuglement collectif."
+  },
+  {
+   "nom": "François, le chat",
+   "role": "Gros chat tigré de Mme Raquin. Ses yeux fixes semblent savoir et juger ; Laurent croit qu'il pourrait parler et dénoncer le crime. Il finit jeté par la fenêtre. Il fonctionne comme un double animal du regard de Mme Raquin."
+  },
+  {
+   "nom": "Le cadavre de Camille",
+   "role": "Véritable personnage de la seconde moitié du roman : vu à la Morgue, puis halluciné dans le lit conjugal, dans les portraits, dans la cicatrice. Il incarne le remords, que Zola présente comme un « désordre organique » plutôt que comme un sentiment moral."
+  },
+  {
+   "nom": "Le passage du Pont-Neuf",
+   "role": "Plus qu'un décor, un véritable milieu au sens naturaliste : sombre, humide, sale, il étouffe Thérèse, accompagne la naissance de la passion puis l'enfermement du couple. La boutique ressemble à un tombeau."
+  }
+ ],
+ "evolution": "Le roman suit une transformation en « phases », comme une maladie. Thérèse passe de la torpeur (elle se croit parmi des « cadavres mécaniques ») à l'explosion de la passion, puis à la terreur, au remords joué devant Mme Raquin, à la débauche, enfin au désir de mort. Laurent passe de la paresse satisfaite à l'angoisse : ses nerfs, d'abord solides, se détraquent ; il devient presque un artiste, mais un artiste hanté. Le couple va de l'amour « comme des brutes » à la haine et à la violence. Mme Raquin va de la bonté aveugle à la haine immobile : elle finit en juge. Seuls les invités du jeudi ne changent pas : leur immobilité souligne la chute des meurtriers.",
+ "themes": [
+  {
+   "titre": "La passion comme force physiologique",
+   "texte": "Chez Zola, la passion n'est pas un sentiment noble mais une poussée du corps. Thérèse « naissait à la passion » au premier baiser : ce sont son « sang » et ses « nerfs » qui parlent (chap. VII). Le couple est défini par ses tempéraments : « la femme, nerveuse et hypocrite, l'homme, sanguin et vivant en brute » (chap. VIII). Même le remords, dans la préface, est réduit à « un simple désordre organique ». Le roman répond ainsi directement au parcours Anatomie des passions : il observe la passion comme un médecin observe une maladie, avec ses symptômes (fièvre, frissons, insomnies, tremblements)."
+  },
+  {
+   "titre": "Le crime et ses conséquences : du désir à la haine",
+   "texte": "Le meurtre devait libérer le désir ; il le tue. Après la noyade de Camille, les amants ne se désirent plus : le cadavre s'interpose physiquement entre eux (« Là couchait le cadavre de Camille », chap. XXII). L'amour se renverse en peur, puis en haine : ils s'insultent, se battent, et chacun prépare la mort de l'autre (chap. XXXI-XXXII). Zola montre une logique implacable, presque tragique : la passion qui conduit au crime porte en elle sa propre punition, sans intervention de la justice humaine."
+  },
+  {
+   "titre": "Le regard et la culpabilité",
+   "texte": "Le roman est obsédé par les yeux : le chat François qui fixe Laurent « d'un air lourd et implacable » (chap. XXX), le portrait de Camille aux yeux « blancs flottant dans les orbites » (chap. XXI), et surtout le regard de Mme Raquin paralysée, seul organe qui reste vivant en elle. À la fin, elle contemple les cadavres « les écrasant de regards lourds ». Le regard remplace la parole et la justice : il est le tribunal intérieur des meurtriers. Ce motif permet d'analyser comment Zola rend visible ce qui, d'ordinaire, reste invisible : la culpabilité."
+  },
+  {
+   "titre": "Le milieu : enfermement et étouffement",
+   "texte": "Dès l'incipit, le passage du Pont-Neuf est décrit comme un lieu sans lumière, « pavé de dalles jaunâtres, usées », « suant toujours une humidité acre ». La boutique, la chambre, la salle à manger des jeudis forment un huis clos. Ce milieu agit sur les personnages : Thérèse y étouffe, Laurent s'y installe comme un parasite, et le couple ne parvient jamais à en sortir. Le seul moment au grand air, la promenade à Saint-Ouen, est celui du meurtre. Le milieu est donc une cause, conformément à la théorie naturaliste."
+  },
+  {
+   "titre": "La mort et la décomposition",
+   "texte": "La Morgue (chap. XIII) est un sommet du roman : Zola décrit avec une précision clinique le corps décomposé de Camille (« Tout le torse pourrissait »), mais aussi le public qui vient s'y divertir comme au spectacle. Le motif du cadavre revient sans cesse : hallucinations, portraits peints par Laurent où tous les visages ressemblent au noyé, cicatrice. La décomposition physique du corps de Camille annonce la décomposition morale et nerveuse du couple."
+  },
+  {
+   "titre": "La satire de la petite bourgeoisie",
+   "texte": "Les soirées du jeudi, avec leurs dominos, leur thé et leurs bavardages, montrent une petite bourgeoisie médiocre et aveugle. Michaud, ancien commissaire, raconte des crimes impunis sans rien soupçonner, et travaille lui-même au mariage des meurtriers ; Grivet complète de travers la phrase de Mme Raquin. Le crime prospère au cœur de la respectabilité. Cette critique annonce les grandes fresques sociales des Rougon-Macquart."
+  },
+  {
+   "titre": "Art et vérité : le roman comme dissection",
+   "texte": "Laurent est peintre : son mauvais portrait de Camille ressemble déjà à un noyé ; après le crime, son art progresse, mais tous ses visages deviennent celui de sa victime (chap. XXV). Zola lui-même se présente en peintre-chirurgien : « J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres » (préface). Le roman réfléchit donc à ce que l'art doit montrer : la vérité, même atroce."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "La passion est-elle un sentiment ou une force physique ?",
+   "Que devient le désir après le crime qui devait le libérer ?",
+   "Comment représenter le remords sans recourir à l'âme ou à la morale ?",
+   "Le romancier peut-il être un savant qui observe, comme un chirurgien ?",
+   "Qui juge les meurtriers, quand la justice humaine ne voit rien ?"
+  ],
+  "intentions": "Les intentions de Zola sont exposées dans la préface de la deuxième édition, datée du 15 avril 1868 et incluse dans le texte du site. Il y affirme : « Dans Thérèse Raquin, j'ai voulu étudier des tempéraments et non des caractères. Là est le livre entier. » Il dit avoir choisi des personnages « dépourvus de libre arbitre » et cherché « à suivre pas à pas dans ces brutes le travail sourd des passions » ; il ajoute que « chaque chapitre est l'étude d'un cas curieux de physiologie » et que son « but a été un but scientifique avant tout ». Il répond aux critiques qui l'accusent d'obscénité en se comparant au médecin et au peintre de nu : « L'étude sincère purifie tout, comme le feu. » La préface est donc une défense après coup : elle éclaire le projet mais ne suffit pas à rendre compte de tout le roman (le fantastique, la dimension tragique).",
+  "procedes": [
+   {
+    "nom": "Le lexique physiologique",
+    "explication": "Sang, nerfs, fièvre, frissons, tempérament : Zola décrit les personnages comme un médecin décrit des patients.",
+    "exemple": "« la femme, nerveuse et hypocrite, l'homme, sanguin et vivant en brute, ils faisaient un couple puissamment lié » (chap. VIII)."
+   },
+   {
+    "nom": "La description clinique du corps mort",
+    "explication": "Le narrateur énumère les parties du cadavre avec une précision anatomique qui fait voir la décomposition.",
+    "exemple": "À la Morgue : « les clavicules perçaient la peau des épaules » ; « Tout le torse pourrissait » (chap. XIII)."
+   },
+   {
+    "nom": "La phrase brève qui fait basculer la scène",
+    "explication": "Après de longues descriptions, une phrase courte et sèche produit un effet de choc.",
+    "exemple": "« L'acte fut silencieux et brutal » (chap. VI) ; « Là couchait le cadavre de Camille » (chap. XXII)."
+   },
+   {
+    "nom": "L'ironie tragique",
+    "explication": "Les personnages disent sans le savoir des vérités terribles ; le lecteur, lui, sait.",
+    "exemple": "Camille lui-même s'étonne qu'il y ait « des meurtriers qui se promènent au soleil » (chap. X), peu avant d'être noyé ; Grivet lit « Thérèse et Laurent ont bien soin de moi » (chap. XXVII)."
+   },
+   {
+    "nom": "L'hallucination entre fantastique et explication nerveuse",
+    "explication": "Le roman montre des apparitions (le noyé dans le lit, Camille dans le chat ou dans les tableaux) mais les attribue aux nerfs détraqués : le lecteur hésite entre surnaturel et pathologie.",
+    "exemple": "« Il finit par comprendre que le noyé était jaloux » (chap. XXII) ; « Camille est entré dans ce chat » (chap. XXI)."
+   },
+   {
+    "nom": "Le motif du regard",
+    "explication": "Les yeux (du chat, du portrait, de Mme Raquin) structurent la seconde partie et remplacent la justice.",
+    "exemple": "Dernière phrase : Mme Raquin les contempla, « les écrasant de regards lourds » (chap. XXXII)."
+   }
+  ],
+  "style": "Zola écrit une prose dense, chargée de sensations (couleurs verdâtres et jaunâtres, odeurs, humidité, chaleur des corps), où dominent le passé simple et l'imparfait de description. Le narrateur omniscient explique les comportements par leurs causes physiques, avec un vocabulaire emprunté à la médecine. Les dialogues sont rares et souvent banals (les jeudis), ce qui renforce le silence des amants. Les images de mort et de décomposition s'accumulent, et certaines phrases très brèves, placées en fin de paragraphe ou de chapitre, frappent comme des verdicts. La préface elle-même reconnaît que le style manque de la « simplicité que demande un roman d'analyse ».",
+  "registres": [
+   {
+    "nom": "Tragique",
+    "explication": "Huis clos, faute initiale, enchaînement fatal vers la mort ; au dénouement, les amants se font « pitié et horreur »."
+   },
+   {
+    "nom": "Fantastique",
+    "explication": "Le noyé jaloux, le chat qui semble habité par Camille, les portraits qui ressemblent tous à la victime créent une inquiétude surnaturelle."
+   },
+   {
+    "nom": "Réaliste et clinique",
+    "explication": "Description précise du passage, de la boutique, de la Morgue et des corps, sans embellissement."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "Les invités du jeudi (Michaud, Grivet, Olivier) sont des « poupées de carton » aveugles et ridicules."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Dans sa préface, Zola présente le remords comme « un simple désordre organique » : il refuse d'expliquer la culpabilité par l'âme.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Malgré la préface, le dénouement fonctionne comme une punition morale : les meurtriers se détruisent sous le regard de la mère. Le roman serait plus moral que son auteur ne le dit.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le chat François et le portrait seraient des doubles de Camille, qui continuerait à vivre dans les objets et les animaux de la maison.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le roman est-il une véritable étude scientifique ou un roman noir habillé de science ? Zola lui-même imagine dans sa préface qu'une critique juste jugerait le cas « trop exceptionnel ».",
+    "nature": "debat"
+   },
+   {
+    "texte": "La ressource Eduscol souligne que Zola reprend l'accusation d'« anatomie crue » lancée par Louis Ulbach pour en faire un principe de méthode.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Thérèse Raquin annonce le naturalisme que Zola théorisera dans Le Roman expérimental (1880) : le romancier y est un observateur qui place des personnages dans un milieu et observe le jeu des passions. On retrouve l'influence de Taine (le tempérament, le milieu) et de la médecine de l'époque. Le roman prolonge aussi le réalisme de Flaubert (Madame Bovary : adultère, ennui, poison) tout en le poussant vers le laid et le morbide, ce qui explique le scandale. La ressource Eduscol rattache le parcours « Anatomie des passions » à cette approche clinique, qui envisage les passions par « phases »."
+ },
+ "citations": [
+  {
+   "texte": "Dans Thérèse Raquin, j'ai voulu étudier des tempéraments et non des caractères.",
+   "locuteur": "Zola (préface)",
+   "reference": "Préface de la deuxième édition (1868)",
+   "situation": "Zola répond aux critiques qui ont jugé le roman immoral.",
+   "sens": "Il ne s'intéresse pas à la psychologie morale mais à la constitution physique.",
+   "procedes": "Antithèse tempéraments / caractères ; formule-manifeste, suivie de « Là est le livre entier ».",
+   "demontre": "Le principe naturaliste du roman : les personnages sont gouvernés par leur corps.",
+   "usage": "Indispensable en dissertation et à l'oral ; définir « tempérament ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : préface de la deuxième édition (1868), d'après Wikisource"
+   }
+  },
+  {
+   "texte": "J'ai choisi des personnages souverainement dominés par leurs nerfs et leur sang, dépourvus de libre arbitre, entraînés à chaque acte de leur vie par les fatalités de leur chair.",
+   "locuteur": "Zola (préface)",
+   "reference": "Préface de la deuxième édition (1868)",
+   "situation": "Zola présente ses personnages.",
+   "sens": "Thérèse et Laurent ne choisissent pas : leur corps décide pour eux.",
+   "procedes": "Gradation ; vocabulaire du déterminisme (« dépourvus de libre arbitre », « fatalités »).",
+   "demontre": "Que la fatalité tragique est remplacée par une fatalité physiologique.",
+   "usage": "Sujet sur la liberté des personnages ; comparaison avec Phèdre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : préface de la deuxième édition (1868), d'après Wikisource"
+   }
+  },
+  {
+   "texte": "Thérèse et Laurent sont des brutes humaines, rien de plus.",
+   "locuteur": "Zola (préface)",
+   "reference": "Préface de la deuxième édition (1868)",
+   "situation": "Suite de la présentation des personnages.",
+   "sens": "Les héros sont réduits à leurs instincts.",
+   "procedes": "Phrase brève et provocante ; oxymore « brutes humaines ».",
+   "demontre": "Le refus d'idéaliser les personnages et l'animalisation naturaliste.",
+   "usage": "Analyse des personnages ; esthétique du laid.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : préface de la deuxième édition (1868), d'après Wikisource"
+   }
+  },
+  {
+   "texte": "J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres.",
+   "locuteur": "Zola (préface)",
+   "reference": "Préface de la deuxième édition (1868)",
+   "situation": "Zola définit sa méthode face aux accusations d'obscénité.",
+   "sens": "Le romancier se veut un chirurgien qui dissèque.",
+   "procedes": "Comparaison médicale ; antithèse corps vivants / cadavres ; adverbe « simplement ».",
+   "demontre": "Le projet scientifique du roman et le sens du mot « anatomie ».",
+   "usage": "Citation clé pour le parcours ; à discuter (le roman est-il si froid ?).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : préface de la deuxième édition (1868), d'après Wikisource"
+   }
+  },
+  {
+   "texte": "L'étude sincère purifie tout, comme le feu.",
+   "locuteur": "Zola (préface)",
+   "reference": "Préface de la deuxième édition (1868)",
+   "situation": "Zola imagine des juges qui ne seraient pas choqués par des « pièces d'anatomie nues et vivantes ».",
+   "sens": "La vérité justifie la représentation de ce qui choque.",
+   "procedes": "Maxime ; comparaison avec le feu (purification).",
+   "demontre": "La défense morale de l'art naturaliste.",
+   "usage": "Sujet sur la représentation du laid ou la liberté de l'artiste.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : préface de la deuxième édition (1868), d'après Wikisource"
+   }
+  },
+  {
+   "texte": "Ce passage a trente pas de long et deux de large, au plus",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre I (incipit)",
+   "situation": "Description du passage du Pont-Neuf.",
+   "sens": "Le lieu est minuscule.",
+   "procedes": "Mesures précises ; présent de description ; restriction « au plus ».",
+   "demontre": "L'effet de réel et l'étroitesse du milieu, déjà une prison.",
+   "usage": "Commentaire de l'incipit ; thème du milieu.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "elle se croyait enfouie au fond d'un caveau, en compagnie de cadavres mécaniques",
+   "locuteur": "Narrateur (point de vue de Thérèse)",
+   "reference": "Chapitre IV",
+   "situation": "Les soirées du jeudi, avec Michaud, Olivier, Suzanne et Grivet.",
+   "sens": "La vie petite-bourgeoise est une mort lente.",
+   "procedes": "Métaphore funèbre ; adjectif « mécaniques » (automates).",
+   "demontre": "Que le motif du cadavre existe avant le meurtre.",
+   "usage": "Thème du milieu et de l'ennui ; satire des jeudis.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "le visage de Camille ressemblait à la face verdâtre d'un noyé",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre VI",
+   "situation": "Laurent achève le portrait de Camille ; la famille crie à la ressemblance.",
+   "sens": "Le portrait annonce la mort de Camille.",
+   "procedes": "Comparaison ; couleur verdâtre ; prolepse (annonce).",
+   "demontre": "Que l'art de Laurent révèle déjà le crime à venir.",
+   "usage": "Motif du portrait ; lien avec le chapitre XXV.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Au premier baiser, elle se révéla courtisane.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre VII",
+   "situation": "Le narrateur revient sur la naissance de la passion de Thérèse.",
+   "sens": "La passion transforme Thérèse instantanément.",
+   "procedes": "Phrase brève ; verbe « se révéla » ; mot fort « courtisane ».",
+   "demontre": "Que la passion est une force cachée qui éclate, liée au tempérament et à l'hérédité (« le sang de sa mère »).",
+   "usage": "Extrait « la révélation de la passion ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "la femme, nerveuse et hypocrite, l'homme, sanguin et vivant en brute, ils faisaient un couple puissamment lié.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre VIII",
+   "situation": "Les amants vivent leur liaison sous les yeux de Camille et de Mme Raquin.",
+   "sens": "Le couple tient par la complémentarité de deux tempéraments.",
+   "procedes": "Parallélisme ; vocabulaire médical (nerveuse, sanguin).",
+   "demontre": "La méthode d'étude des tempéraments annoncée par la préface.",
+   "usage": "Dissertation sur la passion comme phénomène physiologique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "il y a des meurtriers qui se promènent au soleil?",
+   "locuteur": "Camille",
+   "reference": "Chapitre X",
+   "situation": "Un jeudi, Michaud raconte des crimes restés impunis ; Thérèse et Laurent, qui pensent au meurtre, se taisent.",
+   "sens": "Camille s'étonne que des assassins restent libres.",
+   "procedes": "Ironie tragique : la future victime parle de ses futurs meurtriers sans le savoir.",
+   "demontre": "La cécité des personnages et la construction tragique.",
+   "usage": "Procédé de l'ironie tragique ; satire des jeudis.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "La Morgue est un spectacle à la portée de toutes les bourses",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XIII",
+   "situation": "Laurent visite chaque jour la Morgue pour y chercher le corps de Camille.",
+   "sens": "La mort est offerte en spectacle gratuit au public.",
+   "procedes": "Métaphore du spectacle ; ironie sociale.",
+   "demontre": "Le regard satirique de Zola sur la curiosité morbide du public.",
+   "usage": "Extrait « Laurent à la Morgue ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Voilà ce que j'en ai fait. Il est ignoble.",
+   "locuteur": "Laurent",
+   "reference": "Chapitre XIII",
+   "situation": "Après avoir reconnu le cadavre, Laurent marche sur le quai en se répétant ces mots.",
+   "sens": "Laurent mesure l'horreur physique de son crime.",
+   "procedes": "Phrases brèves ; discours direct répété ; jugement esthétique (« ignoble »).",
+   "demontre": "Que le remords commence comme un dégoût du corps, non comme un regret moral.",
+   "usage": "Remords « organique » ; extrait de la Morgue.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Là couchait le cadavre de Camille.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XXII",
+   "situation": "Les nuits qui suivent le mariage : une place vide sépare les époux dans le lit.",
+   "sens": "Le mort occupe la place entre les époux.",
+   "procedes": "Phrase brève ; adverbe de lieu en tête ; hallucination présentée comme un fait.",
+   "demontre": "Que le crime a tué le désir qu'il devait servir.",
+   "usage": "Extrait « le noyé dans le lit conjugal ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Il finit par comprendre que le noyé était jaloux.",
+   "locuteur": "Narrateur (point de vue de Laurent)",
+   "reference": "Chapitre XXII",
+   "situation": "Laurent cherche à comprendre pourquoi il ne peut plus approcher Thérèse.",
+   "sens": "Le mort se venge en empêchant les étreintes.",
+   "procedes": "Ironie macabre ; personnification du noyé.",
+   "demontre": "Le glissement vers le fantastique à travers les nerfs détraqués de Laurent.",
+   "usage": "Registre fantastique ; sujet sur la « froide dissection ».",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "ils se ressemblent tous […] Ils ressemblent à Camille",
+   "locuteur": "Laurent",
+   "reference": "Chapitre XXV",
+   "situation": "Un ami peintre a remarqué que toutes les têtes peintes par Laurent se ressemblent.",
+   "sens": "Laurent ne peut plus peindre sans représenter sa victime.",
+   "procedes": "Répétition ; découverte en discours direct ; la main échappe à la volonté.",
+   "demontre": "Que le remords s'inscrit dans le corps et dans l'art.",
+   "usage": "Thème art et vérité ; parcours (lien avec la peinture).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)",
+    "note": "Coupure signalée par […] ; le texte porte « tous.... Ils »"
+   }
+  },
+  {
+   "texte": "Ce sont mes enfants qui ont tué mon enfant",
+   "locuteur": "Mme Raquin (pensée)",
+   "reference": "Chapitre XXVI",
+   "situation": "Paralysée, Mme Raquin vient de comprendre le crime en entendant les époux.",
+   "sens": "Ceux qu'elle aimait comme ses enfants ont tué son fils.",
+   "procedes": "Répétition du mot « enfant(s) » ; pluriel / singulier ; pensée rapportée entre guillemets.",
+   "demontre": "La trahison familiale et le passage de l'amour à la haine.",
+   "usage": "Personnage de Mme Raquin ; registre tragique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Ils s'étaient aimés comme des brutes, avec une passion chaude, toute de sang",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XXVIII",
+   "situation": "Le narrateur explique la naissance de la haine entre les époux.",
+   "sens": "Leur amour était purement physique ; il se change en haine.",
+   "procedes": "Comparaison animale ; reprise du mot « brutes » de la préface.",
+   "demontre": "La logique de la passion : l'amour physique se retourne en haine.",
+   "usage": "Dissertation : la passion libère-t-elle ou détruit-elle ?",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  },
+  {
+   "texte": "Mme Raquin, roide et muette, les contempla à ses pieds, ne pouvant se rassasier les yeux, les écrasant de regards lourds.",
+   "locuteur": "Narrateur",
+   "reference": "Chapitre XXXII (dernière phrase)",
+   "situation": "Les cadavres de Thérèse et de Laurent gisent devant la paralytique.",
+   "sens": "La mère contemple sa vengeance accomplie.",
+   "procedes": "Participes en cascade ; verbe « se rassasier » (faim) ; image finale immobile.",
+   "demontre": "Que la justice est rendue par le regard, non par la loi.",
+   "usage": "Excipit ; thème du regard.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Émile Zola, Thérèse Raquin (Project Gutenberg n° 7461)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Anatomie des passions",
+  "explication": "Ce parcours, associé à Thérèse Raquin dans le programme de la voie technologique à partir de la rentrée 2026, invite à étudier la passion comme on étudie un corps : en observant ses causes, ses symptômes, son développement et ses effets destructeurs. Le mot « anatomie » vient de la médecine (il désigne la dissection pour comprendre comment fonctionne un organisme) ; le mot passion, qui vient du latin patior (souffrir, subir), rappelle que l'être passionné est d'abord une victime de ce qui le traverse.\n\nThérèse Raquin répond à ce programme de façon presque littérale. Dans sa préface, Zola revendique un « but scientifique » et se compare aux chirurgiens qui dissèquent des cadavres. Il veut suivre « pas à pas » la naissance du désir (chapitres V-X), son paroxysme (le meurtre), puis sa transformation en peur et en haine. Les passions y sont décrites par leurs manifestations physiques : sang qui bat, nerfs tendus, fièvre, insomnies, hallucinations. Le roman montre aussi que la passion n'est jamais isolée : elle naît d'un milieu (la boutique sombre), d'un tempérament (sanguin ou nerveux), de circonstances (l'ennui, la paresse).\n\nPour l'oral et la dissertation, pensez à comparer cette « anatomie » moderne avec d'autres façons de représenter la passion : la tragédie classique (Phèdre, où la passion est déjà décrite par ses symptômes, mais vécue comme une fatalité divine et une faute morale), le roman d'analyse (La Princesse de Clèves, où l'on dissèque les mouvements du cœur plutôt que ceux du corps), ou le roman réaliste (Madame Bovary). La force de Zola est de remplacer l'âme par le corps : chez lui, la passion est une mécanique organique, et c'est ce qui la rend à la fois fascinante et terrifiante.",
+  "textesComplementaires": [
+   {
+    "titre": "Phèdre (1677), acte I, scène 3 : l'aveu à Œnone",
+    "auteur": "Jean Racine",
+    "interet": "La description des symptômes de la passion (« Je le vis, je rougis, je pâlis à sa vue ») est une véritable anatomie avant la lettre. Chez Racine, la passion est vécue comme une malédiction divine et une faute morale ; chez Zola, elle vient du sang et des nerfs. Les deux œuvres mènent à la mort."
+   },
+   {
+    "titre": "La Princesse de Clèves (1678)",
+    "auteur": "Madame de La Fayette",
+    "interet": "Modèle du roman d'analyse : la passion y est disséquée par l'introspection et le langage. L'héroïne résiste à la passion par la raison, quand Thérèse s'y abandonne : deux réponses opposées à la même force."
+   },
+   {
+    "titre": "Madame Bovary (1857)",
+    "auteur": "Gustave Flaubert",
+    "interet": "Autre histoire d'adultère née de l'ennui provincial, autre femme étouffée par son milieu. Flaubert, maître de Zola, montre aussi la dégradation de la passion jusqu'au suicide (Emma s'empoisonne à l'arsenic)."
+   },
+   {
+    "titre": "Introduction à l'étude de la médecine expérimentale (1865)",
+    "auteur": "Claude Bernard",
+    "interet": "Le texte scientifique dont Zola s'inspire pour fonder le roman naturaliste : observation, hypothèse, expérimentation. Utile pour comprendre le sens du mot « anatomie » dans le parcours."
+   },
+   {
+    "titre": "Le Roman expérimental (1880)",
+    "auteur": "Émile Zola",
+    "interet": "Zola y théorise sa méthode : le romancier place des personnages dans un milieu et observe le jeu des passions comme un savant. Le texte permet de relire Thérèse Raquin comme une expérience."
+   },
+   {
+    "titre": "Passion simple (1991)",
+    "auteur": "Annie Ernaux",
+    "interet": "Récit autobiographique d'une passion amoureuse vécue comme une obsession physique et mentale, décrite avec une précision presque clinique : une « anatomie » contemporaine de la passion, sans jugement moral."
+   },
+   {
+    "titre": "Germinie Lacerteux (1865)",
+    "auteur": "Edmond et Jules de Goncourt",
+    "interet": "Cité par la ressource Eduscol : l'étude minutieuse d'une passion et de ses effets sur le corps d'une servante, deux ans avant Thérèse Raquin."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "La passion est décrite comme une force physiologique (sang, nerfs), non comme un sentiment noble.",
+   "Le meurtre, qui devait libérer le désir, le détruit.",
+   "Le remords prend la forme d'un cadavre et d'une cicatrice : il est vécu dans le corps.",
+   "Le regard (Mme Raquin, le chat, le portrait) remplace la justice humaine.",
+   "Le milieu clos et humide agit sur les personnages.",
+   "La préface de 1868 revendique une méthode scientifique, mais le roman est aussi une tragédie et un roman noir."
+  ],
+  "axes": [
+   "Une anatomie de la passion : tempéraments, symptômes, phases.",
+   "Un huis clos tragique : faute, châtiment, regard qui juge.",
+   "Une écriture du corps et de la mort : la Morgue, le noyé, la cicatrice.",
+   "Entre science et fantastique : l'hallucination expliquée par les nerfs.",
+   "Une satire de la petite bourgeoisie aveugle."
+  ],
+  "problematiques": [
+   "Comment Zola fait-il de la passion un objet d'étude scientifique ?",
+   "En quoi le crime transforme-t-il l'amour en enfer ?",
+   "Le roman est-il une froide dissection ou une tragédie qui émeut ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L'incipit : le passage du Pont-Neuf, « trente pas de long et deux de large » (chap. I).",
+    "utilisation": "Montrer le rôle du milieu, étroit et humide, qui enferme les personnages."
+   },
+   {
+    "exemple": "Le portrait de Camille qui ressemble à « la face verdâtre d'un noyé » (chap. VI).",
+    "utilisation": "Montrer que l'art annonce le crime ; motif repris au chapitre XXV."
+   },
+   {
+    "exemple": "La première étreinte : « L'acte fut silencieux et brutal » (chap. VI).",
+    "utilisation": "Prouver que la passion est un instinct physique, sans paroles ni sentiments."
+   },
+   {
+    "exemple": "Camille parlant des « meurtriers qui se promènent au soleil » (chap. X).",
+    "utilisation": "Analyser l'ironie tragique et l'aveuglement des personnages."
+   },
+   {
+    "exemple": "La Morgue (chap. XIII).",
+    "utilisation": "Montrer l'esthétique du laid, la satire du public et la naissance physique du remords."
+   },
+   {
+    "exemple": "« Là couchait le cadavre de Camille » (chap. XXII).",
+    "utilisation": "Montrer que le crime détruit le désir ; hallucination et fantastique."
+   },
+   {
+    "exemple": "La phrase interrompue de Mme Raquin, complétée par Grivet (chap. XXVII).",
+    "utilisation": "Montrer l'ironie tragique et l'impuissance de la justice."
+   },
+   {
+    "exemple": "Le double suicide sous le regard de Mme Raquin (chap. XXXII).",
+    "utilisation": "Analyser un dénouement tragique où le regard juge."
+   }
+  ],
+  "liens": "Les thèmes se nouent autour du corps : la passion naît dans le sang (chap. VII), le crime laisse une marque dans la chair (la morsure), le remords se manifeste par des frissons et des hallucinations, la mort est décrite comme une décomposition. Le regard relie les personnages secondaires au thème de la culpabilité : Mme Raquin, le chat et le portrait voient ce que les invités du jeudi ne voient pas. Les procédés suivent cette logique : lexique médical pour les tempéraments, phrases brèves pour les moments de bascule, ironie tragique pour l'aveuglement collectif.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Chapitre I : l'incipit, du début à la description de la boutique de Mme Raquin.",
+    "pistes": "Précision réaliste (rues, mesures) ; lexique de la saleté, de l'humidité et de l'obscurité ; personnifications qui rendent le lieu malade ; la boutique comme tombeau ; le milieu qui annonce le drame."
+   },
+   {
+    "passage": "Chapitre XIII : Laurent à la Morgue, jusqu'à « Voilà ce que j'en ai fait. Il est ignoble. »",
+    "pistes": "La Morgue comme « spectacle » et satire du public ; description clinique du cadavre (énumération anatomique, couleurs) ; réaction de Laurent, entre curiosité et dégoût ; le remords comme sensation."
+   },
+   {
+    "passage": "Chapitre XXXII : de la découverte mutuelle des projets meurtriers à la dernière phrase.",
+    "pistes": "La reconnaissance (« ils se firent pitié et horreur ») ; le retour d'une tendresse d'enfants ; le poison partagé et la cicatrice ; le tableau final et le regard de Mme Raquin."
+   }
+  ],
+  "erreurs": [
+   "Croire que Thérèse et Laurent sont punis par la justice : personne ne découvre le crime, ils se détruisent eux-mêmes.",
+   "Lire le remords comme un repentir moral : Zola le présente comme « un simple désordre organique ».",
+   "Confondre les rôles : c'est Laurent qui noie Camille ; Thérèse est complice mais ne frappe pas.",
+   "Penser que Mme Raquin pardonne : elle reste muette et implacable, même devant les scènes de remords de Thérèse.",
+   "Prendre le fantastique au premier degré : le narrateur explique les apparitions par les nerfs détraqués.",
+   "Attribuer la phrase complétée « bien soin de moi » au vieux Michaud : c'est Grivet qui l'imagine."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Dans Thérèse Raquin, la passion n'est-elle qu'une affaire de corps ?",
+   "analyse": "Le sujet interroge la thèse même de Zola (la passion comme phénomène physiologique). « N'est-elle qu'une » invite à nuancer : oui, le roman réduit la passion au sang et aux nerfs ; mais n'y a-t-il pas aussi une dimension morale, tragique, voire sociale ? « Affaire de corps » renvoie au tempérament, aux sensations, aux instincts.",
+   "problematique": "La passion telle que Zola la dissèque se réduit-elle à une mécanique organique, ou le roman laisse-t-il voir, malgré son auteur, une dimension morale et tragique ?",
+   "plan": [
+    {
+     "titre": "I. Une passion décrite comme un phénomène physiologique",
+     "arguments": [
+      "A. Des personnages définis par leur tempérament : Laurent « sanguin », Thérèse « nerveuse » (chap. VIII) ; la préface parle de « tempéraments et non des caractères ».",
+      "B. Une passion qui naît et s'exprime dans le corps : métaphores du feu et du sang au premier baiser (chap. VII), frissons, fièvre ; l'hérédité (« le sang de sa mère »).",
+      "C. Un remords réduit à des symptômes : insomnies, hallucinations, cicatrice qui brûle ; la préface parle d'« un simple désordre organique »."
+     ]
+    },
+    {
+     "titre": "II. Mais le corps est aussi le lieu d'un châtiment moral",
+     "arguments": [
+      "A. La culpabilité prend la forme du cadavre de Camille, qui s'interpose dans le lit (chap. XXII) : le corps rend visible la faute.",
+      "B. Le regard de Mme Raquin et du chat François fonctionne comme un tribunal intérieur ; Thérèse cherche le pardon à genoux (chap. XXIX).",
+      "C. Le dénouement a la forme d'une punition exemplaire : les meurtriers s'empoisonnent eux-mêmes, sous les yeux de la mère (chap. XXXII)."
+     ]
+    },
+    {
+     "titre": "III. Une passion tragique, au-delà de la démonstration scientifique",
+     "arguments": [
+      "A. Une structure de tragédie : un huis clos, une faute centrale (le meurtre), un enchaînement fatal vers la mort ; « pitié et horreur » à la fin.",
+      "B. La part du fantastique et du roman noir : le noyé « jaloux », les portraits qui ressemblent tous à Camille (chap. XXV) dépassent l'explication rationnelle.",
+      "C. Une dimension sociale : l'ennui petit-bourgeois du passage et des jeudis explique aussi la naissance de la passion ; le corps est façonné par un milieu."
+     ]
+    }
+   ],
+   "introduction": "« J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres. » Par cette formule de la préface de 1868, Émile Zola répond aux critiques qui avaient jugé Thérèse Raquin immoral : il revendique une démarche scientifique. Le roman raconte comment Thérèse et son amant Laurent noient Camille, le mari, pour vivre leur passion, puis sont détruits par la peur et la haine. On peut alors se demander si, dans ce roman, la passion n'est qu'une affaire de corps. Autrement dit, la passion telle que Zola la dissèque se réduit-elle à une mécanique organique, ou le roman laisse-t-il voir une dimension morale et tragique qui dépasse la démonstration ? Nous verrons d'abord que la passion est décrite comme un phénomène physiologique, puis que le corps devient le lieu d'un véritable châtiment moral, avant de montrer que cette passion prend finalement la grandeur d'une tragédie.",
+   "conclusion": "Thérèse Raquin est bien d'abord une « anatomie » de la passion : Zola décrit le désir, la peur et le remords comme des phénomènes du sang et des nerfs, et c'est ce qui fait la nouveauté radicale du roman. Pourtant, ce corps n'est jamais seulement un objet d'étude : il porte la marque de la faute, il subit un châtiment, il est pris dans un engrenage tragique et dans un milieu social qui l'étouffe. Le roman dépasse ainsi la thèse de sa préface et touche le lecteur par l'horreur et la pitié. Cette tension entre science et tragédie se retrouve dans tout le cycle des Rougon-Macquart, où Zola, dans L'Assommoir ou Germinal, montre des êtres à la fois déterminés par leur hérédité et grandis par leur destin."
+  },
+  {
+   "sujet": "Dans la préface de Thérèse Raquin, Zola affirme : « J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres. » Le roman se lit-il comme une froide dissection des passions ?",
+   "analyse": "La citation critique est de l'auteur lui-même : il se présente en chirurgien, donc en observateur neutre, précis, sans émotion. Le sujet demande si le roman est « froid » (objectif, clinique) ; il faut confronter cette ambition à l'effet réel produit sur le lecteur (horreur, fascination, pitié) et au travail d'écrivain (images, symboles, fantastique).",
+   "problematique": "Thérèse Raquin n'est-il qu'une observation clinique et neutre des passions, ou l'écriture de Zola, en disséquant, ne cesse-t-elle de dramatiser et d'émouvoir ?",
+   "plan": [
+    {
+     "titre": "I. Un projet de dissection revendiqué",
+     "arguments": [
+      "A. Un narrateur omniscient qui explique les comportements par les causes physiques : tempérament, hérédité, milieu (chap. II, VII, VIII).",
+      "B. Une précision clinique dans les descriptions : la Morgue (chap. XIII), l'énumération anatomique du cadavre (« les clavicules perçaient la peau »).",
+      "C. Une expérience suivie « pas à pas » : 32 chapitres qui enregistrent chaque étape de la transformation des personnages, comme un protocole."
+     ]
+    },
+    {
+     "titre": "II. Une écriture qui dramatise et symbolise",
+     "arguments": [
+      "A. Des symboles récurrents qui dépassent l'observation : la morsure-cicatrice, le portrait verdâtre (chap. VI), le chat François.",
+      "B. Le recours au fantastique et à l'hallucination : le cadavre dans le lit (chap. XXII), les visages peints qui ressemblent tous à Camille (chap. XXV).",
+      "C. Une construction tragique avec des scènes de théâtre : la phrase interrompue de Mme Raquin (« Thérèse et Laurent ont… », chap. XXVII), le double suicide."
+     ]
+    },
+    {
+     "titre": "III. Une dissection qui n'est pas neutre : un regard sur l'homme et la société",
+     "arguments": [
+      "A. Une satire de la petite bourgeoisie aveugle : les jeudis, Michaud le policier qui ne voit rien.",
+      "B. Une réflexion morale implicite : le crime ne libère pas, il détruit ; le regard de Mme Raquin juge.",
+      "C. Un effet de pitié et d'horreur sur le lecteur : la fin (« ils se firent pitié et horreur ») suscite l'émotion que la préface prétend écarter."
+     ]
+    }
+   ],
+   "introduction": "En 1868, attaqué par un journaliste qui avait qualifié son roman de « littérature putride », Zola ajoute à Thérèse Raquin une préface où il déclare : « J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres. » Le romancier se présente comme un savant : il n'aurait fait qu'observer les effets d'une passion adultère et d'un meurtre sur deux tempéraments. Mais un roman peut-il vraiment être une dissection froide ? Thérèse Raquin n'est-il qu'une observation clinique et neutre des passions, ou l'écriture de Zola, en disséquant, ne cesse-t-elle de dramatiser et d'émouvoir ? Nous montrerons d'abord que le roman revendique un véritable projet de dissection, puis que l'écriture dramatise et symbolise sans cesse, enfin que ce regard d'apparence scientifique porte un jugement sur l'homme et sur la société.",
+   "conclusion": "Zola a bien voulu faire de Thérèse Raquin une dissection : le narrateur explique, mesure, décrit les corps avec une précision de médecin. Mais le scalpel du romancier n'est jamais froid : les symboles, le fantastique, la construction tragique et la satire sociale font de cette anatomie des passions une œuvre profondément dramatique, qui trouble et émeut. C'est d'ailleurs ce mélange qui a choqué les contemporains et qui fascine encore. Douze ans plus tard, dans Le Roman expérimental, Zola théorisera cette méthode ; mais ses plus grands romans, comme Germinal, montreront que la science du romancier est toujours aussi un art de l'émotion."
+  },
+  {
+   "sujet": "Selon vous, la passion est-elle, dans les œuvres que vous avez étudiées, une force qui libère ou une force qui détruit ?",
+   "analyse": "Sujet large, lié au parcours Anatomie des passions. Il oppose deux visions : la passion comme élan vital et émancipation (sortir de l'ennui, des conventions) ou comme puissance destructrice (crime, folie, mort). Il faut s'appuyer sur Thérèse Raquin et sur d'autres œuvres (Phèdre, Madame Bovary, La Princesse de Clèves).",
+   "problematique": "La passion, que Thérèse Raquin dissèque, offre-t-elle aux personnages une libération, ou n'est-elle qu'une force qui les asservit et les détruit ?",
+   "plan": [
+    {
+     "titre": "I. La passion comme libération",
+     "arguments": [
+      "A. Échapper à une vie morte : Thérèse, enfermée dans la boutique et les jeudis « de cadavres mécaniques », « naissait à la passion » (chap. VII).",
+      "B. Révéler une énergie cachée : la passion réveille le corps et le « sang » de Thérèse ; chez Flaubert, Emma Bovary fuit aussi l'ennui provincial par l'amour.",
+      "C. Une révolte contre l'ordre social et familial : l'adultère comme refus du mariage imposé par Mme Raquin."
+     ]
+    },
+    {
+     "titre": "II. Une libération illusoire : la passion asservit",
+     "arguments": [
+      "A. Le mot même de passion (du latin patior, subir) : les personnages sont « dépourvus de libre arbitre », dit la préface.",
+      "B. La passion entraîne le crime : le meurtre de Camille (chap. XI) n'ouvre pas la liberté mais l'enfer conjugal.",
+      "C. Une passion qui se retourne en peur et en haine : nuits d'hallucinations, coups, projets de meurtre réciproques ; Phèdre aussi est l'esclave de sa passion."
+     ]
+    },
+    {
+     "titre": "III. Comprendre la passion pour s'en libérer : le rôle de l'œuvre",
+     "arguments": [
+      "A. L'anatomie comme connaissance : décrire les mécanismes de la passion, c'est permettre au lecteur de les comprendre (préface de Zola, Le Roman expérimental).",
+      "B. La catharsis : la fin tragique suscite « pitié et horreur » et purge le lecteur de ces passions.",
+      "C. D'autres voies : la Princesse de Clèves choisit le renoncement ; la littérature propose aussi des modèles de résistance à la passion."
+     ]
+    }
+   ],
+   "introduction": "Le mot passion vient du latin patior, qui signifie souffrir, subir : avant d'être un élan amoureux, il désigne ce que l'on endure. Pourtant, depuis le romantisme, la passion est souvent célébrée comme une force de vie qui arrache l'individu à la médiocrité. Thérèse Raquin, que Zola publie en 1867, met en scène une femme qui s'ennuie et découvre avec Laurent une passion violente qui la conduit au meurtre de son mari, puis à l'autodestruction. On peut alors se demander si la passion, telle que la littérature la dissèque, offre aux personnages une libération ou n'est qu'une force qui les asservit et les détruit. Nous verrons d'abord que la passion apparaît comme une libération, puis que cette libération est illusoire, avant de montrer que l'œuvre littéraire, en analysant la passion, permet peut-être de s'en libérer.",
+   "conclusion": "Dans Thérèse Raquin, la passion commence comme une libération : elle arrache Thérèse à une vie de tombeau et réveille son corps. Mais Zola montre aussitôt qu'il s'agit d'un piège : les amants, « dépourvus de libre arbitre », passent du désir au crime, puis à la peur, à la haine et à la mort. Seule l'œuvre elle-même, en disséquant ces mécanismes, offre une forme de liberté : celle de comprendre ce qui nous détermine. C'est peut-être là le sens profond du parcours Anatomie des passions : du « Je le vis, je rougis, je pâlis à sa vue » de Phèdre aux analyses d'Annie Ernaux dans Passion simple, la littérature observe la passion pour mieux la donner à penser."
+  }
+ ],
+ "oral": {
+  "presentation": "Thérèse Raquin est un roman d'Émile Zola publié en 1867, complété en 1868 par une préface célèbre. Dans une mercerie sombre du passage du Pont-Neuf, à Paris, Thérèse s'ennuie auprès de son mari Camille, cousin maladif, et de sa tante Mme Raquin. Elle devient la maîtresse de Laurent, ami de Camille ; les amants noient Camille dans la Seine pour vivre leur passion, puis se marient. Mais le souvenir du noyé les hante : hallucinations, peur, haine. Mme Raquin, paralysée, découvre la vérité et ne peut que regarder. Les meurtriers finissent par s'empoisonner ensemble sous ses yeux. Zola dit avoir voulu « étudier des tempéraments et non des caractères » : le roman est une anatomie des passions, à la fois étude clinique et tragédie.",
+  "essentiels": [
+   "Auteur : Zola (1840-1902) ; roman de 1867 (L'Artiste, puis Lacroix) ; préface de la 2e édition datée du 15 avril 1868.",
+   "Cadre : le passage du Pont-Neuf, la mercerie, les jeudis ; la Seine à Saint-Ouen ; la Morgue.",
+   "Personnages : Thérèse (nerveuse), Laurent (sanguin), Camille, Mme Raquin, Michaud, Grivet, le chat François.",
+   "Thèmes : passion physiologique, crime et remords, regard, milieu, mort et décomposition, art.",
+   "Procédés : lexique médical, description clinique, phrases brèves, ironie tragique, hallucination, motif du regard.",
+   "Parcours : Anatomie des passions ; liens avec Racine, Flaubert, les Goncourt, Le Roman expérimental."
+  ],
+  "questions": [
+   {
+    "question": "Que veut dire Zola quand il parle de « tempéraments » plutôt que de « caractères » ?",
+    "reponse": "Le caractère est une notion morale : on juge quelqu'un par ses qualités et ses défauts. Le tempérament, dans la médecine du XIXe siècle, est une constitution physique : sanguin pour Laurent, nerveux pour Thérèse. Zola veut montrer que les actes viennent du corps : au chapitre VIII, il décrit le couple comme « la femme, nerveuse et hypocrite, l'homme, sanguin et vivant en brute ». C'est le cœur de la méthode naturaliste."
+   },
+   {
+    "question": "Pourquoi le meurtre ne rend-il pas les amants heureux ?",
+    "reponse": "Parce qu'il tue le désir qu'il devait libérer. Dès la nuit de noces, la peur remplace la volupté, et « Là couchait le cadavre de Camille » (chap. XXII). La morsure brûle le cou de Laurent, le portrait et le chat semblent accuser. L'amour se change en haine : ils « s'étaient aimés comme des brutes » (chap. XXVIII). Zola montre une logique implacable : le crime porte en lui sa punition."
+   },
+   {
+    "question": "Quel est le rôle de Mme Raquin dans la seconde partie ?",
+    "reponse": "Paralysée et muette, elle devient un témoin et un juge. Elle comprend le crime et pense : « Ce sont mes enfants qui ont tué mon enfant ». Elle tente de les dénoncer en écrivant « Thérèse et Laurent ont… », mais échoue. Il ne lui reste que le regard, et la dernière phrase la montre « les écrasant de regards lourds ». Elle remplace la justice des hommes, qui ne voit rien."
+   },
+   {
+    "question": "Le roman est-il fantastique ?",
+    "reponse": "Il en a les effets : un noyé jaloux qui se couche entre les époux, un chat qui semble habité par Camille, des portraits qui ressemblent tous à la victime. Mais le narrateur explique ces visions par les nerfs détraqués des meurtriers. Je dirais donc que Zola utilise le fantastique pour rendre sensible la culpabilité, tout en restant fidèle à l'explication physiologique."
+   },
+   {
+    "question": "Pourquoi la scène de la Morgue est-elle importante ?",
+    "reponse": "Elle est d'abord un morceau naturaliste : la description clinique du cadavre (« Tout le torse pourrissait ») montre le laid sans l'embellir. Elle est aussi satirique : la Morgue est un « spectacle à la portée de toutes les bourses ». Enfin, elle marque le début du châtiment de Laurent, qui se répète « Voilà ce que j'en ai fait. Il est ignoble. » : le remords naît comme un dégoût physique."
+   },
+   {
+    "question": "Pourquoi le livre a-t-il fait scandale ?",
+    "reponse": "Parce qu'il montre l'adultère, le meurtre et les corps (la passion, la décomposition) sans voile ni condamnation morale explicite. Un journaliste, Louis Ulbach, a parlé de « littérature putride ». Zola répond dans la préface qu'il a fait le travail d'un chirurgien et que « L'étude sincère purifie tout, comme le feu ». Le scandale révèle le conflit entre la morale de l'époque et l'ambition scientifique du roman."
+   },
+   {
+    "question": "Le dénouement est-il moral ?",
+    "reponse": "Zola refuse de parler de morale : le remords est pour lui « un simple désordre organique ». Pourtant, les meurtriers sont punis par eux-mêmes et meurent sous le regard de la mère. On peut donc dire que le roman produit un effet moral, même si l'auteur l'explique par les nerfs : c'est une tension intéressante entre la préface et le récit."
+   },
+   {
+    "question": "Quel lien faites-vous avec une autre œuvre ?",
+    "reponse": "Je pense à Phèdre de Racine : la passion y est aussi décrite par ses symptômes physiques (« Je le vis, je rougis, je pâlis à sa vue ») et mène à la mort. Mais chez Racine, la passion vient des dieux et engage la conscience morale ; chez Zola, elle vient du sang et des nerfs. On peut aussi citer Madame Bovary : une femme qui s'ennuie, un adultère et un poison."
+   }
+  ],
+  "liens": "Objet d'étude : le roman et le récit du Moyen Âge au XXIe siècle ; parcours Anatomie des passions (voie technologique). Thérèse Raquin dialogue avec la tragédie classique (Phèdre), le roman d'analyse (La Princesse de Clèves), le réalisme (Madame Bovary), les Goncourt (Germinie Lacerteux) et avec les romans ultérieurs de Zola sur la passion (La Bête humaine, cité souvent pour l'hérédité et le crime). Le Roman expérimental (1880) en donne la théorie. Pour une ouverture moderne, la ressource Eduscol propose notamment Le Diable au corps de Radiguet ou Bonjour tristesse de Sagan.",
+  "reflexion": [
+   {
+    "question": "Peut-on éprouver de la pitié pour Thérèse et Laurent ?",
+    "pistes": "Ce sont des meurtriers, mais leur souffrance est longuement décrite ; le dénouement (« ils se firent pitié et horreur ») invite le lecteur à partager ces deux émotions."
+   },
+   {
+    "question": "La science peut-elle tout expliquer de l'amour ?",
+    "pistes": "Discuter la thèse de la préface ; penser à ce qui échappe à l'explication dans le roman (le fantastique, le regard) et aux connaissances actuelles sur le désir."
+   },
+   {
+    "question": "Un roman doit-il montrer le laid et le choquant ?",
+    "pistes": "Partir du scandale de 1867-1868 et de la réponse de Zola ; comparer avec des œuvres contemporaines qui choquent ; distinguer provocation et vérité."
+   },
+   {
+    "question": "Qu'est-ce qui vous a le plus marqué : le crime ou ses conséquences ?",
+    "pistes": "Le meurtre occupe un chapitre ; ses conséquences en occupent plus de vingt : se demander pourquoi Zola s'intéresse davantage à l'après."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'incipit : le passage du Pont-Neuf",
+   "reference": "Chapitre I, du début à la description de la boutique de Mme Raquin",
+   "enjeu": "Comment cette description réaliste d'un lieu parisien devient-elle une ouverture inquiétante, qui annonce le drame à venir ?",
+   "mouvements": [
+    "Mouvement 1 : situer le passage avec précision (rues, mesures « trente pas de long et deux de large ») — effet de réel, regard d'un guide ou d'un enquêteur, présent de vérité générale.",
+    "Mouvement 2 : la description dégradée du lieu — champ lexical de la saleté, de l'humidité, de l'obscurité (« noir de crasse », « humidité acre », lumière « blanchâtre ») ; personnifications qui rendent le lieu malade.",
+    "Mouvement 3 : la boutique de Mme Raquin — l'enfermement et la mort suggérés (objets jaunis, vitrine poussiéreuse) ; le décor fonctionne comme un tombeau et prépare l'idée naturaliste que le milieu détermine les êtres."
+   ]
+  },
+  {
+   "titre": "La révélation de la passion",
+   "reference": "Chapitre VII, première étreinte de Thérèse et Laurent (« Au premier baiser, elle se révéla courtisane »)",
+   "enjeu": "Comment Zola décrit-il la naissance de la passion comme une métamorphose physiologique plutôt que comme un sentiment ?",
+   "mouvements": [
+    "Mouvement 1 : l'embrasement de Thérèse — métaphores du feu (« flammes », « sang qui brûlait »), lexique du corps et des nerfs ; la femme silencieuse se transforme.",
+    "Mouvement 2 : l'explication par l'hérédité et le tempérament — « le sang de sa mère », « instincts de femme nerveuse » ; le narrateur omniscient se fait médecin.",
+    "Mouvement 3 : la réaction de Laurent, surpris et presque épouvanté — renversement des rôles : l'homme sanguin est dominé par la violence de la femme nerveuse ; la passion apparaît déjà comme une force dangereuse."
+   ]
+  },
+  {
+   "titre": "Le meurtre sur la Seine",
+   "reference": "Chapitre XI, la promenade en canot à Saint-Ouen jusqu'au chavirage",
+   "enjeu": "Comment Zola transforme-t-il une promenade du dimanche en scène de crime d'une violence animale ?",
+   "mouvements": [
+    "Mouvement 1 : le cadre faussement paisible — fin d'après-midi, fraîcheur, chants des canotiers ; tension dramatique et ironie tragique (Camille ne se doute de rien).",
+    "Mouvement 2 : la lutte — verbes d'action, rythme haché, animalisation (Camille « avança les dents » et mord le cou de Laurent) ; la victime laisse une marque qui sera le signe du remords.",
+    "Mouvement 3 : la mise en scène de l'accident — sang-froid de Laurent qui fait chavirer le canot et joue le sauveteur ; l'hypocrisie succède à la violence."
+   ]
+  },
+  {
+   "titre": "Laurent à la Morgue",
+   "reference": "Chapitre XIII, les visites quotidiennes jusqu'à la découverte du corps de Camille",
+   "enjeu": "En quoi cette scène de la Morgue est-elle à la fois une peinture sociale et le début du châtiment de Laurent ?",
+   "mouvements": [
+    "Mouvement 1 : la Morgue comme spectacle — « La Morgue est un spectacle à la portée de toutes les bourses » ; le public populaire, les ouvriers qui « trouvaient la mort drôle » ; satire sociale.",
+    "Mouvement 2 : la description clinique du cadavre — énumération anatomique, couleurs (« verdâtre », « rouge sombre »), décomposition (« Tout le torse pourrissait ») ; esthétique naturaliste du laid.",
+    "Mouvement 3 : la réaction de Laurent — « Voilà ce que j'en ai fait. Il est ignoble. » ; l'odeur qui le poursuit : le remords naît comme une sensation physique."
+   ]
+  },
+  {
+   "titre": "Le noyé dans le lit conjugal",
+   "reference": "Chapitre XXII, les nuits qui suivent le mariage",
+   "enjeu": "Comment Zola fait-il du remords une hallucination physique qui détruit le désir ?",
+   "mouvements": [
+    "Mouvement 1 : la distance dans le lit — gestes précautionneux, espace vide (« une large place ») ; la phrase brève « Là couchait le cadavre de Camille » fait basculer la scène dans l'horreur.",
+    "Mouvement 2 : l'hallucination sensorielle — toucher (« corps humide »), vue (« lambeau verdâtre »), odorat (« odeur infecte ») ; « tous leurs sens s'hallucinaient » : le fantastique est expliqué par les nerfs.",
+    "Mouvement 3 : le noyé jaloux — focalisation sur Laurent, ironie macabre ; la passion a été tuée par le crime qu'elle devait servir."
+   ]
+  },
+  {
+   "titre": "Le dénouement : le double suicide",
+   "reference": "Chapitre XXXII, de la découverte mutuelle des projets meurtriers à la dernière phrase",
+   "enjeu": "Comment ce dénouement tragique accomplit-il la vengeance du noyé et le triomphe du regard de Mme Raquin ?",
+   "mouvements": [
+    "Mouvement 1 : la reconnaissance — chacun découvre que l'autre veut le tuer ; « ils se firent pitié et horreur » (les deux émotions de la tragédie selon Aristote).",
+    "Mouvement 2 : l'apaisement final — sanglots, retour d'une tendresse d'enfants, désir de « néant » ; le poison partagé comme dernière communion ; la bouche de Thérèse heurte la cicatrice : boucle tragique.",
+    "Mouvement 3 : le tableau final — cadavres « tordus, vautrés », lumière jaunâtre, Mme Raquin qui les contemple pendant douze heures : la justice est rendue par le regard."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Thérèse Raquin (1867) : premier grand roman de Zola, souvent vu comme le premier roman naturaliste ; préface de 1868.",
+   "Intrigue : adultère de Thérèse et Laurent, meurtre de Camille noyé dans la Seine (chap. XI), mariage, hallucinations, haine, double suicide.",
+   "Zola veut « étudier des tempéraments et non des caractères » : Thérèse nerveuse, Laurent sanguin.",
+   "La passion est physiologique (sang, nerfs, fièvre) : c'est une véritable anatomie des passions.",
+   "Le remords prend la forme d'un cadavre : la Morgue, le noyé dans le lit, la morsure, les portraits.",
+   "Le regard (Mme Raquin paralysée, le chat François) remplace la justice humaine.",
+   "Le milieu (passage du Pont-Neuf, boutique humide, jeudis) forme un huis clos tragique.",
+   "Scandale : « la littérature putride » ; réponse : « J'ai simplement fait sur deux corps vivants le travail analytique que les chirurgiens font sur des cadavres »."
+  ],
+  "citations": [
+   0,
+   3,
+   8,
+   9,
+   12,
+   13,
+   16,
+   18
+  ],
+  "pieges": [
+   "C'est Laurent qui jette Camille à l'eau ; Camille le mord au cou.",
+   "Le mariage a lieu plus d'un an après le meurtre, sur proposition de Michaud et de Mme Raquin.",
+   "C'est Grivet, et non Michaud, qui complète la phrase de Mme Raquin (« bien soin de moi »).",
+   "Thérèse et Laurent ne sont pas arrêtés : ils s'empoisonnent ensemble.",
+   "La préface date de la deuxième édition (1868), pas de la première (1867)."
+  ],
+  "synthese": "Thérèse Raquin (1867) raconte l'adultère de Thérèse avec Laurent, le meurtre de Camille noyé dans la Seine, puis la lente destruction du couple hanté par le noyé. Dans la préface de 1868, Zola affirme avoir voulu « étudier des tempéraments et non des caractères » et avoir fait le travail d'un chirurgien sur deux corps vivants. Le roman décrit la passion par ses symptômes physiques, fait du remords un « désordre organique » et confie la justice au regard de Mme Raquin, paralysée. Mais par le fantastique, l'ironie tragique et le huis clos, il dépasse la démonstration scientifique : c'est aussi une tragédie moderne."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Naturalisme",
+   "definition": "Mouvement littéraire (années 1870-1890) dirigé par Zola, qui prolonge le réalisme en voulant appliquer au roman la méthode scientifique : montrer l'influence de l'hérédité et du milieu. Thérèse Raquin en est le premier manifeste romanesque."
+  },
+  {
+   "terme": "Tempérament",
+   "definition": "Dans la médecine du XIXe siècle, constitution physique qui détermine le comportement : sanguin (vigueur, appétits : Laurent), nerveux (sensibilité, excitabilité : Thérèse). Zola l'oppose au « caractère », notion morale."
+  },
+  {
+   "terme": "Déterminisme",
+   "definition": "Idée selon laquelle les actions humaines sont causées par des facteurs extérieurs à la volonté (hérédité, milieu, circonstances). Dans la préface, les personnages sont « dépourvus de libre arbitre »."
+  },
+  {
+   "terme": "Milieu",
+   "definition": "Ensemble des conditions matérielles et sociales qui agissent sur l'individu. Le passage du Pont-Neuf, sombre et humide, est le milieu qui façonne Thérèse."
+  },
+  {
+   "terme": "Narrateur omniscient",
+   "definition": "Narrateur qui sait tout des personnages, y compris leurs pensées et leurs sensations. Zola l'utilise pour expliquer les causes physiologiques des comportements (« Tous ses instincts de femme nerveuse éclatèrent »)."
+  },
+  {
+   "terme": "Focalisation interne",
+   "definition": "Récit mené à travers les perceptions d'un personnage. Utilisée pour les hallucinations de Laurent (le noyé « jaloux », le portrait), elle rend l'horreur plus intense."
+  },
+  {
+   "terme": "Huis clos",
+   "definition": "Action enfermée dans un lieu clos et réduit, comme au théâtre. La boutique, la chambre et la salle à manger forment le huis clos où se joue le drame."
+  },
+  {
+   "terme": "Symbole",
+   "definition": "Élément concret qui renvoie à une idée abstraite. La cicatrice de la morsure symbolise le remords ; le regard de Mme Raquin, la justice."
+  },
+  {
+   "terme": "Hypotypose",
+   "definition": "Description si vive et détaillée qu'elle fait voir la scène. La description du cadavre de Camille à la Morgue en est un exemple saisissant."
+  },
+  {
+   "terme": "Catharsis",
+   "definition": "Selon Aristote, purgation des passions par la terreur et la pitié qu'inspire la tragédie. La fin du roman (« ils se firent pitié et horreur ») en reprend le principe."
+  },
+  {
+   "terme": "Esthétique du laid",
+   "definition": "Choix de représenter ce qui est répugnant (décomposition, saleté, violence) pour dire la vérité. Elle valut à Zola l'accusation de « littérature putride », qu'il rappelle dans sa préface."
+  },
+  {
+   "terme": "Ironie tragique",
+   "definition": "Situation où un personnage dit ou fait, sans le savoir, quelque chose qui annonce son malheur. Camille parle des « meurtriers qui se promènent au soleil » (chap. X) avant d'être tué."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Où se situe la mercerie de Mme Raquin à Paris ?",
+   "choix": [
+    "Rue de Choiseul",
+    "Passage du Pont-Neuf",
+    "Boulevard Haussmann",
+    "Quai des Orfèvres"
+   ],
+   "reponse": 1,
+   "explication": "La boutique se trouve dans le passage du Pont-Neuf, entre la rue Mazarine et la rue de Seine, lieu sombre et humide décrit dès l'incipit."
+  },
+  {
+   "question": "Comment Camille meurt-il ?",
+   "choix": [
+    "Empoisonné par Thérèse",
+    "Poignardé par Laurent",
+    "Noyé dans la Seine par Laurent",
+    "D'une maladie de poitrine"
+   ],
+   "reponse": 2,
+   "explication": "Lors d'une promenade en canot à Saint-Ouen, Laurent le jette à l'eau et fait chavirer la barque pour simuler un accident (chap. XI)."
+  },
+  {
+   "question": "Quelle trace physique Camille laisse-t-il sur Laurent ?",
+   "choix": [
+    "Une griffure au visage",
+    "Une morsure au cou",
+    "Une blessure à la main",
+    "Aucune"
+   ],
+   "reponse": 1,
+   "explication": "En se débattant, Camille mord Laurent au cou : la cicatrice deviendra le symbole du remords et réapparaît dans la dernière scène."
+  },
+  {
+   "question": "Où Laurent se rend-il chaque jour après le crime ?",
+   "choix": [
+    "À l'église",
+    "Au commissariat",
+    "À la Morgue",
+    "Au cimetière"
+   ],
+   "reponse": 2,
+   "explication": "Il va à la Morgue jusqu'à y reconnaître le cadavre décomposé de Camille (chap. XIII)."
+  },
+  {
+   "question": "Dans la préface, Zola dit avoir voulu étudier…",
+   "choix": [
+    "des caractères et non des tempéraments",
+    "des tempéraments et non des caractères",
+    "des sentiments et non des actes",
+    "des milieux et non des personnages"
+   ],
+   "reponse": 1,
+   "explication": "« j'ai voulu étudier des tempéraments et non des caractères » : formule clé du naturalisme."
+  },
+  {
+   "question": "Quel tempérament Zola attribue-t-il à Laurent ?",
+   "choix": [
+    "Nerveux",
+    "Mélancolique",
+    "Sanguin",
+    "Bilieux"
+   ],
+   "reponse": 2,
+   "explication": "Laurent est « sanguin », Thérèse « nerveuse » : le roman étudie la rencontre de ces deux tempéraments."
+  },
+  {
+   "question": "Que devient Mme Raquin dans la seconde partie du roman ?",
+   "choix": [
+    "Elle quitte Paris",
+    "Elle meurt de chagrin",
+    "Elle est paralysée et muette",
+    "Elle dénonce le couple à la police"
+   ],
+   "reponse": 2,
+   "explication": "Paralysée, elle ne peut que regarder ; elle tente d'écrire « Thérèse et Laurent ont… » mais la paralysie la reprend, et Grivet complète la phrase de travers (chap. XXVII)."
+  },
+  {
+   "question": "Qu'arrive-t-il aux portraits peints par Laurent après le crime ?",
+   "choix": [
+    "Ils sont refusés au Salon",
+    "Ils ressemblent tous à Camille",
+    "Ils représentent tous Thérèse",
+    "Laurent les brûle tous"
+   ],
+   "reponse": 1,
+   "explication": "Son talent progresse, mais tous les visages qu'il peint finissent par ressembler à sa victime (chap. XXV)."
+  },
+  {
+   "question": "Comment finissent Thérèse et Laurent ?",
+   "choix": [
+    "Arrêtés par Michaud",
+    "Séparés, chacun en province",
+    "Ils s'empoisonnent ensemble",
+    "Thérèse tue Laurent au couteau"
+   ],
+   "reponse": 2,
+   "explication": "Découvrant que chacun voulait tuer l'autre, ils partagent le verre de poison et meurent ensemble sous les yeux de Mme Raquin."
+  },
+  {
+   "question": "Quel critique a qualifié le roman de « littérature putride » ?",
+   "choix": [
+    "Sainte-Beuve",
+    "Louis Ulbach (Ferragus)",
+    "Victor Hugo",
+    "Gustave Flaubert"
+   ],
+   "reponse": 1,
+   "explication": "Louis Ulbach, sous le pseudonyme de Ferragus, dans Le Figaro ; Zola rappelle l'expression dans la préface de la 2e édition (1868) sans nommer son auteur."
+  },
+  {
+   "question": "Qui dit, sans se douter de rien, qu'« il y a des meurtriers qui se promènent au soleil » ?",
+   "choix": [
+    "Laurent",
+    "Camille",
+    "Le vieux Michaud",
+    "Mme Raquin"
+   ],
+   "reponse": 1,
+   "explication": "C'est Camille, la future victime (chap. X) : un exemple d'ironie tragique."
+  },
+  {
+   "question": "Quel procédé domine dans la phrase « Là couchait le cadavre de Camille » ?",
+   "choix": [
+    "Une longue période oratoire",
+    "Une phrase brève qui présente l'hallucination comme un fait",
+    "Une métaphore filée de la mer",
+    "Une question rhétorique"
+   ],
+   "reponse": 1,
+   "explication": "La phrase courte et affirmative installe le mort dans le lit comme une réalité : l'horreur naît de la simplicité (chap. XXII)."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte intégral de Thérèse Raquin utilisé par le site (Project Gutenberg n° 7461)",
+   "url": "https://www.gutenberg.org/ebooks/7461"
+  },
+  {
+   "titre": "Préface de la deuxième édition (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Th%C3%A9r%C3%A8se_Raquin/Pr%C3%A9face_de_la_deuxi%C3%A8me_%C3%A9dition"
+  },
+  {
+   "titre": "Eduscol, « Thérèse Raquin d'Émile Zola : l'œuvre, le parcours » (février 2026)",
+   "url": "https://eduscol.education.gouv.fr/sites/default/files/document/ra26lyceet1francaisemilezolaoeuvreparcourspdf-126005.pdf"
+  },
+  {
+   "titre": "Racine, Phèdre, acte I (Wikisource, éd. Didot 1854)",
+   "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854/Acte_I"
+  },
+  {
+   "titre": "Zola, La Fortune des Rougon, préface (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/La_Fortune_des_Rougon/Pr%C3%A9face"
+  },
+  {
+   "titre": "Wikipédia, « Thérèse Raquin » (publication, réception)",
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte de l'article de Louis Ulbach (« La littérature putride ») dans Le Figaro : janvier 1868 selon de nombreux manuels, non confirmé sur la collection du journal.",
+  "Titre exact de la nouvelle de décembre 1866 (« Un mariage d'amour » ou « Dans Paris. Un mariage d'amour ») : donné d'après Wikipédia.",
+  "Adaptation théâtrale de 1873 : fait connu, non vérifié sur une source consultée pour cette fiche."
+ ]
+}

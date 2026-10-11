@@ -1,0 +1,941 @@
+{
+ "id": "claude-gueux",
+ "accroche": "Un ouvrier vole du pain, puis tue en prison, puis meurt sur l’échafaud. Qui est coupable ? Hugo raconte un fait divers pour juger la société.",
+ "identite": {
+  "auteur": "Victor Hugo (1802-1885) est la grande figure du romantisme français : poète (Les Contemplations), dramaturge (Hernani, Ruy Blas), romancier (Notre-Dame de Paris, Les Misérables). Toute sa vie, il combat la peine de mort : il publie en 1829 Le Dernier Jour d’un condamné, journal imaginaire d’un homme qui attend son exécution, puis Claude Gueux en 1834. Devenu homme politique, il prononce en 1848 un grand discours pour l’abolition. Opposé à Napoléon III, il passe près de vingt ans en exil (1851-1870). À sa mort, la République lui offre des funérailles nationales.",
+  "contexte": "Claude Gueux se passe sous la monarchie de Juillet (1830-1848), règne de Louis-Philippe. La révolution industrielle commence : les ouvriers des villes vivent dans une grande misère, sans protection en cas de chômage. Les prisons centrales font travailler les détenus dans des ateliers. La peine de mort s’exécute en public, par la guillotine, et la France compte encore beaucoup d’illettrés : Hugo le rappelle dans son plaidoyer (« la France ne sait pas lire »). Le débat sur la réforme pénale est vif : la flétrissure (marque au fer rouge) vient d’être supprimée en 1832, ce que Hugo utilise comme argument pour réclamer la suppression du bagne et de la peine de mort.",
+  "mouvement": "Hugo est le chef de file du romantisme, qui valorise l’émotion, la liberté de l’artiste et l’engagement de l’écrivain dans les combats de son temps. Claude Gueux est un texte hybride : un récit (fait divers romancé) suivi d’un essai argumentatif. C’est un apologue moderne : l’histoire sert d’exemple pour défendre une thèse. Le texte appartient à la littérature d’idées : il veut convaincre (par la raison) et persuader (par l’émotion) le lecteur et les législateurs. On y trouve déjà les thèmes des Misérables (1862) : la misère, le vol de pain, la prison, la responsabilité de la société.",
+  "circonstances": "Hugo s’inspire d’un fait réel : Claude Gueux, détenu à la maison centrale de Clairvaux, y tua en 1831 un responsable de l’atelier, fut jugé par la cour d’assises de Troyes et exécuté en 1832. Le récit donne les dates de ces événements (le meurtre le 4 novembre, le procès le 16 mars 1832, l’exécution le 8 juin 1832). Le texte paraît en juillet 1834 dans la Revue de Paris. Selon une lettre souvent reproduite en tête des éditions, un négociant de Dunkerque, frappé par sa lecture, demanda qu’on le fasse tirer à part à ses frais pour en adresser un exemplaire à chaque député. Le texte du site suit l’édition des Œuvres complètes de Gustave Simon (1910) ; sa division en trois parties a été ajoutée pour faciliter la lecture.",
+  "carriere": "En 1834, Hugo a trente-deux ans. Il est déjà le chef du romantisme : Hernani (1830) a fait scandale au théâtre, Notre-Dame de Paris (1831) a connu un grand succès. Claude Gueux prolonge Le Dernier Jour d’un condamné (1829), dont la préface de 1832 développait déjà le combat contre la peine de mort. Le texte annonce une phrase du plaidoyer : « Celui qui écrit ces lignes essaiera de dire bientôt peut-être de quelle façon il les comprend » ; ce projet aboutira en partie, près de trente ans plus tard, dans Les Misérables (1862), où Jean Valjean est envoyé au bagne pour un vol de pain. Devenu homme politique, Hugo défendra l’abolition à la tribune en 1848."
+ },
+ "resumeCourt": "Claude Gueux est un court récit de Victor Hugo publié en 1834, inspiré d’une histoire vraie. Claude, ouvrier pauvre et intelligent mais illettré, vole pour nourrir sa compagne et leur enfant pendant un hiver sans travail. Condamné à cinq ans de prison, il est enfermé à Clairvaux. Il y gagne l’admiration des détenus mais s’attire la haine jalouse du directeur des ateliers. Affamé, il partage le pain d’un jeune prisonnier, Albin, qui devient son ami. Le directeur les sépare sans raison : « Parce que ». Après des semaines de supplications inutiles, Claude le tue à coups de hache devant les autres prisonniers, puis tente de se suicider. Jugé à Troyes, il est condamné à mort et exécuté. Dans la dernière partie, Hugo quitte le récit pour s’adresser aux députés : la société est responsable de ce crime, il faut instruire le peuple plutôt que lui couper la tête.",
+ "resume": [
+  {
+   "titre": "L’ouverture : un homme, un vol, une condamnation",
+   "texte": "« Il y a sept ou huit ans, un homme nommé Claude Gueux, pauvre ouvrier, vivait à Paris. » Hugo présente Claude, intelligent mais « ne sachant pas lire », qui vit avec une femme et un enfant. Un hiver, sans travail, il vole : trois jours de pain et de feu pour sa famille, cinq ans de prison pour lui. Il est envoyé à la maison centrale de Clairvaux, ancienne abbaye devenue prison. Le narrateur annonce sa méthode : raconter les faits et laisser le lecteur en tirer les leçons."
+  },
+  {
+   "titre": "Claude à Clairvaux : un roi parmi les prisonniers",
+   "texte": "Claude travaille à l’atelier. Le directeur des ateliers lui apprend un jour, « par manière de jovialité », que sa compagne est devenue prostituée ; on ne sait ce qu’est devenu l’enfant. Peu à peu, Claude prend un ascendant extraordinaire sur les détenus, qui l’écoutent et lui obéissent : « Il y a des hommes qui sont fer et des hommes qui sont aimant. Claude était aimant. » Aimé des prisonniers, il est détesté des geôliers."
+  },
+  {
+   "titre": "La faim et l’amitié d’Albin",
+   "texte": "Claude est un « grand mangeur » : la ration de la prison ne lui suffit pas, il a toujours faim. Un jeune détenu, Albin, lui offre la moitié de son pain. Une profonde amitié naît entre eux, « de père à fils plutôt que de frère à frère ». Mais le directeur, homme médiocre et obstiné, est jaloux de l’autorité de Claude, dont il a pourtant besoin pour maintenir l’ordre."
+  },
+  {
+   "titre": "La séparation : « Parce que »",
+   "texte": "Un jour, Albin est changé de quartier sur ordre du directeur, M. D. Claude, respectueux, lui demande de le lui rendre : « j’ai besoin d’Albin pour vivre ». Le directeur refuse et, quand Claude lui demande pourquoi, il répond seulement : « Parce que ». Chaque soir, Claude répète sa prière, qui ressemble de plus en plus à une menace. Le 25 octobre, il fixe publiquement un délai au directeur : « Je vous donne jusqu’au 4 novembre. » Il passe aussi vingt-quatre heures au cachot."
+  },
+  {
+   "titre": "Le 4 novembre : le jugement et le meurtre",
+   "texte": "Ce jour-là, Claude emprunte une hache aux menuisiers et l’annonce sans se cacher. Le soir, à l’atelier, il réunit les détenus, expose ses raisons, les prend pour juges, puis distribue ses pauvres affaires. Il fait une dernière tentative auprès du directeur, qui répond encore : « Parce que ». Claude le frappe de plusieurs coups de hache et le tue, puis tente de se tuer avec une paire de ciseaux. Hugo interroge : « Lequel des deux était la victime de l’autre ? »"
+  },
+  {
+   "titre": "Le procès de Troyes",
+   "texte": "Soigné, guéri, Claude comparaît le 16 mars 1832 devant la cour d’assises de Troyes. Les témoins refusent de déposer contre lui jusqu’à ce qu’il le leur ordonne. Il montre Albin au procureur : « Voilà un scélérat qui partage son pain avec ceux qui ont faim. » Il se défend lui-même avec une éloquence étonnante pour un homme qui ne sait pas lire, expliquant qu’on l’a provoqué « pendant quatre ans ». Il est condamné à mort."
+  },
+  {
+   "titre": "L’exécution",
+   "texte": "Claude refuse les plans d’évasion que lui proposent les détenus. Le 8 juin 1832, jour de marché choisi pour qu’il y ait foule, il est conduit à l’échafaud. Il lègue ses ciseaux et sa ration de pain à Albin et donne au prêtre sa dernière pièce : « Pour les pauvres. » Ironie amère : le jour même, les gens du marché se révoltent et manquent de tuer un employé de l’octroi. L’exemple n’a servi à rien."
+  },
+  {
+   "titre": "Le plaidoyer final : éduquer plutôt que punir",
+   "texte": "Hugo abandonne le récit et s’adresse aux gouvernants. Claude était « bien né, bien organisé, bien doué » : la société l’a fait voler, la prison l’a fait tuer. « Qui est réellement coupable ? Est-ce lui ? Est-ce nous ? » Il reproche aux députés leurs querelles futiles et réclame une réforme de la justice et des prisons, l’abolition de la peine de mort et l’instruction du peuple : « Avec la solde de vos quatrevingts bourreaux, vous payerez six cents maîtres d’école. » Il ajoute que l’instruction doit être guidée par la morale chrétienne (« Une bible par cabane ») pour donner aux pauvres l’espérance. La dernière phrase résume tout : il faut cultiver la tête de l’homme du peuple ; « vous n’aurez pas besoin de la couper »."
+  }
+ ],
+ "structure": "Le texte se compose de deux grands ensembles. Le premier est un récit chronologique, sobre, qui suit Claude de son vol à son exécution (prison, amitié, séparation, meurtre, procès, mort). Le narrateur y intervient souvent par de courts commentaires (« Poursuivons. », « Abrégeons. »), des questions et des formules ironiques. Le second, plus court, est un véritable essai argumentatif : Hugo tire la leçon du récit, s’adresse aux députés, accumule les arguments et les images pour réclamer une réforme pénale, l’abolition de la peine de mort et l’éducation du peuple. Le texte du site découpe l’ensemble en trois parties (I. Claude Gueux à Clairvaux ; II. Le procès et l’exécution ; III. Réflexions de l’auteur) : ce découpage n’est pas de Hugo, mais il aide à se repérer. Ce passage du récit à l’argumentation fait de Claude Gueux un apologue moderne.",
+ "personnages": [
+  {
+   "nom": "Claude Gueux",
+   "role": "Ouvrier pauvre, intelligent, digne, illettré. Son nom est symbolique : « gueux » signifie mendiant, misérable. Il incarne le peuple, que la société n’a pas instruit. Calme, juste à sa manière, il devient pourtant meurtrier : Hugo en fait un personnage tragique, à la fois coupable et victime.",
+   "relations": "Lié à Albin par une amitié « de père à fils » ; opposé au directeur, qui le jalouse ; chef naturel des détenus, qui lui obéissent ; séparé de sa compagne et de son enfant, pour qui il a volé."
+  },
+  {
+   "nom": "Le directeur des ateliers (M. D.)",
+   "role": "Fonctionnaire médiocre, autoritaire et obstiné, « qui avait foi en lui et qui s’admirait ». Jaloux de l’ascendant de Claude, il le persécute sans raison. Son « Parce que » symbolise l’arbitraire d’un pouvoir qui ne se justifie pas.",
+   "relations": "Supérieur officiel de Claude, il a besoin de lui pour tenir les détenus et le hait pour cela : « une haine de souverain de droit à souverain de fait ». Il sépare Claude d’Albin et refuse de s’expliquer."
+  },
+  {
+   "nom": "Albin",
+   "role": "Jeune détenu de vingt ans, presque un enfant, condamné pour vol. Il partage son pain avec Claude et devient son ami. Il représente la fraternité et la générosité qui survivent au cœur même de la prison.",
+   "relations": "Ami et presque fils de Claude ; son transfert déclenche le drame ; au procès, il se jette dans les bras de Claude."
+  },
+  {
+   "nom": "Les détenus",
+   "role": "Groupe qui admire Claude, lui obéit et joue le rôle d’un tribunal populaire avant le meurtre. Ils refusent de témoigner contre lui puis proposent de l’aider à s’évader : ils montrent la solidarité des humbles.",
+   "relations": "Ils reconnaissent l’autorité de Claude, écoutent ses raisons avant le meurtre, refusent de témoigner contre lui sans son ordre."
+  },
+  {
+   "nom": "La compagne et l’enfant",
+   "role": "Personnages absents mais essentiels : c’est pour eux que Claude a volé. Leur destin (la prostitution pour la femme, la disparition pour l’enfant) illustre ce que la misère fait des pauvres.",
+   "relations": "Absents du récit, ils sont la cause du vol ; le directeur se sert de leur sort pour blesser Claude."
+  },
+  {
+   "nom": "Le narrateur-auteur",
+   "role": "Il raconte, commente, interpelle le lecteur, puis prend directement la parole dans la dernière partie. Il se présente comme un témoin qui dit « les choses comme elles sont » et devient un avocat de la cause du peuple.",
+   "relations": "Il juge les personnages (portrait sévère du directeur), prend parti pour Claude et s’adresse enfin aux députés et au lecteur (« nous »)."
+  }
+ ],
+ "evolution": "Claude évolue de l’ouvrier honnête au voleur, puis du prisonnier respecté au meurtrier et au condamné. Mais Hugo montre que son caractère ne change pas : il reste « digne et grave », calme et juste à sa manière. Ce qui change, c’est la pression qu’on exerce sur lui : la faim, la séparation d’avec Albin, le refus obstiné du directeur. Le récit suit une montée tragique : prière respectueuse, menace (« Je vous donne jusqu’au 4 novembre »), jugement devant les détenus, meurtre. Face à la mort, Claude retrouve une grandeur morale (pardon au bourreau, « Pour les pauvres »). Le texte lui-même évolue : le récit devient plaidoyer, et le cas particulier devient « le grand problème du peuple au dix-neuvième siècle ».",
+ "themes": [
+  {
+   "titre": "La misère, cause du crime",
+   "texte": "Claude vole parce que sa famille a « froid et faim ». Hugo montre que la pauvreté pousse au crime : « Le peuple a faim, le peuple a froid. La misère le pousse au crime ou au vice, selon le sexe. » En prison, la faim continue de gouverner la vie de Claude : la ration est « inexorable »."
+  },
+  {
+   "titre": "L’injustice de la justice",
+   "texte": "La disproportion est frappante dès l’ouverture : trois jours de pain contre cinq ans de prison. La prison, loin de corriger, aggrave : « la société le met dans une prison si mal faite, qu’il finit par tuer ». Le procès est une mécanique où l’on oppose plaidoirie « contre » et « pour », dans « cette espèce d’hippodrome qu’on appelle un procès criminel »."
+  },
+  {
+   "titre": "L’abus de pouvoir et l’arbitraire",
+   "texte": "Le directeur sépare Claude d’Albin sans motif. Sa réponse, « Parce que », répétée plusieurs fois, devient le symbole d’une autorité qui n’a pas besoin de se justifier. Hugo analyse la « haine de souverain de droit à souverain de fait » : le pouvoir officiel jaloux de l’autorité naturelle."
+  },
+  {
+   "titre": "La peine de mort",
+   "texte": "Hugo décrit l’exécution sans complaisance et en souligne l’inutilité : le jour même, la foule se révolte au marché (« Admirable effet des exécutions publiques ! »). Il compare la peine de mort à une « amputation barbare » et lance : « Messieurs, il se coupe trop de têtes par an en France. »"
+  },
+  {
+   "titre": "L’éducation du peuple",
+   "texte": "Claude est intelligent mais n’a jamais appris à lire. Pour Hugo, c’est la vraie cause du drame. Il demande « des écoles pour les enfants, des ateliers pour les hommes » et conclut par une métaphore agricole : la tête de l’homme du peuple, il faut la cultiver, la défricher, l’éclairer ; « vous n’aurez pas besoin de la couper »."
+  },
+  {
+   "titre": "La dignité et la fraternité des humbles",
+   "texte": "Claude garde une grandeur morale : il partage, il protège, il pardonne au bourreau et donne sa dernière pièce « Pour les pauvres ». Albin partage son pain. Les détenus forment une communauté solidaire. Hugo inverse les valeurs : « Voilà un scélérat qui partage son pain avec ceux qui ont faim »."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Qui est responsable d’un crime : l’individu ou la société qui l’a laissé dans la misère et l’ignorance ?",
+   "La prison et la peine de mort protègent-elles la société ou aggravent-elles le mal ?",
+   "Comment un récit peut-il servir une thèse politique ?",
+   "Que vaut une autorité qui refuse de se justifier ?"
+  ],
+  "intentions": "Hugo explique lui-même son intention dans la dernière partie : « Nous avons cru devoir raconter en détail l’histoire de Claude Gueux, parce que, selon nous, tous les paragraphes de cette histoire pourraient servir de têtes de chapitre au livre où serait résolu le grand problème du peuple au dix-neuvième siècle. » Dès la première page, il annonce sa méthode : « Je dis les choses comme elles sont, laissant le lecteur ramasser les moralités à mesure que les faits les sèment sur leur chemin. » Il s’adresse ensuite directement aux députés pour réclamer des réformes. Ces déclarations figurent dans le texte (éd. Simon) ; le combat de Hugo contre la peine de mort est par ailleurs documenté par la préface du Dernier Jour d’un condamné et par ses discours.",
+  "procedes": [
+   {
+    "nom": "L’antithèse",
+    "explication": "Hugo oppose sans cesse les termes pour faire apparaître l’injustice et la contradiction.",
+    "exemple": "« fort maltraité par l’éducation, fort bien traité par la nature, ne sachant pas lire et sachant penser » ; « trois jours de pain et de feu […] et cinq ans de prison »."
+   },
+   {
+    "nom": "Les interventions du narrateur",
+    "explication": "Le narrateur commente, abrège, juge et interroge : le récit est orienté dès le début.",
+    "exemple": "« Poursuivons. » ; « Abrégeons. » ; « Lequel des deux était la victime de l’autre ? »"
+   },
+   {
+    "nom": "La métaphore filée",
+    "explication": "Une image développée donne une force concrète à l’argument.",
+    "exemple": "La métaphore agricole de la fin : « Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la […] » ; la société malade : « Que le corps social a un vice dans le sang »."
+   },
+   {
+    "nom": "L’ironie",
+    "explication": "Hugo dit le contraire de ce qu’il pense pour dénoncer.",
+    "exemple": "« Admirable effet des exécutions publiques ! » ; Claude au procureur : « Voilà un scélérat qui partage son pain avec ceux qui ont faim »."
+   },
+   {
+    "nom": "L’apostrophe et l’impératif",
+    "explication": "Dans le plaidoyer, Hugo interpelle les députés et leur donne des ordres : le texte devient discours.",
+    "exemple": "« Messieurs, il se coupe trop de têtes par an en France. » ; « Démontez-moi cette vieille échelle boiteuse des crimes et des peines, et refaites-la. »"
+   },
+   {
+    "nom": "Le dialogue dramatique",
+    "explication": "Des répliques courtes, presque théâtrales, montrent la violence d’un rapport de pouvoir.",
+    "exemple": "« — Par qui ? — Par moi. » ; « — En ce cas, dit Claude, pourquoi me séparez-vous d’Albin ? — Parce que, dit le directeur. »"
+   }
+  ],
+  "style": "Le récit est sobre et rapide, proche du fait divers : phrases courtes (« L’homme vola. »), dates précises, détails vérifiables. Mais cette sobriété est traversée de formules frappantes, d’antithèses et d’images (le « briquet » de la société, le « lion en cage »). Le plaidoyer final change de ton : phrases longues et oratoires, apostrophes, impératifs, accumulations et chiffres. Hugo mêle ainsi le style du journaliste, celui du romancier et celui de l’orateur.",
+  "registres": [
+   {
+    "nom": "Pathétique",
+    "explication": "La faim, l’amitié brisée, l’exécution émeuvent le lecteur : « Pauvre lion en cage à qui l’on ôtait son chien ! »"
+   },
+   {
+    "nom": "Tragique",
+    "explication": "Claude est pris dans un engrenage qui le mène à la mort ; le meurtre est annoncé et inévitable."
+   },
+   {
+    "nom": "Polémique",
+    "explication": "Hugo attaque les députés, le système pénal et la peine de mort (« supprimez le bourreau »)."
+   },
+   {
+    "nom": "Ironique",
+    "explication": "Antiphrases et formules mordantes : « Admirable effet des exécutions publiques ! »"
+   },
+   {
+    "nom": "Délibératif",
+    "explication": "Le plaidoyer final cherche à faire décider une réforme : écoles, ateliers, abolition."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Le récit s’inspire d’un fait divers réel (Clairvaux, Troyes, 1831-1832), mais Hugo le réécrit pour en faire un exemple : il choisit les détails, juge les personnages et oriente la lecture.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Claude est présenté à la fois comme coupable et comme victime ; Hugo ne nie pas le meurtre mais en déplace la responsabilité vers la société.",
+    "nature": "fait"
+   },
+   {
+    "texte": "En faisant de Claude un homme presque admirable, Hugo risque-t-il d’excuser le meurtre ? Les lecteurs peuvent juger la démonstration convaincante ou trop orientée.",
+    "nature": "debat"
+   },
+   {
+    "texte": "La solution religieuse du plaidoyer (« Une bible par cabane ») peut se lire comme une pensée sociale encore conservatrice, qui demande aux pauvres la patience plutôt qu’une transformation de leur condition.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le nom « Gueux » (le misérable) fait de Claude un personnage-type du peuple ; Hugo souligne lui-même que ce nom a fait « une impression profonde » sur les jurés.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Claude Gueux est un texte romantique par l’engagement de l’écrivain, l’attention aux humbles, le mélange des registres et la figure du héros marginal et sublime. Il s’inscrit dans les débats de la monarchie de Juillet : misère ouvrière, réforme des prisons, peine de mort publique, instruction du peuple. Par sa forme (récit puis plaidoyer) et sa diffusion (presse, envoi aux députés), il relève de la littérature d’idées et montre l’écrivain intervenant dans la vie publique."
+ },
+ "citations": [
+  {
+   "texte": "Je dis les choses comme elles sont, laissant le lecteur ramasser les moralités à mesure que les faits les sèment sur leur chemin.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), premier paragraphe (incipit)",
+   "situation": "Le narrateur vient de présenter Claude et sa famille.",
+   "sens": "Il racontera les faits et laissera le lecteur en tirer les leçons.",
+   "procedes": "Métaphore agricole (« ramasser », « sèment »), affirmation de vérité.",
+   "demontre": "Le pacte du texte : un récit vrai qui doit faire réfléchir.",
+   "usage": "Pour analyser la stratégie argumentative indirecte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "L’ouvrier était capable, habile, intelligent, fort maltraité par l’éducation, fort bien traité par la nature, ne sachant pas lire et sachant penser.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), premier paragraphe (incipit)",
+   "situation": "Portrait de Claude au début du récit.",
+   "sens": "Claude a toutes les qualités naturelles ; seule l’instruction lui manque.",
+   "procedes": "Accumulation d’adjectifs, parallélismes et antithèses.",
+   "demontre": "Toute la thèse est en germe : le crime vient du manque d’éducation.",
+   "usage": "Pour la thèse sur l’éducation.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Ce que je sais, c’est que de ce vol il résulta trois jours de pain et de feu pour la femme et pour l’enfant, et cinq ans de prison pour l’homme.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), premier paragraphe (incipit)",
+   "situation": "Fin du premier paragraphe, après « L’homme vola. »",
+   "sens": "La peine est sans commune mesure avec le délit.",
+   "procedes": "Antithèse chiffrée, chute ironique.",
+   "demontre": "L’injustice d’une justice disproportionnée.",
+   "usage": "Pour le thème de l’injustice pénale.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Il y a des hommes qui sont fer et des hommes qui sont aimant. Claude était aimant.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), récit de l’ascendant de Claude sur les détenus",
+   "situation": "Claude est devenu en quelques mois le chef naturel de l’atelier.",
+   "sens": "Claude attire les autres par la force de ses idées.",
+   "procedes": "Métaphore du magnétisme, phrase brève en chute.",
+   "demontre": "L’autorité morale de Claude, opposée à l’autorité officielle.",
+   "usage": "Pour caractériser le personnage.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "— En ce cas, dit Claude, pourquoi me séparez-vous d’Albin ? — Parce que, dit le directeur.",
+   "locuteur": "Claude, puis le directeur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), dialogue de la ronde du soir",
+   "situation": "Claude demande au directeur de lui rendre Albin.",
+   "sens": "Le directeur refuse de donner la moindre raison.",
+   "procedes": "Dialogue bref, réponse tronquée sans complément.",
+   "demontre": "L’arbitraire du pouvoir.",
+   "usage": "Pour le thème de l’abus de pouvoir.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je juge quelqu’un.",
+   "locuteur": "Claude",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), scène du préau, un dimanche",
+   "situation": "Un gardien demande à Claude, immobile, ce qu’il fait.",
+   "sens": "Claude s’est fait juge du directeur.",
+   "procedes": "Réplique brève, verbe « juger » qui annonce le tribunal de l’atelier.",
+   "demontre": "La justice que Claude se rend à lui-même faute de justice officielle.",
+   "usage": "Pour le thème de la justice.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Car un homme n’est plus un homme là. C’est un chien. On le tutoie.",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), avant le meurtre",
+   "situation": "Le directeur tutoie Claude, qui lui parle avec respect.",
+   "sens": "La prison déshumanise : le détenu est traité comme un animal.",
+   "procedes": "Phrases courtes, gradation, métaphore animale.",
+   "demontre": "La critique de la prison.",
+   "usage": "Pour la critique du système carcéral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Lequel des deux était la victime de l’autre ?",
+   "locuteur": "Le narrateur",
+   "reference": "Partie I du site (« Claude Gueux à Clairvaux »), dernière phrase",
+   "situation": "Claude vient de tuer le directeur et de se frapper avec des ciseaux.",
+   "sens": "Le meurtrier est peut-être aussi une victime.",
+   "procedes": "Question rhétorique en clôture de partie.",
+   "demontre": "Le renversement de la responsabilité.",
+   "usage": "Pour la problématique coupable / victime.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Voilà un scélérat qui partage son pain avec ceux qui ont faim.",
+   "locuteur": "Claude",
+   "reference": "Partie II du site (« Le procès et l’exécution »), le procès de Troyes",
+   "situation": "Albin, appelé comme témoin, se jette dans les bras de Claude.",
+   "sens": "Claude retourne contre le procureur le mot « scélérat ».",
+   "procedes": "Ironie, antiphrase, présentatif « Voilà ».",
+   "demontre": "La générosité des prétendus criminels.",
+   "usage": "Pour le thème de la fraternité des humbles.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Je suis un voleur et un assassin. J’ai volé et tué. Mais pourquoi ai-je volé ? pourquoi ai-je tué ? Posez ces deux questions à côté des autres, messieurs les jurés.",
+   "locuteur": "Claude",
+   "reference": "Partie II du site (« Le procès et l’exécution »), fin des débats",
+   "situation": "Le président demande à Claude s’il a quelque chose à dire avant la délibération.",
+   "sens": "Claude ne nie rien mais exige qu’on cherche les causes.",
+   "procedes": "Aveu bref, questions rhétoriques, adresse aux jurés.",
+   "demontre": "Le passage de la question « qui ? » à la question « pourquoi ? ».",
+   "usage": "Pour la thèse de la responsabilité sociale.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Admirable effet des exécutions publiques !",
+   "locuteur": "Le narrateur",
+   "reference": "Partie II du site (« Le procès et l’exécution »), dernier paragraphe",
+   "situation": "Le jour même de l’exécution, les gens du marché se révoltent.",
+   "sens": "L’exécution n’a eu aucun effet d’exemple.",
+   "procedes": "Antiphrase ironique, exclamation.",
+   "demontre": "L’inutilité de la peine de mort.",
+   "usage": "Pour l’argument contre l’exemplarité.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Mais le sort le met dans une société si mal faite, qu’il finit par voler ; la société le met dans une prison si mal faite, qu’il finit par tuer. Qui est réellement coupable ? Est-ce lui ? Est-ce nous ?",
+   "locuteur": "Le narrateur (Hugo)",
+   "reference": "Partie III du site (« Réflexions de l’auteur »), début du plaidoyer",
+   "situation": "Hugo tire la leçon du destin de Claude.",
+   "sens": "La société est responsable du vol puis du meurtre.",
+   "procedes": "Parallélisme, enchaînement cause / effet, questions rhétoriques, « nous ».",
+   "demontre": "La responsabilité collective.",
+   "usage": "Pour toute dissertation sur la justice ou l’engagement.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Le peuple a faim, le peuple a froid. La misère le pousse au crime ou au vice, selon le sexe.",
+   "locuteur": "Hugo",
+   "reference": "Partie III du site (« Réflexions de l’auteur »), discours imaginé à la Chambre",
+   "situation": "Hugo imagine un orateur qui interpellerait les députés.",
+   "sens": "La misère produit la délinquance.",
+   "procedes": "Anaphore, phrases courtes, raisonnement de cause à effet.",
+   "demontre": "Le lien entre pauvreté et crime.",
+   "usage": "Pour le thème de la misère.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Messieurs, il se coupe trop de têtes par an en France.",
+   "locuteur": "Hugo",
+   "reference": "Partie III du site (« Réflexions de l’auteur »), plaidoyer",
+   "situation": "Hugo s’adresse aux députés.",
+   "sens": "La peine de mort est trop fréquente et doit être supprimée.",
+   "procedes": "Apostrophe, tournure impersonnelle, litote ironique (« trop »).",
+   "demontre": "Le combat abolitionniste.",
+   "usage": "Pour une accroche d’introduction.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Avec la solde de vos quatrevingts bourreaux, vous payerez six cents maîtres d’école.",
+   "locuteur": "Hugo",
+   "reference": "Partie III du site (« Réflexions de l’auteur »), plaidoyer",
+   "situation": "Suite de l’appel aux économies : « supprimez le bourreau ».",
+   "sens": "L’argent de la répression financerait l’instruction.",
+   "procedes": "Argument chiffré, antithèse bourreau / maître d’école.",
+   "demontre": "Le lien entre abolition et éducation.",
+   "usage": "Pour un argument concret.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n’aurez pas besoin de la couper.",
+   "locuteur": "Hugo",
+   "reference": "Partie III du site (« Réflexions de l’auteur »), dernière phrase du texte",
+   "situation": "Conclusion du plaidoyer.",
+   "sens": "Éduquer le peuple rendra la guillotine inutile.",
+   "procedes": "Accumulation de sept impératifs, métaphore agricole, chute antithétique.",
+   "demontre": "La thèse finale : éduquer plutôt que punir.",
+   "usage": "Pour une conclusion.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  },
+  {
+   "texte": "— Pour les pauvres.",
+   "locuteur": "Claude",
+   "reference": "Partie II du site (« Le procès et l’exécution »), l’exécution",
+   "situation": "Sur l’échafaud, Claude donne au prêtre sa pièce de cinq francs.",
+   "sens": "Même au moment de mourir, Claude pense aux autres.",
+   "procedes": "Réplique brève, répétée deux fois dans le texte.",
+   "demontre": "La grandeur morale du condamné.",
+   "usage": "Pour le registre pathétique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Victor Hugo, Claude Gueux (1834), éd. Gustave Simon, Imprimerie nationale / Ollendorff, 1910, via Wikisource",
+    "note": "Conforme mot pour mot au texte du site."
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Raconter pour convaincre : le récit au service d’un combat",
+  "explication": "Claude Gueux est présenté ici comme une œuvre complémentaire de culture littéraire : le programme de seconde n’impose aucune œuvre, et ce texte ne figure sur aucune liste officielle. Il se rattache naturellement à l’objet d’étude « La littérature d’idées et la presse du XIXe siècle au XXIe siècle », dont le programme cite le récit parmi les formes possibles de l’argumentation. Le parcours « Raconter pour convaincre » est une proposition du site, pas un intitulé officiel. Il s’intéresse à une stratégie particulière : utiliser une histoire (un fait divers, un destin individuel) pour défendre une thèse. Le lecteur est d’abord touché par un personnage avant d’être convaincu par des arguments.\n\nClaude Gueux est l’exemple parfait de cette démarche. Hugo part d’un fait divers paru dans la presse, le transforme en récit émouvant, construit un personnage digne et sympathique, puis passe à l’argumentation directe pour s’adresser aux législateurs. Le texte combine ainsi persuasion (émotion, pathétique, ironie) et conviction (arguments, exemples, chiffres). Sa diffusion à tous les députés montre que la littérature peut devenir un acte politique.\n\nLes textes complémentaires permettent de suivre le combat contre la peine de mort de Hugo à Badinter, et de comparer d’autres manières de raconter pour dénoncer.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Dernier Jour d’un condamné (1829) et sa préface de 1832",
+    "auteur": "Victor Hugo",
+    "interet": "L’autre grand texte abolitionniste de Hugo : un condamné anonyme raconte ses dernières semaines. La préface développe les arguments que reprend Claude Gueux."
+   },
+   {
+    "titre": "Les Misérables, première partie « Fantine », livre II « La Chute »",
+    "auteur": "Victor Hugo (1862)",
+    "interet": "Jean Valjean, condamné au bagne pour un vol de pain, prolonge Claude Gueux : même réflexion sur la misère, la prison et la responsabilité de la société."
+   },
+   {
+    "titre": "Discours sur la peine de mort à l’Assemblée constituante (15 septembre 1848)",
+    "auteur": "Victor Hugo",
+    "interet": "Hugo, devenu député, porte le combat à la tribune : l’argumentation directe complète le récit."
+   },
+   {
+    "titre": "Discours à l’Assemblée nationale pour l’abolition de la peine de mort (17 septembre 1981)",
+    "auteur": "Robert Badinter",
+    "interet": "Le discours du ministre de la Justice qui obtient l’abolition en France, près de cent cinquante ans après Claude Gueux."
+   },
+   {
+    "titre": "Réflexions sur la guillotine (1957)",
+    "auteur": "Albert Camus",
+    "interet": "Un essai du XXe siècle qui part, lui aussi, d’un souvenir personnel (le père de Camus assistant à une exécution) pour démontrer l’absurdité de la peine capitale."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Claude Gueux est un apologue moderne : un récit tiré d’un fait divers, puis un plaidoyer qui en tire la leçon.",
+   "Claude est à la fois coupable et victime : Hugo ne nie pas le crime, il en cherche les causes.",
+   "La société est mise en accusation : misère, ignorance, prison qui déshumanise, peine de mort inutile.",
+   "Le « Parce que » du directeur symbolise un pouvoir arbitraire.",
+   "La solution de Hugo : instruire et moraliser le peuple plutôt que le punir."
+  ],
+  "axes": [
+   "Un récit orienté : le narrateur juge, commente et interroge.",
+   "Le portrait d’un héros du peuple, digne et sublime.",
+   "La dénonciation de l’arbitraire et du système pénal.",
+   "Du récit au discours : les procédés de l’éloquence dans le plaidoyer final."
+  ],
+  "problematiques": [
+   "Comment Hugo transforme-t-il un fait divers en plaidoyer contre la société qui punit ?",
+   "En quoi Claude Gueux est-il à la fois un récit et une argumentation ?",
+   "Comment Hugo fait-il d’un meurtrier un personnage digne de pitié sans excuser le meurtre ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L’incipit : « L’homme vola », « trois jours de pain » contre « cinq ans de prison ».",
+    "utilisation": "Montrer la disproportion de la peine et le ton du fait divers."
+   },
+   {
+    "exemple": "Le portrait du directeur : « un homme médiocre et obstiné qui avait foi en lui et qui s’admirait ».",
+    "utilisation": "Analyser un portrait à charge et la critique du pouvoir médiocre."
+   },
+   {
+    "exemple": "Le dialogue du « Parce que » et sa reprise au moment du meurtre.",
+    "utilisation": "Montrer l’arbitraire et la mécanique tragique."
+   },
+   {
+    "exemple": "Le tribunal de l’atelier : Claude « soumettait honnêtement ses raisons aux hommes justes qui l’entouraient ».",
+    "utilisation": "Montrer que Claude cherche une justice que la société ne lui donne pas."
+   },
+   {
+    "exemple": "L’exécution un jour de marché et l’émeute qui suit (« Admirable effet des exécutions publiques ! »).",
+    "utilisation": "Réfuter l’argument de l’exemplarité de la peine de mort."
+   },
+   {
+    "exemple": "« Avec la solde de vos quatrevingts bourreaux, vous payerez six cents maîtres d’école. »",
+    "utilisation": "Illustrer un argument concret et chiffré."
+   }
+  ],
+  "liens": "Le personnage de Claude relie tous les thèmes : il est pauvre (misère), illettré (éducation), victime de l’arbitraire (Parce que), condamné à mort (peine capitale). Les procédés changent avec la forme : antithèses et ironie dans le récit, apostrophes, impératifs et métaphores filées dans le plaidoyer. Le narrateur fait le lien entre les deux : il juge dès l’incipit et prend la parole à la fin.",
+  "sujetsCommentaire": [
+   {
+    "passage": "L’incipit, de « Il y a sept ou huit ans » à « c’est ainsi que certaines gens le comprennent et l’exécutent » (partie I, deux premiers paragraphes)",
+    "pistes": "Un récit présenté comme un fait divers vrai ; le portrait de Claude fondé sur des antithèses ; la disproportion de la peine ; la critique de la prison (« abbaye dont on a fait une bastille »)."
+   },
+   {
+    "passage": "Le dialogue avec le directeur, de « Monsieur ! dit Claude » à « Pauvre lion en cage à qui l’on ôtait son chien ! » (partie I)",
+    "pistes": "Une supplication respectueuse ; un pouvoir qui ne se justifie pas ; un dialogue inégal et tragique ; le commentaire pathétique du narrateur."
+   },
+   {
+    "passage": "La fin du plaidoyer, de « Messieurs, il se coupe trop de têtes » à la dernière phrase (partie III)",
+    "pistes": "Un discours qui interpelle les députés ; arguments économiques et moraux ; la métaphore de la tête à cultiver ; une chute qui oppose école et guillotine."
+   }
+  ],
+  "erreurs": [
+   "Croire que Claude est innocent : il a volé et tué, et il le reconnaît lui-même (« Je suis un voleur et un assassin »). Hugo interroge la responsabilité, il ne nie pas les faits.",
+   "Prendre Claude Gueux pour un roman : c’est un récit bref suivi d’un plaidoyer.",
+   "Penser que tout est inventé : le récit part d’un fait divers réel, même si Hugo le réécrit.",
+   "Oublier la dimension religieuse du plaidoyer : Hugo réclame des écoles, mais aussi « Une bible par cabane ».",
+   "Confondre Claude Gueux avec Le Dernier Jour d’un condamné (1829), où le condamné est anonyme et parle à la première personne.",
+   "Attribuer à Hugo l’abolition de la peine de mort : elle n’a lieu en France qu’en 1981."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Un récit peut-il être plus convaincant qu’un discours argumentatif ? Vous répondrez en vous appuyant sur Claude Gueux.",
+   "analyse": "Le sujet oppose deux manières de défendre une idée : raconter (argumentation indirecte, appel à l’émotion) et argumenter directement (thèse, arguments, exemples). Claude Gueux mêle les deux : il faut évaluer la force de chaque partie et leur complémentarité.",
+   "problematique": "Dans Claude Gueux, est-ce le récit du destin de Claude ou le plaidoyer final de Hugo qui convainc le plus le lecteur ?",
+   "plan": [
+    {
+     "titre": "I. La force persuasive du récit",
+     "arguments": [
+      "A. Un personnage auquel on s’attache : Claude, intelligent, digne, généreux (« ne sachant pas lire et sachant penser »).",
+      "B. Des scènes émouvantes et marquantes : l’amitié avec Albin, le « Parce que », l’exécution (« Pour les pauvres »).",
+      "C. Un récit qui fait réfléchir par lui-même : disproportion des peines, question « Lequel des deux était la victime de l’autre ? »."
+     ]
+    },
+    {
+     "titre": "II. La nécessité de l’argumentation directe",
+     "arguments": [
+      "A. Le récit seul pourrait être mal compris : Claude reste un meurtrier ; le lecteur pourrait approuver sa condamnation.",
+      "B. Le plaidoyer généralise le cas particulier : « Qui est réellement coupable ? Est-ce lui ? Est-ce nous ? ».",
+      "C. Il propose des solutions concrètes : réforme pénale, abolition, écoles (« six cents maîtres d’école »)."
+     ]
+    },
+    {
+     "titre": "III. Une efficacité qui naît de l’alliance des deux",
+     "arguments": [
+      "A. Le récit prépare le plaidoyer : chaque épisode est un argument (« tous les paragraphes de cette histoire pourraient servir de têtes de chapitre »).",
+      "B. Le récit est déjà argumentatif (commentaires, ironie) et le plaidoyer reste imagé (métaphore de la tête à cultiver).",
+      "C. La preuve par la réception : le texte envoyé à tous les députés, un acte politique."
+     ]
+    }
+   ],
+   "introduction": "En 1834, un négociant de Dunkerque, bouleversé par la lecture de Claude Gueux, fait imprimer le texte à ses frais pour l’envoyer à chaque député. Ce récit de Victor Hugo, inspiré d’un fait divers, raconte la vie d’un ouvrier pauvre condamné pour vol, devenu meurtrier en prison puis exécuté. Mais le texte ne s’arrête pas au récit : dans sa dernière partie, Hugo s’adresse directement aux législateurs. On peut donc se demander si un récit peut être plus convaincant qu’un discours argumentatif. Dans Claude Gueux, est-ce le destin de Claude ou le plaidoyer de Hugo qui convainc le plus ? Nous verrons d’abord la force persuasive du récit, puis la nécessité de l’argumentation directe, enfin l’efficacité qui naît de l’alliance des deux.",
+   "conclusion": "Le récit du destin de Claude touche le lecteur et le fait douter de la justice ; mais seul, il pourrait être mal interprété. Le plaidoyer final généralise, accuse et propose des solutions. C’est l’union des deux qui fait la force de Claude Gueux : l’émotion ouvre l’esprit, la raison l’éclaire. Hugo reprendra cette stratégie à plus grande échelle dans Les Misérables (1862), où le vol d’un pain par Jean Valjean devient le point de départ d’une immense réflexion sur la misère et la justice."
+  },
+  {
+   "sujet": "L’écrivain doit-il s’engager dans les combats de son temps ?",
+   "analyse": "« S’engager » signifie prendre parti publiquement, mettre son talent au service d’une cause politique ou sociale. « Doit-il » pose une question de devoir : est-ce une obligation, une possibilité, un risque pour la littérature ? On s’appuiera sur Claude Gueux et sur d’autres œuvres.",
+   "problematique": "La littérature trouve-t-elle sa plus haute valeur dans l’engagement, comme le montre Claude Gueux, ou cet engagement menace-t-il la liberté de l’art ?",
+   "plan": [
+    {
+     "titre": "I. L’écrivain a le pouvoir et le devoir de dénoncer les injustices",
+     "arguments": [
+      "A. Il donne une voix à ceux qui n’en ont pas : Claude, ouvrier illettré.",
+      "B. Il peut alerter l’opinion et les gouvernants : Hugo s’adresse aux députés.",
+      "C. Les grands exemples d’engagement : Voltaire et l’affaire Calas, Zola et « J’accuse…! »."
+     ]
+    },
+    {
+     "titre": "II. Mais l’engagement comporte des risques",
+     "arguments": [
+      "A. Le risque du didactisme : une « morale nue » ennuie (La Fontaine) ; l’essai final de Claude Gueux est plus austère que le récit.",
+      "B. Le risque de l’erreur ou de la propagande : un écrivain peut défendre de mauvaises causes.",
+      "C. Le risque personnel : censure, procès, exil (Hugo exilé de 1851 à 1870, Zola condamné)."
+     ]
+    },
+    {
+     "titre": "III. Un engagement qui passe par l’art",
+     "arguments": [
+      "A. La force de l’écrivain, c’est sa manière d’écrire : personnage, récit, images (la tête à « cultiver »).",
+      "B. L’œuvre engagée dure au-delà de son époque : Claude Gueux se lit encore après l’abolition de 1981.",
+      "C. Même sans engagement explicite, toute grande œuvre fait réfléchir sur l’homme et la société."
+     ]
+    }
+   ],
+   "introduction": "« Messieurs, il se coupe trop de têtes par an en France » : en 1834, à la fin de Claude Gueux, Victor Hugo ne se contente plus de raconter, il interpelle les députés. Le romancier devient militant de l’abolition de la peine de mort. Cette attitude soulève une question ancienne : l’écrivain doit-il s’engager dans les combats de son temps ? Autrement dit, la littérature trouve-t-elle sa plus haute valeur dans l’engagement, ou celui-ci menace-t-il la liberté de l’art ? Nous verrons d’abord que l’écrivain a le pouvoir et le devoir de dénoncer les injustices, puis que l’engagement comporte des risques, enfin que le véritable engagement passe par l’art lui-même.",
+   "conclusion": "L’écrivain a un pouvoir réel : celui de rendre visibles les injustices et d’émouvoir l’opinion, comme Hugo le fait avec Claude Gueux. Mais l’engagement expose au didactisme, à l’erreur et à la répression. Il est le plus fort quand il passe par l’art : un personnage inoubliable, une image juste convainquent plus durablement qu’un slogan. Près d’un siècle et demi plus tard, en 1981, Robert Badinter fera voter l’abolition de la peine de mort : le combat dont Hugo fut l’un des grands précurseurs avait fini par l’emporter."
+  }
+ ],
+ "oral": {
+  "presentation": "Claude Gueux est un court texte de Victor Hugo publié en 1834 dans la Revue de Paris. Il raconte l’histoire vraie d’un ouvrier pauvre et illettré qui vole pour nourrir sa famille, est enfermé à Clairvaux, s’y lie d’amitié avec un jeune détenu, Albin, puis tue le directeur des ateliers qui les a séparés sans raison : « Parce que ». Jugé à Troyes, il est exécuté en 1832. Dans la dernière partie, Hugo quitte le récit pour s’adresser aux députés : la société est responsable de ce crime ; il faut abolir la peine de mort et instruire le peuple, car si l’on cultive sa tête, « vous n’aurez pas besoin de la couper ». C’est un apologue moderne au service d’un combat politique.",
+  "essentiels": [
+   "Dates : faits en 1831-1832 (Clairvaux, Troyes) ; publication en 1834.",
+   "Structure : récit, puis plaidoyer.",
+   "Personnages : Claude, Albin, le directeur M. D., les détenus.",
+   "Thèse : la société est responsable ; éduquer plutôt que punir ; abolir la peine de mort.",
+   "Notions : apologue, plaidoyer, convaincre / persuader, ironie, registre pathétique, question rhétorique."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Hugo raconte-t-il une histoire au lieu d’écrire directement un essai ?",
+    "reponse": "Parce que le récit touche le lecteur avant de le convaincre. On s’attache à Claude, « ne sachant pas lire et sachant penser », on partage sa faim et sa douleur quand on lui enlève Albin. Hugo le dit lui-même : « tous les paragraphes de cette histoire pourraient servir de têtes de chapitre » à un livre sur le problème du peuple. Le plaidoyer final arrive alors chez un lecteur déjà ému."
+   },
+   {
+    "question": "Claude est-il coupable ?",
+    "reponse": "Oui, juridiquement : il a volé puis tué, et il le reconnaît (« Je suis un voleur et un assassin »). Mais Hugo pose une autre question : « pourquoi ai-je volé ? pourquoi ai-je tué ? ». La misère l’a poussé au vol, l’arbitraire du directeur au meurtre. D’où la question finale : « Qui est réellement coupable ? Est-ce lui ? Est-ce nous ? »"
+   },
+   {
+    "question": "Que représente le « Parce que » du directeur ?",
+    "reponse": "C’est une réponse sans raison : le directeur n’a pas besoin de se justifier parce qu’il a le pouvoir. Hugo en fait le symbole de l’arbitraire. Le mot revient au moment du meurtre (« Je te l’ai déjà dit, répondit le directeur. Parce que. ») : c’est lui qui déclenche la catastrophe."
+   },
+   {
+    "question": "Comment Hugo critique-t-il la peine de mort ?",
+    "reponse": "Par le récit d’abord : l’exécution a lieu un jour de marché pour servir d’exemple, et le jour même la foule se révolte, ce que Hugo commente par l’antiphrase « Admirable effet des exécutions publiques ! ». Puis par l’argumentation : « Messieurs, il se coupe trop de têtes par an en France », et l’argent des bourreaux paierait « six cents maîtres d’école »."
+   },
+   {
+    "question": "Quelle solution Hugo propose-t-il ?",
+    "reponse": "Il réclame une réforme des lois et des prisons, l’abolition de la peine de mort, « Des écoles pour les enfants, des ateliers pour les hommes ». Il ajoute une dimension religieuse : la Bible doit guider l’instruction et donner aux pauvres l’espérance. Sa dernière phrase résume tout : cultiver la tête du peuple pour ne pas avoir à la couper."
+   },
+   {
+    "question": "Quel rôle joue le narrateur ?",
+    "reponse": "Il n’est pas neutre. Il annonce qu’il dit « les choses comme elles sont », mais il juge sévèrement le directeur (« pas méchant, mauvais »), commente (« Pauvre lion en cage »), pose des questions au lecteur et finit par prendre la parole en son nom pour s’adresser aux députés. Le narrateur devient avocat."
+   },
+   {
+    "question": "Quel lien faites-vous avec Les Misérables ?",
+    "reponse": "Les Misérables (1862) reprennent les mêmes thèmes à grande échelle : Jean Valjean est envoyé au bagne pour avoir volé un pain, et Hugo montre que la société fabrique les criminels qu’elle punit. Claude Gueux annonce d’ailleurs un futur livre sur « le grand problème du peuple au dix-neuvième siècle »."
+   }
+  ],
+  "liens": "Œuvre complémentaire (culture littéraire), à rattacher à l’objet d’étude de seconde « La littérature d’idées et la presse du XIXe siècle au XXIe siècle » ; parcours proposé par le site (non officiel) : raconter pour convaincre. Autres œuvres : Hugo, Le Dernier Jour d’un condamné (1829) et Les Misérables (1862) ; Voltaire et l’affaire Calas ; Zola, « J’accuse…! » (1898) ; Camus, Réflexions sur la guillotine (1957) ; Badinter, discours de 1981.",
+  "reflexion": [
+   {
+    "question": "La société est-elle responsable des crimes commis par ses membres ?",
+    "pistes": "Distinguer responsabilité individuelle et causes sociales ; le rôle de l’éducation ; les limites de l’excuse."
+   },
+   {
+    "question": "La prison permet-elle de corriger ?",
+    "pistes": "L’exemple de Clairvaux dans le texte ; les débats actuels sur la réinsertion ; le rôle du travail et de l’éducation en prison."
+   },
+   {
+    "question": "Un récit vous convainc-il plus qu’un discours ?",
+    "pistes": "L’émotion suscitée par Claude ; le risque de manipulation ; l’utilité du plaidoyer final."
+   },
+   {
+    "question": "Quel argument de Hugo vous paraît le plus fort aujourd’hui ?",
+    "pistes": "L’éducation contre la répression ; l’inutilité de l’exemplarité ; l’arbitraire du pouvoir."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L’incipit : « Il y a sept ou huit ans… »",
+   "reference": "Premières lignes du récit, jusqu’à l’arrivée à Clairvaux",
+   "enjeu": "Comment l’incipit présente-t-il Claude comme une victime de la société et annonce-t-il la visée argumentative du texte ?",
+   "mouvements": [
+    "Mouvement 1 : un récit présenté comme vrai. Indications de temps et de lieu (« sept ou huit ans », « Paris »), ton neutre de fait divers, intervention du narrateur qui dit « les choses comme elles sont » et confie au lecteur le soin de tirer les « moralités ».",
+    "Mouvement 2 : le portrait de Claude et la misère. Accumulation d’adjectifs mélioratifs, antithèses (« fort maltraité par l’éducation, fort bien traité par la nature », « ne sachant pas lire et sachant penser »), phrases brèves (« L’homme vola. ») qui disent la nécessité.",
+    "Mouvement 3 : la condamnation disproportionnée. Antithèse chiffrée « trois jours de pain » / « cinq ans de prison », puis description ironique de Clairvaux (« abbaye dont on a fait une bastille ») et commentaire critique sur le « progrès »."
+   ]
+  },
+  {
+   "titre": "« Parce que » : le dialogue avec le directeur",
+   "reference": "Le lendemain de la disparition d’Albin, pendant la ronde du directeur",
+   "enjeu": "Comment ce dialogue met-il en scène l’arbitraire du pouvoir face à la dignité du prisonnier ?",
+   "mouvements": [
+    "Mouvement 1 : la posture respectueuse de Claude. Il ôte son bonnet, boutonne sa veste, attend debout : le prisonnier se plie aux codes de la soumission pour obtenir justice.",
+    "Mouvement 2 : la supplication. Répliques courtes et polies (« Monsieur… »), argument vital (« j’ai besoin d’Albin pour vivre »), réponses sèches du directeur (« Impossible », « Par moi », « Je ne reviens jamais sur mes décisions ») : le dialogue est inégal.",
+    "Mouvement 3 : la réponse absurde et ses conséquences. « Parce que », sans complément, ferme toute discussion ; le narrateur commente par une métaphore pathétique (« Pauvre lion en cage à qui l’on ôtait son chien ! ») qui annonce la violence à venir."
+   ]
+  },
+  {
+   "titre": "Le meurtre du directeur",
+   "reference": "Le 4 novembre au soir, dans l’atelier, devant les détenus",
+   "enjeu": "Comment Hugo raconte-t-il un meurtre sans faire de Claude un monstre ?",
+   "mouvements": [
+    "Mouvement 1 : la dernière tentative. Claude retient le directeur par « le pan de l’habit », demande encore pourquoi ; le « Parce que » répété scelle le destin.",
+    "Mouvement 2 : la violence du geste. Les détenus sont comme des « statues » ; récit rapide et précis des coups de hache, adjectif « affreuse » qui montre que le narrateur ne cache rien ; « Le directeur était mort. »",
+    "Mouvement 3 : le retournement contre soi et la question finale. Claude crie « À l’autre maintenant ! » et se frappe avec les ciseaux de « sa femme » ; la question rhétorique « Lequel des deux était la victime de l’autre ? » transforme le meurtrier en victime."
+   ]
+  },
+  {
+   "titre": "La fin du plaidoyer : « cultivez-la… »",
+   "reference": "Dernier paragraphe du texte",
+   "enjeu": "Comment Hugo conclut-il son plaidoyer par une image saisissante qui oppose l’éducation à la guillotine ?",
+   "mouvements": [
+    "Mouvement 1 : le constat. « La tête de l’homme du peuple, voilà la question » : phrase nominale qui pose le problème ; cette tête est « pleine de germes utiles » (métaphore végétale).",
+    "Mouvement 2 : l’exemple et l’hypothèse. Tel criminel « mieux dirigé » aurait été « le plus excellent serviteur de la cité » : l’argument rappelle le destin de Claude, bien doué mais mal éduqué.",
+    "Mouvement 3 : l’injonction finale. Accumulation de sept impératifs (« cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ») qui forment une gradation, puis chute antithétique : « vous n’aurez pas besoin de la couper ». La métaphore de la tête relie l’éducation et la guillotine."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Claude Gueux (1834) : récit de Victor Hugo inspiré d’un fait divers réel (exécution d’un détenu de Clairvaux à Troyes en 1832).",
+   "Structure double : un récit (vol, prison, amitié avec Albin, meurtre du directeur, procès, exécution) puis un plaidoyer argumentatif.",
+   "Thèse : la société est responsable du crime ; il faut éduquer le peuple plutôt que le punir et abolir la peine de mort.",
+   "Le « Parce que » du directeur symbolise l’arbitraire du pouvoir.",
+   "Claude, « ne sachant pas lire et sachant penser », est à la fois coupable et victime.",
+   "Phrase finale à retenir : « cultivez-la […] ; vous n’aurez pas besoin de la couper ».",
+   "Hugo, écrivain engagé : Le Dernier Jour d’un condamné (1829), discours de 1848, Les Misérables (1862).",
+   "Le récit est orienté par un narrateur qui juge et finit par plaider."
+  ],
+  "citations": [
+   1,
+   2,
+   4,
+   7,
+   11,
+   13,
+   14,
+   15
+  ],
+  "pieges": [
+   "Claude n’est pas innocent : Hugo cherche les causes du crime, il ne le nie pas.",
+   "Ce n’est pas un roman mais un récit bref suivi d’un plaidoyer.",
+   "La peine de mort n’est pas abolie par Hugo mais en 1981.",
+   "Le découpage en trois parties est celui du site, pas celui de Hugo."
+  ],
+  "synthese": "Claude Gueux (1834) raconte l’histoire vraie d’un ouvrier illettré qui vole par misère, tue en prison le directeur qui l’a séparé de son ami Albin sans autre raison que « Parce que », et meurt sur l’échafaud en 1832. Hugo passe ensuite du récit au plaidoyer : la société, qui n’a pas instruit Claude et l’a enfermé dans une prison inhumaine, est coupable avec lui. Il demande l’abolition de la peine de mort, des écoles et une éducation morale du peuple. Formule à retenir : cultivez la tête du peuple, « vous n’aurez pas besoin de la couper »."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Apologue",
+   "definition": "Récit qui illustre une leçon. Claude Gueux est un apologue moderne : l’histoire de Claude sert à démontrer la responsabilité de la société."
+  },
+  {
+   "terme": "Plaidoyer",
+   "definition": "Discours qui défend une personne ou une cause. La dernière partie du texte est un plaidoyer pour l’éducation et contre la peine de mort."
+  },
+  {
+   "terme": "Réquisitoire",
+   "definition": "Discours qui accuse. Le plaidoyer de Hugo est aussi un réquisitoire contre les députés et la justice de son temps."
+  },
+  {
+   "terme": "Convaincre / persuader",
+   "definition": "Convaincre, c’est s’adresser à la raison (arguments, exemples chiffrés : « six cents maîtres d’école ») ; persuader, c’est toucher les émotions (scène de l’exécution)."
+  },
+  {
+   "terme": "Registre pathétique",
+   "definition": "Registre qui cherche à émouvoir, à faire naître la pitié. Exemple : « Pour les pauvres », dernières paroles de Claude."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Dire autre chose (ou le contraire) de ce que l’on pense pour critiquer. Exemple : « Admirable effet des exécutions publiques ! »"
+  },
+  {
+   "terme": "Question rhétorique",
+   "definition": "Question qui n’attend pas de réponse mais oriente la pensée du lecteur. Exemple : « Lequel des deux était la victime de l’autre ? »"
+  },
+  {
+   "terme": "Abolitionnisme",
+   "definition": "Combat pour la suppression de la peine de mort. La France l’a abolie en 1981 (loi défendue par Robert Badinter)."
+  },
+  {
+   "terme": "Fait divers",
+   "definition": "Événement réel (crime, accident) rapporté par la presse. Claude Gueux s’inspire de l’exécution d’un détenu de Clairvaux en 1832."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Pourquoi Claude Gueux est-il d’abord envoyé en prison ?",
+   "choix": [
+    "Pour avoir tué un homme",
+    "Pour un vol commis par misère",
+    "Pour avoir participé à une émeute",
+    "Pour une dette"
+   ],
+   "reponse": 1,
+   "explication": "Un hiver sans travail, il vole pour nourrir sa compagne et leur enfant : il est condamné à cinq ans de prison."
+  },
+  {
+   "question": "Dans quelle prison Claude est-il enfermé ?",
+   "choix": [
+    "La Bastille",
+    "Clairvaux",
+    "Bicêtre",
+    "La Conciergerie"
+   ],
+   "reponse": 1,
+   "explication": "Il est envoyé à la maison centrale de Clairvaux, ancienne abbaye."
+  },
+  {
+   "question": "Qui est Albin ?",
+   "choix": [
+    "Le directeur de la prison",
+    "Le fils de Claude",
+    "Un jeune détenu qui partage son pain avec Claude",
+    "L’avocat de Claude"
+   ],
+   "reponse": 2,
+   "explication": "Albin, vingt ans, partage sa ration avec Claude, qui a toujours faim : ils deviennent amis."
+  },
+  {
+   "question": "Que répond le directeur quand Claude lui demande pourquoi il l’a séparé d’Albin ?",
+   "choix": [
+    "« C’est le règlement »",
+    "« Parce que »",
+    "« Par ordre du roi »",
+    "« Tu le sais bien »"
+   ],
+   "reponse": 1,
+   "explication": "« Parce que » : réponse sans justification, symbole de l’arbitraire."
+  },
+  {
+   "question": "Avec quelle arme Claude tue-t-il le directeur ?",
+   "choix": [
+    "Un couteau",
+    "Des ciseaux",
+    "Une hache",
+    "Un marteau"
+   ],
+   "reponse": 2,
+   "explication": "Il emprunte une hache à l’atelier des menuisiers ; il se frappe ensuite avec des ciseaux."
+  },
+  {
+   "question": "Quelles sont les dernières paroles de Claude sur l’échafaud ?",
+   "choix": [
+    "« Vive la liberté ! »",
+    "« Pour les pauvres »",
+    "« Adieu, Albin »",
+    "« Je suis innocent »"
+   ],
+   "reponse": 1,
+   "explication": "Il donne au prêtre sa pièce de cinq francs en disant : « Pour les pauvres »."
+  },
+  {
+   "question": "Quelle solution Hugo propose-t-il principalement dans la dernière partie ?",
+   "choix": [
+    "Construire plus de prisons",
+    "Instruire le peuple",
+    "Rétablir la torture",
+    "Exiler les criminels"
+   ],
+   "reponse": 1,
+   "explication": "Il réclame des écoles et l’éducation du peuple : « vous n’aurez pas besoin de la couper »."
+  },
+  {
+   "question": "En quelle année la peine de mort a-t-elle été abolie en France ?",
+   "choix": [
+    "1848",
+    "1905",
+    "1945",
+    "1981"
+   ],
+   "reponse": 3,
+   "explication": "La loi d’abolition, défendue par Robert Badinter, est votée en 1981."
+  },
+  {
+   "question": "Quelle date Claude fixe-t-il au directeur pour lui rendre Albin ?",
+   "choix": [
+    "Le 25 octobre",
+    "Le 4 novembre",
+    "Le 16 mars",
+    "Le 8 juin"
+   ],
+   "reponse": 1,
+   "explication": "« Nous sommes aujourd’hui le 25 octobre. Je vous donne jusqu’au 4 novembre. »"
+  },
+  {
+   "question": "Devant quelle cour d’assises Claude est-il jugé ?",
+   "choix": [
+    "Paris",
+    "Dijon",
+    "Troyes",
+    "Lyon"
+   ],
+   "reponse": 2,
+   "explication": "Il comparaît le 16 mars 1832 devant la cour d’assises de Troyes."
+  },
+  {
+   "question": "Que fait Claude avant de tuer le directeur ?",
+   "choix": [
+    "Il s’évade",
+    "Il expose ses raisons aux détenus et leur distribue ses affaires",
+    "Il écrit au roi",
+    "Il demande à voir un prêtre"
+   ],
+   "reponse": 1,
+   "explication": "Dans l’atelier, il soumet ses raisons aux « hommes justes qui l’entouraient », puis distribue ses hardes et fait ses adieux."
+  },
+  {
+   "question": "Quelle figure domine la dernière phrase (« cultivez-la, défrichez-la, arrosez-la… ») ?",
+   "choix": [
+    "Une litote",
+    "Une accumulation d’impératifs dans une métaphore agricole",
+    "Un oxymore",
+    "Une prosopopée"
+   ],
+   "reponse": 1,
+   "explication": "Sept impératifs filent la métaphore de la terre à cultiver, puis la chute oppose l’éducation à la guillotine."
+  },
+  {
+   "question": "Pourquoi l’exécution a-t-elle lieu un jour de marché ?",
+   "choix": [
+    "Par hasard",
+    "Pour qu’il y ait le plus de monde possible",
+    "Parce que Claude l’a demandé",
+    "Pour éviter la foule"
+   ],
+   "reponse": 1,
+   "explication": "« afin qu’il y eût le plus de regards possible sur son passage » : la peine doit servir d’exemple, ce que Hugo dénonce."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Wikisource – Victor Hugo, Claude Gueux (éd. Gustave Simon, 1910), texte du site",
+   "url": "https://fr.wikisource.org/wiki/Claude_Gueux"
+  }
+ ],
+ "aVerifier": [
+  "Fidélité du récit aux faits réels (dates exactes du meurtre et de l’exécution, identité du responsable tué à Clairvaux) : le site donne les dates du texte de Hugo, non vérifiées dans les archives judiciaires.",
+  "Diffusion du texte à chaque député à l’initiative d’un négociant de Dunkerque (1834) : fait rapporté par la lettre publiée avec le texte dans de nombreuses éditions, non consultée ici."
+ ]
+}

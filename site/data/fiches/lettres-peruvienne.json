@@ -1,0 +1,1089 @@
+{
+ "id": "lettres-peruvienne",
+ "accroche": "Arrachée au temple du Soleil, une princesse inca découvre la France et la juge. Et si l'étrangère voyait plus clair que nous ?",
+ "identite": {
+  "auteur": "Françoise d'Issembourg d'Happoncourt (1695-1758), devenue Madame de Graffigny, naît à Nancy, en Lorraine. Mariée à un officier violent, François Huguet de Graffigny, elle obtient la séparation et perd ses enfants en bas âge. Sans fortune, elle fréquente la cour de Lunéville, séjourne en 1738-1739 au château de Cirey chez Voltaire et Émilie du Châtelet (sa correspondance en donne un témoignage célèbre), puis s'installe à Paris. Les Lettres d'une Péruvienne (1747) connaissent un succès européen considérable, tout comme sa comédie Cénie (1750). Elle tient un salon fréquenté par des philosophes (Turgot, Helvétius, qui épousera sa nièce). Elle est l'une des rares femmes de lettres à vivre de sa plume au XVIIIe siècle. Elle publie en 1752 une nouvelle édition revue et augmentée de son roman.",
+  "contexte": "Le roman paraît en plein siècle des Lumières, quand les philosophes critiquent l'absolutisme, l'intolérance et les inégalités. La découverte des autres peuples nourrit cette critique : récits de voyage, mythe du bon sauvage, regard étranger utilisé pour juger l'Europe. Le Pérou est à la mode : la conquête de l'empire inca par Pizarro (à partir de 1532) est connue grâce aux Commentaires royaux de l'Inca Garcilaso de la Vega, traduits en français, et Voltaire en a fait une tragédie, Alzire (1736), à laquelle l'Avertissement de 1752 semble faire allusion sans la nommer. Au même moment s'ouvre le débat sur l'éducation des filles et la condition des femmes (Fénelon, Madame de Lambert), que Graffigny prolonge. L'édition de 1752 ajoute l'Introduction historique et trois lettres plus critiques, sur le luxe et sur l'éducation des femmes.",
+  "mouvement": "L'œuvre relève à la fois du roman épistolaire et de la littérature d'idées des Lumières. Elle reprend le modèle des Lettres persanes de Montesquieu (1721) : un étranger écrit à un proche resté au pays et décrit la France avec naïveté, ce qui produit un effet de décentrement et de satire. Mais Graffigny innove : la voix est celle d'une femme, le roman est monophonique (on ne lit presque que les lettres de Zilia, sans réponses), et l'intrigue sentimentale (l'amour pour Aza, la passion de Déterville) est aussi importante que la critique sociale. Le roman mêle le registre pathétique, hérité de la littérature sensible (Lettres portugaises, 1669), et le registre satirique. Sa fin, qui refuse le mariage, était audacieuse et a déçu bien des lecteurs.",
+  "circonstances": "Le roman paraît en 1747, sans nom d'auteur, avec une adresse fictive « A Peine » (un jeu de mots sur le lieu d'impression). L'Avertissement présente les lettres comme authentiques, traduites des quipos de Zilia : c'est la fiction habituelle du roman épistolaire. Le succès est immédiat : le livre est réédité et traduit dans plusieurs langues, et il suscite des suites écrites par d'autres auteurs, qui donnent souvent au roman la fin heureuse que Graffigny avait refusée. Le jeune Turgot, dans une lettre que cite Sainte-Beuve, souhaite qu'on montre « qu'on nous montrât Zilia française, après nous l'avoir fait voir péruvienne ». En 1752, Graffigny publie une édition revue et augmentée (Paris, Duchesne) : elle ajoute une Introduction historique sur les Incas et la conquête, trois lettres nouvelles (XXVIII, XXIX, XXXIV), remanie l'ancienne lettre XXVIII (devenue la lettre XXX) et retouche le texte ; le roman compte alors 41 lettres. C'est cette édition qui sert de référence pour le programme. Le texte intégral du site donne les 38 lettres de 1747 et l'Introduction de 1752 : les trois lettres ajoutées en 1752 n'y figurent pas encore.",
+  "carriere": "Graffigny a plus de cinquante ans quand paraissent les Lettres d'une Péruvienne. Auparavant, elle n'avait publié qu'une nouvelle (Nouvelle espagnole, dans un recueil collectif, 1745) ; elle était surtout connue par sa correspondance et par la vie de salon. Le roman fait d'elle une autrice célèbre dans toute l'Europe. Sa comédie sentimentale Cénie (1750) triomphe à la Comédie-Française ; une seconde pièce, La Fille d'Aristide (1758), échoue peu avant sa mort. Son immense correspondance, notamment avec son ami Devaux, est aujourd'hui une source précieuse sur la vie littéraire du XVIIIe siècle (le séjour à Cirey chez Voltaire). Longtemps oubliée au XIXe siècle, l'œuvre a été redécouverte à la fin du XXe siècle, notamment par la critique attentive aux écrivaines."
+ },
+ "resumeCourt": "Zilia, jeune Vierge du Soleil, est enlevée par les conquistadors espagnols le jour même où elle devait épouser Aza, l'héritier de l'empire inca. Captive sur un vaisseau, elle écrit à son fiancé grâce aux quipos, cordelettes nouées des Péruviens. Le navire est pris par les Français : le chevalier Déterville, qui tombe amoureux d'elle, l'emmène en France. Zilia découvre une langue, des objets et des mœurs incompréhensibles, apprend à lire et à écrire le français, et pose sur la société française un regard de plus en plus critique : goût du superflu, politesse vide, inconséquence, mépris des femmes et éducation absurde des filles. Elle reste fidèle à Aza, que Déterville fait venir d'Espagne ; mais Aza, devenu chrétien, s'est engagé à épouser une Espagnole. Désespérée, puis apaisée, Zilia refuse pourtant d'épouser Déterville : elle lui offre son amitié et choisit une vie indépendante, consacrée au « plaisir d'être ». Le programme retient l'édition de 1752 (41 lettres), augmentée d'une Introduction historique et de trois lettres nouvelles (XXVIII, XXIX et XXXIV) ; l'ancienne lettre XXVIII y devient, remaniée, la lettre XXX.",
+ "resume": [
+  {
+   "titre": "Avertissement et Introduction historique (1752)",
+   "texte": "Un « Avertissement » de l'éditeur présente les lettres comme authentiques et dénonce le préjugé européen : « nous n'accordons du mérite aux autres nations, qu'autant que leurs mœurs imitent les nôtres » (texte de 1752), avec un clin d'œil à Montesquieu (« Comment peut-on être Persan »). L'Introduction historique, ajoutée en 1752, raconte l'histoire des Incas depuis Manco Capac, fils du Soleil et premier législateur, puis la conquête espagnole : un ancien oracle, la crédulité des Péruviens qui prennent les Espagnols pour des dieux, le massacre (« Un peuple entier, soumis et demandant grâce, fut passé au fil de l'épée ») et le pillage du temple du Soleil, avec ses jardins d'or. Elle se termine par un éloge des mœurs péruviennes : religion du Soleil, vierges consacrées, éducation fondée sur la modestie, quipos, agriculture commune. Ce texte donne au lecteur les clés pour comprendre Zilia et oppose dès le départ la barbarie des conquérants à la sagesse des « sauvages »."
+  },
+  {
+   "titre": "Lettres I à V : l'enlèvement et les quipos",
+   "texte": "Zilia écrit à Aza : la « ville du Soleil » a été livrée à une « nation barbare » le jour de leur mariage, et elle a été arrachée au temple. Elle confie ses pensées aux quipos, cordons de couleur dont les nœuds forment un langage. Elle raconte leur rencontre, la cérémonie interrompue, l'irruption des Espagnols, puis sa captivité dans une « maison flottante ». Malade, désespérée, elle ne survit que par amour pour Aza : « Tu es le Soleil de mes jours ». Ses gardiens lui retirent un temps ses quipos, qu'elle finit par récupérer."
+  },
+  {
+   "titre": "Lettres VI à IX : la mer, Déterville et les premiers mots",
+   "texte": "En regardant par une fenêtre, Zilia découvre avec horreur qu'elle est sur la mer et tente de se jeter dans les flots. Sauvée, elle comprend peu à peu que ses nouveaux maîtres ne sont pas espagnols : le « Cacique » (Déterville, capitaine français) a pris le vaisseau qui la transportait. Il la traite avec respect, lui montre la terre à travers une longue-vue et lui apprend des mots : elle répète « oui, je vous aime » sans en comprendre le sens. Elle apprend que leur destination s'appelle la France, qu'elle croit être une province de l'empire d'Aza."
+  },
+  {
+   "titre": "Lettres X à XV : l'arrivée en France et le regard étranger",
+   "texte": "Débarquée dans un port, puis conduite à Paris, Zilia ne comprend rien à ce qu'elle voit : tout la « frappe », la « surprend », l'« étonne ». Un miroir, « cette ingénieuse machine qui double les objets », la stupéfie. Chez les Déterville, la mère (la « Pallas ») l'accueille avec froideur, tandis que Céline, sœur de Déterville, lui montre une vraie amitié. Exhibée devant des visiteurs curieux, Zilia commence à observer : elle trouve Déterville et Céline seuls dignes de la vertu péruvienne."
+  },
+  {
+   "titre": "Lettres XVI à XX : la fin des quipos, l'écriture et un « nouvel univers »",
+   "texte": "Zilia assiste à des spectacles (la tragédie, puis l'opéra) et s'interroge sur le « génie » d'une nation qui « parcourt les extrêmes ». Ses quipos s'épuisent : c'est une nouvelle séparation. Déterville part à la guerre ; sa mère enferme Zilia et Céline dans un couvent. Zilia apprend à écrire en français et, six mois plus tard, reprend ses lettres : en comprenant la langue, elle comprend sa situation. « À mesure que j'en ai acquis l'intelligence, un nouvel univers s'est offert à mes yeux » : le Pérou n'est qu'une petite partie du monde, et elle est infiniment loin d'Aza. Elle découvre aussi le gouvernement français, injuste à ses yeux (les rois vivent du travail de leurs sujets), et les livres."
+  },
+  {
+   "titre": "Lettres XXI à XXVII : savoir, amour et générosité",
+   "texte": "Un religieux (le « Cusipata ») lui explique la religion chrétienne, mais méprise le culte du Soleil ; il lui apprend la conquête du Pérou et la manière dont Déterville l'a capturée. Lors d'une seconde visite, il l'exhorte à renoncer à Aza, au nom de ce qu'elle doit à Déterville : « il faut être ingrate pour avoir de la vertu », conclut-elle avec amertume. De retour de la guerre, Déterville déclare son amour ; Zilia lui offre amitié et reconnaissance, mais pas l'amour, ce qui brouille un temps Céline avec elle. Malade de fièvre, elle se rétablit ; Déterville lui apprend qu'Aza est vivant, libre, à la cour d'Espagne, et qu'il a embrassé la religion des Espagnols. Il écrit pour le faire venir en France. Puis il fait remettre à Zilia les ornements d'or du temple du Soleil saisis sur le navire espagnol : elle devient riche."
+  },
+  {
+   "titre": "Lettres XXVIII à XXX (1752) : la fête, le superflu et la solitude",
+   "texte": "Zilia accompagne Céline dans une maison de campagne où celle-ci se marie. Elle y découvre un luxe éblouissant : jardins où la nature est dominée, jets d'eau, feux d'artifice. Elle admire le « génie » des Français mais constate qu'ils « ont choisi le superflu pour l'objet de leur culte » (lettre XXVIII). Dans la lettre XXIX, elle passe « de l'admiration du génie des Français au mépris de l'usage qu'ils en font » : le goût du superflu ruine les familles, sacrifie le nécessaire, remplace les sentiments par une politesse sans âme. Dans la lettre XXX, Déterville, fidèle à sa promesse de ne plus lui parler d'amour, l'évite ; Zilia, impatiente d'avoir des nouvelles d'Aza, se sent « seule au milieu du monde »."
+  },
+  {
+   "titre": "Lettres XXXI à XXXIV : doutes et critique de la condition des femmes",
+   "texte": "Un entretien bouleversant avec Déterville (lettre XXXI) fait naître chez Zilia le soupçon qu'Aza pourrait être infidèle ; elle le repousse. De retour à Paris (XXXII), elle observe la vie mondaine : visites, médisance, frivolité (« La censure est le goût dominant des Français, comme l'inconséquence est le caractère de la nation »). Dans la lettre XXXIII, elle s'étonne que les Français respectent et méprisent à la fois les femmes. La lettre XXXIV, ajoutée en 1752, en donne la cause : une éducation absurde, qui enferme les filles au couvent « pour leur apprendre à vivre dans le monde », ne leur enseigne que l'apparence et les livre ignorantes à des maris tout-puissants."
+  },
+  {
+   "titre": "Lettres XXXV et XXXVI : le « palais enchanté » et l'arrivée d'Aza",
+   "texte": "Céline et Déterville conduisent Zilia dans une belle maison de campagne : c'est la sienne, achetée avec les trésors du temple ; un cabinet y reproduit les décors de la ville du Soleil. Zilia est comblée. Puis Déterville lui annonce qu'Aza est sur le point d'arriver. La lettre XXXVI s'interrompt sur l'attente fébrile : « On m'interrompt »."
+  },
+  {
+   "titre": "Lettres XXXVII à XLI : la trahison et le choix de la liberté",
+   "texte": "Les dernières lettres sont adressées à Déterville, parti à Malte. Zilia lui reproche d'abord son départ, puis lui apprend la vérité : « Aza est infidèle ». Devenu chrétien, il s'est engagé à épouser une jeune Espagnole et n'est venu que pour reprendre sa parole. Zilia sombre dans le désespoir et la maladie, puis se relève. Dans la dernière lettre (XLI), elle refuse d'épouser Déterville : elle reste fidèle à elle-même, lui offre une amitié sans bornes et lui propose une vie simple, faite d'étude et de contemplation de la nature, dans le « plaisir d'être » : « je suis, je vis, j'existe »."
+  }
+ ],
+ "structure": "Dans l'édition de 1752, l'œuvre comprend un Avertissement, une Introduction historique et quarante et une lettres. Les trente-six premières sont adressées à Aza, les cinq dernières (XXXVII à XLI) à Déterville : ce changement de destinataire marque le passage de l'amour à l'amitié et de la dépendance à l'autonomie. On peut distinguer quatre étapes. 1) Lettres I à IX : l'enlèvement, la captivité, la traversée ; Zilia écrit avec ses quipos et interprète tout à travers sa culture. 2) Lettres X à XX : l'arrivée en France, l'apprentissage de la langue et de l'écriture, le « nouvel univers ». 3) Lettres XXI à XXXIV : la critique de la société française (religion, luxe, politesse, condition des femmes) et l'intrigue sentimentale avec Déterville. 4) Lettres XXXV à XLI : le palais enchanté, la trahison d'Aza et le choix final de la liberté. Le roman est monophonique : on n'entend que la voix de Zilia (à part quelques billets cités). Par rapport à 1747 (38 lettres), l'édition de 1752 ajoute l'Introduction historique et trois lettres nouvelles, XXVIII (la fête et les arts), XXIX (le superflu) et XXXIV (l'éducation des femmes), et remanie l'ancienne lettre XXVIII, qui devient la lettre XXX. La numérotation est donc décalée à partir de là : la lettre XXX de 1747 devient la XXXII, la XXXVIII et dernière devient la XLI. La fiche suit la numérotation de 1752. Ces textes ajoutés ou remaniés sont les plus critiques du roman.",
+ "personnages": [
+  {
+   "nom": "Zilia",
+   "role": "Princesse inca et Vierge du Soleil, narratrice et autrice de presque toutes les lettres. D'abord victime désespérée et ignorante, elle apprend la langue, l'écriture et les codes français, et devient une observatrice lucide et une critique redoutable. Fidèle à Aza jusqu'au bout, elle finit pourtant par conquérir son autonomie : elle refuse le mariage et choisit l'amitié et la liberté. Son évolution fait du roman un véritable récit d'apprentissage.",
+   "relations": "Fiancée d'Aza, à qui elle écrit 36 lettres ; protégée puis amie de Déterville ; amie et sœur d'adoption de Céline ; victime des Espagnols et de la Pallas ; élève critique du Cusipata."
+  },
+  {
+   "nom": "Aza",
+   "role": "Héritier de l'empire inca, fiancé de Zilia et destinataire des trente-six premières lettres. Absent et muet tout au long du roman, il est surtout une image idéalisée. Lorsqu'il réapparaît, il a changé : converti au christianisme, il s'est engagé à épouser une Espagnole. Son infidélité montre que l'Europe l'a assimilé, alors que Zilia est restée fidèle à ses valeurs.",
+   "relations": "Fiancé de Zilia et destinataire absent ; il devient, par sa conversion et son engagement envers une Espagnole, le rival malgré lui de Déterville et l'opposé de Zilia, restée fidèle à elle-même."
+  },
+  {
+   "nom": "Déterville (le « Cacique »)",
+   "role": "Chevalier et officier de marine français qui capture le navire espagnol. Généreux, délicat, vertueux, il tombe amoureux de Zilia et la protège sans jamais abuser de sa situation. Il incarne la meilleure part de la France. Mais son amour pose un problème : peut-on aimer quelqu'un qui nous doit tout ? Zilia lui refuse l'amour et lui offre l'amitié ; il est le destinataire des dernières lettres.",
+   "relations": "Libérateur, protecteur et soupirant de Zilia ; frère de Céline ; fils sacrifié de la Pallas ; destinataire des cinq dernières lettres, il devient l'ami à qui Zilia propose une relation d'égal à égal."
+  },
+  {
+   "nom": "Céline",
+   "role": "Sœur de Déterville, jeune femme sensible, première amie de Zilia en France. Menacée par sa mère d'être forcée à prendre le voile, puis déshéritée, elle récupère ses biens grâce aux juges et épouse le jeune homme qu'elle aime. Elle lui sert de guide, se fâche lorsque Zilia repousse son frère, puis l'aide et la soigne. Elle représente une amitié féminine sincère, mais aussi la femme française prise dans les contraintes de son milieu.",
+   "relations": "Sœur de Déterville et amie de Zilia ; victime de sa mère, comme son frère ; elle sert d'intermédiaire entre Zilia et Déterville."
+  },
+  {
+   "nom": "Madame Déterville (la « Pallas »)",
+   "role": "Mère de Déterville et de Céline, froide, orgueilleuse et injuste. Pour enrichir son fils aîné, elle a obligé Déterville à entrer dans un ordre religieux et militaire et veut forcer Céline à prendre le voile ; elle fait enfermer Zilia au couvent et, à sa mort, lègue tout son bien à l'aîné. Elle incarne la dureté de la famille aristocratique, où les intérêts priment sur les sentiments.",
+   "relations": "Mère de Déterville et de Céline, qu'elle sacrifie à leur frère aîné ; elle traite Zilia en curiosité puis en gêneuse."
+  },
+  {
+   "nom": "Le Cusipata (le religieux)",
+   "role": "Prêtre chargé d'instruire Zilia dans la religion chrétienne. Savant et poli, il lui apprend l'histoire de la conquête, mais méprise le culte du Soleil et veut la détourner d'Aza pour servir les projets de Déterville. Il illustre l'intolérance et le décalage entre les principes chrétiens et les mœurs.",
+   "relations": "Instructeur de Zilia, il se fait l'allié des intérêts de Déterville contre Aza ; Zilia lui oppose sa raison et sa fidélité."
+  },
+  {
+   "nom": "Les Espagnols",
+   "role": "Conquérants avides d'or qui détruisent la ville du Soleil et enlèvent Zilia. Dans l'Introduction historique, ce sont des « tyrans » qui oublient « que les Péruviens étaient des hommes ». Ils sont aussi responsables, par leur religion, de la transformation d'Aza.",
+   "relations": "Conquérants et ravisseurs de Zilia ; ils convertissent Aza et le détournent d'elle."
+  },
+  {
+   "nom": "Les Français du « monde »",
+   "role": "Personnage collectif : visiteurs curieux, jeunes gens frivoles, femmes mal éduquées, grands seigneurs ruinés par le luxe. Zilia les décrit avec un mélange d'admiration (leur « génie », leurs arts) et de sévérité (superflu, politesse vide, médisance, inconséquence). Ils sont l'objet principal de la satire.",
+   "relations": "Hôtes, visiteurs et société mondaine qui observent Zilia comme une curiosité ; elle les observe à son tour et les juge."
+  },
+  {
+   "nom": "La China",
+   "role": "Jeune servante attachée à Zilia (« China » signifie servante en langue péruvienne). Elle la console à son arrivée à Paris, puis l'exhorte à oublier Aza : une présence modeste mais révélatrice de la solitude de l'héroïne.",
+   "relations": "Servante de Zilia, liée à la maison Déterville ; confidente modeste, elle relaie le point de vue de ceux qui voudraient qu'elle oublie Aza."
+  }
+ ],
+ "evolution": "Zilia est un personnage en apprentissage. Au début (lettres I à IX), elle est une captive désespérée qui interprète tout à travers sa culture : elle croit que ses ravisseurs viennent d'un autre monde et que la France est une province de l'empire d'Aza. L'apprentissage de la langue et de l'écriture est le tournant : dans la lettre XVIII, elle comprend où elle est, et ce savoir est d'abord une souffrance (« chaque éclaircissement m'a découvert un nouveau malheur »). Elle devient ensuite une observatrice capable d'analyser : dans les lettres XXVIII à XXXIV, elle compare, distingue (elle admire le génie des Français mais méprise l'usage qu'ils en font), et construit des raisonnements de moraliste sur le luxe et l'éducation des femmes. Sur le plan sentimental, elle passe d'un amour absolu pour Aza, sa seule raison de vivre, à la douleur de la trahison, puis à une sagesse personnelle : dans la lettre XLI, elle reste « fidèle à moi-même », refuse de se donner à Déterville et choisit l'amitié, l'étude et le « plaisir d'être ». Le changement de destinataire (Aza, puis Déterville à partir de la lettre XXXVII) rend visible ce passage de la dépendance à l'autonomie. Aza, lui, évolue à l'inverse : il s'assimile à la culture espagnole et perd ce qui faisait sa valeur aux yeux de Zilia. Déterville passe du statut de maître et de soupirant à celui d'ami.",
+ "themes": [
+  {
+   "titre": "Le regard étranger : un « nouvel univers »",
+   "texte": "Zilia découvre la France sans en connaître les codes : le miroir est une « ingénieuse machine qui double les objets », le navire une « maison flottante », la longue-vue « une espèce de canne percée ». Ce regard naïf rend étrange ce qui nous paraît normal : c'est le procédé du décentrement. La phrase de la lettre XVIII, « un nouvel univers s'est offert à mes yeux », dit à la fois l'émerveillement et la douleur : apprendre, c'est découvrir que le monde est plus grand qu'on ne croyait et que l'on y est perdu. L'Avertissement dénonce d'emblée le préjugé des Européens, qui n'estiment les autres peuples qu'à proportion de leur ressemblance avec eux."
+  },
+  {
+   "titre": "Langage, écriture et pouvoir",
+   "texte": "Le roman raconte l'histoire d'une écriture : Zilia passe des quipos, cordelettes nouées, à l'écriture française. Ne pas parler la langue, c'est être réduite à l'impuissance : Déterville lui fait répéter « oui, je vous aime » qu'elle ne comprend pas. Apprendre le français, c'est conquérir la compréhension du monde et la capacité de juger. Mais c'est aussi perdre ses illusions : « chaque éclaircissement m'a découvert un nouveau malheur ». À la fin, Zilia est même « plus savante » que les jeunes Françaises « à cet égard » (lettre XXXIV) : la maîtrise de la langue est un pouvoir."
+  },
+  {
+   "titre": "La critique de la société française",
+   "texte": "Zilia dénonce le culte du superflu, qui ruine les familles et sacrifie le nécessaire (« le superflu domine si souverainement en France, que qui n'a qu'une fortune honnête est pauvre, qui n'a que des vertus est plat, et qui n'a que du bon sens est sot ») ; la politesse sans sincérité (« une infinité de paroles sans signification, d'égards sans estime, et de soins sans affection ») ; la médisance et l'inconséquence. Elle critique aussi (lettre XX) le gouvernement, qui fait vivre le roi du travail des sujets, et l'intolérance religieuse du Cusipata. Mais elle reconnaît le « génie » des Français : la critique n'est pas un rejet, c'est une exigence."
+  },
+  {
+   "titre": "La condition des femmes et leur éducation",
+   "texte": "La lettre XXXIII constate que les Français respectent et méprisent à la fois les femmes ; la lettre XXXIV, ajoutée en 1752, est un véritable plaidoyer qui en cherche la cause : la cause est l'éducation, « chef-d'œuvre de l'inconséquence française » : on enferme les filles au couvent « pour leur apprendre à vivre dans le monde », on leur enseigne les attitudes et non la vertu, on les marie ignorantes. Ensuite, « l'autorité est entièrement du côté des hommes » et les maris jouissent d'une impunité scandaleuse. Le parcours de Zilia, qui s'instruit et refuse le mariage, répond à ce constat : une femme peut se former elle-même."
+  },
+  {
+   "titre": "Amour, fidélité et amitié",
+   "texte": "L'intrigue est sentimentale : Zilia aime Aza d'un amour absolu, Déterville aime Zilia sans retour. Le roman interroge la différence entre amour, reconnaissance et amitié. Zilia refuse de confondre la gratitude qu'elle doit à son bienfaiteur avec l'amour. Quand Aza la trahit, elle ne change pas d'objet : elle reste, dit-elle, « fidèle à moi-même » et propose à Déterville une amitié sincère, égale et durable. Cette fin, qui refuse le mariage attendu, a déçu de nombreux lecteurs du XVIIIe siècle, mais elle fait la modernité du livre."
+  },
+  {
+   "titre": "Nature contre artifice : un idéal de simplicité",
+   "texte": "Le Pérou de l'Introduction historique et des souvenirs de Zilia représente un idéal : peuples « francs et humains », éducation fondée sur la modestie, travaux des champs faits en commun, lois sages. La France, au contraire, est le monde de l'artifice : jardins forcés, eau qui jaillit « sans autre utilité que le plaisir des yeux », « leurs vices sont artificiels comme leurs vertus » (lettre XXXII). La lettre XXXII le résume : « Heureuse la nation qui n'a que la nature pour guide ». Le roman finit sur le « plaisir d'être » : une sagesse simple, proche de celle que développera Rousseau."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Que révèle le regard d'une étrangère sur la société française, et sur les préjugés du lecteur lui-même ?",
+   "Comment l'apprentissage d'une langue et de l'écriture transforme-t-il la compréhension du monde et de soi ?",
+   "Comment dénoncer la conquête du Pérou, le culte du superflu et l'éducation des filles dans un roman sentimental ?",
+   "Une femme peut-elle choisir sa vie hors du mariage ? Que signifie le refus final de Zilia ?",
+   "Quelle est la différence entre l'amour, la reconnaissance et l'amitié ?"
+  ],
+  "intentions": "Graffigny n'a pas laissé de préface signée expliquant son projet ; ses intentions se devinent surtout dans les textes d'accompagnement. L'Avertissement (dans sa version de 1752) dénonce le préjugé européen : « nous n'accordons du mérite aux autres nations, qu'autant que leurs mœurs imitent les nôtres », et rappelle le modèle des Lettres persanes. L'Introduction historique ajoutée en 1752 donne au lecteur une information sur les Incas et accuse les conquérants : « Ils oublièrent que les Péruviens étaient des hommes. » Les ajouts de 1752 (lettres sur le superflu et sur l'éducation des femmes) montrent une volonté de renforcer la portée critique du roman. Sa correspondance, très abondante, renseigne sur la composition, mais elle n'a pas été consultée pour cette fiche : les intentions plus précises qu'on lui prête (par exemple un projet féministe) relèvent de l'interprétation.",
+  "procedes": [
+   {
+    "nom": "La périphrase et le regard naïf",
+    "explication": "Zilia désigne les objets qu'elle ne connaît pas par leur aspect ou leur fonction : le lecteur redécouvre ce qui lui paraît banal.",
+    "exemple": "Le miroir est « cette ingénieuse machine qui double les objets » (lettre XII) ; le navire est une « maison flottante » ; la longue-vue « une espèce de canne percée » (lettre VIII)."
+   },
+   {
+    "nom": "L'apostrophe et le registre pathétique",
+    "explication": "Zilia s'adresse sans cesse à l'absent ; exclamations et répétitions traduisent la passion et la souffrance de l'exil.",
+    "exemple": "L'incipit : « Aza ! mon cher Aza ! les cris de ta tendre Zilia, tels qu'une vapeur du matin, s'exhalent et sont dissipés avant d'arriver jusqu'à toi » (lettre I)."
+   },
+   {
+    "nom": "L'antithèse et le jugement nuancé",
+    "explication": "Zilia oppose ce qu'elle admire et ce qu'elle condamne : ce balancement rend sa critique crédible.",
+    "exemple": "« je passe de l'admiration du génie des Français au mépris de l'usage qu'ils en font » (lettre XXIX)."
+   },
+   {
+    "nom": "La maxime et le rythme ternaire",
+    "explication": "Comme les moralistes, Zilia condense ses observations en formules générales, souvent construites en trois temps.",
+    "exemple": "« qui n'a qu'une fortune honnête est pauvre, qui n'a que des vertus est plat, et qui n'a que du bon sens est sot » (lettre XXIX)."
+   },
+   {
+    "nom": "L'ironie",
+    "explication": "Zilia rapporte sans commentaire une pratique absurde, ou détourne le vocabulaire de l'éloge, pour en faire ressortir la contradiction.",
+    "exemple": "On enferme les filles dans une maison religieuse « pour leur apprendre à vivre dans le monde » ; leur éducation est « le chef-d'œuvre de l'inconséquence française » (lettre XXXIV)."
+   },
+   {
+    "nom": "Le vocabulaire religieux détourné",
+    "explication": "Le luxe est décrit comme une fausse religion, ce qui le rend à la fois absurde et coupable.",
+    "exemple": "Les Français « ont choisi le superflu pour l'objet de leur culte » ; la nature sert à orner « l'idole du superflu » (lettre XXVIII) ; les grands seigneurs en sont les « martyrs » (lettre XXIX)."
+   }
+  ],
+  "style": "Le style de Graffigny unit deux voix. La voix sentimentale est faite d'apostrophes (« mon cher Aza »), d'exclamations, de métaphores solaires et de phrases rythmées par l'émotion ; elle s'inscrit dans la tradition du roman épistolaire de la passion. La voix critique, surtout dans les lettres de 1752, est celle d'une moraliste : phrases construites, connecteurs logiques, concessions, maximes, antithèses. Les périphrases du début (le miroir, la longue-vue) disparaissent à mesure que Zilia apprend le français : le style lui-même raconte l'apprentissage. Des notes, présentées comme celles de l'éditeur, expliquent les mots péruviens (quipos, Cacique, China, Cusipata), ce qui renforce l'illusion d'authenticité. Le texte du site est en orthographe du XVIIIe siècle (« connoître », « sçavant », « &») : on le cite en orthographe modernisée.",
+  "registres": [
+   {
+    "nom": "Pathétique",
+    "explication": "Enlèvement, désespoir, tentative de se jeter à la mer, trahison d'Aza : le roman cherche à émouvoir par la souffrance de l'héroïne."
+   },
+   {
+    "nom": "Satirique et ironique",
+    "explication": "Les lettres sur le superflu, la politesse, la médisance et l'éducation des filles font la satire des mœurs françaises par le regard étranger."
+   },
+   {
+    "nom": "Polémique",
+    "explication": "L'Introduction historique accuse les conquérants espagnols (« Un peuple entier, soumis et demandant grâce, fut passé au fil de l'épée »)."
+   },
+   {
+    "nom": "Lyrique",
+    "explication": "Expression intime de l'amour, de l'attente et, à la fin, du bonheur d'exister (« je suis, je vis, j'existe »)."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "L'œuvre reprend le procédé du regard étranger des Lettres persanes de Montesquieu, que l'Avertissement évoque par la formule « Comment peut-on être Persan ».",
+    "nature": "fait"
+   },
+   {
+    "texte": "L'édition de 1752 rend le roman plus critique : les lettres ajoutées portent sur le luxe et sur l'éducation des femmes, et l'Introduction historique dénonce la conquête.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Le refus final du mariage peut se lire comme une affirmation de l'autonomie féminine ; d'autres lecteurs y voient d'abord la fidélité de Zilia à un engagement sacré, sans portée revendicative. Le texte permet les deux lectures.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le Pérou de Graffigny est idéalisé : il sert de modèle critique (nature, sincérité, nécessaire) plus qu'il ne décrit fidèlement la civilisation inca.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le personnage d'Aza, converti et assimilé, peut se lire comme une critique de la conversion forcée et de la perte d'identité ; le roman n'en fait pas un discours explicite.",
+    "nature": "hypothese"
+   }
+  ],
+  "liens": "Les Lettres d'une Péruvienne sont un roman des Lumières : elles utilisent le regard étranger pour critiquer les préjugés et les institutions (Montesquieu, puis Voltaire avec L'Ingénu), opposent la nature à l'artifice et le nécessaire au superflu (débat sur le luxe, qui occupe Voltaire, Rousseau ou Diderot), et dénoncent la violence de la conquête de l'Amérique (Montaigne déjà, puis Raynal et Diderot). Elles participent aussi du débat sur l'éducation des filles (Fénelon, Mme de Lambert) et annoncent les revendications de la fin du siècle. Par leur sensibilité et leur héroïne qui aspire au simple bonheur d'exister, elles rejoignent le courant sensible qu'illustrera Rousseau."
+ },
+ "citations": [
+  {
+   "texte": "À mesure que j'en ai acquis l'intelligence, un nouvel univers s'est offert à mes yeux. Les objets ont pris une autre forme, chaque éclaircissement m'a découvert un nouveau malheur.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XVIII (même numéro en 1747 et 1752)",
+   "situation": "Six mois après avoir perdu ses quipos, Zilia reprend ses lettres en français : elle comprend enfin la langue de ceux qui l'entourent.",
+   "sens": "Comprendre la langue lui ouvre le monde, mais lui révèle aussi la vérité de sa situation : elle est infiniment loin d'Aza.",
+   "procedes": "Antithèse « nouvel univers » / « nouveau malheur » ; parallélisme ; métaphore de la découverte.",
+   "demontre": "Le savoir est à la fois émerveillement et désillusion : apprendre, c'est perdre ses illusions.",
+   "usage": "La phrase qui donne son titre au parcours : à citer dans toute dissertation.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XVIII dans les éditions de 1747 et de 1752"
+   }
+  },
+  {
+   "texte": "Aza ! mon cher Aza ! les cris de ta tendre Zilia, tels qu'une vapeur du matin, s'exhalent et sont dissipés avant d'arriver jusqu'à toi",
+   "locuteur": "Zilia",
+   "reference": "Lettre I, incipit (même numéro en 1747 et 1752)",
+   "situation": "Première lettre, écrite juste après l'enlèvement de Zilia par les Espagnols.",
+   "sens": "Zilia appelle Aza, mais sait que sa voix ne lui parvient pas.",
+   "procedes": "Apostrophe répétée, exclamations, comparaison avec la vapeur du matin, vocabulaire de la dissipation.",
+   "demontre": "Le roman s'ouvre sur une parole sans réponse : c'est la situation de tout le livre, monophonique.",
+   "usage": "Pour analyser l'incipit et le registre pathétique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre I dans les éditions de 1747 et de 1752 ; « & » rendu par « et »"
+   }
+  },
+  {
+   "texte": "nous n'accordons du mérite aux autres nations, qu'autant que leurs mœurs imitent les nôtres, que leur langue se rapproche de notre idiome. Comment peut-on être Persan.",
+   "locuteur": "L'éditeur fictif (Avertissement)",
+   "reference": "Avertissement (texte de 1752)",
+   "situation": "L'Avertissement présente les lettres et prévient les préjugés des lecteurs.",
+   "sens": "Les Européens n'estiment les autres peuples que s'ils leur ressemblent.",
+   "procedes": "Restriction (« qu'autant que »), première personne du pluriel qui inclut le lecteur, allusion aux Lettres persanes.",
+   "demontre": "Le roman se place d'emblée dans la tradition du regard étranger et dénonce l'ethnocentrisme.",
+   "usage": "Pour la notion d'ethnocentrisme et le lien avec Montesquieu.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun01graf), texte vérifié mot à mot sur l'OCR",
+    "note": "orthographe modernisée ; texte de l'Avertissement de 1752 (celui de 1747, donné sur le site, porte : « non seulement qu'autant que leurs mœurs imitent les nôtres, mais qu'autant que leur langue se raproche de notre idiome »)"
+   }
+  },
+  {
+   "texte": "Ils oublièrent que les Péruviens étaient des hommes.",
+   "locuteur": "L'auteur (Introduction historique)",
+   "reference": "Introduction historique (1752)",
+   "situation": "Après la description des trésors du temple du Soleil, qui éblouissent les conquérants.",
+   "sens": "Aveuglés par l'or, les Espagnols ont traité les Péruviens comme s'ils n'étaient pas des êtres humains.",
+   "procedes": "Phrase brève qui tombe comme une sentence ; passé simple ; antithèse implicite entre richesses et humanité.",
+   "demontre": "La conquête est un crime contre l'humanité, causé par la cupidité.",
+   "usage": "Pour la critique de la colonisation et le thème de l'humanité commune.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Introduction historique de l'éd. de 1752, retranscrite d'après le fac-similé Internet Archive g1752lettresdun01graf ; recoupée avec l'éd. de 1797 (g1797lettresdun00graf)",
+    "note": "orthographe modernisée (« étoient »)"
+   }
+  },
+  {
+   "texte": "elle me fit approcher de cette ingénieuse machine qui double les objets",
+   "locuteur": "Zilia",
+   "reference": "Lettre XII (même numéro en 1747 et 1752)",
+   "situation": "Zilia vient d'être habillée à la française par sa servante.",
+   "sens": "La servante la fait approcher d'un miroir.",
+   "procedes": "Périphrase : l'objet est désigné par sa fonction ; adjectif mélioratif « ingénieuse ».",
+   "demontre": "Le regard étranger rend étrange un objet familier : c'est le procédé du décentrement.",
+   "usage": "Exemple type de périphrase et de regard naïf.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XII dans les éditions de 1747 et de 1752"
+   }
+  },
+  {
+   "texte": "je ne puis me défendre de penser que les Français ont choisi le superflu pour l'objet de leur culte",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXVIII (ajoutée en 1752)",
+   "situation": "Dans une maison de campagne somptueuse où Céline se marie, Zilia découvre le luxe français.",
+   "sens": "Le luxe est devenu une sorte de religion pour les Français.",
+   "procedes": "Vocabulaire religieux (« culte ») ; modalisation prudente (« je ne puis me défendre de penser »).",
+   "demontre": "Le superflu est une idolâtrie : une Vierge du Soleil découvre une fausse religion chez les chrétiens.",
+   "usage": "Pour la satire du luxe et le passage de l'admiration à la critique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "Ce n'est pas sans un véritable regret, mon cher Aza, que je passe de l'admiration du génie des Français au mépris de l'usage qu'ils en font.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXIX, incipit (ajoutée en 1752)",
+   "situation": "Ouverture de la lettre consacrée au superflu, juste après l'éblouissement de la lettre XXVIII.",
+   "sens": "Zilia reconnaît le talent des Français mais condamne la manière dont ils l'emploient.",
+   "procedes": "Antithèse admiration / mépris ; litote (« pas sans un véritable regret ») ; apostrophe.",
+   "demontre": "La critique est nuancée et argumentée, donc plus convaincante.",
+   "usage": "Pour montrer que Zilia n'est pas une ennemie de la France mais une observatrice exigeante.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "que le superflu domine si souverainement en France, que qui n'a qu'une fortune honnête est pauvre, qui n'a que des vertus est plat, et qui n'a que du bon sens est sot.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXIX, conclusion (ajoutée en 1752)",
+   "situation": "Fin de la lettre sur le superflu.",
+   "sens": "En France, ce qui devrait suffire (une fortune honnête, la vertu, le bon sens) est méprisé.",
+   "procedes": "Rythme ternaire, parallélisme (« qui n'a que... »), chute satirique, consécutive (« si... que »).",
+   "demontre": "Le culte du superflu renverse toutes les valeurs.",
+   "usage": "Formule de moraliste, idéale pour une conclusion de paragraphe sur la satire.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "ce qu'ils appellent politesse, leur tient lieu de sentiment ; elle consiste dans une infinité de paroles sans signification, d'égards sans estime, et de soins sans affection.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXIX (ajoutée en 1752)",
+   "situation": "Zilia rapporte ce que lui disent des Français sensés sur la dégradation des mœurs.",
+   "sens": "La politesse française est une forme vide, qui a remplacé les vrais sentiments.",
+   "procedes": "Triple construction en « sans » ; distance critique (« ce qu'ils appellent »).",
+   "demontre": "La société mondaine est une société de l'apparence.",
+   "usage": "Pour la critique de la politesse et du paraître.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "l'éducation qu'on leur donne est si opposée à la fin qu'on se propose, qu'elle me paraît être le chef-d'œuvre de l'inconséquence française.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXXIV (ajoutée en 1752)",
+   "situation": "Zilia cherche la cause du mépris que l'on a en France pour les femmes.",
+   "sens": "On exige des femmes des qualités que leur éducation ne leur donne pas.",
+   "procedes": "Consécutive (« si opposée... que ») ; ironie de l'expression « chef-d'œuvre de l'inconséquence ».",
+   "demontre": "Le mépris des femmes vient de l'éducation, non de leur nature.",
+   "usage": "Citation centrale pour la question de la condition des femmes.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "Quand tu sauras qu'ici l'autorité est entièrement du côté des hommes, tu ne douteras pas, mon cher Aza, qu'ils ne soient responsables de tous les désordres de la société.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXXIV (ajoutée en 1752)",
+   "situation": "Suite de la réflexion sur la condition des femmes, à propos du mariage.",
+   "sens": "Puisque les hommes ont tout le pouvoir, ils ont toute la responsabilité.",
+   "procedes": "Raisonnement logique (subordonnée temporelle et conséquence) ; adverbe « entièrement » ; « tous les désordres ».",
+   "demontre": "Zilia renverse l'accusation traditionnelle portée contre les femmes.",
+   "usage": "Pour une partie sur la critique de la domination masculine.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "Le plaisir d'être ; ce plaisir oublié, ignoré même de tant d'aveugles humains ; cette pensée si douce, ce bonheur si pur, je suis, je vis, j'existe, pourrait seul rendre heureux, si l'on s'en souvenait, si l'on en jouissait, si l'on en connaissait le prix.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XLI, dernière lettre (lettre XXXVIII dans l'éd. de 1747)",
+   "situation": "Dernière lettre, adressée à Déterville : Zilia refuse de l'épouser et lui propose une vie d'amitié et d'étude.",
+   "sens": "Le simple fait d'exister, quand on en a conscience, suffit à rendre heureux.",
+   "procedes": "Gradation « je suis, je vis, j'existe » ; rythme ternaire des hypothèses en « si l'on » ; apposition.",
+   "demontre": "Zilia trouve le bonheur en elle-même, hors de l'amour et du mariage.",
+   "usage": "Pour le dénouement et le thème de l'émancipation.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XLI de l'éd. de 1752 (au programme), qui correspond à la lettre XXXVIII de l'éd. de 1747 donnée sur le site"
+   }
+  },
+  {
+   "texte": "Quel art, mon cher Aza ! quels hommes ! quel génie !",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXVIII, fin (ajoutée en 1752)",
+   "situation": "Après la description des jardins, des jets d'eau et du feu d'artifice.",
+   "sens": "Zilia est éblouie par le talent des Français.",
+   "procedes": "Exclamations nominales en rythme ternaire ; gradation (art, hommes, génie).",
+   "demontre": "La critique du superflu n'exclut pas l'admiration : Zilia est partagée.",
+   "usage": "Pour nuancer la satire et montrer l'ambivalence du regard étranger.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "Ainsi, souvent seule au milieu du monde",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXX (ancienne lettre XXVIII de 1747, remaniée en 1752)",
+   "situation": "Zilia ne trouve plus de plaisir dans la compagnie ; Déterville l'évite, Céline est occupée de son mari.",
+   "sens": "Entourée de monde, Zilia est pourtant seule.",
+   "procedes": "Paradoxe (« seule au milieu du monde ») ; adverbe « souvent ».",
+   "demontre": "L'exil est une solitude intérieure que la société ne peut combler.",
+   "usage": "Pour le thème de l'exil et de la solitude.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; passage de la version remaniée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "on les enferme dans une maison religieuse, pour leur apprendre à vivre dans le monde",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXXIV (ajoutée en 1752)",
+   "situation": "Zilia décrit l'éducation des jeunes filles françaises.",
+   "sens": "On prépare les filles à la vie mondaine en les enfermant au couvent.",
+   "procedes": "Antithèse ironique entre l'enfermement et le « monde » ; présent de vérité générale ; « on » impersonnel.",
+   "demontre": "L'éducation des filles est absurde et contradictoire.",
+   "usage": "Exemple d'ironie par simple constat ; pour la condition des femmes.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Éd. de 1752 (Paris, Duchesne), fac-similé Internet Archive (https://archive.org/details/g1752lettresdun02graf), texte vérifié mot à mot sur l'OCR et recoupé avec l'éd. bilingue de 1797 qui reproduit le texte de 1752 (https://archive.org/details/g1797lettresdun00graf)",
+    "note": "orthographe modernisée ; lettre ajoutée en 1752, absente du texte intégral du site (éd. 1747)"
+   }
+  },
+  {
+   "texte": "Ils les respectent, mon cher Aza, et en même temps ils les méprisent avec un égal excès.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXXIII (lettre XXXI dans l'éd. de 1747)",
+   "situation": "Zilia s'étonne de la façon dont les Français pensent les femmes.",
+   "sens": "Les Français ont envers les femmes deux attitudes contradictoires.",
+   "procedes": "Antithèse respecter / mépriser ; « en même temps » ; « égal excès ».",
+   "demontre": "L'inconséquence des Français est particulièrement visible à l'égard des femmes.",
+   "usage": "Pour introduire la réflexion de la lettre XXXIV.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XXXIII de l'éd. de 1752 (au programme), qui correspond à la lettre XXXI de l'éd. de 1747 donnée sur le site"
+   }
+  },
+  {
+   "texte": "La censure est le goût dominant des Français, comme l'inconséquence est le caractère de la nation.",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXXII (lettre XXX dans l'éd. de 1747)",
+   "situation": "De retour à Paris, Zilia observe les conversations mondaines et la médisance.",
+   "sens": "Les Français aiment critiquer et se contredisent sans cesse.",
+   "procedes": "Maxime ; comparaison (« comme ») ; termes abstraits.",
+   "demontre": "Zilia généralise ses observations en jugement de moraliste sur un peuple.",
+   "usage": "Pour la satire de la médisance et de l'inconséquence.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XXXII de l'éd. de 1752 (au programme), qui correspond à la lettre XXX de l'éd. de 1747 donnée sur le site"
+   }
+  },
+  {
+   "texte": "il faut être ingrate pour avoir de la vertu",
+   "locuteur": "Zilia",
+   "reference": "Lettre XXII (même numéro en 1747 et 1752)",
+   "situation": "Le Cusipata exhorte Zilia à renoncer à Aza par reconnaissance envers Déterville.",
+   "sens": "On lui demande d'être vertueuse selon la religion chrétienne, ce qui l'obligerait à trahir Aza ou à être ingrate envers Déterville.",
+   "procedes": "Paradoxe ; tournure impersonnelle de l'obligation (« il faut ») ; amertume.",
+   "demontre": "Les règles morales européennes paraissent contradictoires à Zilia.",
+   "usage": "Pour la critique de la religion et le dilemme amour / reconnaissance.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XXII dans les éditions de 1747 et de 1752"
+   }
+  },
+  {
+   "texte": "fidèle à moi-même, je ne serai point parjure",
+   "locuteur": "Zilia",
+   "reference": "Lettre XLI (lettre XXXVIII dans l'éd. de 1747)",
+   "situation": "Zilia explique à Déterville pourquoi elle ne l'épousera pas, malgré la trahison d'Aza.",
+   "sens": "Même trahie, elle reste fidèle à son engagement et à elle-même.",
+   "procedes": "Vocabulaire du serment (« parjure ») ; pronom réfléchi « moi-même » ; futur de résolution.",
+   "demontre": "Zilia fonde sa conduite sur sa propre conscience, non sur les attentes des autres.",
+   "usage": "Pour le dénouement et la conquête de l'autonomie.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Lettres d'une Péruvienne, 1re éd. (1747), Wikisource (https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne) ; leçon de 1752 contrôlée sur le fac-similé de l'éd. de 1752 (Internet Archive, g1752lettresdun01graf et g1752lettresdun02graf)",
+    "note": "orthographe modernisée ; lettre XLI de l'éd. de 1752 (au programme), qui correspond à la lettre XXXVIII de l'éd. de 1747 donnée sur le site"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "« Un nouvel univers s'est offert à mes yeux »",
+  "explication": "Le titre du parcours est une citation de la lettre XVIII. Zilia vient d'apprendre assez de français pour comprendre où elle est : « À mesure que j'en ai acquis l'intelligence, un nouvel univers s'est offert à mes yeux. » Le parcours invite à étudier la découverte de l'autre et de l'ailleurs : comment la rencontre d'un monde inconnu transforme-t-elle celui qui regarde ? Comment le regard étranger permet-il de critiquer la société ? Et comment la littérature fait-elle partager au lecteur ce dépaysement ?\n\nLe roman de Graffigny répond de plusieurs façons. Le « nouvel univers », c'est d'abord la France que Zilia découvre, avec ses objets, ses arts et ses mœurs ; c'est ensuite le monde entier, dont le Pérou n'est qu'une partie, et qui la décentre douloureusement ; c'est enfin un univers intérieur, celui de la pensée et de la liberté qu'elle conquiert. Le regard naïf de l'étrangère permet une satire efficace (le superflu, la politesse, l'éducation des filles), mais il est aussi un apprentissage : Zilia juge d'abord selon ses préjugés péruviens, puis compare, nuance et construit son propre jugement. Pour le lecteur, l'œuvre est un miroir : en voyant la France avec les yeux d'une Inca, il découvre l'étrangeté de ses propres habitudes.\n\nLes textes ajoutés ou remaniés en 1752 (l'Introduction historique, les lettres XXVIII, XXIX, XXX et XXXIV) méritent une attention particulière, car ils rendent le roman plus critique : la conquête du Pérou y est dénoncée comme un crime, le luxe français est analysé comme une corruption, et la condition des femmes devient un objet de réflexion à part entière.",
+  "textesComplementaires": [
+   {
+    "titre": "Essais, I, 31, « Des cannibales » (1580)",
+    "auteur": "Michel de Montaigne",
+    "interet": "Montaigne montre que « chacun appelle barbarie ce qui n'est pas de son usage » et donne la parole à des Indiens du Brésil venus à Rouen, qui s'étonnent des inégalités françaises. Le modèle du regard étranger et de la critique de l'ethnocentrisme, que l'Introduction historique prolonge en citant un autre chapitre des Essais (« Des coches », III, 6) sur la conquête de l'Amérique."
+   },
+   {
+    "titre": "Lettres persanes (1721), notamment la lettre XXX",
+    "auteur": "Montesquieu",
+    "interet": "Le modèle direct de Graffigny, cité dans l'Avertissement : deux Persans décrivent Paris avec étonnement. La lettre XXX (« Comment peut-on être Persan ? ») montre la curiosité superficielle des Parisiens, comme celle que subit Zilia exhibée devant des visiteurs."
+   },
+   {
+    "titre": "L'Ingénu (1767)",
+    "auteur": "Voltaire",
+    "interet": "Un Huron arrive en France et découvre avec naïveté la religion, la justice et la cour. Comme Zilia, il apprend, s'instruit par les livres et juge la société française ; le conte se termine aussi par une histoire d'amour malheureuse."
+   },
+   {
+    "titre": "Supplément au Voyage de Bougainville (écrit en 1772)",
+    "auteur": "Denis Diderot",
+    "interet": "Le discours du vieillard tahitien accuse les Européens de corrompre un peuple heureux, et le dialogue critique les lois contraires à la nature, notamment sur le mariage. À rapprocher de l'opposition entre nature et artifice dans le roman."
+   },
+   {
+    "titre": "Déclaration des droits de la femme et de la citoyenne (1791)",
+    "auteur": "Olympe de Gouges",
+    "interet": "Quarante ans après la lettre XXXIV, Olympe de Gouges réclame l'égalité des droits et dénonce la tyrannie masculine dans le mariage : un prolongement politique de la réflexion de Zilia sur la condition des femmes."
+   },
+   {
+    "titre": "Americanah (2013)",
+    "auteur": "Chimamanda Ngozi Adichie",
+    "interet": "Une jeune Nigériane émigrée aux États-Unis découvre une société dont elle ignore les codes et tient un blog où elle analyse les préjugés raciaux. Un regard étranger et féminin contemporain, qui fait écho à celui de Zilia."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le roman reprend le procédé du regard étranger (Lettres persanes) avec une nouveauté : une voix de femme, et une histoire d'amour aussi importante que la satire.",
+   "Apprendre la langue, c'est découvrir le monde et perdre ses illusions : « un nouvel univers s'est offert à mes yeux ».",
+   "La critique de la France est nuancée : Zilia admire le « génie » des Français mais condamne le culte du superflu, la politesse vide et l'inconséquence.",
+   "L'Introduction historique de 1752 dénonce la conquête du Pérou comme un crime de la cupidité européenne.",
+   "La lettre XXXIV fait de l'éducation des filles la cause du mépris des femmes et rend les hommes responsables.",
+   "Le dénouement refuse le mariage : Zilia choisit l'amitié, l'étude et le « plaisir d'être »."
+  ],
+  "axes": [
+   "Le regard étranger : périphrases, décentrement, miroir tendu au lecteur.",
+   "Le roman d'un apprentissage : de l'ignorance à la lucidité, des quipos à l'écriture.",
+   "Une satire des mœurs à la manière des moralistes : maximes, antithèses, ironie.",
+   "Une réflexion sur la condition des femmes et sur la liberté.",
+   "Le mélange du pathétique (amour, exil, trahison) et de la critique sociale."
+  ],
+  "problematiques": [
+   "Comment le regard d'une étrangère permet-il de critiquer la société française ?",
+   "En quoi les Lettres d'une Péruvienne sont-elles le roman d'une émancipation ?",
+   "Comment Graffigny mêle-t-elle roman sentimental et littérature d'idées ?",
+   "La découverte de l'autre est-elle d'abord une découverte de soi ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Lettre XII : le miroir, « cette ingénieuse machine qui double les objets ».",
+    "utilisation": "Analyser la périphrase et le décentrement du regard."
+   },
+   {
+    "exemple": "Lettre XVIII : « un nouvel univers s'est offert à mes yeux » / « un nouveau malheur ».",
+    "utilisation": "Montrer que le savoir est à la fois découverte et désillusion."
+   },
+   {
+    "exemple": "Introduction historique : « Ils oublièrent que les Péruviens étaient des hommes. »",
+    "utilisation": "Illustrer la critique de la conquête et l'idée d'une humanité commune."
+   },
+   {
+    "exemple": "Lettres XXVIII et XXIX : de l'admiration (« Quel art, mon cher Aza ! quels hommes ! quel génie ! ») au mépris du superflu.",
+    "utilisation": "Montrer une critique nuancée et la satire du luxe."
+   },
+   {
+    "exemple": "Lettre XXXIV : les filles enfermées au couvent « pour leur apprendre à vivre dans le monde ».",
+    "utilisation": "Analyser l'ironie et la critique de l'éducation des femmes."
+   },
+   {
+    "exemple": "Lettre XXII : « il faut être ingrate pour avoir de la vertu ».",
+    "utilisation": "Montrer les contradictions de la morale européenne vues par Zilia."
+   },
+   {
+    "exemple": "Lettre XLI : « fidèle à moi-même, je ne serai point parjure » ; « je suis, je vis, j'existe ».",
+    "utilisation": "Étudier le dénouement et l'autonomie conquise par l'héroïne."
+   }
+  ],
+  "liens": "Le thème du regard étranger est lié au procédé de la périphrase au début du roman, puis à la maxime et à l'antithèse quand Zilia maîtrise la langue : l'évolution du style suit celle du personnage. Le thème de l'amour est lié à la forme épistolaire : écrire à Aza, c'est maintenir le lien ; changer de destinataire (Déterville à partir de la lettre XXXVII), c'est changer de vie. La critique du superflu rejoint l'opposition nature / artifice et l'idéal péruvien de l'Introduction historique. La réflexion sur les femmes (lettres XXXIII-XXXIV) éclaire le dénouement : Zilia, qui s'est instruite elle-même, refuse le mariage que la société impose aux femmes.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Lettre XXIX (ajoutée en 1752), du début à « on va même jusqu'à se croire riche ».",
+    "pistes": "1) Une critique annoncée et nuancée (antithèse admiration / mépris, concession sur le luxe légitime). 2) Une argumentation de moraliste (accumulation des effets du superflu, vocabulaire religieux : « martyrs »). 3) Une scène satirique (le matin consacré au « sacrifice du nécessaire que l'on immole au superflu », l'après-midi à l'illusion)."
+   },
+   {
+    "passage": "Lettre XXXIV (ajoutée en 1752), du début à « qui deviennent des ridicules dans un âge plus avancé ».",
+    "pistes": "1) Une enquête et une thèse (la cause du mépris des femmes ; « le chef-d'œuvre de l'inconséquence française »). 2) La comparaison avec le Pérou et l'ironie du couvent qui apprend « à vivre dans le monde ». 3) Une éducation de l'apparence (corps, visage, « talents imparfaits ») : un réquisitoire."
+   },
+   {
+    "passage": "Lettre XLI (dernière lettre), de « C'est en vain que vous vous flatteriez de faire prendre à mon cœur de nouvelles chaînes » à la fin.",
+    "pistes": "1) Un refus ferme et motivé (« fidèle à moi-même, je ne serai point parjure »). 2) Un contrat d'amitié entre égaux (futur de promesse, échange des savoirs). 3) L'éloge du « plaisir d'être » (gradation « je suis, je vis, j'existe »), un dénouement inattendu."
+   }
+  ],
+  "erreurs": [
+   "Confondre les numérotations : la fiche et le programme suivent l'édition de 1752 (41 lettres) ; dans l'édition de 1747 (38 lettres), la dernière lettre porte le numéro XXXVIII.",
+   "Attribuer à l'édition de 1747 les lettres XXVIII, XXIX et XXXIV : elles ont été ajoutées en 1752.",
+   "Faire de Zilia une ennemie de la France : elle admire le « génie » des Français et critique l'usage qu'ils en font.",
+   "Lire le dénouement comme un échec ou un renoncement : c'est un choix assumé, même si les lecteurs du XVIIIe siècle l'ont trouvé décevant.",
+   "Prendre le Pérou du roman pour une description historique exacte : il est idéalisé et sert de modèle critique.",
+   "Oublier que le roman est monophonique : on ne lit jamais de réponse d'Aza."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Les Lettres d'une Péruvienne sont-elles davantage un roman d'amour qu'une critique de la société ?",
+   "analyse": "Le sujet oppose deux lectures de l'œuvre : un « roman d'amour » (l'histoire de Zilia, d'Aza et de Déterville, le registre pathétique, l'attente, la trahison) et une « critique de la société » (la satire des mœurs françaises par le regard étranger, comme dans les Lettres persanes). « Davantage » invite à hiérarchiser : l'intrigue sentimentale n'est-elle qu'un prétexte à la critique, ou l'inverse ? Il faudra montrer que les deux sont liés, et que l'amour lui-même devient un objet de réflexion critique.",
+   "problematique": "L'intrigue amoureuse n'est-elle qu'un cadre romanesque pour la satire, ou bien amour et critique sont-ils inséparables dans le parcours qui conduit Zilia à la liberté ?",
+   "plan": [
+    {
+     "titre": "I. Un roman d'amour pathétique",
+     "arguments": [
+      "A. Une passion absolue : l'amour de Zilia pour Aza structure le roman ; apostrophes (« Aza ! mon cher Aza ! »), métaphores solaires (« Tu es le Soleil de mes jours »), quipos dont les nœuds conservent les sentiments.",
+      "B. Un triangle amoureux : Déterville, généreux et malheureux, aime sans retour ; scènes de déclaration et de refus ; la jalousie et les doutes de Zilia (lettre XXXI).",
+      "C. Une intrigue à suspense : attente, arrivée annoncée d'Aza, lettre interrompue (« On m'interrompt »), puis trahison (« Aza est infidèle ») et désespoir dans les lettres à Malte."
+     ]
+    },
+    {
+     "titre": "II. Mais une critique de la société française",
+     "arguments": [
+      "A. Le regard étranger : décentrement et périphrases (le miroir, « ingénieuse machine qui double les objets ») ; l'Avertissement dénonce l'ethnocentrisme.",
+      "B. La satire des mœurs : culte du superflu (lettres XXVIII et XXIX), politesse vide (« paroles sans signification, d'égards sans estime »), médisance et inconséquence (XXXII), gouvernement injuste (XX), intolérance du Cusipata (XXI-XXII).",
+      "C. La critique de la conquête et de la condition des femmes : l'Introduction historique (« Ils oublièrent que les Péruviens étaient des hommes ») et la lettre XXXIV sur l'éducation des filles."
+     ]
+    },
+    {
+     "titre": "III. Amour et critique sont inséparables : le roman d'une émancipation",
+     "arguments": [
+      "A. L'amour révèle la société : Aza, converti, épouse une Espagnole ; Déterville est soumis à sa mère et à l'ordre de Malte ; Céline privée de dot. L'amour est entravé par les institutions que Zilia critique.",
+      "B. La critique est aussi une critique du discours amoureux : « oui, je vous aime » répété sans comprendre ; Zilia distingue amour, reconnaissance et amitié.",
+      "C. Le dénouement réunit les deux fils : refusant le mariage, Zilia choisit l'amitié, l'étude et le « plaisir d'être » ; l'héroïne sentimentale devient une femme libre, ce que confirme la lettre XXXIV sur l'éducation."
+     ]
+    }
+   ],
+   "introduction": "Au XVIIIe siècle, le roman est souvent soupçonné de n'être qu'une histoire d'amour destinée à émouvoir les lectrices, tandis que la littérature d'idées prétend éclairer la raison. Les Lettres d'une Péruvienne de Françoise de Graffigny, publiées en 1747 et augmentées en 1752, semblent jouer sur les deux tableaux : Zilia, princesse inca enlevée par les Espagnols puis emmenée en France, écrit à son fiancé Aza des lettres passionnées, mais elle y décrit aussi, avec un regard neuf, les travers de la société française. L'œuvre est-elle davantage un roman d'amour qu'une critique de la société ? L'intrigue amoureuse n'est-elle qu'un cadre romanesque pour la satire, ou bien amour et critique sont-ils inséparables dans le parcours qui conduit Zilia à la liberté ? Nous verrons d'abord que l'œuvre est un roman d'amour pathétique, puis qu'elle propose une critique vigoureuse de la société, avant de montrer que ces deux dimensions se rejoignent dans le récit d'une émancipation.",
+   "conclusion": "Les Lettres d'une Péruvienne sont bien un roman d'amour, avec sa passion absolue, son triangle amoureux et sa trahison. Mais elles sont aussi une critique acérée de la société française, de la conquête du Pérou et de la condition des femmes. Loin de s'opposer, ces deux dimensions se nourrissent : l'amour est entravé par les institutions que Zilia dénonce, et c'est en comprenant la société qu'elle apprend à juger ses propres sentiments. Le dénouement, qui refuse le mariage, fait de cette histoire d'amour le récit d'une émancipation. Une quinzaine d'années plus tard, Rousseau, dans La Nouvelle Héloïse, mêlera à son tour passion amoureuse et réflexion sur la société, mais pour reconduire son héroïne vers le mariage et la vertu domestique : la comparaison fait mesurer l'audace de Graffigny."
+  },
+  {
+   "sujet": "En 1850, le critique Sainte-Beuve range les Lettres d'une Péruvienne parmi les « ouvrages plus ou moins agréables à leur moment, et aujourd'hui tout à fait passés » (Causeries du lundi, « Lettres de Mme de Grafigny, ou Voltaire à Cirey », 17 juin 1850). Partagez-vous ce jugement ?",
+   "analyse": "Sainte-Beuve juge l'œuvre datée : elle aurait plu à son époque (« agréables à leur moment ») mais n'aurait plus d'intérêt (« tout à fait passés »). Le jugement vise sans doute le style sentimental, la mode du Pérou, le modèle des Lettres persanes, et peut-être aussi le fait qu'il s'agit d'une autrice. Il faut d'abord reconnaître ce qui, dans le roman, appartient à son temps, puis montrer ce qui lui donne une valeur durable, voire une actualité nouvelle (regard étranger, critique de la colonisation, condition des femmes).",
+   "problematique": "Les Lettres d'une Péruvienne ne sont-elles qu'un succès de mode du XVIIIe siècle, ou une œuvre dont les questions restent vivantes, et même plus actuelles aujourd'hui qu'en 1850 ?",
+   "plan": [
+    {
+     "titre": "I. Une œuvre marquée par les modes de son temps",
+     "arguments": [
+      "A. Le succès d'une mode : la vogue des Lettres persanes et du regard étranger, l'exotisme péruvien (Alzire de Voltaire, à laquelle l'Avertissement de 1752 semble faire allusion), les notes savantes sur les quipos ou le Raymi.",
+      "B. Un style sentimental qui peut sembler daté : exclamations, apostrophes répétées (« mon cher Aza »), périphrases et métaphores solaires, héroïne en larmes.",
+      "C. Des limites : un Pérou idéalisé et peu réaliste, une satire parfois convenue (frivolité française), un roman monophonique qui peut sembler répétitif ; Turgot lui-même, dans une lettre citée par Sainte-Beuve, aurait voulu « qu'on nous montrât Zilia française, après nous l'avoir fait voir péruvienne »."
+     ]
+    },
+    {
+     "titre": "II. Mais une œuvre audacieuse dès son époque",
+     "arguments": [
+      "A. Une voix féminine : roman écrit par une femme, avec une héroïne qui pense, juge et écrit ; un succès européen, nombreuses éditions et traductions.",
+      "B. Une critique radicale : dénonciation de la conquête (« Ils oublièrent que les Péruviens étaient des hommes »), du luxe qui sacrifie le nécessaire, de l'intolérance religieuse.",
+      "C. Un dénouement qui surprend : Zilia refuse le mariage et choisit l'amitié et la liberté, ce qui a dérouté les lecteurs (au point que d'autres auteurs ont écrit des suites au roman)."
+     ]
+    },
+    {
+     "titre": "III. Une œuvre plus actuelle aujourd'hui qu'en 1850",
+     "arguments": [
+      "A. La question coloniale : à l'heure de la réflexion sur la colonisation, l'Introduction historique et le regard de Zilia sur l'ethnocentrisme européen résonnent fortement.",
+      "B. La condition des femmes : la lettre XXXIV sur l'éducation des filles et l'impunité des maris annonce Olympe de Gouges et les combats féministes ; le parcours d'émancipation de Zilia parle aux lecteurs d'aujourd'hui.",
+      "C. Une réflexion sur la langue et l'exil : apprendre une langue étrangère, être « seule au milieu du monde », découvrir un « nouvel univers » ; des expériences universelles que la littérature de l'exil contemporaine reprend (Adichie, Americanah)."
+     ]
+    }
+   ],
+   "introduction": "Il arrive que la postérité soit injuste envers les succès d'hier. En 1850, le grand critique Sainte-Beuve évoque Madame de Graffigny et range ses Lettres d'une Péruvienne parmi les « ouvrages plus ou moins agréables à leur moment, et aujourd'hui tout à fait passés ». Publié en 1747 et augmenté en 1752, ce roman épistolaire, où une princesse inca enlevée découvre la France et la juge, avait pourtant connu un succès européen. Faut-il partager le jugement de Sainte-Beuve ? Les Lettres d'une Péruvienne ne sont-elles qu'un succès de mode du XVIIIe siècle, ou une œuvre dont les questions restent vivantes, et même plus actuelles aujourd'hui qu'en 1850 ? Nous verrons d'abord que l'œuvre porte la marque des modes de son temps, puis qu'elle était déjà audacieuse à son époque, avant de montrer qu'elle nous parle peut-être plus aujourd'hui qu'au temps de Sainte-Beuve.",
+   "conclusion": "Le jugement de Sainte-Beuve n'est pas sans fondement : le style sentimental, l'exotisme péruvien et le modèle des Lettres persanes rattachent l'œuvre à son siècle. Mais il néglige l'audace d'un roman écrit par une femme, qui dénonce la conquête, le luxe et l'éducation des filles, et qui ose un dénouement sans mariage. Surtout, l'histoire lui a donné tort : les questions de Zilia (le regard sur l'autre, la colonisation, la condition des femmes, l'exil) sont devenues les nôtres. Redécouvert à la fin du XXe siècle et inscrit au programme du baccalauréat, le roman montre que le « moment » d'une œuvre peut revenir. Comme pour Olympe de Gouges, longtemps oubliée, la postérité a fini par entendre la voix de Zilia."
+  },
+  {
+   "sujet": "« Un nouvel univers s'est offert à mes yeux » : la découverte de l'autre est-elle d'abord une découverte de soi ? Vous répondrez en vous appuyant sur les Lettres d'une Péruvienne et sur les textes étudiés dans le cadre du parcours.",
+   "analyse": "La citation de la lettre XVIII décrit l'expérience de Zilia, qui découvre la France et le monde grâce à la langue. Le sujet suppose que la rencontre de l'autre (un autre peuple, une autre culture) serait surtout une occasion de se connaître soi-même. « D'abord » invite à discuter : la découverte de l'autre peut aussi être une vraie ouverture à l'altérité, ou au contraire un choc, une désillusion, une souffrance. Il faut examiner le cas de Zilia, mais aussi celui du lecteur français qui se découvre à travers ses yeux.",
+   "problematique": "En découvrant un « nouvel univers », se découvre-t-on surtout soi-même, ou bien la rencontre de l'autre est-elle une expérience qui oblige à sortir de soi ?",
+   "plan": [
+    {
+     "titre": "I. Découvrir l'autre : l'étonnement devant un monde inconnu",
+     "arguments": [
+      "A. Le choc de la nouveauté : Zilia découvre la mer, la longue-vue, le miroir, Paris (« elle me paraît un univers plutôt qu'une habitation particulière ») ; périphrases et étonnement.",
+      "B. Une découverte qui passe par la langue : apprendre le français, c'est accéder au monde (« À mesure que j'en ai acquis l'intelligence, un nouvel univers s'est offert à mes yeux »).",
+      "C. Une curiosité réelle pour l'autre : Zilia admire le « génie » des Français, leurs arts, leurs livres (lettres XX et XXVIII) ; Montaigne, dans « Des cannibales », s'intéresse aussi sincèrement aux Indiens du Brésil."
+     ]
+    },
+    {
+     "titre": "II. Mais découvrir l'autre, c'est aussi se découvrir soi-même",
+     "arguments": [
+      "A. Pour Zilia, l'exil révèle ses propres valeurs : la sincérité, la simplicité, la vertu péruviennes (« Heureuse la nation qui n'a que la nature pour guide »).",
+      "B. Pour le lecteur français, le regard étranger est un miroir : la satire du superflu (XXIX) et de l'éducation des filles (XXXIV) l'oblige à se voir autrement, comme dans les Lettres persanes.",
+      "C. La découverte de soi est douloureuse : « chaque éclaircissement m'a découvert un nouveau malheur » ; Zilia découvre sa petitesse dans le monde et la fragilité de son amour."
+     ]
+    },
+    {
+     "titre": "III. Une rencontre qui transforme : ni l'autre ni soi, mais un nouveau moi",
+     "arguments": [
+      "A. Le danger de l'assimilation : Aza, converti et prêt à épouser une Espagnole, se perd dans l'autre culture ; l'Ingénu de Voltaire aussi est transformé par la France.",
+      "B. Zilia construit une identité nouvelle : ni tout à fait péruvienne ni française (« le regret de n'être point née en France »), elle juge par elle-même et refuse les modèles imposés (mariage, conversion).",
+      "C. L'univers intérieur : le « plaisir d'être » de la lettre XLI montre que le vrai « nouvel univers » est celui de la conscience libre ; la découverte de l'autre a permis une invention de soi."
+     ]
+    }
+   ],
+   "introduction": "« Chacun appelle barbarie ce qui n'est pas de son usage », écrivait Montaigne dans « Des cannibales » (Essais, I, 31, orthographe modernisée). Découvrir un autre peuple, c'est souvent d'abord le juger à sa propre mesure. Dans les Lettres d'une Péruvienne (1747, édition augmentée en 1752), Françoise de Graffigny inverse la situation : c'est une princesse inca, Zilia, arrachée à son pays, qui découvre la France. Dans la lettre XVIII, elle écrit : « un nouvel univers s'est offert à mes yeux ». La découverte de l'autre est-elle d'abord une découverte de soi ? En découvrant un monde inconnu, se découvre-t-on surtout soi-même, ou bien la rencontre de l'autre est-elle une expérience qui oblige à sortir de soi ? Nous verrons d'abord que Zilia découvre réellement un monde inconnu, puis que cette découverte lui révèle, ainsi qu'au lecteur, sa propre identité, avant de montrer que la rencontre de l'autre aboutit à la construction d'un moi nouveau.",
+   "conclusion": "La découverte de l'autre est bien, pour Zilia, un choc et une ouverture : elle découvre un monde inconnu, une langue, des arts qu'elle admire. Mais cette découverte lui renvoie aussi l'image de ses propres valeurs, et elle tend au lecteur français un miroir peu flatteur. Surtout, la rencontre ne se réduit ni à l'autre ni à soi : elle transforme. Zilia ne redevient pas péruvienne et ne devient pas française ; elle invente une liberté qui lui est propre. Le « nouvel univers » est finalement intérieur. Deux siècles plus tard, le poète Édouard Glissant, dans Poétique de la Relation (1990), pensera la rencontre des cultures comme une transformation mutuelle où l'on ne renonce pas à soi."
+  }
+ ],
+ "oral": {
+  "presentation": "Les Lettres d'une Péruvienne sont un roman épistolaire de Françoise de Graffigny, publié en 1747 et augmenté en 1752, édition retenue par le programme. Zilia, princesse inca enlevée par les Espagnols le jour de son mariage avec Aza, est emmenée en France par un officier français, Déterville. Dans ses lettres à Aza, elle raconte son exil et découvre une langue et une société inconnues. En apprenant le français, elle voit s'offrir à elle, comme elle l'écrit dans la lettre XVIII, « un nouvel univers », et porte sur la France un regard de plus en plus critique : culte du superflu, politesse vide, éducation absurde des filles. Trahie par Aza, elle refuse pourtant d'épouser Déterville et choisit l'amitié et le « plaisir d'être ». Le roman illustre ainsi le parcours sur la découverte de l'autre : le regard étranger éclaire la société française et transforme celle qui regarde.",
+  "essentiels": [
+   "Autrice : Françoise de Graffigny (1695-1758), femme de lettres lorraine, auteur aussi de Cénie (1750).",
+   "Dates : 1747 (38 lettres) ; édition augmentée de 1752 (Introduction historique et 41 lettres), au programme.",
+   "Genre : roman épistolaire monophonique ; modèle : les Lettres persanes de Montesquieu.",
+   "Personnages : Zilia, Aza, Déterville, Céline, la mère Déterville (la « Pallas »).",
+   "Ajouts de 1752 : Introduction historique, lettres XXVIII, XXIX (superflu), XXXIV (éducation des femmes) ; l'ancienne XXVIII devient la XXX.",
+   "Titre du parcours tiré de la lettre XVIII : « un nouvel univers s'est offert à mes yeux ».",
+   "Dénouement : Aza infidèle ; Zilia refuse le mariage avec Déterville, choisit l'amitié et le « plaisir d'être »."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Graffigny choisit-elle une héroïne péruvienne ?",
+    "reponse": "Le regard d'une étrangère permet de rendre étrange ce qui paraît normal aux Français : c'est le procédé des Lettres persanes, que l'Avertissement rappelle (« Comment peut-on être Persan »). Le Pérou est aussi un sujet à la mode et un moyen de dénoncer la conquête espagnole : l'Introduction historique accuse les conquérants qui « oublièrent que les Péruviens étaient des hommes ». Enfin, le Pérou idéalisé (sincérité, simplicité, nécessaire) sert de modèle pour juger la France du luxe et des apparences."
+   },
+   {
+    "question": "Que signifie la phrase « un nouvel univers s'est offert à mes yeux » ?",
+    "reponse": "Dans la lettre XVIII, Zilia comprend enfin le français : elle découvre la France, mais aussi l'immensité du monde, dont le Pérou n'est qu'une partie. C'est un émerveillement, mais aussi une douleur, puisque « chaque éclaircissement m'a découvert un nouveau malheur » : elle mesure la distance qui la sépare d'Aza. Le savoir arrache aux illusions. Pour le parcours, la phrase montre que découvrir l'autre transforme celui qui regarde."
+   },
+   {
+    "question": "La critique de la France est-elle un rejet ?",
+    "reponse": "Non, elle est nuancée. Zilia admire les arts et le talent des Français : à la fin de la lettre XXVIII, elle s'écrie « Quel art, mon cher Aza ! quels hommes ! quel génie ! ». Mais dès la lettre suivante, elle passe « de l'admiration du génie des Français au mépris de l'usage qu'ils en font ». Elle distingue le luxe acceptable de celui qui sacrifie le nécessaire. Cette nuance rend sa critique plus crédible qu'une simple condamnation."
+   },
+   {
+    "question": "Que dit le roman de la condition des femmes ?",
+    "reponse": "La lettre XXXIII observe que les Français respectent et méprisent à la fois les femmes. La lettre XXXIV, ajoutée en 1752, en cherche la cause : leur éducation, « le chef-d'œuvre de l'inconséquence française ». On enferme les filles au couvent « pour leur apprendre à vivre dans le monde », on leur apprend à paraître plutôt qu'à penser, puis on les marie ignorantes. Zilia conclut que les hommes, qui ont toute l'autorité, sont responsables des désordres. Son propre parcours, qui s'instruit et refuse le mariage, répond à ce constat."
+   },
+   {
+    "question": "Comment interprétez-vous le dénouement ?",
+    "reponse": "Zilia, trahie par Aza, pourrait épouser Déterville, comme l'attendaient les lecteurs. Elle refuse : « fidèle à moi-même, je ne serai point parjure ». Elle offre à Déterville une amitié d'égal à égal et lui propose une vie d'étude et de contemplation, fondée sur le « plaisir d'être ». On peut y voir l'affirmation d'une autonomie féminine, ou une fidélité à un engagement sacré : dans les deux cas, Zilia décide seule de sa vie. Cette fin a déçu, au point que d'autres auteurs ont écrit des suites."
+   },
+   {
+    "question": "Quel est le rôle de l'écriture dans le roman ?",
+    "reponse": "Écrire, pour Zilia, c'est maintenir le lien avec Aza : d'abord avec les quipos, cordelettes nouées, puis en français. La disparition des quipos est une nouvelle séparation ; l'apprentissage de l'écriture française est une conquête qui lui donne le pouvoir de comprendre et de juger. Dans la lettre XXXIV, elle constate même qu'elle est devenue plus savante que les jeunes Françaises sur l'usage de leur langue. Le changement de destinataire à la fin montre que l'écriture accompagne sa libération."
+   },
+   {
+    "question": "Qu'apporte l'édition de 1752 ?",
+    "reponse": "Elle ajoute une Introduction historique sur les Incas et la conquête, trois lettres nouvelles (XXVIII sur la fête et les arts, XXIX sur le superflu, XXXIV sur l'éducation des femmes) et remanie l'ancienne lettre XXVIII, devenue la XXX. Le roman devient plus critique et plus argumentatif : la satire du luxe et la réflexion sur les femmes prennent une ampleur nouvelle. C'est l'édition retenue par le programme."
+   },
+   {
+    "question": "Quels liens faites-vous avec d'autres œuvres ?",
+    "reponse": "Avec les Lettres persanes de Montesquieu, modèle direct du regard étranger ; avec « Des cannibales » de Montaigne, qui montre que « chacun appelle barbarie ce qui n'est pas de son usage » ; avec L'Ingénu de Voltaire, où un Huron découvre la France ; avec le Supplément au Voyage de Bougainville de Diderot pour l'opposition nature / artifice. Pour la condition des femmes, on peut citer la Déclaration des droits de la femme et de la citoyenne d'Olympe de Gouges (1791)."
+   }
+  ],
+  "liens": "Parcours « Un nouvel univers s'est offert à mes yeux » : découverte de l'autre et de l'ailleurs, décentrement du regard, transformation de soi. Objet d'étude : la littérature d'idées du XVIe au XVIIIe siècle ; le roman épistolaire est une forme d'argumentation indirecte, à comparer avec l'apologue, le conte philosophique ou le dialogue. Autres œuvres : Montaigne, « Des cannibales » et « Des coches » ; Montesquieu, Lettres persanes ; Voltaire, L'Ingénu ; Diderot, Supplément au Voyage de Bougainville ; Olympe de Gouges ; pour aujourd'hui, les récits d'exil et de migration (Adichie, Americanah).",
+  "reflexion": [
+   {
+    "question": "Le regard d'un étranger peut-il nous aider à mieux nous connaître ?",
+    "pistes": "Le décentrement fait apparaître l'étrangeté de nos habitudes ; mais l'étranger peut aussi se tromper ou juger selon ses propres préjugés (Zilia croit d'abord la France une province du Pérou) ; expériences personnelles de voyage ou d'accueil."
+   },
+   {
+    "question": "Apprendre une langue, est-ce entrer dans un « nouvel univers » ?",
+    "pistes": "La langue donne accès à une culture, à une manière de penser ; l'apprentissage peut être une libération ou une perte (Zilia perd ses illusions) ; exemples d'exil et de bilinguisme."
+   },
+   {
+    "question": "Le choix final de Zilia vous paraît-il une victoire ou un renoncement ?",
+    "pistes": "Liberté, amitié, autonomie d'un côté ; solitude et refus de l'amour de l'autre ; regard des lecteurs du XVIIIe siècle et d'aujourd'hui."
+   },
+   {
+    "question": "Le goût du superflu dénoncé par Zilia existe-t-il encore aujourd'hui ?",
+    "pistes": "Consommation, apparences, réseaux sociaux ; distinguer le plaisir légitime et ce qui sacrifie le nécessaire ; la notion de sobriété."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'Introduction historique : la conquête et les mœurs péruviennes",
+   "reference": "Introduction historique (édition de 1752), passage allant de la crédulité des Péruviens (« Tout fléchit devant eux : le peuple est partout le même ») au portrait des mœurs (« Les Péruviens avaient moins de lumières, moins de connaissances, moins d'arts que nous, et cependant ils en avaient assez pour ne manquer d'aucune chose nécessaire »).",
+   "enjeu": "Comment ce texte d'allure historique se transforme-t-il en réquisitoire contre la conquête et en éloge d'une civilisation méprisée ?",
+   "mouvements": [
+    "Mouvement 1 : la crédulité et la ruse. Le narrateur explique comment les Péruviens, troublés par un ancien oracle et par des prodiges, ont pris les Espagnols pour des dieux : la maxime « le peuple est partout le même » universalise leur erreur. L'anecdote des chevaux que l'on croit nourris de métaux (on leur apporte de l'or) illustre une naïveté qui fait pitié plus qu'elle ne fait rire.",
+    "Mouvement 2 : le crime des conquérants. Le registre devient polémique et pathétique : « Un peuple entier, soumis et demandant grâce, fut passé au fil de l'épée. » Les Espagnols sont des « tyrans », un « peuple avare » ; la citation de Montaigne (« Méchaniques victoires », dans l'orthographe de l'édition, tirée de « Des coches ») donne l'appui d'une autorité. La description éblouissante des jardins d'or du temple débouche sur une phrase brève et terrible : « Ils oublièrent que les Péruviens étaient des hommes. » L'antithèse entre richesse et inhumanité accuse la cupidité européenne.",
+    "Mouvement 3 : l'éloge d'un peuple sage. Le portrait des mœurs (peuples « francs et humains », obéissance fondée sur la vertu des Incas, éducation par la modestie, quipos, travaux agricoles communs, aqueducs construits sans fer) renverse la hiérarchie : les Péruviens avaient « moins de lumières » mais « assez pour ne manquer d'aucune chose nécessaire ». L'opposition du nécessaire et du superflu, centrale dans les lettres XXVIII et XXIX, est déjà posée. Le texte prépare le lecteur à écouter Zilia comme une égale."
+   ]
+  },
+  {
+   "titre": "Lettre XXVIII : l'éblouissement devant les arts français",
+   "reference": "Lettre XXVIII (ajoutée en 1752), de « La parure des hommes et des femmes est si brillante » à « je retombe malgré moi dans mon ancienne admiration ».",
+   "enjeu": "Comment Zilia exprime-t-elle à la fois son admiration pour le génie des Français et le soupçon d'une civilisation vouée au superflu ?",
+   "mouvements": [
+    "Mouvement 1 : l'étourdissement de l'étrangère. Les parures « si chargée d'ornements inutiles », le débit rapide des paroles, le chiasme « mon attention à les écouter m'empêche de les voir, et celle que j'emploie à les regarder, m'empêche de les entendre » : Zilia est dans « une espèce de stupidité ». L'ironie se retourne : les Français sont « si occupés d'eux-mêmes » qu'ils ne voient même pas son étonnement.",
+    "Mouvement 2 : le culte du superflu. La maison, « presque aussi grande qu'une ville, ornée comme un temple », est remplie de « bagatelles » inutiles : d'où la conclusion, « les Français ont choisi le superflu pour l'objet de leur culte ». Le lexique religieux (culte, temple, idole) transforme le luxe en fausse religion. Les arts « surpassent » la nature : les jardins rassemblent les plantes de tous les climats, la terre et l'eau sont soumises.",
+    "Mouvement 3 : la fascination malgré tout. La description de l'eau qui jaillit « sans autre utilité que le plaisir des yeux », puis du feu d'artifice (« Le feu, mon cher Aza, le feu, ce terrible élément ») est lyrique : la répétition, les périphrases (le « tableau de lumière », le soleil « descendu sur la terre ») traduisent l'émerveillement. La lettre s'achève sur des exclamations (« Quel art, mon cher Aza ! quels hommes ! quel génie ! ») et un aveu : « je retombe malgré moi dans mon ancienne admiration ». Zilia est partagée : le jugement moral et l'émotion esthétique s'opposent."
+   ]
+  },
+  {
+   "titre": "Lettre XXIX : la tyrannie du superflu",
+   "reference": "Lettre XXIX (ajoutée en 1752), du début à « on va même jusqu'à se croire riche » (description des maisons où « l'indigence et le superflu ne sont séparés que par un appartement »).",
+   "enjeu": "Comment Zilia construit-elle une critique argumentée du luxe français, à la manière d'une moraliste ?",
+   "mouvements": [
+    "Mouvement 1 : le passage de l'admiration au mépris. L'incipit (« je passe de l'admiration du génie des Français au mépris de l'usage qu'ils en font ») annonce le plan. Les Français avouent eux-mêmes leurs défauts « avec une bonne foi et une légèreté hors de toute croyance ». La thèse tombe sous forme d'une accumulation : le goût du superflu « a corrompu leur raison, leur cœur et leur esprit », a établi « des richesses chimériques sur les ruines du nécessaire », a remplacé les bonnes mœurs par une « politesse superficielle ».",
+    "Mouvement 2 : une concession et une distinction. Zilia ne condamne pas tout luxe : les lois du Pérou admettaient des décorations selon le rang. Elle distingue le superflu acceptable de celui « qu'on ne peut soutenir sans manquer à l'humanité et à la justice ». Ce raisonnement nuancé (concession, définition) rend la critique plus solide. Les grands seigneurs sont les « martyrs » de cette « religion » : ils ruinent leur nom et dépouillent ceux qui travaillent.",
+    "Mouvement 3 : la scène satirique. Le tableau des maisons où « l'indigence et le superflu ne sont séparés que par un appartement » oppose le matin (le cabinet, l'homme d'affaires, « le sacrifice du nécessaire que l'on immole au superflu ») et le reste du jour (un autre habit, « un autre appartement, et presque une autre tête »). La gradation finale (« on est gai, on se dit heureux ; on va même jusqu'à se croire riche ») dénonce l'illusion. Le vocabulaire du sacrifice religieux poursuit l'image de l'idolâtrie."
+   ]
+  },
+  {
+   "titre": "Lettre XXX : seule au milieu du monde",
+   "reference": "Lettre XXX (version remaniée en 1752 de l'ancienne lettre XXVIII), lettre entière, jusqu'à « de mes plaisirs et de mes peines ».",
+   "enjeu": "Comment cette courte lettre, après deux lettres satiriques, ramène-t-elle au cœur sentimental du roman et dit-elle la solitude de Zilia ?",
+   "mouvements": [
+    "Mouvement 1 : Déterville, Français malgré lui. La phrase d'ouverture, qui attribue aux Français un penchant naturel pour les extrêmes, relie la satire à l'intrigue : même le vertueux Déterville tombe dans l'excès. Fidèle à sa promesse de ne plus parler d'amour, il évite Zilia « avec une attention marquée » ; la « tristesse » de son visage trahit la « violence » qu'il se fait. Zilia, lucide, reconnaît qu'elle devrait lui en savoir gré, mais ne peut lui « pardonner son affectation à me fuir ».",
+    "Mouvement 2 : l'impatience amoureuse. Les verbes de volonté (« Je voudrais l'interroger », « je voudrais avoir une idée juste ») et le vocabulaire du temps (départ, voyage, terme) traduisent l'attente d'Aza. La maxime « Une espérance fondée est un bien réel ; mais [...] elle est bien plus chère quand on en voit le terme » montre une Zilia devenue capable d'analyser ses sentiments.",
+    "Mouvement 3 : la solitude. Les plaisirs de la compagnie sont « trop bruyants » pour son âme ; Céline est absorbée par son mari. La formule « souvent seule au milieu du monde » condense le paradoxe de l'exilée : entourée et isolée. La lettre se clôt sur l'apostrophe à Aza, « seul confident de mon âme » : l'écriture reste son unique refuge, ce qui rend plus cruelle encore la trahison à venir."
+   ]
+  },
+  {
+   "titre": "Lettre XXXIV : l'éducation des filles, « chef-d'œuvre de l'inconséquence »",
+   "reference": "Lettre XXXIV (ajoutée en 1752), du début (« Il m'a fallu beaucoup de temps, mon cher Aza, pour approfondir la cause du mépris que l'on a presque généralement ici pour les femmes ») à « qui deviennent des ridicules dans un âge plus avancé ».",
+   "enjeu": "Comment Zilia démontre-t-elle que le mépris des femmes en France vient de l'éducation qu'on leur donne ?",
+   "mouvements": [
+    "Mouvement 1 : la thèse et la comparaison. Zilia annonce le résultat d'une enquête (« Il m'a fallu beaucoup de temps [...] pour approfondir la cause »). La cause tient dans un écart : entre « ce qu'elles sont » et ce qu'on voudrait qu'elles soient. L'éducation est « le chef-d'œuvre de l'inconséquence française ». La comparaison avec le Pérou, où l'on inspire dès l'enfance « un courage et une certaine fermeté d'âme », souligne le défaut français : on amuse les enfants, on les trompe, on rit « inhumainement de leurs erreurs ».",
+    "Mouvement 2 : le couvent et la religion. Une antithèse ironique (on enferme les filles dans une maison religieuse « pour leur apprendre à vivre dans le monde ») dénonce l'absurdité du système. Les maîtresses sont incapables de former un cœur qu'elles ne connaissent pas ; la religion se réduit à de « petites cérémonies d'un culte extérieur », apprises « par mémoire » et vite rejetées.",
+    "Mouvement 3 : une éducation de l'apparence. Zilia dénonce une éducation du corps et non de l'âme (« Régler les mouvements du corps, arranger ceux du visage, composer l'extérieur »). La « contenance honnête » n'est qu'« une hypocrisie » sans l'honnêteté de l'âme ; l'honneur est réduit à « n'avoir point d'amants » ; le temps de la jeunesse est perdu à des « talents imparfaits ». Le soupçon le plus terrible est formulé à demi-mot : on croirait que les Français pensent, comme « certains peuples barbares », que les femmes n'ont pas d'âme. La suite de la lettre tirera la conséquence : « l'autorité est entièrement du côté des hommes », qui sont donc responsables."
+   ]
+  },
+  {
+   "titre": "Lettre XLI : « je suis, je vis, j'existe »",
+   "reference": "Dernière lettre (XLI ; lettre XXXVIII de l'éd. 1747), adressée à Déterville, de « C'est en vain que vous vous flatteriez de faire prendre à mon cœur de nouvelles chaînes » à la fin du roman.",
+   "enjeu": "Comment ce dénouement inattendu fait-il de Zilia une femme libre, qui refuse le mariage pour choisir l'amitié et le bonheur d'exister ?",
+   "mouvements": [
+    "Mouvement 1 : un refus ferme. Zilia refuse les « nouvelles chaînes » de l'amour : « Ma bonne foi trahie ne dégage pas mes serments », écrit-elle. Elle reste fidèle non à Aza, mais à elle-même (« fidèle à moi-même, je ne serai point parjure »). Le vocabulaire de l'engagement (serments, droits, parjure) montre une conscience morale autonome.",
+    "Mouvement 2 : un contrat d'amitié. Elle offre à Déterville « tout ce que l'amitié inspire » : confiance, sincérité « sans bornes ». Le futur de promesse (« vous jouirez », « Nous lirons dans nos âmes ») dessine une relation d'égal à égal : il lui apprendra ses sciences et ses arts, elle développera en lui des vertus. L'échange réciproque remplace la dépendance de la protégée envers son bienfaiteur.",
+    "Mouvement 3 : l'éloge du « plaisir d'être ». La solitude n'est pas dangereuse pour qui s'occupe : l'« examen » des merveilles de la nature suffit à remplir une vie. La gradation « je suis, je vis, j'existe » et les hypothèses en « si l'on » font de la conscience d'exister le bonheur suprême. L'anaphore de l'impératif « Venez, Déterville, venez apprendre de moi » renverse les rôles : l'élève est devenue maîtresse de sagesse. Le roman refuse la fin attendue (mariage ou mort) et invente une héroïne libre."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Roman épistolaire de Françoise de Graffigny : 1747, édition augmentée de 1752 (41 lettres) au programme.",
+   "Zilia, princesse inca enlevée par les Espagnols, emmenée en France par Déterville, écrit à son fiancé Aza.",
+   "Regard étranger : périphrases (le miroir, « cette ingénieuse machine qui double les objets »), décentrement, modèle des Lettres persanes.",
+   "Lettre XVIII : « un nouvel univers s'est offert à mes yeux » ; apprendre, c'est découvrir et perdre ses illusions.",
+   "Ajouts de 1752 : Introduction historique (« Ils oublièrent que les Péruviens étaient des hommes »), lettres XXVIII, XXIX, XXXIV ; l'ancienne XXVIII devient la XXX.",
+   "Satire : culte du superflu (XXVIII-XXIX), politesse vide, médisance et inconséquence (XXXII), intolérance du Cusipata (XXI-XXII).",
+   "Condition des femmes : éducation, « le chef-d'œuvre de l'inconséquence française » ; les hommes ont toute l'autorité, donc la responsabilité (XXXIV).",
+   "Dénouement : Aza infidèle ; Zilia refuse Déterville, reste « fidèle à moi-même », choisit l'amitié et le « plaisir d'être ».",
+   "Registres : pathétique (amour, exil, trahison) et satirique ; 36 lettres à Aza, 5 à Déterville."
+  ],
+  "citations": [
+   0,
+   3,
+   4,
+   5,
+   6,
+   7,
+   9,
+   10,
+   11,
+   17
+  ],
+  "pieges": [
+   "Numérotation : citer les lettres d'après l'édition de 1752 (la dernière est la XLI, et non la XXXVIII de 1747).",
+   "Les lettres XXVIII, XXIX et XXXIV n'existent pas dans l'édition de 1747.",
+   "Zilia n'est pas hostile à la France : elle admire avant de critiquer.",
+   "Le Pérou du roman est idéalisé, ce n'est pas un document historique.",
+   "Le dénouement n'est ni un mariage ni une mort : c'est un choix de liberté."
+  ],
+  "synthese": "Dans les Lettres d'une Péruvienne (1747, éd. augmentée 1752), Françoise de Graffigny fait écrire une princesse inca, Zilia, enlevée puis emmenée en France. Le regard étranger, hérité des Lettres persanes, rend étrange la société française. En apprenant la langue, Zilia voit s'offrir à elle « un nouvel univers » et devient une critique lucide : culte du superflu, politesse vide, éducation absurde des filles. Les ajouts de 1752 (Introduction historique, lettres XXVIII, XXIX, XXXIV) renforcent cette critique et dénoncent la conquête. Trahie par Aza, Zilia refuse d'épouser Déterville et choisit l'amitié, l'étude et le « plaisir d'être » : le roman sentimental devient le récit d'une émancipation."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Roman épistolaire",
+   "definition": "Roman composé de lettres. Il donne l'illusion de l'authenticité (l'Avertissement présente les lettres comme réelles) et un accès direct à l'intimité. Ici, il est monophonique : on n'entend que Zilia."
+  },
+  {
+   "terme": "Regard étranger (décentrement)",
+   "definition": "Procédé qui consiste à décrire une société à travers les yeux d'un étranger, pour en montrer l'étrangeté et les défauts. Zilia décrit la France comme les Persans de Montesquieu décrivaient Paris."
+  },
+  {
+   "terme": "Périphrase",
+   "definition": "Expression qui désigne une chose par plusieurs mots au lieu de son nom. « Cette ingénieuse machine qui double les objets » (un miroir), « maison flottante » (un navire) : la périphrase traduit la naïveté et produit un effet de défamiliarisation."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Critique moqueuse des mœurs ou des institutions. Les lettres XXVIII et XXIX font la satire du luxe et de la politesse mondaine ; la lettre XXXIV, celle de l'éducation des filles."
+  },
+  {
+   "terme": "Ironie",
+   "definition": "Procédé qui consiste à dire autre chose que ce que l'on pense pour faire entendre une critique. « Le chef-d'œuvre de l'inconséquence française » ; enfermer les filles au couvent « pour leur apprendre à vivre dans le monde »."
+  },
+  {
+   "terme": "Antithèse",
+   "definition": "Opposition de deux termes ou idées. « l'admiration du génie des Français » et « le mépris de l'usage qu'ils en font » ; le nécessaire et le superflu ; l'indigence et le luxe séparés par « un appartement »."
+  },
+  {
+   "terme": "Registre pathétique",
+   "definition": "Registre qui cherche à émouvoir par la peinture de la souffrance. Les premières lettres (enlèvement, désespoir, tentative de suicide) et les lettres à Malte (« Aza est infidèle ») en relèvent."
+  },
+  {
+   "terme": "Apostrophe",
+   "definition": "Interpellation directe du destinataire. « Aza ! mon cher Aza ! » ouvre le roman ; « mon cher Aza » revient dans presque toutes les lettres, rappelant que Zilia écrit à un absent."
+  },
+  {
+   "terme": "Maxime",
+   "definition": "Formule générale et frappante. « Une espérance fondée est un bien réel » ; « La censure est le goût dominant des Français, comme l'inconséquence est le caractère de la nation »."
+  },
+  {
+   "terme": "Concession",
+   "definition": "Reconnaître une part de vérité avant de critiquer. Dans la lettre XXIX, Zilia admet que les lois péruviennes autorisaient certaines décorations, avant de condamner le superflu qui viole « l'humanité et la justice »."
+  },
+  {
+   "terme": "Ethnocentrisme",
+   "definition": "Tendance à juger les autres cultures d'après les normes de la sienne. L'Avertissement le dénonce : « nous n'accordons du mérite aux autres nations, qu'autant que leurs mœurs imitent les nôtres »."
+  },
+  {
+   "terme": "Quipos (quipus)",
+   "definition": "Cordelettes de couleur nouées utilisées par les Incas pour compter et conserver la mémoire. Zilia s'en sert pour écrire ses premières lettres ; leur disparition marque son passage à l'écriture française."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Avec quoi Zilia écrit-elle ses premières lettres ?",
+   "choix": [
+    "Une plume et de l'encre",
+    "Des quipos (cordelettes nouées)",
+    "Des tablettes d'argile",
+    "Des hiéroglyphes peints"
+   ],
+   "reponse": 1,
+   "explication": "Les quipos sont des cordons de couleur dont les nœuds servaient aux Incas à conserver la mémoire. Quand ils s'épuisent, Zilia apprend à écrire en français."
+  },
+  {
+   "question": "Qui est Aza ?",
+   "choix": [
+    "Le frère de Zilia",
+    "Le fiancé de Zilia, héritier de l'empire inca",
+    "Un conquistador espagnol",
+    "Le capitaine du navire français"
+   ],
+   "reponse": 1,
+   "explication": "Zilia devait l'épouser le jour où les Espagnols ont pris la ville du Soleil ; il est le destinataire des trente-six premières lettres."
+  },
+  {
+   "question": "Que désigne la périphrase « cette ingénieuse machine qui double les objets » ?",
+   "choix": [
+    "Une longue-vue",
+    "Un miroir",
+    "Une horloge",
+    "Un tableau"
+   ],
+   "reponse": 1,
+   "explication": "Zilia désigne le miroir par sa fonction : la périphrase traduit son regard étranger."
+  },
+  {
+   "question": "Dans quelle lettre se trouve la phrase « un nouvel univers s'est offert à mes yeux » ?",
+   "choix": [
+    "Lettre I",
+    "Lettre XVIII",
+    "Lettre XXIX",
+    "Lettre XLI"
+   ],
+   "reponse": 1,
+   "explication": "Dans la lettre XVIII, Zilia comprend, grâce à la langue, qu'elle est loin du Pérou et que le monde est immense."
+  },
+  {
+   "question": "Quel est le sujet principal de la lettre XXIX (ajoutée en 1752) ?",
+   "choix": [
+    "La religion chrétienne",
+    "Le culte du superflu et la politesse vide",
+    "Le théâtre",
+    "Le gouvernement inca"
+   ],
+   "reponse": 1,
+   "explication": "Zilia passe « de l'admiration du génie des Français au mépris de l'usage qu'ils en font » : le luxe ruine les familles et remplace les sentiments par des formes."
+  },
+  {
+   "question": "Selon la lettre XXXIV, pourquoi méprise-t-on les femmes en France ?",
+   "choix": [
+    "Parce qu'elles sont naturellement inférieures",
+    "À cause de l'éducation absurde qu'on leur donne",
+    "Parce que la loi l'exige",
+    "Parce qu'elles ne travaillent pas"
+   ],
+   "reponse": 1,
+   "explication": "L'éducation des filles est « le chef-d'œuvre de l'inconséquence française » : on exige d'elles des vertus qu'on ne leur enseigne pas."
+  },
+  {
+   "question": "Qu'ajoute l'édition de 1752 par rapport à celle de 1747 ?",
+   "choix": [
+    "Les réponses d'Aza",
+    "Une Introduction historique et de nouvelles lettres",
+    "Un épilogue où Zilia se marie",
+    "Une préface de Voltaire"
+   ],
+   "reponse": 1,
+   "explication": "L'édition de 1752 compte 41 lettres : elle ajoute l'Introduction historique et trois lettres (XXVIII, XXIX et XXXIV), et remanie l'ancienne lettre XXVIII, qui devient la lettre XXX."
+  },
+  {
+   "question": "Pourquoi Aza trahit-il Zilia ?",
+   "choix": [
+    "Il la croit morte",
+    "Converti, il veut épouser une Espagnole",
+    "Il est devenu roi et doit épouser une princesse",
+    "Déterville l'a menacé"
+   ],
+   "reponse": 1,
+   "explication": "Devenu chrétien, il s'est engagé envers une jeune Espagnole et ne vient en France que pour reprendre sa parole."
+  },
+  {
+   "question": "Comment se termine le roman ?",
+   "choix": [
+    "Zilia épouse Déterville",
+    "Zilia meurt de chagrin",
+    "Zilia refuse le mariage et offre son amitié à Déterville",
+    "Zilia retourne au Pérou"
+   ],
+   "reponse": 2,
+   "explication": "Elle reste fidèle à elle-même, propose une amitié sans bornes et célèbre le « plaisir d'être » : une fin audacieuse qui a déçu bien des lecteurs."
+  },
+  {
+   "question": "Quel modèle Graffigny reprend-elle explicitement dans l'Avertissement ?",
+   "choix": [
+    "Candide de Voltaire",
+    "Les Lettres persanes de Montesquieu",
+    "La Princesse de Clèves",
+    "Les Essais de Montaigne"
+   ],
+   "reponse": 1,
+   "explication": "L'Avertissement cite « Comment peut-on être Persan » : comme Montesquieu, Graffigny fait juger la France par un regard étranger."
+  },
+  {
+   "question": "À qui sont adressées les cinq dernières lettres (XXXVII à XLI) ?",
+   "choix": [
+    "À Aza",
+    "À Céline",
+    "À Déterville",
+    "À la mère de Déterville"
+   ],
+   "reponse": 2,
+   "explication": "Après l'annonce de l'infidélité d'Aza, Zilia écrit au chevalier Déterville, parti à Malte : le changement de destinataire marque le passage de l'amour à l'amitié."
+  },
+  {
+   "question": "Que dénonce la phrase « Ils oublièrent que les Péruviens étaient des hommes » ?",
+   "choix": [
+    "L'ingratitude d'Aza",
+    "La cruauté des conquérants espagnols aveuglés par l'or",
+    "La légèreté des Français",
+    "L'éducation des filles"
+   ],
+   "reponse": 1,
+   "explication": "Dans l'Introduction historique (1752), cette phrase brève conclut la description des trésors du temple du Soleil : la cupidité a fait oublier aux conquérants l'humanité des Péruviens."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Graffigny, Lettres d'une Péruvienne, 1re éd. (1747), Wikisource — texte intégral du site",
+   "url": "https://fr.wikisource.org/wiki/Lettres_d%E2%80%99une_P%C3%A9ruvienne"
+  },
+  {
+   "titre": "Lettres d'une Péruvienne, éd. de 1752 (Paris, Duchesne), tome I, fac-similé Internet Archive",
+   "url": "https://archive.org/details/g1752lettresdun01graf"
+  },
+  {
+   "titre": "Lettres d'une Péruvienne, éd. de 1752, tome II (lettres XXVIII à XLI), fac-similé Internet Archive",
+   "url": "https://archive.org/details/g1752lettresdun02graf"
+  },
+  {
+   "titre": "Lettres d'une Péruvienne, éd. bilingue français-italien (Paris, 1797), fac-similé Internet Archive",
+   "url": "https://archive.org/details/g1797lettresdun00graf"
+  },
+  {
+   "titre": "Sainte-Beuve, Causeries du lundi, t. II, « Lettres de Mme de Grafigny, ou Voltaire à Cirey » (Wikisource)",
+   "url": "https://fr.wikisource.org/wiki/Causeries_du_lundi/Tome_II/Lettres_de_Mme_de_Grafigny,_ou_Voltaire_%C3%A0_Cirey"
+  },
+  {
+   "titre": "Montaigne, Essais, I, 31, « Des cannibales » (Wikisource, exemplaire de Bordeaux)",
+   "url": "https://fr.wikisource.org/wiki/Essais/Livre_I/Chapitre_31"
+  }
+ ],
+ "aVerifier": [
+  "Les citations des lettres ajoutées en 1752 (XXVIII, XXIX, XXXIV) et du texte de 1752 ont été vérifiées sur l'OCR des fac-similés de 1752 et de 1797, et non sur une transcription établie : à revoir quand une transcription de l'édition de 1752 sera disponible sur le site.",
+  "Identification d'Alzire de Voltaire derrière l'allusion de l'Avertissement de 1752 à un « poème dramatique » : probable, non vérifiée sur une note de l'édition.",
+  "Délimitation exacte du programme (édition de 1752, éventuels passages à étudier particulièrement) : non vérifiée dans le Bulletin officiel.",
+  "Détails biographiques (Nouvelle espagnole de 1745, échec de La Fille d'Aristide en 1758) et suites du roman écrites par d'autres auteurs : donnés de mémoire, à confirmer."
+ ]
+}

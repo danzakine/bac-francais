@@ -1,0 +1,1088 @@
+{
+ "id": "le-menteur",
+ "accroche": "Un jeune homme qui ment comme il respire, des quiproquos en cascade, un valet sidéré : la comédie la plus virtuose de Corneille, où mentir devient un art.",
+ "identite": {
+  "auteur": "Pierre Corneille (1606-1684), né à Rouen dans une famille de magistrats, est avocat avant de devenir le dramaturge le plus célèbre de son temps. Il débute par des comédies (Mélite, 1629 ; La Place Royale, 1634), puis donne L’Illusion comique (1636), éloge du théâtre, et surtout Le Cid (1637), dont le triomphe déclenche une violente querelle. Viennent ensuite les grandes tragédies romaines : Horace, Cinna, Polyeucte, puis La Mort de Pompée. Le Menteur, comédie en cinq actes et en alexandrins, marque son retour au genre comique au sommet de sa gloire.",
+  "contexte": "La pièce naît à un moment charnière : Louis XIII meurt en mai 1643 et la régence d’Anne d’Autriche commence, avec Mazarin au pouvoir. La France est engagée dans la guerre de Trente Ans : les noms des généraux ennemis que Dorante fait « sonner » (Lamboy, « Jean de Vert », Galas) sont dans toutes les gazettes. Paris se transforme : le Palais-Cardinal, le Pré-aux-Clercs, la place Royale (actuelle place des Vosges) sont des quartiers neufs et élégants, et Dorante s’émerveille d’un « pays de romans ». C’est aussi l’époque de la galanterie et des salons, où l’on cultive l’art de la conversation et du compliment, et où le paraître social compte énormément.",
+  "mouvement": "Le Menteur relève de l’esthétique baroque, qui domine la première moitié du XVIIe siècle : goût du mouvement, de l’illusion, des métamorphoses, du monde vu comme un théâtre où chacun joue un rôle. Mais la pièce respecte déjà les règles classiques : unité de temps (l’action tient en un peu plus de vingt-quatre heures), unité de lieu (Paris : les Tuileries à l’acte I, puis la place Royale), unité d’action (les mensonges de Dorante et ses amours), alexandrins et bienséances. C’est à la fois une comédie d’intrigue (quiproquos, rebondissements, billets, duels) et une comédie de caractère, centrée sur un type : le menteur. Elle prépare la grande comédie de Molière ; une anecdote célèbre, dont l’authenticité est douteuse, prête même à Molière l’aveu de tout ce qu’il devait à cette pièce.",
+  "circonstances": "Dans l’Épître qui ouvre l’édition originale, Corneille explique qu’il a écrit Pompée et Le Menteur « dans le même hiver » : après une tragédie grave, il a voulu satisfaire les spectateurs qui lui demandaient « quelque chose de plus enjoué qui ne servît qu’à les divertir ». La pièce est créée au théâtre du Marais (Corneille l’écrit lui-même dans un passage de La Suite du Menteur), probablement durant la saison 1643-1644 ; le célèbre farceur Jodelet y jouait Cliton. Elle est publiée à Paris chez Antoine de Sommaville en 1644 (achevé d’imprimer du 31 octobre). Corneille y adapte une comédie espagnole, La verdad sospechosa (La Vérité suspecte), qu’il croyait de Lope de Vega ; dans l’Examen de 1660, il reconnaît qu’un volume de Juan Ruiz de Alarcón la revendique. Le succès est immédiat et durable : Corneille écrit aussitôt une Suite du Menteur, et plusieurs vers de la pièce passent en proverbe.",
+  "carriere": "Le Menteur occupe une place charnière. Corneille, qui avait commencé par la comédie, est devenu après Le Cid le maître de la tragédie ; il revient ici au comique, en se disant lui-même « obligé au genre comique de [sa] première réputation » (Épître). La pièce prolonge la réflexion sur l’illusion et la fiction de L’Illusion comique (1636), mais dans une forme plus régulière, conforme aux unités. Elle est suivie de La Suite du Menteur (1645), moins heureuse, puis Corneille revient pour l’essentiel à la tragédie (Rodogune, Héraclius, Nicomède). Dans l’histoire du genre, elle est souvent présentée comme la première grande comédie de caractère française, qui ouvre la voie à Molière."
+ },
+ "resumeCourt": "Dorante, jeune homme qui vient de quitter ses études de droit à Poitiers, arrive à Paris bien décidé à briller. Aux Tuileries, il aborde une jeune femme, Clarice, et s’invente aussitôt un passé de héros des guerres d’Allemagne ; mais il se trompe sur son nom et la croit appelée Lucrèce. Il enchaîne ensuite les mensonges : il prétend avoir offert une fête somptueuse sur l’eau, ce qui rend jaloux son ami Alcippe, fiancé secret de Clarice ; puis, pour échapper au mariage que son père Géronte lui propose… avec Clarice, il invente un mariage forcé à Poitiers. Les fictions se multiplient (un duel mortel, une épouse enceinte, un beau-père aux deux noms) et finissent par se retourner contre lui : Clarice et Lucrèce le démasquent, son père le traite d’infâme. Mais Dorante retombe toujours sur ses pieds : apprenant sa méprise sur les noms, il déclare n’avoir jamais aimé que Lucrèce, qu’il épouse, tandis que Clarice épouse Alcippe. La pièce s’achève sur un conseil ironique de Cliton au public : « apprenez à mentir ».",
+ "resume": [
+  {
+   "titre": "Acte I, scènes 1 à 4 — Aux Tuileries : un étudiant se rêve cavalier",
+   "texte": "Dans le jardin des Tuileries, « le pays du beau monde et des galanteries », Dorante annonce à son nouveau valet Cliton qu’il a « quitté la robe pour l’épée » : fini le droit, il veut séduire. Cliton lui explique que Paris est la ville des apparences, où chacun « vaut communément autant comme il se prise ». Clarice fait un faux pas ; Dorante lui tend la main et se lance aussitôt dans un discours galant. Pour l’éblouir, il s’invente un passé militaire : il aurait combattu quatre ans en Allemagne et la suivrait depuis un an. Cliton, effaré, tente de l’interrompre (« Savez-vous bien, Monsieur, que vous extravaguez ? »). Après le départ des jeunes femmes, Cliton rapporte ce qu’a dit le cocher : la plus belle s’appelle Lucrèce. Dorante en conclut que celle qui lui a parlé est Lucrèce ; Cliton pense au contraire que c’est la silencieuse. Ce quiproquo sur les noms est le moteur de toute la pièce."
+  },
+  {
+   "titre": "Acte I, scènes 5 et 6 — La fête sur l’eau et l’art de mentir",
+   "texte": "Dorante retrouve ses amis Alcippe et Philiste, qui parlent d’une fête nocturne offerte la veille, sur la Seine, à une dame inconnue. Par pur plaisir d’étonner, Dorante affirme en être l’organisateur et en fait un récit éblouissant : cinq bateaux, quatre chœurs de musique, douze plats et six services, un feu d’artifice qui embrase les eaux. Or Alcippe est secrètement fiancé à Clarice et soupçonne que la fête lui était destinée : il sort fou de jalousie. Seul avec Cliton, Dorante expose sa philosophie : pour séduire, mieux vaut passer pour un soldat que pour un juriste ; et rien n’égale le plaisir de faire taire les « conteurs de nouvelles » en les servant « d’un conte imaginaire »."
+  },
+  {
+   "titre": "Acte II, scènes 1 à 4 — Clarice entre deux prétendants",
+   "texte": "Géronte, père de Dorante, propose à Clarice d’épouser son fils. Prudente, la jeune fille veut le voir avant de s’engager ; mais, confie-t-elle à sa suivante Isabelle, le voir ne suffit pas, car « Les visages souvent sont de doux imposteurs ». Avec Isabelle, elle imagine une ruse : Lucrèce écrira à Dorante pour lui fixer un rendez-vous nocturne à sa fenêtre, et Clarice lui parlera sous ce faux nom. Clarice avoue d’ailleurs qu’elle se lasse des délais d’Alcippe, dont le père ne vient jamais de Tours. Alcippe surgit et l’accable de reproches à propos de la fête sur l’eau, dont elle ne comprend pas un mot. Furieux, il décide de provoquer Dorante en duel."
+  },
+  {
+   "titre": "Acte II, scènes 5 à 8 — Le faux mariage de Poitiers",
+   "texte": "Géronte fait visiter à son fils les nouveaux quartiers de Paris, puis lui annonce qu’il veut le marier à Clarice. Dorante, qui croit aimer « Lucrèce », improvise : il est déjà marié ! Il raconte avec un luxe de détails comment, surpris de nuit chez une certaine Orphise, une montre qui sonne et un pistolet qui part l’ont contraint à l’épouser. Géronte, attendri, pardonne et court se dégager auprès du père de Clarice. Dorante triomphe devant Cliton, ébahi : « Oh ! l’utile secret que mentir à propos ! » Puis Sabine apporte le billet de « Lucrèce » fixant le rendez-vous nocturne, et Lycas un cartel (une provocation en duel) d’Alcippe. Dorante résume avec humour sa première journée : « querelle, amour et mariage »."
+  },
+  {
+   "titre": "Acte III, scènes 1 et 2 — Le duel et la vérité sur la fête",
+   "texte": "Philiste a séparé les deux duellistes. Dorante, pour apaiser Alcippe, invente encore : la dame de la fête était une femme mariée, de passage à Paris. Resté seul avec Alcippe, Philiste rétablit la vérité : le page d’Alcippe s’est trompé de carrosse et de dames, et Dorante, arrivé de Poitiers la veille, a dormi tranquillement chez lui. Alcippe peine à croire qu’un homme courageux puisse mentir ; Philiste tranche : Dorante « Est vaillant par nature et menteur par coutume »."
+  },
+  {
+   "titre": "Acte III, scènes 3 à 6 — La scène de la fenêtre",
+   "texte": "Clarice a reconnu dans le fils de Géronte le faux soldat des Tuileries ; elle a aussi appris son prétendu mariage. Elle le juge « fourbe » mais veut s’amuser à le confondre. La nuit, depuis la fenêtre de Lucrèce, elle lui parle sous le nom de son amie, tandis que la vraie Lucrèce commente en aparté. Dorante nie d’abord être marié, jure ses grands dieux, puis avoue avoir inventé ce mariage… par amour pour « Lucrèce ». Il prouve qu’il la connaît en citant le nom de son père, Périandre, et déclare n’avoir que « mépris pour Clarice », sans savoir qu’il parle à Clarice elle-même. Celle-ci le congédie. Cliton conclut : quand un menteur dit la vérité, « En passant par sa bouche, elle perd son crédit »."
+  },
+  {
+   "titre": "Acte IV — Le menteur pris dans ses propres filets",
+   "texte": "Au matin, Dorante raconte à Cliton qu’il a laissé Alcippe pour mort dans un duel… juste avant qu’Alcippe, bien vivant, ne vienne annoncer l’arrivée de son père et son prochain mariage avec Clarice. Dorante se tire d’affaire en inventant une miraculeuse « poudre de sympathie » et des « mots hébreux ». Géronte arrive : il veut faire venir sa belle-fille de Poitiers ; Dorante la déclare enceinte de six mois pour l’en empêcher. Mais quand son père lui demande le nom du beau-père, il répond « Pyrandre » au lieu d’« Armédon » et doit improviser une explication. Cliton commente : « Il faut bonne mémoire après qu’on a menti. » Dorante achète alors la complicité de Sabine, la femme de chambre de Lucrèce. On apprend que Lucrèce, intriguée, n’est pas insensible : « De le croire à l’aimer la distance est petite », lui dit Clarice."
+  },
+  {
+   "titre": "Acte V, scènes 1 à 4 — La colère du père",
+   "texte": "Géronte interroge Philiste sur Pyrandre et Orphise : personne ne les connaît à Poitiers. Le père comprend qu’il a été dupé et se lamente dans un monologue (« Ô vieillesse facile ! Ô jeunesse impudente ! »). Il accable ensuite son fils : « Êtes-vous gentilhomme ? » Un noble qui ment perd sa noblesse. Dorante avoue alors… une nouvelle version : il aime Lucrèce. Géronte accepte de la demander pour lui, mais jure de le tuer s’il ment encore. Seul avec Cliton, Dorante confie pourtant que la compagne de « Lucrèce » lui plaît beaucoup ; même en disant vrai, il mentait encore à son père, remarque Cliton."
+  },
+  {
+   "titre": "Acte V, scènes 5 à 7 — Le dénouement : changer de batterie",
+   "texte": "Sabine assure à Dorante que Lucrèce l’aimera « quand elle [le] croira ». Face aux deux jeunes femmes réunies, Dorante continue de courtiser Clarice, qu’il prend pour Lucrèce. Cliton, informé par Sabine, lui révèle enfin la vérité : celle qui lui parlait était Clarice, et la vraie Lucrèce est l’autre, celle qui commençait à lui plaire. Dorante retourne aussitôt la situation (« Sans changer de discours changeons de batterie ») : il prétend avoir tout deviné et n’avoir joué la comédie que pour se venger. Les pères concluent les mariages : Alcippe épouse Clarice, Dorante épousera Lucrèce. Cliton, resté seul, s’adresse au public : « Par un si rare exemple apprenez à mentir. »"
+  }
+ ],
+ "structure": "Comédie en cinq actes et en alexandrins (1804 vers), Le Menteur suit les règles classiques. L’acte I sert d’exposition dynamique : en deux scènes clés (la rencontre aux Tuileries et le récit de la fête), Dorante lance déjà deux mensonges et le quiproquo sur les noms. L’acte II noue l’intrigue : le projet de mariage de Géronte croise la ruse de Clarice, la jalousie d’Alcippe et l’invention du mariage de Poitiers. L’acte III marque un premier sommet : les mensonges commencent à être découverts (vérité sur la fête, scène de la fenêtre). L’acte IV montre le menteur débordé par ses propres fictions (le « mort » qui revient, le nom du beau-père oublié). L’acte V organise la chute puis le rétablissement : la colère du père, la révélation du quiproquo et le retournement final, où Dorante transforme son erreur en choix. La pièce repose sur une construction en cascade : chaque mensonge en appelle un autre pour couvrir le précédent, selon une mécanique comique qui s’accélère jusqu’au dénouement. Le comique naît surtout de l’ironie dramatique : le spectateur sait toujours plus que les personnages.",
+ "personnages": [
+  {
+   "nom": "Dorante",
+   "role": "Fils de Géronte, il vient de quitter ses études de droit à Poitiers. Jeune, brillant, séduisant, il ment avec une imagination débordante, parfois par intérêt (échapper au mariage), souvent par simple plaisir de briller et d’étonner. Il incarne le type du menteur, mais aussi une figure du poète et du dramaturge : il invente des récits, improvise, met en scène. Sa faiblesse : la mémoire, et une méprise sur les noms qu’il ne soupçonne jamais.",
+   "relations": "Fils de Géronte, maître de Cliton ; ami d’Alcippe et de Philiste. Courtise Clarice en la croyant nommée Lucrèce ; finit fiancé à Lucrèce."
+  },
+  {
+   "nom": "Cliton",
+   "role": "Valet de Dorante. Témoin effaré des mensonges de son maître, il joue le rôle du public sur scène : il commente, s’indigne en aparté (« J’enrage de me taire et d’entendre mentir ! »), se fait duper lui-même et finit par admirer. Bavard et un peu vénal, il formule plusieurs maximes de la pièce et prononce la morale ironique finale.",
+   "relations": "Valet et confident de Dorante, dont il est à la fois le complice, la dupe et le critique ; il négocie avec Sabine."
+  },
+  {
+   "nom": "Géronte",
+   "role": "Père de Dorante. Bon, crédule et fier de son fils unique, il veut le marier à Clarice. Il croit à toutes les inventions de Dorante avant de découvrir qu’il a été dupé et de se plaindre d’être devenu « le trompette » de ses mensonges. Sa colère de l’acte V (« Êtes-vous gentilhomme ? ») introduit un registre grave, presque tragique, centré sur l’honneur et la noblesse.",
+   "relations": "Père de Dorante, ami du père de Clarice ; il arrange puis défait le projet de mariage avec Clarice, et finit par demander Lucrèce pour son fils."
+  },
+  {
+   "nom": "Clarice",
+   "role": "Jeune fille vive et spirituelle, c’est elle qui parle à Dorante aux Tuileries. Fiancée secrètement à Alcippe, elle se lasse de ses délais et envisage d’épouser Dorante. Lucide sur les apparences, elle prend plaisir à « confondre » le menteur dans la scène de la fenêtre, où elle parle sous le nom de Lucrèce. Elle épouse finalement Alcippe.",
+   "relations": "Fiancée secrète d’Alcippe, amie de Lucrèce, maîtresse d’Isabelle ; Géronte la propose à Dorante."
+  },
+  {
+   "nom": "Lucrèce",
+   "role": "Amie de Clarice, réservée et silencieuse aux Tuileries. C’est elle que Dorante croit aimer, sans le savoir, sous son vrai nom. Curieuse puis touchée par les lettres de Dorante, elle hésite entre méfiance et inclination. Elle épousera Dorante au dénouement.",
+   "relations": "Amie de Clarice, maîtresse de Sabine ; fille de Périandre. Prête son nom et sa fenêtre à la ruse de Clarice."
+  },
+  {
+   "nom": "Alcippe",
+   "role": "Ami de Dorante et fiancé de Clarice. Jaloux et impulsif, il croit au récit de la fête sur l’eau, accuse Clarice et provoque Dorante en duel. Il incarne une conception aristocratique de l’honneur (« Tout homme de courage est homme de parole »). L’arrivée de son père permet son mariage avec Clarice.",
+   "relations": "Ami de Dorante et de Philiste, fiancé de Clarice ; rival imaginaire de Dorante à cause de la fête sur l’eau."
+  },
+  {
+   "nom": "Philiste",
+   "role": "Ami de Dorante et d’Alcippe. Esprit lucide et ironique, il sépare les duellistes, rétablit la vérité sur la fête (« Est vaillant par nature et menteur par coutume ») et c’est lui qui, à l’acte V, ouvre les yeux de Géronte.",
+   "relations": "Ami commun de Dorante et d’Alcippe ; témoin lucide qui démasque les mensonges auprès d’Alcippe puis de Géronte."
+  },
+  {
+   "nom": "Isabelle",
+   "role": "Suivante de Clarice. Rusée, elle invente le stratagème de la lettre et du rendez-vous à la fenêtre de Lucrèce. Elle analyse finement le personnage du faux soldat (« Non pas pour ce qu’il est, mais pour ce qu’il veut être »).",
+   "relations": "Suivante de Clarice, sa conseillère et l’inventrice de la ruse du billet."
+  },
+  {
+   "nom": "Sabine",
+   "role": "Femme de chambre de Lucrèce. Elle porte les billets, accepte les pistoles de Dorante (la « pluie ») tout en jouant les ingénues, et sert d’intermédiaire. C’est elle qui révèle à Cliton que Clarice parlait sous le nom de Lucrèce.",
+   "relations": "Femme de chambre de Lucrèce, intermédiaire payée par Dorante, en tractation avec Cliton."
+  },
+  {
+   "nom": "Lycas",
+   "role": "Valet d’Alcippe. Personnage muet ou presque, il apporte à Dorante le billet de provocation en duel (acte II, scène 8).",
+   "relations": "Valet d’Alcippe, porteur du cartel."
+  }
+ ],
+ "evolution": "Dorante n’évolue guère moralement : il ment au début comme à la fin, mais son mensonge change de fonction. Gratuit et joyeux à l’acte I (le passé militaire, la fête sur l’eau), il devient défensif à l’acte II (le faux mariage pour échapper à son père), puis il s’emballe et le met en danger aux actes III et IV (le duel inventé, la grossesse, les deux noms du beau-père). À l’acte V, démasqué, il ne se corrige pas : il retourne la situation par une nouvelle fiction (« Sans changer de discours changeons de batterie ») et transforme son erreur en choix. Les autres personnages, eux, passent de la crédulité à la lucidité : Alcippe apprend la vérité par Philiste (III, 2), Clarice démasque Dorante à la fenêtre (III, 5), Géronte, d’abord attendri, découvre qu’il a été dupé et passe de l’indulgence à la colère (V, 2-3). Cliton évolue aussi : témoin scandalisé (« J’enrage de me taire et d’entendre mentir ! »), il devient complice, puis admirateur, jusqu’à la morale finale. La situation amoureuse, enfin, se retourne : Dorante croyait aimer « Lucrèce » (en réalité Clarice) ; il découvre au dénouement que c’est la vraie Lucrèce qui lui plaît désormais. Corneille explique dans l’Examen avoir voulu ce glissement pour éviter le mariage forcé de la source espagnole.",
+ "themes": [
+  {
+   "titre": "Le mensonge comme art et comme plaisir",
+   "texte": "Dorante ne ment pas seulement par intérêt : il ment souvent pour rien, par jeu. Le récit de la fête sur l’eau (I, 5) ne lui rapporte rien, sinon le plaisir d’étonner Alcippe et Philiste. Il l’avoue lui-même : il aime « braver ainsi les conteurs de nouvelles » et les servir « d’un conte imaginaire, / Qui l’étonne lui-même, et le force à se taire » (I, 6). Isabelle s’étonne de ce goût de « fourber sans dessein » (III, 3). Le mensonge devient une performance artistique, avec ses règles : « Il y faut promptitude, esprit, mémoire, soins, / Ne se brouiller jamais, et rougir encor moins » (III, 4). Cliton le compare à un romancier : « Vous seriez un grand maître à faire des romans »."
+  },
+  {
+   "titre": "Paraître à Paris : le mensonge social",
+   "texte": "Dès la scène 1, Dorante s’inquiète de son allure : « Ne vois-tu rien en moi qui sente l’écolier ? » Paris est présenté comme le règne de l’apparence : chacun « vaut communément autant comme il se prise », dit Cliton (I, 1). Dorante s’invente donc un passé de soldat, plus séduisant qu’un diplôme de droit, et parodie le compliment d’un « homme à paragraphe » (I, 6). Isabelle montre que ce mensonge est banal : bien des jeunes gens « qui parlent d’Allemagne » ont tout appris « dans une gazette » ; Dorante a voulu « paraître, / Non pas pour ce qu’il est, mais pour ce qu’il veut être » (III, 3). Corneille fait ainsi la satire d’une société où l’image compte plus que la réalité."
+  },
+  {
+   "titre": "Vérité, crédit et parole donnée",
+   "texte": "Le mensonge ruine la valeur de la parole. Le paradoxe est formulé par Cliton : la vérité, « En passant par sa bouche, elle perd son crédit » (III, 6). Les serments de Dorante deviennent suspects : « Un menteur est toujours prodigue de serments », lui répond Clarice (III, 5). Pour Alcippe, l’honneur et la parole sont liés : « Tout homme de courage est homme de parole » (III, 2). Géronte va plus loin : un gentilhomme qui ment « ne le fut jamais » (V, 3). Pourtant, la pièce montre aussi que « Les menteurs les plus grands disent vrai quelquefois » (IV, 7) : Dorante est sincère quand il dit aimer, mais personne ne le croit plus. Sabine résume le problème : Lucrèce l’aimera « Quand elle vous croira » (V, 5)."
+  },
+  {
+   "titre": "L’amour, le mariage et l’intérêt",
+   "texte": "Le mariage est une affaire de familles : Géronte choisit Clarice pour son fils (« l’affaire est conclue »), et le dénouement est réglé par les pères (« Nos parents sont d’accord »). Les jeunes femmes, elles, se montrent lucides et pragmatiques : Clarice veut connaître son futur mari « dans l’âme » mais avoue qu’« Alcippe, après tout, vaut toujours mieux que rien » (II, 2). L’amour lui-même est instable : Dorante passe d’une jeune femme à l’autre en un instant (« Mon cœur déjà penchait où mon erreur le jette », V, 6). Lucrèce analyse la naissance du sentiment : « De le croire à l’aimer la distance est petite » (IV, 9). L’argent circule aussi : Dorante achète la complicité de Sabine avec ses pistoles, cette « pluie » qui délie les langues."
+  },
+  {
+   "titre": "Illusion, apparences et quiproquo : une pièce baroque",
+   "texte": "Toute l’intrigue repose sur une illusion : Dorante se trompe sur le nom de celle qu’il aime et ne s’en aperçoit qu’à l’avant-dernière scène. Les personnages trompeurs sont eux-mêmes trompés : Clarice joue Lucrèce à la fenêtre, le page d’Alcippe confond les carrosses, Dorante le menteur est dupé par un simple nom. Clarice le dit : « Les visages souvent sont de doux imposteurs » (II, 2). Paris apparaît comme une « île enchantée », un « pays de romans » (II, 5), et la nuit, la fenêtre, les billets multiplient les jeux de masques. On reconnaît l’esthétique baroque du monde comme théâtre, déjà célébrée par Corneille dans L’Illusion comique."
+  },
+  {
+   "titre": "Le père et le fils : l’honneur et la noblesse",
+   "texte": "Géronte est un père aimant et indulgent (« Je prends peu garde au bien, afin d’être bon père »), ce qui le rend crédule : il pardonne le faux mariage, se réjouit de la fausse grossesse. Quand il découvre la vérité, il se sent ridiculisé (« Il me fait le trompette et le second auteur ! », V, 2). Sa tirade de l’acte V pose une question grave : la noblesse vient-elle du sang ou de la vertu ? « Où le sang l’a donné, le vice aussi le perd » (V, 3). Le mensonge est à ses yeux le plus bas des vices, indigne d’un homme « élevé pour la gloire ». La question « Êtes-vous gentilhomme ? » fait écho au Cid (« Rodrigue, as-tu du cœur ? ») : Corneille fait entrer un instant le registre héroïque dans la comédie."
+  },
+  {
+   "titre": "Maîtres et valets",
+   "texte": "Cliton est à la fois complice, critique et spectateur. Il découvre les mensonges en même temps que le public et se fait lui-même duper (le faux mariage en II, 6 ; le faux duel en IV, 1), ce qui produit un comique de répétition : « À moi, de votre cœur l’unique secrétaire ». Sabine, de son côté, joue les ingénues tout en empochant l’argent : « Je sais bien mon métier, et ma simplicité / Joue aussi bien son jeu que ton avidité » (IV, 7). Les valets mentent aussi (Sabine prétend que Lucrèce a déchiré la lettre) : le mensonge est partout dans cette société, du haut en bas de l’échelle sociale."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Le mensonge est-il un vice à condamner ou un art à admirer ? La pièce ridiculise Dorante mais ne le punit pas.",
+   "Que vaut la parole dans une société de l’apparence, où chacun, selon Cliton, « vaut communément autant comme il se prise » ?",
+   "Le menteur est-il une image du poète et du dramaturge, créateurs de fictions qui séduisent un public ?",
+   "Comment la comédie peut-elle intégrer une question grave (l’honneur, la noblesse, la parole donnée) sans cesser de faire rire ?"
+  ],
+  "intentions": "Corneille s’est expliqué sur la pièce dans trois textes. Dans l’Épître de l’édition originale (1644), il dit avoir voulu répondre à ceux qui lui demandaient, après tant de tragédies, « quelque chose de plus enjoué qui ne servît qu’à les divertir », et tenter « ce que pourroit l’agrément du sujet, dénué de la force des vers ». Dans l’avis Au lecteur, il précise qu’il a « entièrement dépaysé les sujets pour les habiller à la françoise » : les exploits que le héros d’Alarcón situe au Pérou et aux Indes deviennent chez lui les guerres d’Allemagne. Dans l’Examen (1660), il avoue avoir dû « forcer [son] aversion pour les a parte » (les apartés), et surtout avoir modifié le dénouement : chez l’auteur espagnol, le menteur est puni en devant épouser une femme qu’il n’aime pas ; Corneille a trouvé cette fin « un peu dure » et préféré « un mariage moins violenté », d’où la « pente » de Dorante vers Lucrèce au cinquième acte. (Source : Épître, Au lecteur et Examen, éd. Marty-Laveaux, Gutenberg n° 39739.)",
+  "procedes": [
+   {
+    "nom": "L’aparté et la double énonciation",
+    "explication": "Un personnage parle sans être entendu des autres, mais le public l’entend : le spectateur devient le complice de celui qui sait. Corneille dit dans l’Examen qu’il a dû garder ces apartés malgré son « aversion », car ils font une grande partie des « beautés » de l’intrigue.",
+    "exemple": "Pendant le récit de la fête, Cliton : « J’enrage de me taire et d’entendre mentir ! » (I, 5, v. 260)."
+   },
+   {
+    "nom": "Le récit inventé (hypotypose)",
+    "explication": "Dorante crée par les mots un spectacle si précis qu’il paraît vrai : chiffres, noms, sensations, détails concrets. Le mensonge devient une œuvre d’art verbale.",
+    "exemple": "La fête sur l’eau (I, 5) : bateaux, chœurs de musique, collation, feu d’artifice ; le faux mariage de Poitiers (II, 5), avec la montre, le pistolet et la barricade (« Bancs, tables, coffres, lits, et jusqu’aux escabelles »)."
+   },
+   {
+    "nom": "Le quiproquo et l’ironie dramatique",
+    "explication": "Dorante confond les noms des deux jeunes filles ; le spectateur, qui le sait, rit de son aveuglement. Le menteur est trompé par une simple erreur de nom.",
+    "exemple": "Scène de la fenêtre (III, 5) : Dorante déclare à Clarice, qu’il prend pour Lucrèce, que Clarice ne lui plaît pas."
+   },
+   {
+    "nom": "La maxime",
+    "explication": "Vers bien frappé, au présent de vérité générale, facile à retenir. Les maximes commentent les mensonges et donnent à la comédie une portée morale (souvent ironique).",
+    "exemple": "« Il faut bonne mémoire après qu’on a menti » (IV, 5, v. 1260) ; « Un menteur est toujours prodigue de serments » (III, 5, v. 972)."
+   },
+   {
+    "nom": "Le vers partagé et la stichomythie",
+    "explication": "L’alexandrin est découpé entre plusieurs répliques : le dialogue s’accélère, le suspense monte, le menteur doit improviser.",
+    "exemple": "« Elle est grosse. — Elle est grosse ! — Et de plus de six mois. » (IV, 4, v. 1227)."
+   },
+   {
+    "nom": "Le changement de registre",
+    "explication": "La comédie accueille un instant le registre grave, presque tragique, puis le désamorce par le rire.",
+    "exemple": "La tirade de Géronte (« Êtes-vous gentilhomme ? », V, 3), coupée par les apartés de Cliton (« Dites que le sommeil vous l’a fait oublier »)."
+   }
+  ],
+  "style": "Corneille écrit en alexandrins à rimes plates, mais d’une grande souplesse : les vers sont souvent coupés entre plusieurs personnages, ce qui donne au dialogue la vivacité de la conversation. La langue est celle de la galanterie parisienne des années 1640 (compliments, « feux », « flammes ») mêlée de termes techniques détournés : vocabulaire juridique parodié (« le Code », « le Digeste ») et jargon militaire (« contrescarpe », « vedette »). Les récits de Dorante sont des morceaux de bravoure, riches en énumérations, en chiffres et en hyperboles ; les répliques de Cliton, plus familières, multiplient les traits d’esprit et les proverbes. Le texte du site conserve l’orthographe du XVIIe siècle (« étoit », « connoître », « je disois ») : il suffit de lire « oi » comme « ai » pour retrouver la prononciation moderne.",
+  "registres": [
+   {
+    "nom": "Comique",
+    "explication": "Comique de situation (quiproquo, menteur pris à son propre piège), de mots (maximes, jeux sur les noms Armédon / Pyrandre), de caractère (le menteur, le père crédule) et de répétition (Cliton dupé deux fois)."
+   },
+   {
+    "nom": "Épique et lyrique (parodiés)",
+    "explication": "Les récits de Dorante empruntent à l’épopée ses hyperboles (« Tout l’élément du feu tombait du ciel en terre ») et au roman ses aventures nocturnes ; ce grandissement, mis au service d’un mensonge, devient comique."
+   },
+   {
+    "nom": "Grave, presque tragique",
+    "explication": "La colère de Géronte (V, 3) pose la question de l’honneur et de la noblesse, avec un serment terrible : « Que tu ne mourras point que de la main d’un père ». Le registre est aussitôt désamorcé par la désinvolture de Dorante."
+   },
+   {
+    "nom": "Satirique",
+    "explication": "La pièce se moque d’une société de l’apparence : faux héros qui ont appris la guerre « dans une gazette », galants qui jouent un rôle, crédulité des pères."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Corneille a modifié le dénouement de sa source espagnole pour éviter de punir le menteur par un mariage forcé ; il le dit lui-même dans l’Examen de 1660.",
+    "nature": "fait"
+   },
+   {
+    "texte": "Dorante peut être lu comme une figure du poète et du dramaturge : il invente des personnages (Orphise, Armédon), met en scène des récits et captive un public. Cliton le compare d’ailleurs à un « grand maître à faire des romans ». Cette lecture est très répandue, mais elle reste une interprétation.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "La morale finale (« Par un si rare exemple apprenez à mentir ») est-elle une simple plaisanterie ou un éloge de la fiction théâtrale ? Les critiques divergent : certains y voient une pirouette comique sans portée, d’autres une réflexion de Corneille sur l’illusion consentie du théâtre.",
+    "nature": "debat"
+   },
+   {
+    "texte": "L’anecdote selon laquelle Molière aurait déclaré à Boileau devoir Le Misanthrope au Menteur est douteuse : l’éditeur Marty-Laveaux note qu’on ne la retrouve pas dans les sources invoquées. On peut dire que Le Menteur a préparé la comédie de caractère, non affirmer que Molière l’a dit.",
+    "nature": "fait"
+   },
+   {
+    "texte": "La tirade de Géronte (V, 3) est-elle une vraie condamnation morale ou un morceau de bravoure que la suite rend presque comique ? La place du sérieux dans la pièce est discutée.",
+    "nature": "debat"
+   }
+  ],
+  "liens": "Le Menteur appartient à la période baroque (goût de l’illusion, des masques, du monde comme théâtre, déjà au centre de L’Illusion comique) tout en annonçant le classicisme : Corneille dit dans l’Examen avoir voulu « réduire [la pièce] à notre usage et dans nos règles » (unité de lieu « en ce que tout s’y passe dans Paris », unité de temps en vingt-quatre heures). La pièce reflète aussi l’actualité des années 1640 : guerre de Trente Ans (les généraux ennemis cités par Dorante), embellissement de Paris (Palais-Cardinal, place Royale), culture galante des salons. Elle illustre enfin le goût français pour la comedia espagnole au moment même où la France est en guerre contre l’Espagne, ce dont Corneille s’amuse dans l’Épître (« trafiquer en Espagne »)."
+ },
+ "citations": [
+  {
+   "texte": "Le pays du beau monde et des galanteries",
+   "locuteur": "Dorante",
+   "reference": "Acte I, scène 1, v. 6",
+   "situation": "Premiers vers de la pièce : Dorante, qui a quitté ses études de droit, arrive aux Tuileries avec Cliton.",
+   "sens": "Les Tuileries (et Paris) sont présentées comme le lieu de la mondanité et de la séduction.",
+   "procedes": "Périphrase ; vocabulaire de la galanterie.",
+   "demontre": "Le décor social de la pièce : un monde où l’on vient pour plaire et paraître.",
+   "usage": "Introduire la satire de la société de l’apparence ; situer l’action dans le Paris des années 1640.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Comme on s’y connaît mal, chacun s’y fait de mise, / Et vaut communément autant comme il se prise",
+   "locuteur": "Cliton",
+   "reference": "Acte I, scène 1, v. 81-82",
+   "situation": "Cliton explique à son maître comment fonctionne Paris.",
+   "sens": "À Paris, on ne connaît pas vraiment les gens : chacun vaut ce qu’il prétend valoir.",
+   "procedes": "Maxime au présent de vérité générale ; rime « mise / prise ».",
+   "demontre": "Le mensonge de Dorante répond aux règles d’une société où l’image compte plus que la réalité.",
+   "usage": "Dissertation sur la satire sociale ; oral : montrer que le mensonge n’est pas seulement un trait de caractère.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Orthographe modernisée, correspondance contrôlée mot à mot. Texte du site : « Comme on s'y connoît mal, chacun s'y fait de mise, / Et vaut communément autant comme il se prise: »"
+   }
+  },
+  {
+   "texte": "J’enrage de me taire et d’entendre mentir !",
+   "locuteur": "Cliton (en aparté)",
+   "reference": "Acte I, scène 5, v. 260",
+   "situation": "Dorante s’attribue la fête sur l’eau devant Alcippe et Philiste ; Cliton sait qu’il est arrivé la veille.",
+   "sens": "Le valet, témoin muet, ne supporte pas le mensonge de son maître.",
+   "procedes": "Aparté ; exclamation ; antithèse « me taire » / « mentir ».",
+   "demontre": "La double énonciation fait du public le complice de Cliton ; le comique repose sur ce que le spectateur sait.",
+   "usage": "Exemple type d’aparté et d’ironie dramatique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Vous seriez un grand maître à faire des romans",
+   "locuteur": "Cliton",
+   "reference": "Acte I, scène 6, v. 356",
+   "situation": "Seul avec Dorante, Cliton commente ses inventions.",
+   "sens": "Dorante a le talent d’un romancier.",
+   "procedes": "Hyperbole élogieuse et ironique.",
+   "demontre": "Le menteur est rapproché de l’écrivain, créateur de fictions.",
+   "usage": "Indispensable pour la lecture métathéâtrale : le menteur comme double de l’auteur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Je le sers aussitôt d’un conte imaginaire, / Qui l’étonne lui-même, et le force à se taire.",
+   "locuteur": "Dorante",
+   "reference": "Acte I, scène 6, v. 365-366",
+   "situation": "Dorante explique pourquoi il a inventé la fête : il aime « braver ainsi les conteurs de nouvelles ».",
+   "sens": "Il ment pour étonner et faire taire ceux qui croient lui apprendre quelque chose.",
+   "procedes": "Vocabulaire du récit (« conte ») ; gradation « étonne… force à se taire ».",
+   "demontre": "Le mensonge gratuit : plaisir de dominer par la parole, sans intérêt matériel.",
+   "usage": "Distinguer le mensonge gratuit (par plaisir) du mensonge intéressé (II, 5).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Les visages souvent sont de doux imposteurs",
+   "locuteur": "Clarice",
+   "reference": "Acte II, scène 2, v. 408",
+   "situation": "Clarice explique à Isabelle que voir Dorante sous sa fenêtre ne suffit pas pour le juger.",
+   "sens": "L’apparence physique peut tromper.",
+   "procedes": "Maxime ; personnification et oxymore « doux imposteurs ».",
+   "demontre": "Le thème de l’apparence trompeuse ne concerne pas que Dorante : toute la pièce se méfie des visages.",
+   "usage": "Thème baroque de l’illusion ; montrer la lucidité de Clarice.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Oh ! l’utile secret que mentir à propos !",
+   "locuteur": "Dorante",
+   "reference": "Acte II, scène 6, v. 691",
+   "situation": "Dorante triomphe devant Cliton après avoir inventé son mariage de Poitiers pour échapper au projet de son père.",
+   "sens": "Mentir au bon moment est un secret précieux.",
+   "procedes": "Exclamation ; adjectif « utile » ; tournure exclamative de l’éloge.",
+   "demontre": "Le mensonge intéressé, arme contre l’autorité paternelle.",
+   "usage": "Opposer à la condamnation morale de Géronte (V, 3).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Tout homme de courage est homme de parole",
+   "locuteur": "Alcippe",
+   "reference": "Acte III, scène 2, v. 814",
+   "situation": "Philiste vient d’apprendre à Alcippe que la fête était inventée ; Alcippe refuse de croire qu’un homme brave puisse mentir.",
+   "sens": "Pour Alcippe, courage et sincérité vont ensemble.",
+   "procedes": "Maxime ; parallélisme « homme de courage / homme de parole ».",
+   "demontre": "La conception aristocratique de l’honneur, que Dorante dément.",
+   "usage": "Dissertation sur l’honneur et la parole ; à relier au vers de Philiste (v. 818).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Est vaillant par nature et menteur par coutume.",
+   "locuteur": "Philiste",
+   "reference": "Acte III, scène 2, v. 818",
+   "situation": "Philiste répond à Alcippe à propos de Dorante.",
+   "sens": "Dorante est courageux, mais il ment par habitude.",
+   "procedes": "Parallélisme et antithèse « vaillant / menteur », « nature / coutume ».",
+   "demontre": "Le mensonge n’efface pas le courage : Corneille dissocie les deux qualités.",
+   "usage": "Portrait de Dorante en un vers ; utile pour nuancer le jugement sur le personnage.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Non pas pour ce qu’il est, mais pour ce qu’il veut être",
+   "locuteur": "Isabelle",
+   "reference": "Acte III, scène 3, v. 874",
+   "situation": "Isabelle analyse pour Clarice pourquoi le jeune homme s’est fait passer pour un soldat.",
+   "sens": "Dorante a voulu paraître ce qu’il souhaite être, non ce qu’il est.",
+   "procedes": "Antithèse « est / veut être » ; balancement.",
+   "demontre": "Le mensonge est une construction de soi et une stratégie de séduction.",
+   "usage": "Thème être / paraître ; montrer que les femmes de la pièce voient clair.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Il y faut promptitude, esprit, mémoire, soins, / Ne se brouiller jamais, et rougir encor moins.",
+   "locuteur": "Dorante",
+   "reference": "Acte III, scène 4, v. 935-936",
+   "situation": "Cliton souhaite que Dorante rencontre une femme aussi menteuse que lui ; Dorante répond que ce talent est rare.",
+   "sens": "Mentir exige des qualités précises : rapidité, intelligence, mémoire, sang-froid.",
+   "procedes": "Énumération ; vers didactique, comme un « art poétique » du mensonge.",
+   "demontre": "Le mensonge est présenté comme un art ; ironie dramatique, car la mémoire va manquer à Dorante (IV, 4).",
+   "usage": "Mensonge et création ; préparer l’analyse de l’oubli du nom en IV, 4.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Un menteur est toujours prodigue de serments.",
+   "locuteur": "Clarice",
+   "reference": "Acte III, scène 5, v. 972",
+   "situation": "Dorante jure qu’il n’est pas marié ; Clarice, qui parle sous le nom de Lucrèce, le renvoie à ses serments.",
+   "sens": "Plus un menteur jure, moins on doit le croire.",
+   "procedes": "Maxime au présent de vérité générale ; adverbe « toujours ».",
+   "demontre": "Le mensonge ruine la valeur de la parole, même solennelle.",
+   "usage": "Thème de la parole et du crédit ; scène de la fenêtre.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Quand un menteur la dit, / En passant par sa bouche, elle perd son crédit.",
+   "locuteur": "Cliton",
+   "reference": "Acte III, scène 6, v. 1079-1080",
+   "situation": "Dorante affirme qu’il disait la vérité (« Je disois vérité ») ; Cliton lui répond.",
+   "sens": "Même la vérité devient suspecte dans la bouche d’un menteur.",
+   "procedes": "Paradoxe ; rime « dit / crédit » ; métaphore de la bouche qui « fait passer » la vérité.",
+   "demontre": "Le châtiment du menteur : il n’est plus cru quand il est sincère.",
+   "usage": "Dissertation : la comédie punit-elle le menteur ? Oui, par la perte de crédit.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Il faut bonne mémoire après qu’on a menti.",
+   "locuteur": "Cliton",
+   "reference": "Acte IV, scène 5, v. 1260",
+   "situation": "Juste après que Dorante a donné à son prétendu beau-père le nom de Pyrandre au lieu d’Armédon.",
+   "sens": "Le menteur doit se souvenir de toutes ses inventions.",
+   "procedes": "Maxime proverbiale ; tournure impersonnelle « il faut ».",
+   "demontre": "La mécanique comique du mensonge, qui s’emballe et finit par se trahir.",
+   "usage": "Vers le plus connu de la pièce ; conclusion idéale d’un paragraphe sur la mécanique comique.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Les menteurs les plus grands disent vrai quelquefois.",
+   "locuteur": "Cliton",
+   "reference": "Acte IV, scène 7, v. 1336",
+   "situation": "Cliton assure à Sabine que l’amour de Dorante pour Lucrèce est sincère.",
+   "sens": "Même un grand menteur peut dire la vérité.",
+   "procedes": "Maxime ; superlatif « les plus grands » ; adverbe « quelquefois ».",
+   "demontre": "Vérité et mensonge sont mêlés chez Dorante.",
+   "usage": "Nuancer : le menteur n’est pas toujours insincère (ses sentiments sont réels).",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Êtes-vous gentilhomme ?",
+   "locuteur": "Géronte",
+   "reference": "Acte V, scène 3, v. 1501",
+   "situation": "Géronte, détrompé par Philiste, interroge son fils.",
+   "sens": "Question brutale : un noble peut-il mentir ?",
+   "procedes": "Question rhétorique ; vouvoiement solennel.",
+   "demontre": "L’irruption d’un registre grave, qui rappelle le « Rodrigue, as-tu du cœur ? » du Cid.",
+   "usage": "Oral : la scène de la colère du père ; lien avec Le Cid.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Qui se dit gentilhomme, et ment comme tu fais, / Il ment quand il le dit, et ne le fut jamais.",
+   "locuteur": "Géronte",
+   "reference": "Acte V, scène 3, v. 1519-1520",
+   "situation": "Dans sa tirade, Géronte tire la conséquence du mensonge de son fils.",
+   "sens": "Celui qui ment perd la noblesse qu’il prétend avoir : il ne l’a jamais eue.",
+   "procedes": "Raisonnement par l’absurde ; répétition de « ment » ; passage du vous au tu.",
+   "demontre": "Pour Géronte, le mensonge est le pire des vices pour un noble : la parole fonde l’honneur.",
+   "usage": "Dissertation : la comédie corrige-t-elle ? Voici la condamnation morale la plus nette.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Sans changer de discours changeons de batterie.",
+   "locuteur": "Dorante",
+   "reference": "Acte V, scène 6, v. 1729",
+   "situation": "Cliton vient de révéler à Dorante que la jeune fille qu’il courtisait est Clarice, et que la vraie Lucrèce est l’autre.",
+   "sens": "Dorante décide de garder les mêmes mots mais de changer de cible.",
+   "procedes": "Antithèse et parallélisme « changer de discours / changeons de batterie » ; métaphore militaire.",
+   "demontre": "Le menteur ne se corrige pas : il retourne la situation par une nouvelle fiction.",
+   "usage": "Dénouement : montrer que Dorante triomphe sans s’amender.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Texte identique à celui du site (ponctuation éventuellement modernisée)"
+   }
+  },
+  {
+   "texte": "Comme en sa propre fourbe un menteur s’embarrasse ! / Peu sauraient comme lui s’en tirer avec grâce. / Vous autres qui doutiez s’il en pourrait sortir, / Par un si rare exemple apprenez à mentir.",
+   "locuteur": "Cliton",
+   "reference": "Acte V, scène 7, v. 1801-1804 (derniers vers)",
+   "situation": "Seul en scène, Cliton s’adresse directement au public.",
+   "sens": "Le menteur s’est empêtré dans ses mensonges, mais il s’en est tiré avec élégance ; le public est invité à suivre son exemple.",
+   "procedes": "Adresse au public ; morale renversée ; antithèse entre « s’embarrasse » et « avec grâce ».",
+   "demontre": "Une morale ironique : la comédie n’exclut pas le menteur, elle salue sa virtuosité.",
+   "usage": "Conclusion de toute dissertation sur la pièce ; question de l’éloge du mensonge.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : éd. Ch. Marty-Laveaux (Hachette, 1862), Project Gutenberg n° 39739 ; numérotation des vers contrôlée sur Wikisource (même édition)",
+    "note": "Orthographe modernisée, correspondance contrôlée mot à mot. Texte du site : « Comme en sa propre fourbe un menteur s'embarrasse! / Peu sauroient comme lui s'en tirer avec grâce. / Vous autres qui doutiez s'il en pourroit sortir, / Par un si rare exemple apprenez à mentir. »"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "Mensonge et comédie",
+  "explication": "Ce parcours invite à réfléchir aux liens profonds entre le mensonge et le genre comique. La comédie vit de masques, de ruses, de déguisements, de quiproquos : sans mensonge, il n’y aurait souvent pas d’intrigue. Mais le mensonge y prend des valeurs différentes : il peut être dénoncé comme un vice (l’hypocrite, le fourbe), utilisé comme une arme pour déjouer l’autorité (les valets rusés, les amoureux contrariés), ou célébré comme une forme de création, puisque le théâtre lui-même est une illusion assumée.\n\nLe Menteur est l’œuvre idéale pour ce parcours, car elle place le mensonge au centre, jusque dans son titre. Dorante est un menteur de caractère, qui ment par nature et par plaisir ; la pièce le ridiculise (il se prend les pieds dans ses fictions) sans jamais vraiment le punir : il obtient même un beau mariage. Corneille montre que le mensonge est partout (Clarice joue Lucrèce, Sabine trompe sa maîtresse, Isabelle invente des ruses) et qu’il révèle une société de l’apparence.\n\nSurtout, le menteur ressemble au dramaturge : il invente des récits, crée des personnages (Orphise, Armédon, Pyrandre), improvise des scènes, captive un public. La morale finale de Cliton, « apprenez à mentir », peut se lire comme un clin d’œil : le spectateur vient au théâtre pour être trompé, et la comédie est une fiction qui, en mentant, dit la vérité sur les hommes. À l’oral comme à l’écrit, il faut donc savoir distinguer le mensonge dénoncé, le mensonge ludique et le mensonge comme métaphore du théâtre.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Tartuffe ou l’Imposteur (1669), notamment acte III, scène 3 et acte IV, scène 5",
+    "auteur": "Molière",
+    "interet": "Contrepoint idéal : chez Molière, le mensonge de l’hypocrite religieux est dangereux, il menace une famille entière. On peut opposer le menteur ludique et sympathique de Corneille au fourbe inquiétant de Molière, et réfléchir à la frontière entre rire et dénonciation."
+   },
+   {
+    "titre": "Les Fourberies de Scapin (1671), acte II, scène 7",
+    "auteur": "Molière",
+    "interet": "Scapin, valet rusé, invente une histoire de galère turque pour soutirer de l’argent à Géronte (même nom que le père du Menteur). Le mensonge y est une arme au service des jeunes amoureux contre l’avarice des pères, avec un comique de répétition célèbre (« Que diable allait-il faire dans cette galère ? »)."
+   },
+   {
+    "titre": "Le Jeu de l’amour et du hasard (1730)",
+    "auteur": "Marivaux",
+    "interet": "Silvia et Dorante échangent leur identité avec leurs domestiques pour observer leur futur conjoint. Le mensonge et le déguisement deviennent ici des épreuves qui permettent d’accéder à la vérité des cœurs."
+   },
+   {
+    "titre": "Les Fausses Confidences (1737)",
+    "auteur": "Marivaux",
+    "interet": "Le valet Dubois orchestre une série de mensonges calculés pour que la riche Araminte tombe amoureuse de Dorante. Le mensonge est un art de metteur en scène, comme chez Corneille, mais il sert à faire naître un amour sincère."
+   },
+   {
+    "titre": "Le Menteur (Il bugiardo, 1750)",
+    "auteur": "Carlo Goldoni",
+    "interet": "Le dramaturge vénitien réécrit la pièce de Corneille. La comparaison des dénouements est éclairante : Corneille, lui, laisse son menteur triompher."
+   },
+   {
+    "titre": "La verdad sospechosa (La Vérité suspecte), publiée en 1634",
+    "auteur": "Juan Ruiz de Alarcón",
+    "interet": "La source espagnole de Corneille. Corneille la résume lui-même dans l’Examen : le menteur, qui s’est trompé de nom, est contraint d’épouser la jeune fille qu’il n’aime pas, sous la menace des pères. Corneille transforme ce dénouement punitif en dénouement heureux et ambigu."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Le mensonge est le moteur de l’intrigue : chaque fiction de Dorante crée un obstacle ou un rebondissement.",
+   "Dorante ment par intérêt (le faux mariage) mais surtout par plaisir (la fête sur l’eau) : le mensonge est un jeu et un art.",
+   "Le quiproquo sur les noms fait du menteur la dupe d’une erreur : il est trompé à son tour.",
+   "La pièce fait la satire d’une société de l’apparence où chacun « se prise » lui-même.",
+   "La parole perd sa valeur : le menteur n’est plus cru, même quand il dit vrai.",
+   "La comédie accueille un registre grave (l’honneur, V, 3) sans renoncer au rire.",
+   "Le dénouement ne punit pas Dorante, contrairement à la source espagnole : la morale finale est ironique."
+  ],
+  "axes": [
+   "Une mécanique comique du mensonge (accumulation, emballement, chute).",
+   "Le menteur, poète et metteur en scène de ses fictions.",
+   "Être et paraître : une satire sociale.",
+   "Vérité, parole et honneur : la question morale.",
+   "Le valet témoin : rôle de Cliton dans la double énonciation."
+  ],
+  "problematiques": [
+   "Le Menteur condamne-t-il le mensonge ou en fait-il l’éloge ?",
+   "Comment Corneille fait-il du mensonge à la fois le moteur de l’intrigue et l’objet d’une réflexion sur la parole ?",
+   "En quoi le menteur ressemble-t-il au dramaturge ?",
+   "Comment la pièce fait-elle rire d’un vice sans le rendre odieux ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "Le récit de la fête sur l’eau (I, 5)",
+    "utilisation": "Le mensonge gratuit, pur plaisir de l’invention verbale ; puissance de la parole qui agit sur le réel (jalousie d’Alcippe)."
+   },
+   {
+    "exemple": "Le faux mariage de Poitiers (II, 5)",
+    "utilisation": "Le mensonge intéressé contre l’autorité paternelle ; un récit romanesque improvisé ; la crédulité comique du père."
+   },
+   {
+    "exemple": "La scène de la fenêtre (III, 5)",
+    "utilisation": "Le menteur dupé par un quiproquo ; ironie dramatique maximale ; Clarice retourne le mensonge contre lui."
+   },
+   {
+    "exemple": "L’oubli du nom du beau-père (IV, 4-5)",
+    "utilisation": "La mécanique du mensonge qui s’effondre ; maxime « Il faut bonne mémoire après qu’on a menti »."
+   },
+   {
+    "exemple": "La colère de Géronte (V, 3)",
+    "utilisation": "La condamnation morale du mensonge au nom de l’honneur ; un registre grave dans une comédie."
+   },
+   {
+    "exemple": "La morale finale de Cliton (V, 7)",
+    "utilisation": "L’ambiguïté du dénouement : éloge ironique du mensonge, réflexion sur le théâtre."
+   }
+  ],
+  "liens": "Les thèmes se répondent : le mensonge (thème) passe par des récits inventés (procédé : hypotypose) qui font de Dorante un créateur (personnage-poète). Le quiproquo (procédé) relie le thème de l’illusion à la punition comique du menteur. Cliton (personnage) incarne la double énonciation (procédé) et la réflexion morale (maximes). Géronte relie le mensonge à la question de l’honneur, et Clarice et Isabelle à celle de l’apparence et du jugement lucide.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Acte I, scène 5, v. 228-308 : le récit de la fête sur l’eau",
+    "pistes": "1. Un menteur stratège : l’interrogatoire en stichomythies (« Sur l’eau ? — Sur l’eau. ») lui permet de recueillir des informations avant d’inventer. 2. Une hypotypose éblouissante : chiffres, énumérations, sensations, hyperboles cosmiques. 3. Les effets de la fiction : apartés de Cliton (« J’enrage de me taire et d’entendre mentir ! ») et jalousie d’Alcippe (« Je meurs de jalousie ! »)."
+   },
+   {
+    "passage": "Acte II, scène 5, v. 549-685 : le faux mariage de Poitiers",
+    "pistes": "1. Un piège : l’autorité du père (« Fais ce que je t’ordonne »). 2. Une improvisation romanesque : détails concrets, présent de narration, suspense. 3. Le triomphe du menteur et la crédulité du père, sous le regard de Clarice : ironie dramatique."
+   },
+   {
+    "passage": "Acte V, scène 3, v. 1501-1600 : « Êtes-vous gentilhomme ? »",
+    "pistes": "1. Un réquisitoire solennel : questions rhétoriques, maximes sur la noblesse (« Où le sang a manqué, si la vertu l’acquiert »). 2. Un registre grave tenu à distance par les apartés de Cliton. 3. Un nouvel aveu de Dorante, qui est encore une manœuvre : le menteur ne se corrige pas."
+   }
+  ],
+  "erreurs": [
+   "Confondre Clarice et Lucrèce : c’est Clarice qui parle à Dorante aux Tuileries et à la fenêtre ; Dorante épouse Lucrèce.",
+   "Croire que Dorante est puni à la fin : il épouse Lucrèce, qui lui plaît désormais ; c’est dans la source espagnole que le menteur est puni.",
+   "Dire que Dorante revient de la guerre : il revient de Poitiers, où il étudiait le droit.",
+   "Attribuer « Il faut bonne mémoire après qu’on a menti » à Dorante ou à Géronte : c’est Cliton qui le dit (IV, 5).",
+   "Présenter Le Menteur comme une pièce de Molière ou comme une tragédie : c’est une comédie de Corneille, créée bien avant les grandes comédies de Molière.",
+   "Citer le texte du site sans signaler que l’orthographe y est ancienne (« étoit », « connoître ») : en copie, on modernise l’orthographe."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Dans Le Menteur de Corneille, le mensonge n’est-il qu’une source de comique ?",
+   "analyse": "Le sujet porte sur la fonction du mensonge. La formule restrictive « n’est-il que » invite à reconnaître d’abord la dimension comique (le mensonge fait rire : quiproquos, situations absurdes, réactions de Cliton) avant de chercher d’autres fonctions : moteur de l’intrigue, satire sociale, réflexion morale sur la parole et l’honneur, et réflexion sur le théâtre lui-même. Il faut éviter de faire un catalogue des mensonges : on s’interroge sur ce qu’ils produisent et sur ce qu’ils disent.",
+   "problematique": "Le mensonge de Dorante sert-il uniquement à faire rire, ou permet-il aussi à Corneille de peindre une société et de réfléchir au pouvoir de la parole et de la fiction ?",
+   "plan": [
+    {
+     "titre": "I. Le mensonge, ressort essentiel du comique",
+     "arguments": [
+      "A. Un comique de situation et de quiproquo : l’erreur sur les noms (Lucrèce / Clarice) structure toute la pièce ; la scène de la fenêtre (III, 5) où Dorante dit à Clarice qu’elle « ne [lui] plaît pas » est un sommet d’ironie dramatique.",
+      "B. Un comique de répétition et de mécanique : chaque mensonge en appelle un autre, jusqu’à l’emballement (le mort qui ressuscite en IV, 1-2 ; « Pyrandre » au lieu d’« Armédon » en IV, 4). Cliton le résume : « Il faut bonne mémoire après qu’on a menti. »",
+      "C. Le valet, spectateur sur scène : les apartés de Cliton (« J’enrage de me taire et d’entendre mentir ! ») et ses dupes successives (« À moi, de votre cœur l’unique secrétaire ») orientent le rire du public."
+     ]
+    },
+    {
+     "titre": "II. Un mensonge qui révèle une société et ses valeurs",
+     "arguments": [
+      "A. La satire du paraître parisien : Dorante veut effacer « l’écolier » ; Cliton décrit une ville où chacun « vaut communément autant comme il se prise » ; Isabelle dénonce les faux soldats qui ont tout appris « dans une gazette » (III, 3).",
+      "B. La question de l’honneur et de la noblesse : pour Alcippe, « Tout homme de courage est homme de parole » ; pour Géronte, le gentilhomme qui ment « ne le fut jamais » (V, 3). La tirade du père introduit un registre grave proche de la tragédie.",
+      "C. Le mensonge généralisé : Clarice joue Lucrèce, Isabelle invente la ruse du billet, Sabine prétend que la lettre a été déchirée. Le mensonge n’est pas le vice d’un seul : c’est le langage d’une société galante fondée sur les apparences."
+     ]
+    },
+    {
+     "titre": "III. Un mensonge qui fait réfléchir au pouvoir de la parole et du théâtre",
+     "arguments": [
+      "A. Le menteur, poète et romancier : le récit de la fête (I, 5) est une hypotypose digne de l’épopée ; Cliton le voit en « grand maître à faire des romans ».",
+      "B. Le menteur, dramaturge : Dorante improvise des scènes, invente des personnages (Orphise, Armédon), dirige les réactions de son public (Géronte, Alcippe). Le mensonge devient une métaphore de la création théâtrale, comme dans L’Illusion comique.",
+      "C. Un éloge ambigu de la fiction : Dorante n’est pas puni, et Cliton conclut « apprenez à mentir ». Corneille rappelle que le théâtre est un mensonge consenti, qui plaît et qui éclaire : le spectateur aime être trompé."
+     ]
+    }
+   ],
+   "introduction": "« Il faut bonne mémoire après qu’on a menti » : ce vers de Cliton est devenu un proverbe, et il résume la mécanique de la célèbre comédie de Corneille, créée vers 1643-1644. Dans Le Menteur, Dorante, jeune homme fraîchement arrivé de Poitiers, invente sans cesse : un passé de soldat, une fête somptueuse, un mariage forcé, un duel mortel. Ces mensonges font évidemment rire, mais on peut se demander si leur rôle se limite au comique. Le mensonge de Dorante sert-il uniquement à divertir, ou permet-il aussi à Corneille de peindre une société et de réfléchir au pouvoir de la parole et de la fiction ? Nous verrons d’abord que le mensonge est le ressort essentiel du comique de la pièce, puis qu’il révèle une société fondée sur l’apparence et sur des valeurs comme l’honneur, avant de montrer qu’il invite à une réflexion sur la création elle-même et sur le théâtre.",
+   "conclusion": "Le mensonge est donc bien la source principale du rire dans Le Menteur : quiproquos, mécanique des fictions qui s’emballent, commentaires du valet font de la pièce une comédie d’intrigue virtuose. Mais il dépasse cette fonction : il révèle une société où le paraître l’emporte sur l’être, il pose la question grave de l’honneur et de la valeur de la parole, et il fait du menteur un double de l’écrivain et du dramaturge. En refusant de punir Dorante, Corneille célèbre avec ironie le pouvoir de la fiction. Un siècle plus tard, Goldoni, en réécrivant la pièce, fera au contraire punir son menteur : preuve que la comédie peut hésiter entre l’éloge et la condamnation de ce qui la fait vivre."
+  },
+  {
+   "sujet": "Dans son Premier placet au roi (1664), Molière affirme que « le devoir de la comédie » est de « corriger les hommes en les divertissant ». Cette définition vous semble-t-elle convenir au Menteur de Corneille ?",
+   "analyse": "La citation pose deux fonctions de la comédie : divertir (plaire, faire rire) et corriger (dénoncer un vice pour en détourner le spectateur). Le lien « en » suggère que le rire est le moyen de la leçon. Il faut se demander si Le Menteur divertit (évidemment) et s’il corrige vraiment : le mensonge est-il condamné ? Dorante est-il puni ? Le dénouement et la morale finale de Cliton invitent à nuancer fortement la thèse.",
+   "problematique": "Le Menteur est-il une comédie morale qui corrige le vice du mensonge par le rire, ou une comédie qui célèbre le plaisir de l’invention au risque de rendre le menteur séduisant ?",
+   "plan": [
+    {
+     "titre": "I. Une comédie qui divertit pleinement",
+     "arguments": [
+      "A. Le plaisir de l’intrigue : rebondissements (billets, duel, révélation finale des noms), rythme rapide, unité de temps qui accélère l’action.",
+      "B. Le plaisir des mots : récits brillants (la fête sur l’eau, le mariage de Poitiers), vers partagés et stichomythies vifs, maximes frappantes.",
+      "C. Le plaisir du jeu : apartés, ironie dramatique, comique de caractère (Dorante, Cliton, Géronte le crédule)."
+     ]
+    },
+    {
+     "titre": "II. Une comédie qui corrige ? Le mensonge dénoncé et puni",
+     "arguments": [
+      "A. Le menteur ridiculisé : il oublie ses fictions (« Pyrandre »), se fait démasquer par Clarice (III, 5) et n’est plus cru quand il dit vrai (« En passant par sa bouche, elle perd son crédit »).",
+      "B. Une condamnation morale explicite : Alcippe (« Tout homme de courage est homme de parole »), Philiste (« menteur par coutume ») et surtout Géronte (V, 3) jugent le mensonge indigne d’un gentilhomme.",
+      "C. Une satire sociale : la pièce corrige aussi les travers d’un public mondain (goût du paraître, crédulité, faux héros de gazette décrits par Isabelle)."
+     ]
+    },
+    {
+     "titre": "III. Une leçon ambiguë : la comédie fait aussi l’éloge du mensonge",
+     "arguments": [
+      "A. Un menteur récompensé : Dorante épouse Lucrèce, qui lui plaît ; il retourne même son erreur en victoire (« Sans changer de discours changeons de batterie »). À la différence d’Alarcón ou de Goldoni, Corneille ne le punit pas.",
+      "B. Une morale renversée : Cliton conclut « Par un si rare exemple apprenez à mentir ». Le rire naît d’une admiration pour la virtuosité, pas d’un rejet du vice.",
+      "C. Une autre vérité de la comédie : plutôt que de corriger, Le Menteur montre les hommes tels qu’ils sont et fait réfléchir à la fiction elle-même ; le menteur est l’image du dramaturge, qui trompe pour plaire."
+     ]
+    }
+   ],
+   "introduction": "En 1664, défendant son Tartuffe interdit, Molière affirme dans son Premier placet au roi que « le devoir de la comédie » est de « corriger les hommes en les divertissant ». Vingt ans plus tôt, Corneille avait fait triompher avec Le Menteur une comédie centrée sur un vice : le mensonge de Dorante, jeune homme qui invente exploits militaires, fêtes et mariages pour briller à Paris. La définition de Molière, qui associe le plaisir et la leçon morale, s’applique-t-elle à cette pièce ? Le Menteur est-il une comédie morale qui corrige le mensonge par le rire, ou une comédie qui célèbre le plaisir de l’invention au risque de rendre le menteur séduisant ? Nous montrerons d’abord que la pièce divertit pleinement, puis qu’elle semble dénoncer et punir le mensonge, avant de voir que sa leçon reste profondément ambiguë, car la comédie y fait aussi l’éloge de la fiction.",
+   "conclusion": "Le Menteur répond parfaitement à la première exigence de Molière : il divertit par son intrigue, ses mots et son jeu. Il semble aussi corriger, puisque le menteur est ridiculisé, démasqué et sévèrement jugé par son père. Pourtant, la leçon reste ambiguë : Dorante n’est pas puni, et la morale finale invite le public : « apprenez à mentir ». Corneille ne prêche pas : il montre, avec une ironie souriante, que la comédie vit elle-même du mensonge. Molière, avec Tartuffe, montrera au contraire un menteur inquiétant, dont la duplicité menace une famille entière : la comédie peut aussi rire pour alerter."
+  },
+  {
+   "sujet": "La comédie fait-elle l’éloge du mensonge ? Vous répondrez en vous appuyant sur Le Menteur de Corneille et sur les textes étudiés dans le cadre du parcours « Mensonge et comédie ».",
+   "analyse": "« Faire l’éloge » signifie valoriser, célébrer. Le sujet demande si le genre comique, qui repose sur les ruses, les masques et les quiproquos, présente le mensonge de manière positive. Il faut distinguer plusieurs formes de mensonge (gratuit, intéressé, hypocrite, généreux) et plusieurs attitudes de la comédie (rire complice, satire, dénonciation). Enfin, on peut élargir : le théâtre étant lui-même une illusion, la comédie ne fait-elle pas, à travers le menteur, l’éloge de sa propre fiction ?",
+   "problematique": "Si la comédie se nourrit du mensonge et semble souvent le célébrer, ne le met-elle pas aussi à distance pour en dénoncer les dangers, et finalement pour révéler une vérité ?",
+   "plan": [
+    {
+     "titre": "I. Oui : la comédie célèbre souvent le mensonge",
+     "arguments": [
+      "A. Un ressort indispensable de l’intrigue : sans mensonge, pas de quiproquo ni de rebondissement (Dorante chez Corneille, Dubois dans Les Fausses Confidences de Marivaux).",
+      "B. Le menteur sympathique et virtuose : Dorante fascine par son imagination (la fête sur l’eau) ; Scapin séduit par son audace (la galère des Fourberies de Scapin, II, 7).",
+      "C. Le mensonge récompensé : Dorante épouse Lucrèce ; les ruses des valets de Molière ou de Marivaux permettent aux jeunes amoureux de triompher des obstacles."
+     ]
+    },
+    {
+     "titre": "II. Mais la comédie dénonce aussi les dangers du mensonge",
+     "arguments": [
+      "A. Le menteur pris au piège : Dorante oublie ses fictions et n’est plus cru (« En passant par sa bouche, elle perd son crédit »).",
+      "B. Le mensonge qui détruit : l’hypocrite Tartuffe menace l’ordre familial ; Géronte, humilié, parle d’« infamie » et menace son fils de mort (V, 3).",
+      "C. Une satire des apparences : la comédie démasque les faux héros (Isabelle sur les soldats de gazette) et la crédulité (Géronte, Orgon)."
+     ]
+    },
+    {
+     "titre": "III. Un mensonge au service de la vérité",
+     "arguments": [
+      "A. Le mensonge qui révèle les cœurs : dans Le Jeu de l’amour et du hasard, le travestissement permet à Silvia de connaître Dorante ; chez Corneille, le quiproquo fait découvrir à Dorante celle qu’il aime vraiment.",
+      "B. Le menteur, double du dramaturge : Dorante invente des personnages et des scènes ; la comédie se regarde elle-même dans ce miroir.",
+      "C. Le théâtre, un mensonge qui dit la vérité : la fiction comique, en trompant le spectateur avec son accord, lui montre ses propres travers. La morale de Cliton (« apprenez à mentir ») est un clin d’œil sur cet art."
+     ]
+    }
+   ],
+   "introduction": "Masques, déguisements, faux billets, identités échangées : la comédie semble inséparable du mensonge. Dans Le Menteur (1644), Corneille va jusqu’à faire d’un menteur son héros, et Cliton conclut la pièce par une invitation surprenante : « apprenez à mentir ». Faut-il en conclure que la comédie fait l’éloge du mensonge ? Si la comédie se nourrit du mensonge et semble souvent le célébrer, ne le met-elle pas aussi à distance pour en dénoncer les dangers, et finalement pour révéler une vérité ? Nous verrons d’abord que la comédie valorise souvent le mensonge, ressort de l’intrigue et source de plaisir, puis qu’elle en montre aussi les dangers, avant de montrer qu’elle le met au service d’une vérité, celle des cœurs et celle du théâtre.",
+   "conclusion": "La comédie entretient donc avec le mensonge une relation ambivalente. Elle le célèbre comme moteur de l’intrigue et source d’un plaisir virtuose, de Dorante à Scapin ; elle en dénonce aussi les dangers, des fictions qui s’effondrent à l’hypocrisie destructrice de Tartuffe. Mais surtout, elle en fait un instrument de vérité : le masque révèle les sentiments, et le menteur devient l’image du dramaturge. Faire l’éloge du mensonge, pour la comédie, c’est au fond faire l’éloge de sa propre fiction. Au XXe siècle, Pirandello poussera plus loin encore ce vertige, en montrant dans Chacun sa vérité qu’il est parfois impossible de distinguer le vrai du faux."
+  }
+ ],
+ "oral": {
+  "presentation": "Le Menteur est une comédie en cinq actes et en alexandrins de Pierre Corneille, publiée en 1644 et créée au théâtre du Marais, probablement durant la saison 1643-1644. Corneille y adapte une pièce espagnole, La verdad sospechosa. Dorante, jeune homme qui vient de quitter ses études de droit à Poitiers, arrive à Paris et ment sans cesse : il s’invente un passé de soldat, une fête somptueuse, un mariage forcé, un duel. Mais il se trompe sur le nom de la jeune fille qu’il courtise et finit pris dans ses propres filets. La pièce, à la fois comédie d’intrigue et comédie de caractère, fait rire d’un vice tout en posant des questions sérieuses : que vaut la parole ? qu’est-ce que l’honneur ? Et, comme le menteur ressemble à un dramaturge, elle invite à réfléchir au théâtre lui-même, art de l’illusion.",
+  "essentiels": [
+   "Auteur, date, genre : Corneille, 1644, comédie en cinq actes et en vers ; source espagnole (Alarcón, qu’il croyait de Lope de Vega).",
+   "Le quiproquo central : Dorante croit que Clarice s’appelle Lucrèce.",
+   "Les grands mensonges : passé militaire (I, 3), fête sur l’eau (I, 5), mariage de Poitiers (II, 5), duel (IV, 1), grossesse (IV, 4).",
+   "Trois maximes à connaître : « Il faut bonne mémoire après qu’on a menti » ; « Un menteur est toujours prodigue de serments » ; « En passant par sa bouche, elle perd son crédit ».",
+   "Les intentions de Corneille (Épître, Examen) : divertir, adapter le sujet espagnol, adoucir le dénouement.",
+   "Le parcours « Mensonge et comédie » : mensonge dénoncé, mensonge ludique, mensonge comme métaphore du théâtre."
+  ],
+  "questions": [
+   {
+    "question": "Pourquoi Dorante ment-il ?",
+    "reponse": "Pour deux raisons très différentes. Parfois par intérêt : il invente un mariage à Poitiers (II, 5) pour échapper au projet de son père. Mais le plus souvent par plaisir : la fête sur l’eau (I, 5) ne lui rapporte rien ; il l’explique à Cliton, il aime faire taire les « conteurs de nouvelles » par « un conte imaginaire ». Le mensonge est chez lui un jeu, presque un art, ce qui le rend sympathique au public."
+   },
+   {
+    "question": "Dorante est-il puni ?",
+    "reponse": "Il est ridiculisé et mis en danger : il oublie le nom de son beau-père, Clarice le démasque, son père le menace. Mais il n’est pas puni au sens propre, puisqu’il épouse Lucrèce, qui lui plaît. Corneille l’a voulu : dans l’Examen, il explique avoir trouvé « un peu dure » la fin espagnole, où le menteur épouse de force une femme qu’il n’aime pas. La seule vraie sanction est la perte de crédit : Cliton le dit, la vérité perd son crédit dans la bouche d’un menteur."
+   },
+   {
+    "question": "Quel est le rôle de Cliton ?",
+    "reponse": "Cliton est le valet de Dorante et le relais du public sur scène. Ses apartés (« J’enrage de me taire et d’entendre mentir ! ») expriment ce que pense le spectateur ; il est dupé deux fois (le mariage, le duel), ce qui crée un comique de répétition ; il formule les maximes de la pièce (« Il faut bonne mémoire après qu’on a menti ») et prononce la morale finale, adressée au public. Il est à la fois complice, critique et admirateur."
+   },
+   {
+    "question": "En quoi la pièce est-elle baroque ? En quoi annonce-t-elle le classicisme ?",
+    "reponse": "Baroque par le goût de l’illusion, des masques, des quiproquos et des récits éblouissants, comme dans L’Illusion comique. Classique par le respect des règles : Corneille dit dans l’Examen qu’il a voulu « réduire » le sujet « dans nos règles » ; l’action tient en vingt-quatre heures, à Paris, autour d’une intrigue principale. C’est une pièce de transition."
+   },
+   {
+    "question": "Que pensez-vous de la scène où Géronte demande « Êtes-vous gentilhomme ? » ?",
+    "reponse": "C’est un moment grave : Géronte affirme que le mensonge fait perdre la noblesse (« Il ment quand il le dit, et ne le fut jamais »). La question rappelle le « Rodrigue, as-tu du cœur ? » du Cid : Corneille fait entrer le registre héroïque dans la comédie. Mais les apartés de Cliton et la suite (Dorante qui avoue… une nouvelle version) maintiennent le comique. La scène montre que la comédie peut poser une vraie question morale sans devenir une leçon."
+   },
+   {
+    "question": "Le menteur peut-il être vu comme une image de l’auteur ?",
+    "reponse": "Oui, c’est une lecture fréquente, même si elle reste une interprétation. Dorante invente des personnages (Orphise, Armédon), construit des récits, improvise des scènes et captive son public ; Cliton le compare à « un grand maître à faire des romans ». Le théâtre est lui-même une illusion consentie : la morale finale, « apprenez à mentir », peut se lire comme un clin d’œil de Corneille au spectateur."
+   },
+   {
+    "question": "Pourquoi le quiproquo sur les noms est-il si important ?",
+    "reponse": "Parce qu’il retourne le mensonge contre le menteur. Dorante, qui trompe tout le monde, est trompé par une simple erreur de nom depuis la première scène. Cela crée l’ironie dramatique de la scène de la fenêtre (III, 5), où il dit à Clarice que Clarice ne lui plaît pas, et cela permet le dénouement : quand il apprend la vérité (V, 6), il retourne la situation (« Sans changer de discours changeons de batterie »)."
+   },
+   {
+    "question": "Quel lien faites-vous avec le parcours « Mensonge et comédie » ?",
+    "reponse": "Le Menteur montre les trois visages du mensonge comique : le mensonge comme ressort de l’intrigue, le mensonge comme vice ridiculisé et condamné (Géronte), et le mensonge comme art, image du théâtre lui-même. On peut le comparer à Tartuffe de Molière, où le mensonge de l’hypocrite est dangereux, ou à Marivaux, où le déguisement mène à la vérité des cœurs."
+   }
+  ],
+  "liens": "Objet d’étude : le théâtre du XVIIe au XXIe siècle. Parcours : Mensonge et comédie. Œuvres à rapprocher : L’Illusion comique de Corneille (le théâtre comme illusion), Le Cid (la question de l’honneur et le « Rodrigue, as-tu du cœur ? »), Le Tartuffe et Les Fourberies de Scapin de Molière, Le Jeu de l’amour et du hasard et Les Fausses Confidences de Marivaux, Il bugiardo de Goldoni, et la source espagnole La verdad sospechosa d’Alarcón. Dans d’autres genres : les mensonges de Renart (Moyen Âge) ou les fables de La Fontaine sur les flatteurs (Le Corbeau et le Renard).",
+  "reflexion": [
+   {
+    "question": "Avez-vous trouvé Dorante sympathique ?",
+    "pistes": "On peut défendre les deux réponses : sympathique par son imagination, son aplomb et l’absence de méchanceté ; agaçant ou inquiétant par sa désinvolture envers son père et ses amis. Appuyez-vous sur une scène précise (la fête sur l’eau, la colère du père)."
+   },
+   {
+    "question": "Un mensonge peut-il être innocent ?",
+    "pistes": "Distinguer le mensonge gratuit et ludique (la fête), le mensonge de politesse ou de séduction, et le mensonge qui blesse (la crédulité de Géronte humiliée). Le théâtre lui-même est un mensonge accepté par le public."
+   },
+   {
+    "question": "La fin de la pièce vous paraît-elle juste ?",
+    "pistes": "Le menteur n’est pas puni : est-ce choquant, réaliste ou simplement comique ? Comparer avec la fin espagnole résumée par Corneille dans l’Examen, et réfléchir à ce que le public attend d’une comédie."
+   },
+   {
+    "question": "Notre époque est-elle, comme le Paris de Dorante, une société de l’apparence ?",
+    "pistes": "Penser aux réseaux sociaux, à la mise en scène de soi, aux fausses informations. Le vers de Cliton sur Paris, où chacun « vaut communément autant comme il se prise », peut servir de point de départ."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "Le récit de la fête sur l’eau",
+   "reference": "Acte I, scène 5, v. 228-308 : Dorante surprend la conversation d’Alcippe et de Philiste et s’attribue la fête nocturne.",
+   "enjeu": "Comment ce récit inventé révèle-t-il la puissance de la parole du menteur, qui crée par les mots un spectacle éblouissant et déclenche l’intrigue ?",
+   "mouvements": [
+    "Mouvement 1 (v. 228-250) : l’interrogatoire. Dialogue très rapide en vers partagés et stichomythies (« Sur l’eau ? — Sur l’eau. ») ; Dorante recueille habilement les informations (lieu, heure, musique, collation) avant de parler. Les questions brèves montrent un menteur stratège qui prépare son effet.",
+    "Mouvement 2 (v. 251-262) : la révélation et l’aparté. Coup de théâtre (« Je ris de vous voir étonné / D’un divertissement que je me suis donné ») ; Cliton intervient « à l’oreille » puis s’indigne en aparté (« J’enrage de me taire et d’entendre mentir ! ») : la double énonciation fait du public le complice de Cliton. Aparté de Philiste qui crée l’ironie dramatique : Alcippe croit tenir son rival.",
+    "Mouvement 3 (v. 263-308) : l’hypotypose du festin, puis ses effets. Récit au passé simple, chiffres précis qui donnent l’illusion du réel (cinq bateaux, quatre chœurs, douze plats, six services), énumération des instruments, sensations (jasmin, grenade, orange), hyperboles cosmiques (« Tout l’élément du feu tombait du ciel en terre »), personnification du « soleil jaloux ». Le mensonge devient poème épique. Effet immédiat : « Je meurs de jalousie ! » : la fiction agit sur le réel."
+   ]
+  },
+  {
+   "titre": "L’art de mentir selon Dorante",
+   "reference": "Acte I, scène 6, v. 309-374 : seul avec Cliton, Dorante justifie ses inventions.",
+   "enjeu": "En quoi cette scène constitue-t-elle un véritable « art poétique » du mensonge, et fait-elle de Dorante une image de l’écrivain ?",
+   "mouvements": [
+    "Mouvement 1 (v. 309-321) : les reproches du valet. Cliton use d’un euphémisme comique (« J’appelle rêveries / Ce qu’en d’autres qu’un maître on nomme menteries ») et rappelle les faits (« Vous voyez sans péril nos batailles dernières »). Le rapport maître/valet permet la critique à mots couverts.",
+    "Mouvement 2 (v. 322-351) : la théorie de la séduction. Dorante parodie le compliment d’un juriste (accumulation de termes de droit : « le Code », « le Digeste », « Jason, Balde, Accurse, Alciat ») et le ridiculise par des exclamations ironiques (« Qu’un homme à paragraphe est un joli galant ! »). Puis il énonce sa recette : « Tout le secret ne gît qu’en un peu de grimace, / À mentir à propos », avec une liste de mots de guerre (« contrescarpe », « Lamboy, Jean de Vert, et Galas ») dont l’effet compte plus que le sens. Satire de la galanterie et du goût du paraître.",
+    "Mouvement 3 (v. 352-374) : le plaisir gratuit du conteur. Cliton compare son maître aux fées des romans (Urgande, Mélusine) : « Vous seriez un grand maître à faire des romans ». Dorante avoue aimer « braver ainsi les conteurs de nouvelles » et leur « faire rentrer leurs nouvelles au corps ». Le mensonge est un plaisir de domination verbale ; Cliton prévoit les « fâcheux intriques » : annonce de la suite."
+   ]
+  },
+  {
+   "titre": "Le faux mariage de Poitiers",
+   "reference": "Acte II, scène 5, v. 565-685 : Géronte annonce à son fils qu’il veut le marier à Clarice.",
+   "enjeu": "Comment Dorante transforme-t-il un piège en triomphe grâce à un récit improvisé, et comment le comique naît-il de la crédulité du père ?",
+   "mouvements": [
+    "Mouvement 1 (v. 565-602) : l’affrontement et l’improvisation. Géronte impose sa volonté (impératifs répétés : « Fais ce que je t’ordonne », « En un mot, je le veux ») ; Dorante réagit en aparté (« Il faut jouer d’adresse ») puis par des phrases suspendues (« Je suis… — Quoi ? — Dans Poitiers… ») qui créent le suspense et donnent l’impression d’un aveu douloureux.",
+    "Mouvement 2 (v. 603-664) : le récit romanesque. Dorante invente noms (Orphise, Armédon), date précise (« le second de septembre ») et détails concrets (la montre, le pistolet, l’épée brisée « en trois morceaux »). Rythme haletant au présent de narration (« Transit, rougit, pâlit »), accumulation comique de la barricade (« Bancs, tables, coffres, lits, et jusqu’aux escabelles »). Le récit emprunte au roman d’aventures et à la tragédie.",
+    "Mouvement 3 (v. 664-685) : la chute et la victoire. Géronte traduit l’euphémisme « il fallut composer » (« C’est-à-dire en français qu’il fallut l’épouser ? »). Dorante joue le pathétique (« Choisissez maintenant de me voir ou mourir ») ; le père attendri pardonne. Ironie dramatique : le spectateur sait tout, et la didascalie précise que Clarice observe la scène de sa fenêtre. La scène suivante révèle le mensonge à Cliton : « Oh ! l’utile secret que mentir à propos ! »"
+   ]
+  },
+  {
+   "titre": "La scène de la fenêtre",
+   "reference": "Acte III, scène 5, v. 937-1064 : de nuit, Clarice parle à Dorante sous le nom de Lucrèce, en présence de la vraie Lucrèce.",
+   "enjeu": "Comment cette scène de quiproquo fait-elle du menteur la dupe d’un mensonge, et du spectateur le seul à tout savoir ?",
+   "mouvements": [
+    "Mouvement 1 (v. 937-960) : un dispositif de théâtre dans le théâtre. Les deux jeunes femmes à la fenêtre, Dorante et Cliton en bas : l’espace scénique est divisé. Les apartés de Clarice et Lucrèce (« Il en conte à chacune à son tour ») commentent les galanteries de Dorante : double énonciation et ironie dramatique. Dorante enchaîne les clichés amoureux (« C’est une longue mort »).",
+    "Mouvement 2 (v. 961-1020) : l’accusation et le rebond. Clarice démasque le faux mariage ; Dorante nie, jure (« Que le foudre à vos yeux m’écrase, si je mens ! »), et se voit répondre par une maxime (« Un menteur est toujours prodigue de serments »). Réquisitoire de Clarice, construit sur l’anaphore de « Qui » (v. 985-991). Dorante avoue alors le mensonge du mariage, mais pour en inventer une raison flatteuse : il l’aurait fait par amour pour « Lucrèce ». Cliton demande en aparté : « De grâce, dites-moi si vous allez mentir. »",
+    "Mouvement 3 (v. 1021-1064) : le comble du quiproquo. Dorante prouve qu’il connaît « Lucrèce » (le nom de son père, Périandre), puis dit à Clarice qu’elle « ne [lui] plaît pas » : ironie dramatique maximale, puisqu’il parle à Clarice elle-même. Vers partagés et jurons interrompus (« Que du ciel… — L’ai-je dit ? »). Clarice le congédie en révélant qu’elle s’amuse ainsi « par raillerie » : le menteur est joué à son tour."
+   ]
+  },
+  {
+   "titre": "Le menteur pris à son propre piège",
+   "reference": "Acte IV, scène 4, v. 1206-1258 : Géronte veut faire venir sa belle-fille de Poitiers.",
+   "enjeu": "Comment cette scène montre-t-elle la mécanique comique du mensonge, qui s’emballe jusqu’à mettre le menteur en danger ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1206-1223) : la bonté du père, nouvel obstacle. Aparté insolent de Dorante (« Je ne vous cherchais pas, moi ») ; Géronte, plein de bonne volonté, veut faire venir l’épouse : la bonté du père devient une menace. Ironie : le spectateur sait que cette épouse n’existe pas.",
+    "Mouvement 2 (v. 1224-1240) : la surenchère. Pour gagner du temps, Dorante invente une grossesse (« Elle est grosse. — Elle est grosse ! — Et de plus de six mois. ») : répétitions et vers partagés. La joie naïve de Géronte (« Que de ravissements je sens à cette fois ! ») rend la scène à la fois drôle et cruelle ; Dorante commente en aparté (« Le bonhomme s’en va le plus content du monde »).",
+    "Mouvement 3 (v. 1241-1258) : le trou de mémoire. Le père revient sur ses pas : rythme très fragmenté, questions pressantes (« Il s’appelle ? »), et Dorante lance « Pyrandre » (nom proche de « Périandre », le père de Lucrèce qu’il vient d’apprendre) au lieu d’« Armédon ». Il improvise une justification (un nom propre, un nom de terre). La scène suivante donne la morale : « Il faut bonne mémoire après qu’on a menti. »"
+   ]
+  },
+  {
+   "titre": "« Êtes-vous gentilhomme ? » : la colère du père",
+   "reference": "Acte V, scène 3, v. 1501-1600 : Géronte, détrompé par Philiste, affronte son fils.",
+   "enjeu": "Comment Corneille introduit-il dans la comédie un registre grave, presque tragique, pour condamner le mensonge, sans pour autant rompre avec le comique ?",
+   "mouvements": [
+    "Mouvement 1 (v. 1501-1516) : un interrogatoire sur la noblesse. Question brutale (« Êtes-vous gentilhomme ? »), qui rappelle le « Rodrigue, as-tu du cœur ? » du Cid. Raisonnement en maximes et chiasme (« Où le sang a manqué, si la vertu l’acquiert, / Où le sang l’a donné, le vice aussi le perd ») : registre didactique et solennel.",
+    "Mouvement 2 (v. 1517-1558) : le réquisitoire. Questions rhétoriques en cascade (« Est-il vice plus bas, est-il tache plus noire ») ; vocabulaire de l’honneur et de l’infamie ; humiliation du père qui a servi « de fable et de risée ». Les interventions de Cliton en aparté (« Dites que le sommeil vous l’a fait oublier ») maintiennent le comique. Point culminant : « Va, je te désavoue. »",
+    "Mouvement 3 (v. 1559-1600) : un nouvel aveu… et un serment tragique. Dorante avoue aimer Lucrèce et qualifie son mensonge d’« adresse d’esprit ». Géronte accepte de demander Lucrèce pour lui, mais pose une condition terrible : « Que tu ne mourras point que de la main d’un père ». Le registre tragique est aussitôt désamorcé, dès la scène suivante, par la désinvolture de Dorante : « Je crains peu les effets d’une telle menace. »"
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Comédie en cinq actes et en alexandrins de Corneille, publiée en 1644, adaptée d’une comédie espagnole d’Alarcón (que Corneille croyait de Lope de Vega).",
+   "Dorante ment par intérêt (le faux mariage) mais surtout par plaisir (la fête sur l’eau) : le mensonge est un art et un jeu.",
+   "Quiproquo central : Dorante croit que Clarice s’appelle Lucrèce ; la vérité n’éclate qu’en V, 6.",
+   "Mécanique comique : chaque mensonge en appelle un autre, jusqu’au trou de mémoire (Armédon / Pyrandre).",
+   "Cliton, valet témoin, porte la double énonciation et les maximes de la pièce.",
+   "Satire d’une société de l’apparence et question grave de l’honneur (« Êtes-vous gentilhomme ? », V, 3).",
+   "Dorante n’est pas puni : Corneille a adouci la fin espagnole (Examen) ; la morale finale (« apprenez à mentir ») est ironique.",
+   "Parcours « Mensonge et comédie » : mensonge ressort de l’intrigue, vice ridiculisé, et métaphore du théâtre."
+  ],
+  "citations": [
+   2,
+   4,
+   10,
+   12,
+   13,
+   16,
+   18
+  ],
+  "pieges": [
+   "Clarice parle à Dorante ; Dorante épouse Lucrèce.",
+   "Dorante revient de Poitiers (études de droit), pas de la guerre.",
+   "Les maximes sont surtout de Cliton, pas de Dorante.",
+   "Le texte du site est en orthographe du XVIIe siècle : moderniser l’orthographe dans les citations de copie.",
+   "Ne pas affirmer que Molière a « avoué » devoir Le Misanthrope au Menteur : l’anecdote est douteuse."
+  ],
+  "synthese": "Le Menteur (1644) est la comédie de la parole inventée. Dorante, étudiant devenu cavalier, ment pour séduire, pour échapper à son père, et surtout pour le plaisir d’étonner. Ses fictions font avancer l’intrigue, mais elles s’emballent, et un simple quiproquo sur les noms le rend dupe à son tour. Cliton commente, Clarice démasque, Géronte condamne au nom de l’honneur. Pourtant Corneille, contrairement à sa source espagnole, ne punit pas son héros : Dorante retourne la situation et épouse Lucrèce. La morale finale, « apprenez à mentir », fait du menteur un double du dramaturge et du théâtre un mensonge qui plaît."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Comédie d’intrigue",
+   "definition": "Comédie dont l’intérêt repose sur les rebondissements, les obstacles, les ruses et les quiproquos. Le Menteur multiplie billets, duel, rendez-vous nocturne et révélations."
+  },
+  {
+   "terme": "Comédie de caractère",
+   "definition": "Comédie centrée sur un type humain dominé par un trait (l’avare, le misanthrope, le menteur). Dorante incarne le menteur, comme l’indique le titre."
+  },
+  {
+   "terme": "Quiproquo",
+   "definition": "Méprise qui fait prendre une personne ou une chose pour une autre. Dorante croit que la jeune femme qui lui a parlé s’appelle Lucrèce, alors que c’est Clarice : erreur maintenue jusqu’à l’acte V, scène 6."
+  },
+  {
+   "terme": "Aparté",
+   "definition": "Réplique prononcée par un personnage à l’insu des autres, mais entendue du public. Ex. : Cliton pendant le récit de la fête (« J’enrage de me taire et d’entendre mentir ! », I, 5)."
+  },
+  {
+   "terme": "Double énonciation",
+   "definition": "Principe du théâtre : les personnages se parlent entre eux, mais l’auteur s’adresse en même temps au public. Elle est maximale dans la scène de la fenêtre (III, 5), où le spectateur comprend tout, contrairement à Dorante."
+  },
+  {
+   "terme": "Ironie dramatique",
+   "definition": "Situation où le spectateur en sait plus qu’un personnage. Quand Dorante dit à Clarice qu’il méprise Clarice (III, 5), le public rit de son aveuglement."
+  },
+  {
+   "terme": "Stichomythie",
+   "definition": "Échange de répliques brèves, d’un vers ou moins, qui accélère le rythme. Ex. : l’interrogatoire sur la fête (« Sur l’eau ? — Sur l’eau. », I, 5) ou Sabine et Dorante en V, 5."
+  },
+  {
+   "terme": "Vers partagé (antilabe)",
+   "definition": "Alexandrin réparti entre plusieurs personnages. Il traduit la vivacité du dialogue ou la pression : « Elle est grosse. — Elle est grosse ! — Et de plus de six mois. » (IV, 4)."
+  },
+  {
+   "terme": "Hypotypose",
+   "definition": "Description si vive et détaillée qu’elle semble mettre la scène sous les yeux. Le récit de la fête sur l’eau (I, 5) en est un exemple : bateaux, musiques, plats, feux d’artifice."
+  },
+  {
+   "terme": "Maxime",
+   "definition": "Formule brève, au présent de vérité générale, qui énonce une règle de conduite. La pièce en est riche : « Il faut bonne mémoire après qu’on a menti »."
+  },
+  {
+   "terme": "Dénouement",
+   "definition": "Résolution finale de l’intrigue. Ici, les quiproquos sont dissipés et les mariages conclus (Dorante-Lucrèce, Alcippe-Clarice), suivis de la morale ironique de Cliton."
+  },
+  {
+   "terme": "Règle des trois unités",
+   "definition": "Règle classique : une seule action, en un seul lieu, en vingt-quatre heures environ. Le Menteur se déroule à Paris (Tuileries, place Royale), sur un peu plus d’une journée."
+  },
+  {
+   "terme": "Examen",
+   "definition": "Texte critique que Corneille a placé en 1660 devant chacune de ses pièces pour en juger lui-même la construction. Celui du Menteur explique ses choix (apartés, unités, dénouement adouci)."
+  },
+  {
+   "terme": "Comedia espagnole",
+   "definition": "Comédie du Siècle d’or espagnol (Lope de Vega, Alarcón), riche en intrigues, en quiproquos et en rebondissements. Corneille y puise le sujet du Menteur, comme celui du Cid chez Guillén de Castro."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "D’où arrive Dorante au début de la pièce ?",
+   "choix": [
+    "D’Allemagne, où il a fait la guerre",
+    "De Tours, où vit son oncle",
+    "De Rouen, sa ville natale",
+    "De Poitiers, où il étudiait le droit"
+   ],
+   "reponse": 3,
+   "explication": "Dorante a « quitté la robe pour l’épée » : il revient de Poitiers, où il étudiait le droit. Les guerres d’Allemagne sont un mensonge."
+  },
+  {
+   "question": "Sur quoi repose le quiproquo central de la pièce ?",
+   "choix": [
+    "Dorante confond Géronte et Philiste",
+    "Dorante se trompe sur le nom de la jeune femme qui lui a parlé",
+    "Alcippe croit que Dorante est son frère",
+    "Clarice croit que Cliton est Dorante"
+   ],
+   "reponse": 1,
+   "explication": "Dorante croit que la jeune femme qui lui a parlé aux Tuileries s’appelle Lucrèce, alors qu’il s’agit de Clarice."
+  },
+  {
+   "question": "Quel mensonge rend Alcippe jaloux ?",
+   "choix": [
+    "Une fête nocturne sur l’eau",
+    "Un duel imaginaire",
+    "Un mariage à Poitiers",
+    "Une lettre d’amour à Clarice"
+   ],
+   "reponse": 0,
+   "explication": "À l’acte I, scène 5, Dorante prétend avoir offert la fête sur l’eau dont parlent ses amis ; Alcippe croit qu’elle était destinée à Clarice."
+  },
+  {
+   "question": "Pourquoi Dorante invente-t-il son mariage avec Orphise ?",
+   "choix": [
+    "Pour rendre Lucrèce jalouse",
+    "Pour échapper au mariage que son père veut lui imposer",
+    "Pour obtenir de l’argent de Géronte",
+    "Pour se venger d’Alcippe"
+   ],
+   "reponse": 1,
+   "explication": "Géronte veut le marier à Clarice ; Dorante, qui croit aimer « Lucrèce », invente un mariage forcé à Poitiers (II, 5)."
+  },
+  {
+   "question": "Qui prononce : « Il faut bonne mémoire après qu’on a menti » ?",
+   "choix": [
+    "Géronte",
+    "Philiste",
+    "Cliton",
+    "Clarice"
+   ],
+   "reponse": 2,
+   "explication": "C’est Cliton, après que Dorante a donné deux noms différents à son prétendu beau-père (IV, 5)."
+  },
+  {
+   "question": "Comment s’appelle le prétendu beau-père de Dorante ?",
+   "choix": [
+    "Périandre puis Argante",
+    "Acaste puis Lycas",
+    "Orphise puis Julie",
+    "Armédon puis Pyrandre"
+   ],
+   "reponse": 3,
+   "explication": "Dorante l’appelle d’abord Armédon (II, 5) puis, pris de court, Pyrandre (IV, 4) ; il prétend ensuite que l’un est le nom d’une terre."
+  },
+  {
+   "question": "Dans la scène de la fenêtre (III, 5), sous quel nom Clarice parle-t-elle à Dorante ?",
+   "choix": [
+    "Isabelle",
+    "Sabine",
+    "Lucrèce",
+    "Orphise"
+   ],
+   "reponse": 2,
+   "explication": "Clarice parle depuis la fenêtre de Lucrèce et sous son nom, puisque le billet du rendez-vous était signé Lucrèce."
+  },
+  {
+   "question": "Quelle question Géronte pose-t-il à son fils en V, 3 ?",
+   "choix": [
+    "« Êtes-vous gentilhomme ? »",
+    "« Rodrigue, as-tu du cœur ? »",
+    "« Il faut bonne mémoire après qu’on a menti »",
+    "« Je ne vous cherchais pas, moi »"
+   ],
+   "reponse": 0,
+   "explication": "« Êtes-vous gentilhomme ? » (V, 3, v. 1501) ouvre la tirade où Géronte affirme que le mensonge fait perdre la noblesse ; la formule rappelle le « Rodrigue, as-tu du cœur ? » du Cid. Les deux autres répliques sont de Cliton (IV, 5) et de Dorante (IV, 4)."
+  },
+  {
+   "question": "Qui Dorante épouse-t-il au dénouement ?",
+   "choix": [
+    "Clarice",
+    "Orphise",
+    "Lucrèce",
+    "Personne"
+   ],
+   "reponse": 2,
+   "explication": "Dorante épouse Lucrèce, la jeune femme silencieuse qui commençait à lui plaire ; Clarice épouse Alcippe."
+  },
+  {
+   "question": "Quelle est la source de la pièce ?",
+   "choix": [
+    "Une comédie espagnole d’Alarcón",
+    "Une comédie de Molière",
+    "Une tragédie de Sénèque",
+    "Un roman de Mlle de Scudéry"
+   ],
+   "reponse": 0,
+   "explication": "Corneille adapte La verdad sospechosa, qu’il crut d’abord de Lope de Vega ; dans l’Examen de 1660, il signale qu’un volume de Juan Ruiz de Alarcón revendique la pièce."
+  },
+  {
+   "question": "Que dit Corneille, dans l’Examen, de la fin de sa source espagnole ?",
+   "choix": [
+    "Qu’elle est trop heureuse",
+    "Qu’elle est « un peu dure », car le menteur y est forcé d’épouser une femme qu’il n’aime pas",
+    "Qu’il l’a recopiée sans rien changer",
+    "Qu’elle se termine par la mort du héros"
+   ],
+   "reponse": 1,
+   "explication": "Corneille a trouvé « cette manière de finir un peu dure » et a préféré « un mariage moins violenté » : il donne à Dorante une « pente » vers Lucrèce au cinquième acte."
+  },
+  {
+   "question": "Qui prononce : « Par un si rare exemple apprenez à mentir » ?",
+   "choix": [
+    "Dorante, à Lucrèce",
+    "Géronte, à son fils",
+    "Cliton, au public",
+    "Philiste, à Alcippe"
+   ],
+   "reponse": 2,
+   "explication": "C’est le dernier vers de la pièce (V, 7, v. 1804) : Cliton, seul en scène, s’adresse au public dans une morale volontairement ironique."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Corneille, Œuvres, éd. Ch. Marty-Laveaux, t. IV (Hachette, 1862) : Le Menteur, Notice, Épître, Au lecteur, Examen — Project Gutenberg n° 39739",
+   "url": "https://www.gutenberg.org/ebooks/39739"
+  },
+  {
+   "titre": "Le Menteur, éd. Marty-Laveaux, sur Wikisource (numérotation des vers)",
+   "url": "https://fr.wikisource.org/wiki/Le_Menteur_(Corneille,_Marty-Laveaux,_1862)"
+  },
+  {
+   "titre": "Molière, Tartuffe, Premier placet (éd. Louandre), Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Tartuffe_ou_l%E2%80%99Imposteur/%C3%89dition_Louandre,_1910/Premier_Placet"
+  },
+  {
+   "titre": "Corneille, Le Cid, acte I (éd. Ginn), Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_Cid/%C3%89dition_Ginn/Acte_I"
+  },
+  {
+   "titre": "Dictionnaire des proverbes de Quitard, article « galère » (réplique de Scapin), Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Dictionnaire_des_proverbes_(Quitard)/gal%C3%A8re"
+  }
+ ],
+ "aVerifier": [
+  "Date exacte de la création : la Notice de Marty-Laveaux (1862) rapporte que les historiens la plaçaient en 1642 ; la critique récente la situe plutôt dans la saison 1643-1644. La fiche retient : probablement 1643-1644.",
+  "La numérotation des vers suit l’édition Marty-Laveaux (Wikisource) ; elle peut différer d’un vers ou deux dans d’autres éditions scolaires.",
+  "L’attribution du rôle de Dorante à l’acteur Bellerose (Lettre de 1740) est jugée peu compatible avec une création au Marais par Marty-Laveaux : non retenue dans la fiche."
+ ]
+}

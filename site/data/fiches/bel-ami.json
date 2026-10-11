@@ -1,0 +1,919 @@
+{
+ "id": "bel-ami",
+ "accroche": "Sans talent mais beau garçon, Georges Duroy conquiert Paris grâce aux femmes et à la presse : l'ascension d'un arriviste.",
+ "identite": {
+  "auteur": "Guy de Maupassant (1850-1893), né en Normandie, a été formé à l'écriture par Gustave Flaubert, ami d'enfance de sa mère, qui corrige ses premiers essais. Employé dans des ministères (Marine, puis Instruction publique) pendant les années 1870, il connaît bien le monde des petits employés mal payés, comme Duroy au début du roman. Il devient célèbre en 1880 avec la nouvelle Boule de suif. En une dizaine d'années, il écrit environ trois cents nouvelles et six romans. Il collabore lui-même à des journaux comme Le Gaulois et le Gil Blas, où Bel-Ami paraît en feuilleton au printemps 1885 : il connaît donc de l'intérieur le monde de la presse qu'il dépeint. Atteint de la syphilis, il sombre dans la folie et meurt en 1893.",
+  "contexte": "Le roman se déroule au début des années 1880, sous la IIIe République. C'est l'âge d'or de la presse : la loi de 1881 sur la liberté de la presse favorise la multiplication des journaux, souvent liés aux milieux politiques et financiers. C'est aussi l'époque de l'expansion coloniale : dans le roman, un député ironise sur une armée envoyée à Tanger « en pendant à celle de Tunis » (IIe partie, chap. V) : le lecteur de 1885 y reconnaît l'établissement du protectorat français en Tunisie (1881), entouré de soupçons de spéculation. Paris est la ville des grands boulevards, des cafés-concerts comme les Folies-Bergère, des salons et de la Bourse.",
+  "mouvement": "Bel-Ami appartient au réalisme et au naturalisme. Maupassant, proche de Zola et du groupe de Médan, veut montrer la société sans l'embellir : précision des lieux parisiens (boulevards, Folies-Bergère, parc Monceau, la Madeleine), importance de l'argent, désir et instincts des personnages. Mais il se méfie des théories : dans la préface de Pierre et Jean, « Le Roman » (1888), il écrit que « Faire vrai consiste donc à donner l'illusion complète du vrai » et que les réalistes de talent devraient plutôt s'appeler des « Illusionnistes ». Son écriture est sobre, ironique, souvent cruelle. Le narrateur ne juge pas ouvertement Duroy : c'est au lecteur de mesurer son immoralité.",
+  "circonstances": "Bel-Ami paraît d'abord en feuilleton dans le quotidien Gil Blas au printemps 1885, puis en volume la même année chez l'éditeur Victor-Havard. La publication par épisodes explique en partie le rythme du roman, fait de chapitres qui se terminent souvent sur une étape franchie par le héros. Le livre est mal accueilli par une partie de la presse, qui se sent visée. Maupassant répond dans le Gil Blas en juin 1885 par un article intitulé « Aux critiques de Bel-Ami » : il y explique en substance qu'il n'a pas voulu peindre toute la presse française, mais un seul journal véreux, au service d'une bande d'affairistes politiques, et la carrière d'un aventurier.",
+  "carriere": "Bel-Ami est le deuxième roman de Maupassant, après Une vie (1883), qui racontait la vie déçue d'une femme normande. Avec Bel-Ami, il quitte la province pour Paris et passe de la victime au conquérant. Suivront Mont-Oriol (1887), Pierre et Jean (1888), Fort comme la mort (1889) et Notre cœur (1890). Le roman paraît au milieu de la période la plus productive de l'auteur (1880-1890), où il publie aussi des recueils de nouvelles ; il mêle le regard satirique de ses chroniques de journaliste et le pessimisme de ses contes."
+ },
+ "resumeCourt": "En 1880, Georges Duroy, ancien sous-officier de hussards revenu d'Algérie, végète à Paris avec un petit salaire d'employé des chemins de fer. Il rencontre un ancien camarade, Forestier, journaliste à La Vie Française, qui le fait entrer au journal. Incapable d'écrire, il se fait aider par Madeleine, l'épouse de Forestier. Beau garçon, surnommé « Bel-Ami », il comprend vite que les femmes sont le meilleur moyen de réussir : il devient l'amant de Clotilde de Marelle, épouse Madeleine à la mort de Forestier, puis séduit Mme Walter, la femme du patron du journal. Mêlé aux affaires politiques et financières, notamment à une expédition coloniale au Maroc, il découvre comment journalistes, ministres et banquiers s'enrichissent. Il fait surprendre sa femme en flagrant délit d'adultère avec un ministre, divorce, enlève Suzanne Walter et obtient de l'épouser. Le roman s'achève sur son triomphal mariage à l'église de la Madeleine : Duroy, devenu « Du Roy », rêve déjà de devenir député.",
+ "resume": [
+  {
+   "titre": "Ire partie, chap. I : un ambitieux sans le sou",
+   "texte": "Un soir de juin, Georges Duroy sort d'une gargote avec trois francs quarante en poche. Ancien hussard, beau garçon, il rêve d'argent et de femmes. Sur le boulevard, il rencontre Charles Forestier, un ancien camarade devenu journaliste politique à La Vie Française. Celui-ci l'invite à dîner et lui conseille d'entrer dans le journalisme : « tout dépend de l'aplomb »."
+  },
+  {
+   "titre": "Ire partie, chap. II-III : le dîner chez Forestier et le premier article",
+   "texte": "Avant le dîner, Duroy se découvre dans un grand miroir et se trouve élégant. Chez les Forestier, il rencontre M. Walter, le patron du journal, Mme de Marelle et Madeleine Forestier. Ses récits sur l'Algérie plaisent : on lui commande des « Souvenirs d'un chasseur d'Afrique ». Incapable d'écrire, il demande de l'aide à Madeleine, qui lui dicte l'article. Seul, il ne parvient pas à écrire la suite : on le fait entrer au service des échos."
+  },
+  {
+   "titre": "Ire partie, chap. IV-V : reporter et amant",
+   "texte": "Duroy apprend le métier de reporter avec Saint-Potin, qui invente ses interviews. Il devient l'amant de Clotilde de Marelle, femme vive et fantasque, qui loue pour leurs rendez-vous un petit appartement rue de Constantinople. La fille de Clotilde, Laurine, le surnomme « Bel-Ami » ; sa mère reprend aussitôt le surnom. Toujours à court d'argent, il accepte peu à peu les pièces que Clotilde glisse dans ses poches."
+  },
+  {
+   "titre": "Ire partie, chap. VI-VII : la leçon du poète et le duel",
+   "texte": "Le vieux poète Norbert de Varenne livre à Duroy, lors d'une promenade nocturne, une méditation désespérée sur la mort et la vanité de la vie. Plus tard, attaqué par un journaliste d'un journal rival, La Plume, Duroy doit se battre en duel au pistolet avec Louis Langremont. Il passe une nuit d'angoisse, mais personne n'est blessé et il en sort grandi aux yeux de tous."
+  },
+  {
+   "titre": "Ire partie, chap. VIII : la mort de Forestier",
+   "texte": "Forestier, malade de la poitrine, se meurt à Cannes. Madeleine appelle Duroy auprès d'elle. Au cours de la veillée funèbre, alors que le corps est encore dans la pièce, Duroy propose à Madeleine de l'épouser. Elle accepte de réfléchir."
+  },
+  {
+   "titre": "IIe partie, chap. I-II : le mariage avec Madeleine",
+   "texte": "Duroy épouse Madeleine, qui lui fait prendre le nom plus noble de « Du Roy de Cantel ». Ils rendent visite à ses parents, cabaretiers à Canteleu près de Rouen, avec qui Madeleine se sent mal à l'aise. À Paris, Madeleine écrit avec lui des articles politiques, comme elle le faisait avec Forestier. Duroy, jaloux de son prédécesseur, que ses collègues lui rappellent en l'appelant « Forestier », comprend que sa femme a peut-être eu une liaison avec le comte de Vaudrec."
+  },
+  {
+   "titre": "IIe partie, chap. III-V : la conquête de Mme Walter et l'affaire du Maroc",
+   "texte": "Duroy séduit Mme Walter, femme pieuse et jusque-là fidèle, qui tombe éperdument amoureuse de lui ; ils se donnent rendez-vous à l'église de la Trinité. Par elle, il apprend aussi le secret de l'affaire du Maroc : Walter et le ministre Laroche-Mathieu, l'amant de Madeleine, préparent une expédition militaire pour spéculer sur un emprunt. Mme Walter lui fait gagner soixante-dix mille francs, mais Duroy découvre avec rage que les autres vont gagner des millions."
+  },
+  {
+   "titre": "IIe partie, chap. VI-VII : l'héritage et la fortune des Walter",
+   "texte": "Le comte de Vaudrec meurt et lègue sa fortune à Madeleine. Pour éviter les soupçons, Duroy exige qu'elle lui en cède la moitié. Walter, devenu immensément riche grâce à la conquête du Maroc, achète un hôtel particulier et un tableau célèbre, « Jésus marchant sur les flots ». Lors de la fête donnée chez lui, Suzanne Walter trouve que le Christ ressemble à Bel-Ami. Duroy, qui méprise désormais Mme Walter, décide d'épouser Suzanne."
+  },
+  {
+   "titre": "IIe partie, chap. VIII-IX : le constat d'adultère et l'enlèvement",
+   "texte": "Avec un commissaire de police, Duroy fait surprendre Madeleine avec le ministre Laroche-Mathieu. Le scandale fait tomber le ministre et permet le divorce. Duroy convainc ensuite Suzanne de se laisser enlever : compromise, elle ne peut plus épouser que lui. Walter, vaincu, accepte le mariage, malgré le désespoir de sa femme."
+  },
+  {
+   "titre": "IIe partie, chap. X : le triomphe à la Madeleine",
+   "texte": "Le mariage de Georges Du Roy et de Suzanne Walter est célébré en grande pompe à l'église de la Madeleine par un évêque. Mme Walter souffre, Clotilde de Marelle lui serre la main et lui promet de le revoir. En sortant, Duroy voit la foule qui l'envie et, au loin, la Chambre des députés : il rêve déjà de son prochain bond vers le pouvoir."
+  }
+ ],
+ "structure": "Le roman est construit en deux parties symétriques : la première compte huit chapitres, la seconde dix. La première partie raconte l'entrée de Duroy dans le monde : de la misère du premier chapitre (trois francs quarante en poche) à la mort de Forestier et à la demande en mariage faite à sa veuve. La seconde partie raconte la conquête du pouvoir et de l'argent : mariage avec Madeleine, séduction de Mme Walter, divorce, mariage avec Suzanne. Le récit est donc une ascension continue, sans chute : contrairement à la morale traditionnelle, le personnage immoral n'est pas puni. L'incipit (Duroy sortant d'un restaurant bon marché) et l'excipit (Duroy sortant de l'église de la Madeleine sous les regards de la foule) se répondent pour mesurer le chemin parcouru.",
+ "personnages": [
+  {
+   "nom": "Georges Duroy (Du Roy)",
+   "role": "Ancien hussard, beau, sans talent ni scrupules, il gravit tous les échelons de la société grâce aux femmes et au journalisme. Il est à la fois séduisant et méprisable : instinctif, vaniteux, jaloux, il réussit en exploitant les autres. Son surnom, « Bel-Ami », résume son arme principale : son physique.",
+   "relations": "Ami (intéressé) de Forestier, dont il prend la place ; amant de Clotilde, de Mme Walter ; mari de Madeleine puis de Suzanne ; rival puis ennemi du ministre Laroche-Mathieu."
+  },
+  {
+   "nom": "Madeleine Forestier",
+   "role": "Épouse de Forestier puis de Duroy. Intelligente, libre et ambitieuse, elle écrit en réalité les articles de ses maris et tire les ficelles politiques. Elle refuse d'être une simple épouse soumise. Duroy, humilié de lui devoir tant, finit par se débarrasser d'elle.",
+   "relations": "Épouse successive de Forestier et de Duroy, amie de Clotilde, protégée du comte de Vaudrec qui lui lègue sa fortune ; liée politiquement (et, selon Duroy, intimement) à Laroche-Mathieu."
+  },
+  {
+   "nom": "Charles Forestier",
+   "role": "Ancien camarade de Duroy, journaliste politique, il lui ouvre les portes de la presse. Malade, il meurt à Cannes ; Duroy prend littéralement sa place : son poste, sa femme, et même son nom dans la bouche de ses collègues.",
+   "relations": "Ancien camarade de régiment de Duroy, mari de Madeleine ; employé de Walter à La Vie Française."
+  },
+  {
+   "nom": "Clotilde de Marelle",
+   "role": "Amie de Madeleine, première maîtresse de Duroy. Fantasque, joyeuse, aimant les bas-fonds, elle lui reste attachée malgré ses trahisons. Sa fille Laurine invente le surnom « Bel-Ami ».",
+   "relations": "Amie de Madeleine, maîtresse de Duroy pendant tout le roman ; mère de Laurine."
+  },
+  {
+   "nom": "M. Walter",
+   "role": "Directeur de La Vie Française, député et banquier, homme d'affaires sans scrupules qui s'enrichit grâce à la spéculation sur le Maroc. Il incarne l'alliance de la presse, de la politique et de l'argent.",
+   "relations": "Patron de Duroy, mari de Virginie, père de Suzanne ; allié en affaires de Laroche-Mathieu."
+  },
+  {
+   "nom": "Virginie Walter et Suzanne Walter",
+   "role": "Mme Walter, femme mûre et pieuse, s'éprend de Duroy et souffre de son abandon. Sa fille Suzanne, jeune et naïve, devient l'instrument de l'ascension finale de Duroy, qui l'enlève pour l'épouser.",
+   "relations": "Mère et fille rivales sans le savoir d'abord : Mme Walter est la maîtresse de Duroy, qui épouse ensuite Suzanne."
+  },
+  {
+   "nom": "Norbert de Varenne",
+   "role": "Vieux poète du journal, lucide et désespéré. Son grand discours sur la mort est une méditation sur la vanité de l'existence, qui contraste avec l'appétit de vivre de Duroy.",
+   "relations": "Collègue de Duroy au journal, qui fait de lui le confident de son désespoir."
+  },
+  {
+   "nom": "Laroche-Mathieu et le comte de Vaudrec",
+   "role": "Laroche-Mathieu, député devenu ministre des Affaires étrangères, amant de Madeleine, est un politicien corrompu. Le comte de Vaudrec, vieil ami de Madeleine, lui lègue sa fortune : Duroy en exige la moitié.",
+   "relations": "Laroche-Mathieu est l'allié de Walter et l'amant de Madeleine ; Vaudrec est le vieil ami (peut-être l'ancien amant) de Madeleine."
+  }
+ ],
+ "evolution": "Duroy change de statut à chaque étape, et son nom change avec lui : employé du chemin de fer du Nord à quinze cents francs par an, il devient reporter, chef des échos, rédacteur politique, puis rédacteur en chef de La Vie Française ; Duroy devient « Bel-Ami » (Ire partie, chap. V), puis Du Roy de Cantel (IIe partie, chap. I), enfin « baron Du Roy de Cantel » (IIe partie, chap. X). Son caractère, lui, ne s'améliore pas : il apprend surtout à mieux calculer. Au début, il subit (il a peur au duel, il dépend de Madeleine pour écrire) ; à la fin, il domine et décide (constat d'adultère, enlèvement de Suzanne). Les femmes suivent le mouvement inverse : Madeleine perd sa place, Mme Walter s'effondre et vieillit, Suzanne devient un instrument. Seul Norbert de Varenne, au milieu du roman, rappelle que tout ce mouvement mène à la mort.",
+ "themes": [
+  {
+   "titre": "L'ascension sociale d'un arriviste",
+   "texte": "Duroy part de rien et arrive presque au sommet. Chaque étape est marquée par un changement de nom (Duroy, Bel-Ami, Du Roy de Cantel) ou de logement. Forestier le lui apprend dès le chapitre I : « Il faut s'imposer et non pas demander ». La fin laisse entrevoir la suite : la Chambre des députés, peut-être un ministère. Maupassant renouvelle le motif de Rastignac, mais sans les scrupules du héros balzacien."
+  },
+  {
+   "titre": "Les femmes, instruments de la réussite",
+   "texte": "Duroy réussit par ses maîtresses et ses épouses : Madeleine lui écrit ses articles, Clotilde l'entretient, Mme Walter lui donne des informations financières, Suzanne lui apporte la fortune. Le roman montre aussi des femmes fortes (Madeleine, intellectuelle indépendante) et des femmes victimes (Mme Walter, humiliée). La séduction est une stratégie : devant le miroir, Duroy étudie ses sourires « comme font les acteurs pour apprendre leurs rôles »."
+  },
+  {
+   "titre": "La presse corrompue",
+   "texte": "La Vie Française n'est pas un journal d'information mais un instrument au service de Walter et de ses amis politiques. Les reporters inventent leurs interviews (Saint-Potin), les articles servent à faire monter ou baisser la Bourse, à faire tomber un ministre. Maupassant fait une satire virulente d'un journalisme sans talent et sans éthique."
+  },
+  {
+   "titre": "L'argent, la politique et la colonisation",
+   "texte": "L'affaire du Maroc montre la collusion entre ministres, banquiers et journalistes : une expédition militaire est décidée pour faire fortune sur un emprunt. Le narrateur rapporte que Walter a encaissé « de trente à quarante millions ». La colonisation apparaît comme une opération financière, non comme une mission civilisatrice."
+  },
+  {
+   "titre": "La mort et la vanité de la vie",
+   "texte": "Malgré le triomphe de Duroy, le roman est hanté par la mort : agonie de Forestier, discours de Norbert de Varenne (« Vivre enfin, c'est mourir ! »), mort de Vaudrec. Duroy fuit ces pensées par l'action, l'argent et le plaisir. Ce pessimisme, que l'on rapproche souvent de la lecture de Schopenhauer par Maupassant, donne au roman une profondeur sombre."
+  },
+  {
+   "titre": "Le regard et les apparences",
+   "texte": "Le roman est plein de miroirs et de regards : Duroy jette sur les dîneurs un regard « comme des coups d'épervier », se découvre avec ravissement dans une glace, se fait admirer par la foule à la Madeleine. Dans ce monde, l'apparence compte plus que la valeur réelle : on réussit en paraissant."
+  }
+ ],
+ "analyse": {
+  "enjeux": [
+   "Comment un homme sans talent peut-il réussir dans la société parisienne des années 1880 ?",
+   "Quel rôle jouent les femmes dans une ascension sociale qui les utilise ?",
+   "Que révèle le roman des liens entre presse, politique et argent (l'affaire du Maroc) ?",
+   "Comment un roman peut-il faire juger un personnage que le narrateur ne condamne jamais ouvertement ?",
+   "Que valent la réussite et le plaisir face à la mort, omniprésente dans le roman ?"
+  ],
+  "intentions": "Les intentions de Maupassant sont documentées par deux textes. D'abord sa réponse aux critiques, publiée dans le Gil Blas en juin 1885 (« Aux critiques de Bel-Ami ») : il y affirme en substance qu'il a voulu raconter la vie d'un aventurier, et qu'il ne visait pas la presse en général mais un seul journal, instrument d'affairistes politiques — ce que le roman dit lui-même lorsque La Vie Française cesse d'être « l'organe suspect d'un groupe de tripoteurs politiques » (IIe partie, chap. V). Ensuite la préface « Le Roman » (Pierre et Jean, 1888), postérieure à Bel-Ami : il y explique que le romancier ne copie pas le réel mais choisit et compose pour en donner « l'illusion complète du vrai ». On ne peut pas attribuer à Maupassant d'autres intentions précises sans source.",
+  "procedes": [
+   {
+    "nom": "La focalisation interne",
+    "explication": "Le récit adopte très souvent le point de vue de Duroy : nous voyons Paris, les femmes et l'argent à travers ses désirs et ses calculs, ce qui nous rend complices malgré nous.",
+    "exemple": "La nuit qui précède le duel (Ire partie, chap. VII) est racontée de l'intérieur, avec la peur physique de Duroy ; à la fin, « Il ne voyait personne. Il ne pensait qu'à lui. » (IIe partie, chap. X)."
+   },
+   {
+    "nom": "L'ironie du narrateur",
+    "explication": "Le narrateur ne commente pas, mais juxtapose des faits qui se contredisent : le lecteur comprend seul la critique.",
+    "exemple": "Le mariage de Duroy est célébré par « le nouvel évêque de Tanger » (IIe partie, chap. X) : le prélat doit son siège à l'expédition coloniale montée pour la spéculation, et il prêche la fidélité à un homme qui vient de divorcer par un piège."
+   },
+   {
+    "nom": "Le motif du miroir",
+    "explication": "Les glaces jalonnent le roman et montrent que Duroy existe par son image : il se regarde, se répète, se rassure.",
+    "exemple": "Dans l'escalier des Forestier, il s'étudie « comme font les acteurs pour apprendre leurs rôles » (Ire partie, chap. II) ; la dernière phrase du roman évoque Mme de Marelle « rajustant en face de la glace » ses cheveux."
+   },
+   {
+    "nom": "Les comparaisons animales",
+    "explication": "Les images de chasse et de prédation font de Duroy un fauve plutôt qu'un héros.",
+    "exemple": "Dès l'incipit, ses regards de joli garçon « s'étendent comme des coups d'épervier » (Ire partie, chap. I)."
+   },
+   {
+    "nom": "La précision chiffrée",
+    "explication": "Le roman compte : les sommes, les dates, les millions. L'argent mesure chaque étape et donne au récit sa précision réaliste.",
+    "exemple": "« On était au 28 juin, il lui restait juste en poche trois francs quarante » (Ire partie, chap. I) ; Walter a encaissé « de trente à quarante millions » sur l'emprunt (IIe partie, chap. VII)."
+   },
+   {
+    "nom": "La construction en miroir (incipit / excipit)",
+    "explication": "Le début et la fin se répondent pour mesurer l'ascension : une sortie de gargote, une sortie d'église.",
+    "exemple": "Duroy « sortit du restaurant » à la première phrase ; à la dernière page, il descend les marches de la Madeleine tandis que « Le peuple de Paris le contemplait et l'enviait »."
+   }
+  ],
+  "style": "Maupassant écrit une prose claire, rapide, sans longues descriptions gratuites : chaque détail (une somme d'argent, un vêtement, un regard) caractérise. Les dialogues, nombreux et vifs, imitent le parler parisien et journalistique (« Cristi », « Bigre »). Les phrases courtes juxtaposées produisent souvent un effet de sécheresse ironique (« Il ne voyait personne. Il ne pensait qu'à lui. »). Le discours de Norbert de Varenne, avec ses accumulations et ses questions rhétoriques, contraste par son lyrisme sombre avec le reste du récit.",
+  "registres": [
+   {
+    "nom": "Satirique",
+    "explication": "La presse (Saint-Potin qui invente ses interviews), la politique (Laroche-Mathieu) et la finance (Walter) sont tournées en dérision."
+   },
+   {
+    "nom": "Ironique",
+    "explication": "Le narrateur fait comprendre le contraire de ce qu'il montre : le Christ du tableau qui « ressemble » à Bel-Ami, le mariage religieux d'un homme sans morale."
+   },
+   {
+    "nom": "Tragique / pathétique",
+    "explication": "La méditation de Norbert de Varenne sur la mort et la souffrance de Mme Walter apportent une dimension sombre et émouvante."
+   },
+   {
+    "nom": "Réaliste",
+    "explication": "Lieux, sommes, métiers et usages sociaux sont décrits avec exactitude pour donner « l'illusion complète du vrai »."
+   }
+  ],
+  "interpretations": [
+   {
+    "texte": "Duroy n'est jamais puni : le roman se termine sur son triomphe et sur la promesse d'une carrière politique.",
+    "nature": "fait"
+   },
+   {
+    "texte": "L'expédition de Tanger renvoie à l'établissement du protectorat français en Tunisie (1881) : dans le roman, un député de la droite raille l'idée d'envoyer une armée à Tanger « en pendant à celle de Tunis » (IIe partie, chap. V).",
+    "nature": "fait"
+   },
+   {
+    "texte": "Duroy serait un Rastignac dégradé : il reprend le parcours du héros balzacien sans sa sensibilité ni ses scrupules. Ce rapprochement, fréquent chez les commentateurs, reste une lecture.",
+    "nature": "hypothese"
+   },
+   {
+    "texte": "Le pessimisme de Norbert de Varenne exprimerait la pensée de Maupassant, lecteur de Schopenhauer. Le lien est souvent proposé, mais le discours appartient à un personnage, et le narrateur ne le reprend pas à son compte.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le portrait de Madeleine, femme intelligente qui écrit sous le nom de ses maris, peut se lire comme une critique de la condition des femmes privées de reconnaissance publique, ou simplement comme le portrait d'une intrigante : les lectures divergent.",
+    "nature": "debat"
+   },
+   {
+    "texte": "Le personnage de Walter est décrit avec des stéréotypes antisémites courants dans la presse de l'époque (« juif et méridional », Ire partie, chap. II) : il faut les identifier comme tels et les replacer dans leur contexte.",
+    "nature": "fait"
+   }
+  ],
+  "liens": "Bel-Ami illustre plusieurs principes réalistes et naturalistes : un héros ordinaire, mû par ses instincts (désir, faim d'argent) ; une peinture précise d'un milieu (la presse parisienne) et d'une époque (la IIIe République des affaires et de la colonisation) ; l'absence de morale explicite. Il s'inscrit dans la lignée du roman d'ascension sociale de Balzac (Le Père Goriot, Illusions perdues) et de Stendhal (Le Rouge et le Noir), mais en retire tout héroïsme. Sa forme de feuilleton dans le Gil Blas le relie aussi au monde qu'il décrit : un roman sur la presse publié par la presse."
+ },
+ "citations": [
+  {
+   "texte": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.",
+   "locuteur": "Narrateur",
+   "reference": "Ire partie, chap. I (première phrase)",
+   "situation": "Ouverture du roman : Duroy sort d'une gargote bon marché, un soir de fin juin.",
+   "sens": "Le héros est présenté par une transaction d'argent minuscule.",
+   "procedes": "Phrase d'incipit au passé simple ; nom complet du héros ; détail chiffré (cent sous).",
+   "demontre": "Que le roman sera celui de l'argent et de la conquête sociale.",
+   "usage": "Incipit à mettre en regard de l'excipit (sortie de la Madeleine) pour mesurer l'ascension.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)",
+    "note": "Majuscule initiale « Quand » (l'édition imprime « QUAND » en petites capitales)"
+   }
+  },
+  {
+   "texte": "un de ces regards de joli garçon, qui s'étendent comme des coups d'épervier",
+   "locuteur": "Narrateur",
+   "reference": "Ire partie, chap. I",
+   "situation": "Duroy, en sortant, jette un regard circulaire sur les dîneurs ; les femmes lèvent la tête vers lui.",
+   "sens": "Son regard sur les femmes est celui d'un oiseau de proie.",
+   "procedes": "Comparaison animale (épervier) ; expression « joli garçon ».",
+   "demontre": "Que Duroy est un prédateur et que la séduction sera son arme.",
+   "usage": "Thème des femmes instruments de la réussite ; portrait du héros.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Vois-tu, mon petit, tout dépend de l'aplomb, ici. Un homme un peu malin devient plus facilement ministre que chef de bureau. Il faut s'imposer et non pas demander.",
+   "locuteur": "Forestier",
+   "reference": "Ire partie, chap. I",
+   "situation": "Forestier, devenu journaliste, conseille Duroy à la terrasse d'un café.",
+   "sens": "À Paris, l'assurance compte plus que le mérite.",
+   "procedes": "Ton familier (« mon petit ») ; paradoxe ministre / chef de bureau ; maxime à l'infinitif.",
+   "demontre": "La règle du jeu social que Duroy appliquera tout au long du roman.",
+   "usage": "Sujet sur l'ambition ; satire d'une société où la compétence ne compte pas.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "il s'était pris pour un autre, pour un homme du monde",
+   "locuteur": "Narrateur (point de vue de Duroy)",
+   "reference": "Ire partie, chap. II",
+   "situation": "En montant chez les Forestier, Duroy aperçoit dans une glace un monsieur élégant : c'est lui-même.",
+   "sens": "Duroy découvre qu'il peut passer pour un homme du monde.",
+   "procedes": "Focalisation interne ; quiproquo ; épanorthose (« un autre, pour un homme du monde »).",
+   "demontre": "Que la réussite passe par l'apparence et la représentation de soi.",
+   "usage": "Commentaire de la scène du miroir ; thème du paraître.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Tiens! Bel-Ami! Laurine vous a baptisé!",
+   "locuteur": "Mme de Marelle",
+   "reference": "Ire partie, chap. V",
+   "situation": "La petite Laurine accueille Duroy en criant « Ah! Bel-Ami! » ; sa mère reprend le mot en riant.",
+   "sens": "Duroy reçoit le surnom qui donne son titre au roman.",
+   "procedes": "Phrases exclamatives ; verbe « baptiser » (vocabulaire religieux).",
+   "demontre": "Que le héros est réduit à son charme : c'est sa seule « qualité ».",
+   "usage": "Expliquer le titre ; montrer l'ironie d'un baptême profane.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)",
+    "note": "Ponctuation de l'édition (pas d'espace avant « ! »)"
+   }
+  },
+  {
+   "texte": "Respirer, dormir, boire, manger, travailler, rêver, tout ce que nous faisons, c'est mourir. Vivre enfin, c'est mourir!",
+   "locuteur": "Norbert de Varenne",
+   "reference": "Ire partie, chap. VI",
+   "situation": "Promenade nocturne : le vieux poète confie à Duroy son obsession de la mort.",
+   "sens": "Toute activité humaine rapproche de la mort.",
+   "procedes": "Accumulation de six infinitifs ; paradoxe ; répétition « c'est mourir ».",
+   "demontre": "Que le roman de l'ambition est aussi un roman de la vanité de la vie.",
+   "usage": "Contrepoint pessimiste au triomphe de Duroy ; dissertation sur la morale du roman.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Ce n'est point une demande que je vous adresse. Le lieu et l'instant la rendraient odieuse.",
+   "locuteur": "Duroy",
+   "reference": "Ire partie, chap. VIII",
+   "situation": "À Cannes, Forestier vient de mourir ; Duroy veille le corps avec Madeleine et lui laisse entendre qu'il voudrait l'épouser.",
+   "sens": "Duroy fait une demande tout en prétendant ne pas la faire.",
+   "procedes": "Prétérition (dire en affirmant ne pas dire) ; vocabulaire de la bienséance (« odieuse »).",
+   "demontre": "Le cynisme calculateur de Duroy, qui prend la place du mort avant même l'enterrement.",
+   "usage": "Exemple du personnage immoral ; scène à opposer à la méditation sur la mort.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Il était pour lui, ce nom, une raillerie mordante, plus qu'une raillerie, presque une insulte.",
+   "locuteur": "Narrateur (point de vue de Duroy)",
+   "reference": "IIe partie, chap. II",
+   "situation": "Ses collègues appellent Duroy « Forestier » pour se moquer de lui : sa femme écrit pour lui comme elle écrivait pour l'autre.",
+   "sens": "Duroy souffre d'être le double de Forestier.",
+   "procedes": "Gradation (raillerie, plus qu'une raillerie, insulte) ; focalisation interne.",
+   "demontre": "La jalousie et la vanité de Duroy, et sa dépendance envers Madeleine.",
+   "usage": "Thème du double ; place de Madeleine dans l'écriture.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Ce n'était plus l'organe suspect d'un groupe de tripoteurs politiques, mais l'organe avoué du cabinet.",
+   "locuteur": "Narrateur",
+   "reference": "IIe partie, chap. V",
+   "situation": "La Vie Française devient le journal officieux du gouvernement de Laroche-Mathieu.",
+   "sens": "Le journal est passé du statut d'outil louche à celui de porte-parole du pouvoir.",
+   "procedes": "Antithèse « suspect » / « avoué » ; terme péjoratif « tripoteurs ».",
+   "demontre": "La collusion entre presse et politique.",
+   "usage": "Thème de la presse corrompue ; lien avec la réponse de Maupassant aux critiques.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Mais il vous ressemble, Bel-Ami. Je suis sûre qu'il vous ressemble.",
+   "locuteur": "Suzanne Walter",
+   "reference": "IIe partie, chap. VII",
+   "situation": "Devant le tableau « Jésus marchant sur les flots », Mme Walter s'exalte ; Suzanne compare le Christ à Duroy.",
+   "sens": "Le séducteur est comparé au Christ.",
+   "procedes": "Ironie dramatique (Mme Walter, sa maîtresse, est présente) ; répétition.",
+   "demontre": "La dérision d'un monde où le sacré devient décor et spectacle mondain.",
+   "usage": "Ironie du narrateur ; thème de l'apparence.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Je la renvoie à feu Forestier.",
+   "locuteur": "Duroy",
+   "reference": "IIe partie, chap. VIII",
+   "situation": "Après le constat d'adultère, Duroy annonce à Walter qu'il va divorcer.",
+   "sens": "Duroy se débarrasse de Madeleine avec mépris.",
+   "procedes": "Formule cynique ; « feu » (défunt) : humour noir.",
+   "demontre": "La brutalité de l'arriviste qui utilise puis rejette les femmes.",
+   "usage": "Exemple pour le sujet sur le personnage immoral.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Il ne voyait personne. Il ne pensait qu'à lui.",
+   "locuteur": "Narrateur",
+   "reference": "IIe partie, chap. X",
+   "situation": "Duroy retraverse l'église au bras de Suzanne après la cérémonie.",
+   "sens": "Au moment du triomphe, Duroy est enfermé dans son égoïsme.",
+   "procedes": "Deux phrases courtes juxtaposées ; parallélisme négatif.",
+   "demontre": "L'égoïsme absolu du héros, au cœur même d'un sacrement.",
+   "usage": "Commentaire de l'excipit ; ironie sèche du narrateur.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Le peuple de Paris le contemplait et l'enviait.",
+   "locuteur": "Narrateur",
+   "reference": "IIe partie, chap. X",
+   "situation": "Duroy apparaît sur le seuil de la Madeleine devant la foule.",
+   "sens": "La foule admire et jalouse le nouveau riche.",
+   "procedes": "Deux verbes coordonnés ; « peuple de Paris » collectif.",
+   "demontre": "Que la réussite se mesure au regard des autres.",
+   "usage": "Excipit ; thème du regard et des apparences.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  },
+  {
+   "texte": "Et il lui sembla qu'il allait faire un bond du portique de la Madeleine au portique du Palais-Bourbon.",
+   "locuteur": "Narrateur (point de vue de Duroy)",
+   "reference": "IIe partie, chap. X",
+   "situation": "Du haut des marches, Duroy aperçoit la Chambre des députés.",
+   "sens": "Il rêve déjà d'une carrière politique.",
+   "procedes": "Image du bond ; symétrie des deux « portique » (l'Église et l'État).",
+   "demontre": "Une ambition sans limite et une fin ouverte.",
+   "usage": "Montrer que l'immoral n'est pas puni ; fin ouverte.",
+   "verification": {
+    "statut": "verifiee",
+    "source": "Texte intégral du site : Guy de Maupassant, Bel-Ami, Œuvres complètes, Conard, 1910 (Project Gutenberg n° 57430)"
+   }
+  }
+ ],
+ "parcours": {
+  "intitule": "L'ambition et la conquête de Paris : portrait d'un arriviste (parcours proposé)",
+  "explication": "Attention : en seconde, il n'existe pas de liste nationale d'œuvres ni de parcours imposés. Le parcours ci-dessous est un parcours pédagogique proposé pour étudier Bel-Ami dans l'objet d'étude « Le roman et le récit du XVIIIe au XXIe siècle », qui invite à étudier la construction d'un personnage et le regard que le roman porte sur la société. Bel-Ami s'y prête bien : Duroy est presque toujours présent, et c'est souvent à travers ses yeux que nous découvrons Paris. Pourtant, il n'a rien d'un héros admirable : ce décalage oblige le lecteur à prendre de la distance.\n\nCe parcours permet de comparer Duroy à ses modèles du début du XIXe siècle, Rastignac (Le Père Goriot) et Julien Sorel (Le Rouge et le Noir). Comme eux, il vient de la province et veut conquérir la capitale ; mais il n'a ni leurs scrupules ni leurs élans, et surtout il n'échoue pas. Maupassant montre ainsi une société où la réussite ne récompense plus le mérite.\n\nEnfin, le parcours pose la question du rôle du narrateur : en ne condamnant pas son personnage, Maupassant laisse au lecteur le soin de juger. L'ironie discrète, les contrastes (le mariage religieux d'un homme sans morale) et la fin triomphale font de Bel-Ami une critique d'autant plus efficace qu'elle reste implicite.",
+  "textesComplementaires": [
+   {
+    "titre": "Le Père Goriot (1835), excipit « À nous deux maintenant! »",
+    "auteur": "Honoré de Balzac",
+    "interet": "Rastignac défie Paris depuis le cimetière : Duroy en est l'héritier, mais un héritier sans larmes ni hésitation."
+   },
+   {
+    "titre": "Le Rouge et le Noir (1830)",
+    "auteur": "Stendhal",
+    "interet": "Julien Sorel utilise lui aussi la séduction pour s'élever, mais il finit condamné à mort : comparer les deux dénouements."
+   },
+   {
+    "titre": "Illusions perdues (1837-1843)",
+    "auteur": "Honoré de Balzac",
+    "interet": "Lucien de Rubempré découvre la corruption de la presse parisienne : une satire du journalisme qui annonce La Vie Française."
+   },
+   {
+    "titre": "Au Bonheur des Dames (1883)",
+    "auteur": "Émile Zola",
+    "interet": "Octave Mouret bâtit son empire commercial en séduisant les clientes : autre figure de conquérant qui réussit grâce aux femmes, dans le Paris des années 1880."
+   },
+   {
+    "titre": "Préface de Pierre et Jean, « Le Roman » (1888)",
+    "auteur": "Guy de Maupassant",
+    "interet": "Maupassant y explique que le romancier réaliste choisit et compose pour donner l'illusion du vrai : utile pour comprendre son art dans Bel-Ami."
+   }
+  ]
+ },
+ "ecrit": {
+  "idees": [
+   "Bel-Ami raconte une ascension sans chute : de trois francs quarante à la Madeleine.",
+   "Duroy réussit sans talent, grâce aux femmes, à l'aplomb et au chantage.",
+   "La presse est un instrument de pouvoir et de spéculation, pas d'information.",
+   "L'affaire du Maroc montre la collusion entre ministres, banquiers et journalistes.",
+   "Le narrateur ne juge pas : l'ironie et les contrastes laissent le lecteur juger.",
+   "La mort hante le roman (Forestier, Norbert de Varenne, Vaudrec) et relativise la réussite."
+  ],
+  "axes": [
+   "Un roman d'apprentissage inversé : Duroy apprend à calculer, non à devenir meilleur.",
+   "Les femmes, moyens de la réussite et victimes du héros.",
+   "Une satire de la presse et de la IIIe République des affaires.",
+   "Le paraître : miroirs, noms, regards, foule.",
+   "Un réalisme pessimiste : le triomphe social sur fond de mort."
+  ],
+  "problematiques": [
+   "Comment Maupassant fait-il d'un personnage médiocre le héros d'un roman d'ascension sociale ?",
+   "En quoi Bel-Ami est-il une satire de la société parisienne des années 1880 ?",
+   "Pourquoi le roman ne punit-il pas son personnage, et quel effet cette fin produit-elle sur le lecteur ?"
+  ],
+  "exemples": [
+   {
+    "exemple": "L'incipit : « trois francs quarante » le 28 juin (Ire partie, chap. I).",
+    "utilisation": "Montrer le point de départ misérable et le rôle de l'argent dans le récit."
+   },
+   {
+    "exemple": "La scène des glaces dans l'escalier des Forestier (Ire partie, chap. II).",
+    "utilisation": "Démontrer que Duroy se construit comme un acteur : la réussite passe par l'apparence."
+   },
+   {
+    "exemple": "Madeleine dicte l'article « Souvenirs d'un chasseur d'Afrique » (Ire partie, chap. III).",
+    "utilisation": "Prouver que Duroy n'a pas de talent et que les femmes font sa carrière."
+   },
+   {
+    "exemple": "Le discours de Norbert de Varenne sur la mort (Ire partie, chap. VI).",
+    "utilisation": "Montrer la dimension pessimiste du roman et la vanité de l'ambition."
+   },
+   {
+    "exemple": "La demande faite à Madeleine près du corps de Forestier (Ire partie, chap. VIII).",
+    "utilisation": "Illustrer le cynisme de Duroy, qui prend la place du mort."
+   },
+   {
+    "exemple": "Le constat d'adultère rue des Martyrs (IIe partie, chap. VIII).",
+    "utilisation": "Montrer que Duroy utilise la loi et le scandale pour éliminer un rival et une épouse."
+   },
+   {
+    "exemple": "Le mariage célébré par « le nouvel évêque de Tanger » (IIe partie, chap. X).",
+    "utilisation": "Montrer l'ironie du narrateur : l'Église bénit un mariage né d'une manipulation, sous l'autorité d'un évêché issu de la spéculation coloniale."
+   }
+  ],
+  "liens": "Les thèmes se croisent dans les personnages : Madeleine relie les femmes et la presse (elle écrit les articles), Mme Walter relie les femmes et l'argent (elle livre le secret du Maroc), Walter relie la presse, la politique et la finance. Les procédés servent ces thèmes : la focalisation interne fait partager l'appétit de Duroy ; l'ironie du narrateur le juge ; les miroirs disent le paraître ; les chiffres disent l'argent. Le duo Duroy / Norbert de Varenne oppose l'ambition et la conscience de la mort.",
+  "sujetsCommentaire": [
+   {
+    "passage": "Ire partie, chap. I, de « Quand la caissière lui eut rendu la monnaie » à l'arrivée de Duroy sur le boulevard.",
+    "pistes": "Un portrait en action : le regard « comme des coups d'épervier », la démarche de l'ancien hussard ; le réalisme des chiffres (28 juin, trois francs quarante) ; un héros qui part à l'assaut de Paris."
+   },
+   {
+    "passage": "Ire partie, chap. II, la montée de l'escalier chez les Forestier et les trois glaces.",
+    "pistes": "Le quiproquo du miroir ; le vocabulaire du théâtre (« comme font les acteurs ») ; la gradation des étages comme image de l'ascension ; l'ironie de « Voilà une excellente invention »."
+   },
+   {
+    "passage": "IIe partie, chap. X, de la sortie de l'église jusqu'à la fin du roman.",
+    "pistes": "Le triomphe public (« Le peuple de Paris le contemplait et l'enviait ») ; l'égoïsme (« Il ne pensait qu'à lui ») ; le « bond » vers le Palais-Bourbon ; le retour final de Mme de Marelle devant la glace : désir et ambition, sans punition."
+   }
+  ],
+  "erreurs": [
+   "Confondre Bel-Ami avec un roman d'amour : Duroy n'aime aucune des femmes qu'il séduit, il les utilise.",
+   "Croire que Duroy écrit ses articles : c'est Madeleine qui les rédige ou les corrige, au début comme dans la IIe partie.",
+   "Dire que Duroy est puni ou ruiné à la fin : il triomphe, et le roman s'ouvre sur une future carrière de député.",
+   "Attribuer à Maupassant les paroles de Norbert de Varenne ou les pensées de Duroy : ce sont des personnages, le narrateur reste en retrait.",
+   "Situer l'action sous le Second Empire : le roman se déroule au début des années 1880, sous la IIIe République.",
+   "Confondre les deux Walter : Mme Walter (Virginie) est la maîtresse de Duroy, Suzanne (sa fille) devient sa seconde épouse."
+  ]
+ },
+ "dissertations": [
+  {
+   "sujet": "Peut-on s'intéresser à un personnage de roman que l'on n'admire pas ?",
+   "analyse": "Le sujet distingue deux attitudes du lecteur : l'intérêt (curiosité, envie de connaître la suite, plaisir de comprendre) et l'admiration (jugement moral favorable, désir d'imiter). La question invite à se demander si un personnage immoral comme Duroy peut captiver, et pourquoi.",
+   "problematique": "Comment un personnage méprisable comme Georges Duroy peut-il captiver le lecteur, et que gagne-t-on à suivre un tel « héros » ?",
+   "plan": [
+    {
+     "titre": "I. Duroy, un personnage peu admirable",
+     "arguments": [
+      "A. Il n'a pas de talent : Madeleine écrit son premier article (Ire partie, chap. III).",
+      "B. Il manipule et trahit les femmes : il abandonne Mme Walter, fait surprendre Madeleine, enlève Suzanne.",
+      "C. Il est vaniteux, jaloux et cynique : il demande Madeleine en mariage près du corps de Forestier."
+     ]
+    },
+    {
+     "titre": "II. Un personnage pourtant captivant",
+     "arguments": [
+      "A. Le plaisir de l'ascension : le lecteur suit avec curiosité chaque étape, du pauvre hussard (trois francs quarante) au marié de la Madeleine.",
+      "B. Un personnage vivant et humain : ses peurs (la nuit avant le duel), ses jalousies, ses désirs le rendent proche de nous.",
+      "C. Le charme du séducteur agit aussi sur le lecteur : le point de vue adopté nous fait partager ses émotions."
+     ]
+    },
+    {
+     "titre": "III. Un personnage qui fait réfléchir sur la société",
+     "arguments": [
+      "A. À travers Duroy, Maupassant dévoile la corruption de la presse et de la politique (affaire du Maroc).",
+      "B. L'absence de punition finale oblige le lecteur à juger lui-même : l'ironie remplace la morale explicite.",
+      "C. Comparé à Rastignac ou à Julien Sorel, Duroy montre l'évolution d'une société où le mérite ne compte plus."
+     ]
+    }
+   ],
+   "introduction": "Les romans nous offrent souvent des héros à admirer : chevaliers, aventuriers, personnages courageux ou généreux. Mais le roman réaliste du XIXe siècle s'intéresse aussi à des personnages ordinaires, parfois méprisables. C'est le cas de Bel-Ami (1885) de Maupassant, qui raconte l'ascension de Georges Duroy, ancien hussard sans talent qui conquiert Paris grâce aux femmes et au journalisme. Peut-on s'intéresser à un personnage que l'on n'admire pas ? Nous nous demanderons comment un personnage méprisable comme Duroy peut captiver le lecteur et ce que l'on gagne à suivre un tel « héros ». Nous verrons d'abord que Duroy est bien un personnage peu admirable, puis qu'il est pourtant captivant, avant de montrer qu'il nous fait réfléchir sur la société.",
+   "conclusion": "Georges Duroy n'a rien d'un modèle : sans talent, sans fidélité, sans scrupules, il exploite tous ceux qu'il croise. Pourtant, son ascension fascine, ses faiblesses le rendent humain et son charme agit jusque sur le lecteur. Surtout, ce personnage est un révélateur : à travers lui, Maupassant dénonce une société où l'argent, la presse et la politique sont corrompus. L'intérêt d'un personnage ne dépend donc pas de sa vertu, mais de ce qu'il nous fait comprendre. Au XXe siècle, Albert Camus fera de Meursault, dans L'Étranger, un autre personnage déroutant qui oblige le lecteur à s'interroger."
+  },
+  {
+   "sujet": "Un roman doit-il punir ses personnages immoraux ?",
+   "analyse": "Le verbe « doit » pose la question de la fonction morale du roman : est-il fait pour donner des leçons, en récompensant les bons et punissant les méchants ? Bel-Ami se termine sur le triomphe d'un arriviste : est-ce un défaut ou une force ?",
+   "problematique": "En laissant triompher Georges Duroy, Bel-Ami renonce-t-il à toute portée morale, ou trouve-t-il une autre manière de faire réfléchir le lecteur ?",
+   "plan": [
+    {
+     "titre": "I. Une attente traditionnelle du lecteur",
+     "arguments": [
+      "A. Dans de nombreux récits (contes, fables), la punition du méchant rassure et enseigne.",
+      "B. Le roman du XIXe siècle punit souvent l'ambitieux : Julien Sorel est guillotiné dans Le Rouge et le Noir.",
+      "C. Dans Bel-Ami, certains personnages paient : Laroche-Mathieu tombe, Mme Walter est brisée."
+     ]
+    },
+    {
+     "titre": "II. Le triomphe de Duroy : un choix réaliste",
+     "arguments": [
+      "A. Maupassant montre le monde tel qu'il est : dans la société de son temps, les arrivistes réussissent.",
+      "B. L'ascension continue de Duroy, de la gargote à la Madeleine, est logique : chaque bassesse le récompense.",
+      "C. La fin ouverte (« un bond » vers le Palais-Bourbon) suggère que rien ne l'arrêtera."
+     ]
+    },
+    {
+     "titre": "III. Une morale implicite, confiée au lecteur",
+     "arguments": [
+      "A. L'ironie du narrateur dénonce sans juger : le mariage religieux d'un homme sans foi, le Christ qui « ressemble » à Bel-Ami.",
+      "B. Le scandale de la fin choque le lecteur et l'oblige à réfléchir à la société qui permet ce triomphe.",
+      "C. Le discours de Norbert de Varenne rappelle que toute réussite est vaine face à la mort : une autre forme de jugement."
+     ]
+    }
+   ],
+   "introduction": "Le crime ne paie pas, dit l'adage : beaucoup de récits obéissent à cette règle rassurante. Pourtant, Maupassant la renverse dans Bel-Ami (1885). Georges Duroy, ancien hussard sans talent, trompe, manipule et trahit pour réussir, et le roman s'achève sur son mariage triomphal avec la fille d'un riche patron de presse. Un roman doit-il punir ses personnages immoraux ? Nous nous demanderons si, en laissant triompher Duroy, Bel-Ami renonce à toute portée morale ou s'il trouve une autre manière de faire réfléchir le lecteur. Nous verrons d'abord que la punition répond à une attente traditionnelle, puis que le triomphe de Duroy est un choix réaliste, avant de montrer que le roman confie au lecteur une morale implicite.",
+   "conclusion": "Le lecteur attend souvent que le méchant soit puni, et la tradition littéraire l'y a habitué. Maupassant choisit pourtant de faire triompher Duroy, par fidélité à une réalité où l'ambition sans scrupules réussit. Ce choix n'est pas immoral : l'ironie, le malaise de la fin et la méditation sur la mort invitent le lecteur à juger par lui-même. Un roman n'a donc pas besoin de punir pour faire réfléchir : il peut même être plus efficace en nous scandalisant. On retrouve ce choix dans bien des œuvres modernes, où le lecteur doit construire seul le sens moral du récit."
+  }
+ ],
+ "oral": {
+  "presentation": "Bel-Ami est un roman de Guy de Maupassant publié en 1885, d'abord en feuilleton dans le Gil Blas. Il raconte, sous la IIIe République, l'ascension de Georges Duroy, ancien sous-officier sans le sou et sans talent, qui devient journaliste à La Vie Française. Surnommé « Bel-Ami », il réussit grâce aux femmes : Madeleine écrit ses articles, Clotilde l'entretient, Mme Walter lui livre des secrets financiers, et il finit par épouser Suzanne, la fille de son riche patron. Le roman est une satire de la presse, de la politique et de la finance, liées dans une expédition coloniale au Maroc. Sa singularité est que le héros immoral n'est jamais puni : le roman s'achève sur son mariage triomphal à la Madeleine, et c'est au lecteur de juger.",
+  "essentiels": [
+   "Auteur : Maupassant (1850-1893), disciple de Flaubert, proche du naturalisme ; publication en 1885.",
+   "Structure : deux parties (8 et 10 chapitres), ascension continue ; incipit et excipit se répondent.",
+   "Personnages clés : Duroy, Madeleine, Forestier, Clotilde de Marelle, les Walter, Norbert de Varenne, Laroche-Mathieu.",
+   "Thèmes : arrivisme, femmes, presse corrompue, argent et colonisation, mort, apparences.",
+   "Procédés : focalisation interne, ironie du narrateur, miroirs, comparaisons animales, chiffres.",
+   "Référence théorique : préface « Le Roman » (1888), « l'illusion complète du vrai »."
+  ],
+  "questions": [
+   {
+    "question": "Duroy est-il un héros ?",
+    "reponse": "Il est le héros au sens de personnage principal : le récit le suit presque constamment, souvent en focalisation interne. Mais ce n'est pas un héros au sens moral : il n'a pas de talent (Madeleine écrit son premier article), il trahit toutes les femmes et fait sa demande à Madeleine près du corps de Forestier. Maupassant crée donc un anti-héros, et c'est ce décalage qui permet la satire."
+   },
+   {
+    "question": "Pourquoi le roman s'intitule-t-il Bel-Ami ?",
+    "reponse": "C'est le surnom donné par la petite Laurine et repris par Mme de Marelle : « Tiens! Bel-Ami! Laurine vous a baptisé! » (Ire partie, chap. V). Le titre réduit le héros à son charme physique, sa seule arme. Le mot « ami » est ironique : Duroy n'est l'ami de personne, il se sert de tous."
+   },
+   {
+    "question": "Quel rôle jouent les femmes dans la réussite de Duroy ?",
+    "reponse": "Chacune lui apporte quelque chose : Madeleine le talent et les relations politiques, Clotilde l'argent de poche et le plaisir, Mme Walter le secret de l'affaire du Maroc, Suzanne la dot. Le roman montre une société où la femme n'a pas de pouvoir officiel mais où elle détient le pouvoir réel. Duroy les rejette toutes quand elles ne servent plus, comme Madeleine : « Je la renvoie à feu Forestier »."
+   },
+   {
+    "question": "Que dénonce Maupassant à travers La Vie Française ?",
+    "reponse": "Un journal qui n'informe pas mais sert des intérêts : reporters qui inventent leurs interviews, articles qui font tomber un ministère ou monter un emprunt. Le narrateur parle d'un « groupe de tripoteurs politiques » (IIe partie, chap. V). Walter et Laroche-Mathieu préparent l'expédition de Tanger pour spéculer sur l'emprunt marocain : presse, politique et finance sont complices."
+   },
+   {
+    "question": "Quel est le sens du discours de Norbert de Varenne ?",
+    "reponse": "C'est une méditation désespérée sur la mort (Ire partie, chap. VI) : « Vivre enfin, c'est mourir! ». Au milieu d'un roman de l'ambition, il rappelle que l'amour, l'argent et la gloire ne mènent à rien. Duroy l'écoute mais l'oublie vite : ce contraste fait de sa réussite une victoire dérisoire. On évitera d'en faire directement la pensée de Maupassant : c'est un personnage qui parle."
+   },
+   {
+    "question": "Comment interprétez-vous la fin du roman ?",
+    "reponse": "C'est un triomphe : la foule « le contemplait et l'enviait », et Duroy rêve d'un « bond » vers le Palais-Bourbon. Mais le narrateur glisse l'ironie : le mariage est béni par « le nouvel évêque de Tanger », Duroy « ne pensait qu'à lui », et la dernière image est celle de sa maîtresse devant une glace. L'immoralité n'est pas punie : le lecteur doit juger lui-même la société qui récompense un tel homme."
+   }
+  ],
+  "liens": "Parcours proposé : l'ambition et la conquête de Paris (aucun parcours n'est imposé en 2nde). Objet d'étude : le roman et le récit du XVIIIe au XXIe siècle (personnage, point de vue, réalisme). Autres œuvres : Le Père Goriot de Balzac (Rastignac et son défi à Paris), Le Rouge et le Noir de Stendhal (Julien Sorel, l'ambitieux puni), Illusions perdues de Balzac (la presse corrompue), Au Bonheur des Dames de Zola (le conquérant qui réussit par les femmes), la préface « Le Roman » de Maupassant pour la théorie réaliste.",
+  "reflexion": [
+   {
+    "question": "Avez-vous éprouvé de la sympathie pour Duroy ?",
+    "pistes": "On peut reconnaître l'effet de la focalisation interne (peur avant le duel, joie devant le miroir) tout en expliquant ce qui, ensuite, éloigne le lecteur (la demande près du mort, l'abandon de Mme Walter)."
+   },
+   {
+    "question": "La fin vous paraît-elle injuste, ou réaliste ?",
+    "pistes": "Distinguer l'attente morale du lecteur et le projet réaliste ; s'appuyer sur la fin ouverte et sur d'autres dénouements (Julien Sorel guillotiné)."
+   },
+   {
+    "question": "Le roman vous semble-t-il encore actuel ?",
+    "pistes": "Penser à l'influence des médias sur l'opinion, aux liens entre argent et politique, au culte de l'apparence ; rester précis sur ce que montre le texte de 1885."
+   },
+   {
+    "question": "Quel personnage féminin vous paraît le plus intéressant ?",
+    "pistes": "Madeleine (intelligente, libre, mais privée de reconnaissance), Mme Walter (la passion qui détruit), Clotilde (la fidélité paradoxale) : justifier avec un épisode précis."
+   }
+  ]
+ },
+ "extraits": [
+  {
+   "titre": "L'incipit : Duroy sur le boulevard",
+   "reference": "Ire partie, chap. I, début du roman",
+   "enjeu": "Comment l'incipit présente-t-il un personnage pauvre mais déjà animé d'un appétit de conquête ?",
+   "mouvements": [
+    "Mouvement 1 : la sortie du restaurant — la pièce de cent sous, la caissière : l'argent ouvre le roman ; portrait d'un « joli garçon » au regard de prédateur (« coups d'épervier ») ; les femmes lèvent la tête vers lui.",
+    "Mouvement 2 : les calculs de la pauvreté — date précise (28 juin), somme exacte (trois francs quarante), calculs minutieux des repas : réalisme et ironie, le héros compte chaque sou.",
+    "Mouvement 3 : la démarche d'un conquérant — souvenir de l'uniforme de hussard, attitude agressive (« heurtant les épaules, poussant les gens »), défi lancé à « la ville entière » : Duroy est un soldat qui part à l'assaut de Paris."
+   ]
+  },
+  {
+   "titre": "Le miroir de l'escalier",
+   "reference": "Ire partie, chap. II, arrivée de Duroy chez les Forestier",
+   "enjeu": "En quoi cette scène du miroir révèle-t-elle la nature de Duroy et annonce-t-elle son ascension ?",
+   "mouvements": [
+    "Mouvement 1 : la peur du ridicule et la surprise — Duroy croit voir « un monsieur en grande toilette » : c'est lui-même ; quiproquo qui montre sa transformation, et « un élan de joie ».",
+    "Mouvement 2 : la répétition d'un rôle — il s'étudie « comme font les acteurs pour apprendre leurs rôles », énumération des expressions (« l'étonnement, le plaisir, l'approbation ») : la séduction devient une technique.",
+    "Mouvement 3 : la confiance conquérante — deuxième et troisième glaces, gradation des étages qui figure l'ascension sociale, « confiance immodérée en lui-même » ; ironie finale avec la formule « Voilà une excellente invention »."
+   ]
+  },
+  {
+   "titre": "Le discours de Norbert de Varenne sur la mort",
+   "reference": "Ire partie, chap. VI, promenade nocturne des deux hommes",
+   "enjeu": "Comment le discours du vieux poète fait-il entendre, au cœur d'un roman de l'ambition, une méditation désespérée sur la mort ?",
+   "mouvements": [
+    "Mouvement 1 : l'image de la vie comme une côte — on monte joyeux, on découvre la descente et « la fin, qui est la mort » ; opposition des âges.",
+    "Mouvement 2 : la mort à l'œuvre dans le corps — personnification de la mort (« la gueuse »), comparaisons (« une bête rongeuse », « une maison qui s'écroule »), accumulation de verbes et paradoxe « Vivre enfin, c'est mourir ! ».",
+    "Mouvement 3 : la vanité de tous les désirs — questions rhétoriques sur l'amour, l'argent, la gloire, ponctuées par « Et puis, après ? » ; la mort partout présente : tout ce que poursuit Duroy est d'avance dérisoire."
+   ]
+  },
+  {
+   "titre": "L'excipit : le mariage à la Madeleine",
+   "reference": "IIe partie, chap. X, dernières pages",
+   "enjeu": "Comment la scène finale met-elle en scène le triomphe d'un personnage immoral, et quel regard le lecteur peut-il porter sur lui ?",
+   "mouvements": [
+    "Mouvement 1 : le retour du désir pour Clotilde — échange de regards et de mots (« A bientôt »), poignée de main complice : même le jour de son mariage, Duroy reste un séducteur sans fidélité.",
+    "Mouvement 2 : la traversée triomphale de l'église — rythme lent, « la tête haute », « Il ne pensait qu'à lui » ; la foule « le contemplait et l'enviait » : égoïsme et gloire publique.",
+    "Mouvement 3 : la projection vers le pouvoir et le retour du passé — image du « bond » vers le Palais-Bourbon, puis souvenir de Mme de Marelle « rajustant en face de la glace » ses cheveux : la fin unit ambition politique et désir, sans aucune punition."
+   ]
+  }
+ ],
+ "express": {
+  "idees": [
+   "Bel-Ami (1885), roman de Maupassant publié en feuilleton dans le Gil Blas, puis en volume.",
+   "Ascension de Georges Duroy, arriviste sans talent, de la misère au mariage avec une riche héritière.",
+   "Duroy réussit grâce aux femmes (Madeleine, Clotilde, Mme Walter, Suzanne) et à la presse.",
+   "Satire de la presse, de la politique et de la finance, liées dans l'affaire du Maroc.",
+   "Norbert de Varenne (« Vivre enfin, c'est mourir! ») introduit le thème de la mort.",
+   "Incipit et excipit se répondent ; la fin est triomphale et ouverte : l'immoral n'est pas puni.",
+   "Le narrateur ne juge pas : ironie, focalisation interne, contrastes.",
+   "Duroy, héritier dégradé de Rastignac : comparaison possible avec Balzac et Stendhal."
+  ],
+  "citations": [
+   0,
+   2,
+   5,
+   9,
+   11,
+   13
+  ],
+  "pieges": [
+   "Duroy n'écrit pas ses articles : Madeleine les écrit.",
+   "Mme Walter (la mère) est la maîtresse, Suzanne (la fille) l'épouse.",
+   "Le surnom vient de Laurine, la fille de Clotilde, pas de Madeleine.",
+   "L'action se passe sous la IIIe République (années 1880).",
+   "Duroy n'est pas puni : il triomphe."
+  ],
+  "synthese": "Bel-Ami (1885) suit Georges Duroy, ancien hussard pauvre, qui conquiert Paris sans talent, grâce à son charme et aux femmes. Journaliste à La Vie Française, il épouse Madeleine, qui écrit pour lui, séduit Mme Walter, profite de l'affaire du Maroc, divorce par un piège et épouse Suzanne Walter. Le roman est une satire de la presse, de la politique et de l'argent sous la IIIe République. Maupassant ne punit pas son héros et ne le juge pas ouvertement : l'ironie (l'évêque de Tanger, le Christ qui lui « ressemble ») et la méditation de Norbert de Varenne sur la mort laissent le lecteur juger. Retenir l'incipit (trois francs quarante) et l'excipit (le bond vers le Palais-Bourbon)."
+ },
+ "vocabulaire": [
+  {
+   "terme": "Arriviste",
+   "definition": "Personne prête à tout pour réussir socialement. Ex. : Duroy utilise les femmes et la presse pour s'enrichir."
+  },
+  {
+   "terme": "Naturalisme",
+   "definition": "Mouvement littéraire mené par Zola à la fin du XIXe siècle, qui prolonge le réalisme en étudiant l'influence du milieu et des instincts. Maupassant en est proche (Les Soirées de Médan, 1880)."
+  },
+  {
+   "terme": "Roman-feuilleton",
+   "definition": "Roman publié par épisodes dans un journal. Bel-Ami paraît ainsi dans le Gil Blas au printemps 1885, avant l'édition en volume."
+  },
+  {
+   "terme": "Focalisation interne",
+   "definition": "Point de vue qui fait voir l'action à travers les yeux et les pensées d'un personnage. Ex. : la nuit d'angoisse de Duroy avant le duel."
+  },
+  {
+   "terme": "Ironie du narrateur",
+   "definition": "Décalage entre ce que dit le texte et ce qu'il veut faire comprendre, souvent pour critiquer sans le dire. Ex. : le Christ du tableau qui ressemble à Bel-Ami."
+  },
+  {
+   "terme": "Incipit / excipit",
+   "definition": "Début et fin d'un roman. Dans Bel-Ami, ils se répondent : Duroy sort d'une gargote au début, de l'église de la Madeleine à la fin."
+  },
+  {
+   "terme": "Satire",
+   "definition": "Critique moqueuse d'un milieu ou d'une institution. Ex. : la satire de la presse avec Saint-Potin qui invente ses interviews."
+  },
+  {
+   "terme": "Comparaison",
+   "definition": "Figure qui rapproche deux éléments à l'aide d'un outil (comme, tel...). Ex. : des regards « qui s'étendent comme des coups d'épervier »."
+  },
+  {
+   "terme": "Personnification",
+   "definition": "Figure qui attribue des traits humains à une chose ou à une idée. Ex. : la mort, « la gueuse », dans le discours de Norbert de Varenne."
+  },
+  {
+   "terme": "Fin ouverte",
+   "definition": "Dénouement qui laisse imaginer une suite. Ex. : Duroy rêve d'un « bond » jusqu'à la Chambre des députés."
+  },
+  {
+   "terme": "Prétérition",
+   "definition": "Figure qui consiste à dire une chose en affirmant qu'on ne la dit pas. Ex. : « Ce n'est point une demande que je vous adresse » (Ire partie, chap. VIII), alors que Duroy demande bel et bien Madeleine en mariage."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Quel était le métier de Duroy avant de devenir journaliste ?",
+   "choix": [
+    "Avocat",
+    "Sous-officier de hussards, puis employé des chemins de fer",
+    "Professeur",
+    "Banquier"
+   ],
+   "reponse": 1,
+   "explication": "Ancien hussard en Algérie, il travaille aux bureaux du chemin de fer du Nord au début du roman."
+  },
+  {
+   "question": "Qui invente le surnom « Bel-Ami » ?",
+   "choix": [
+    "Madeleine",
+    "Mme Walter",
+    "Laurine, la fille de Clotilde",
+    "Forestier"
+   ],
+   "reponse": 2,
+   "explication": "La petite Laurine l'accueille en criant « Ah! Bel-Ami! », et sa mère, Mme de Marelle, reprend le surnom (Ire partie, chap. V)."
+  },
+  {
+   "question": "Qui écrit en réalité le premier article de Duroy ?",
+   "choix": [
+    "Madeleine Forestier",
+    "Norbert de Varenne",
+    "Saint-Potin",
+    "M. Walter"
+   ],
+   "reponse": 0,
+   "explication": "Madeleine lui dicte la première partie des « Souvenirs d'un chasseur d'Afrique » (Ire partie, chap. III)."
+  },
+  {
+   "question": "Comment se nomme le journal où travaille Duroy ?",
+   "choix": [
+    "Le Figaro",
+    "La Plume",
+    "Le Gil Blas",
+    "La Vie Française"
+   ],
+   "reponse": 3,
+   "explication": "La Vie Française est dirigée par M. Walter ; La Plume est le journal rival."
+  },
+  {
+   "question": "Quelle affaire politique et financière enrichit Walter ?",
+   "choix": [
+    "La construction d'un chemin de fer",
+    "L'expédition au Maroc",
+    "Une mine d'or en Afrique du Sud",
+    "Le canal de Panama"
+   ],
+   "reponse": 1,
+   "explication": "Walter et Laroche-Mathieu rachètent à bas prix l'emprunt marocain avant que l'expédition de Tanger soit décidée ; Walter encaisse « de trente à quarante millions » (IIe partie, chap. VII)."
+  },
+  {
+   "question": "Quel nom Duroy prend-il après son mariage avec Madeleine ?",
+   "choix": [
+    "Du Roy de Cantel",
+    "Duroy de Marelle",
+    "Georges Forestier",
+    "Du Roy de Rouen"
+   ],
+   "reponse": 0,
+   "explication": "Madeleine transforme le nom de Canteleu, le village de ses parents, en « Duroy de Cantel » (IIe partie, chap. I), d'où « Du Roy de Cantel »."
+  },
+  {
+   "question": "Comment Duroy obtient-il d'épouser Suzanne Walter ?",
+   "choix": [
+    "Il gagne au jeu",
+    "Il sauve Walter de la ruine",
+    "Il l'enlève pour la compromettre",
+    "Il est nommé ministre"
+   ],
+   "reponse": 2,
+   "explication": "Après l'enlèvement, Walter n'a plus d'autre choix que d'accepter le mariage."
+  },
+  {
+   "question": "Où se termine le roman ?",
+   "choix": [
+    "Au cimetière du Père-Lachaise",
+    "Sur les marches de l'église de la Madeleine",
+    "Aux Folies-Bergère",
+    "À Canteleu"
+   ],
+   "reponse": 1,
+   "explication": "Duroy sort de l'église après son mariage et regarde vers la Chambre des députés."
+  },
+  {
+   "question": "Qui prononce la phrase « Vivre enfin, c'est mourir! » ?",
+   "choix": [
+    "Duroy",
+    "Forestier mourant",
+    "Norbert de Varenne",
+    "Mme Walter"
+   ],
+   "reponse": 2,
+   "explication": "Le vieux poète Norbert de Varenne, lors d'une promenade nocturne avec Duroy (Ire partie, chap. VI)."
+  },
+  {
+   "question": "Quel tableau Walter fait-il admirer chez lui ?",
+   "choix": [
+    "Le Radeau de la Méduse",
+    "Jésus marchant sur les flots",
+    "La Liberté guidant le peuple",
+    "Le Sacre de Napoléon"
+   ],
+   "reponse": 1,
+   "explication": "La toile du peintre Karl Marcowitch, devant laquelle Suzanne trouve que le Christ ressemble à Bel-Ami (IIe partie, chap. VII)."
+  },
+  {
+   "question": "Comment Duroy se débarrasse-t-il de Madeleine ?",
+   "choix": [
+    "Il la ruine",
+    "Il la fait surprendre en flagrant délit d'adultère avec Laroche-Mathieu",
+    "Il l'envoie à Cannes",
+    "Il la provoque en duel"
+   ],
+   "reponse": 1,
+   "explication": "Accompagné d'un commissaire de police, il la surprend avec le ministre dans un logement de la rue des Martyrs, ce qui lui permet de divorcer (IIe partie, chap. VIII)."
+  },
+  {
+   "question": "Quelle figure de style trouve-t-on dans « un de ces regards de joli garçon, qui s'étendent comme des coups d'épervier » ?",
+   "choix": [
+    "Une métaphore",
+    "Une comparaison",
+    "Un oxymore",
+    "Une litote"
+   ],
+   "reponse": 1,
+   "explication": "L'outil « comme » rapproche le regard de Duroy de l'attaque d'un oiseau de proie : c'est une comparaison qui fait de lui un prédateur."
+  }
+ ],
+ "sources": [
+  {
+   "titre": "Texte intégral de Bel-Ami utilisé par le site (Project Gutenberg n° 57430)",
+   "url": "https://www.gutenberg.org/ebooks/57430"
+  },
+  {
+   "titre": "Maupassant, Pierre et Jean, préface « Le Roman » (Project Gutenberg n° 11131)",
+   "url": "https://www.gutenberg.org/ebooks/11131"
+  },
+  {
+   "titre": "Balzac, Le Père Goriot (Wikisource, éd. 1910)",
+   "url": "https://fr.wikisource.org/wiki/Le_P%C3%A8re_Goriot_(1910)"
+  },
+  {
+   "titre": "Wikipédia, « Bel-Ami » (publication, réponse « Aux critiques de Bel-Ami »)",
+   "url": "https://fr.wikipedia.org/wiki/Bel-Ami"
+  },
+  {
+   "titre": "Encyclopædia Universalis, fiche de lecture Bel-Ami (accueil critique)",
+   "url": "https://www.universalis.fr/encyclopedie/bel-ami/"
+  }
+ ],
+ "aVerifier": [
+  "Dates exactes de la publication en feuilleton dans le Gil Blas (printemps 1885 : avril-mai selon plusieurs manuels, non confirmé sur la collection du Gil Blas).",
+  "Texte exact de l'article « Aux critiques de Bel-Ami » (Gil Blas, juin 1885) : il n'est résumé ici que d'après Wikipédia, sans citation.",
+  "Lien entre le discours de Norbert de Varenne et la lecture de Schopenhauer par Maupassant : rapprochement critique courant, présenté comme hypothèse."
+ ]
+}

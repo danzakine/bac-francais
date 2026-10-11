@@ -1,0 +1,6 @@
+# Matériaux de travail non publiés (sources brutes, brouillons, textes retirés pour raison de droits)
+archives-travail/
+essai/
+.claude/
+.DS_Store
+__pycache__/

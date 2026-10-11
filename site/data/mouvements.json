@@ -1,0 +1,493 @@
+[
+ {
+  "id": "litterature-courtoise",
+  "nom": "La littérature courtoise",
+  "periode": "XIIe-XIIIe siècles",
+  "siecle": 12,
+  "resume": "Il ne s'agit pas d'une école mais d'un ensemble de textes, nés dans les cours seigneuriales du XIIe siècle, qui placent l'amour et le raffinement au cœur de la vie noble. Elle comprend la poésie lyrique des troubadours (en langue d'oc) et des trouvères (en langue d'oïl), ainsi que le roman de chevalerie en vers.",
+  "caracteristiques": [
+   "La fin'amor (« amour parfait ») : le chevalier ou le poète se met au service d'une dame souvent inaccessible, parfois mariée, comme un vassal sert son seigneur.",
+   "L'amour est une épreuve qui perfectionne l'amant : patience, discrétion, obéissance, prouesse.",
+   "Le roman en vers (octosyllabes à rimes plates), écrit en langue romane pour être lu à voix haute.",
+   "La « matière de Bretagne » : le roi Arthur, la Table ronde, Lancelot, Perceval, Tristan.",
+   "Le merveilleux (fées, objets enchantés, autres mondes) et le motif de la quête.",
+   "Un idéal de « courtoisie » : élégance des manières, générosité, maîtrise de soi."
+  ],
+  "contexte": "Au XIIe siècle, la société féodale se stabilise et les grandes cours (Poitiers, Troyes, la cour d'Aliénor d'Aquitaine et de ses filles) deviennent des foyers culturels. Le public aristocratique, dont des femmes lettrées, apprécie des récits en langue vernaculaire et non plus seulement en latin. L'idéal guerrier de la chanson de geste se complète alors d'un idéal amoureux et mondain.",
+  "auteurs": [
+   "chretien-de-troyes"
+  ],
+  "oeuvresCles": [
+   "Érec et Énide (Chrétien de Troyes, vers 1170)",
+   "Lais (Marie de France, vers 1160-1180)",
+   "Le Chevalier de la charrette (Chrétien de Troyes, vers 1177-1181)",
+   "Yvain ou le Chevalier au lion (Chrétien de Troyes, vers 1177-1181)",
+   "Perceval ou le Conte du Graal (Chrétien de Troyes, vers 1181-1190, inachevé)"
+  ]
+ },
+ {
+  "id": "humanisme",
+  "nom": "L'humanisme",
+  "periode": "fin du XVe - XVIe siècle",
+  "siecle": 16,
+  "resume": "Mouvement intellectuel européen de la Renaissance, l'humanisme place l'être humain, sa dignité et sa capacité de progrès au centre de la réflexion. Il repose sur le retour aux textes de l'Antiquité grecque et latine, étudiés dans leur langue d'origine, et sur une grande confiance dans l'éducation.",
+  "caracteristiques": [
+   "Redécouverte et édition des auteurs antiques (Platon, Cicéron, Plutarque…), étude du grec, du latin et de l'hébreu.",
+   "Foi dans l'éducation : former un esprit complet, critique et cultivé (programmes d'éducation chez Rabelais).",
+   "Réflexion morale et politique : le bon prince, la paix, la tyrannie, la tolérance.",
+   "Retour aux textes bibliques et désir de réforme religieuse.",
+   "Esprit critique et curiosité universelle ; ouverture aux découvertes du Nouveau Monde.",
+   "Promotion des langues nationales à côté du latin."
+  ],
+  "contexte": "L'invention de l'imprimerie (vers 1450) permet la diffusion rapide des textes. Les grandes découvertes (1492) élargissent la vision du monde, et la Réforme protestante (Luther, 1517) bouleverse l'Europe chrétienne. En France, les guerres de religion (à partir de 1562) mettent à l'épreuve l'optimisme humaniste.",
+  "auteurs": [
+   "la-boetie",
+   "ronsard",
+   "du-bellay"
+  ],
+  "oeuvresCles": [
+   "Éloge de la folie (Érasme, 1511)",
+   "Utopie (Thomas More, 1516)",
+   "Pantagruel (Rabelais, 1532)",
+   "Gargantua (Rabelais, 1534)",
+   "Discours de la servitude volontaire (La Boétie, rédigé vers 1548, publié en 1576)",
+   "Essais (Montaigne, 1580-1588)"
+  ]
+ },
+ {
+  "id": "pleiade",
+  "nom": "La Pléiade",
+  "periode": "1549-1585",
+  "siecle": 16,
+  "resume": "Groupe de poètes réunis autour de Ronsard et de Du Bellay, qui veulent créer en français une poésie aussi noble que celle des Anciens et des Italiens. Son manifeste est la Défense et illustration de la langue française (1549).",
+  "caracteristiques": [
+   "Défense du français comme langue de grande poésie, contre l'usage du latin.",
+   "Imitation créatrice des Anciens (Horace, Pindare, Virgile) et des Italiens (Pétrarque).",
+   "Enrichissement de la langue : néologismes, mots empruntés au grec et au latin, termes de métiers.",
+   "Formes privilégiées : sonnet, ode ; développement de l'alexandrin.",
+   "Thèmes : amour, fuite du temps, carpe diem, nature, gloire du poète qui immortalise.",
+   "Haute idée du poète, inspiré par les Muses, et rejet des petits genres médiévaux (rondeaux, ballades)."
+  ],
+  "contexte": "Au collège de Coqueret, l'helléniste Jean Dorat forme de jeunes poètes à la culture antique. L'ordonnance de Villers-Cotterêts (1539) a imposé le français dans les actes officiels, et la monarchie favorise une culture nationale. Le nom de « Pléiade », emprunté à un groupe de poètes alexandrins, désigne sept poètes dont la liste a varié.",
+  "auteurs": [
+   "ronsard",
+   "du-bellay"
+  ],
+  "oeuvresCles": [
+   "Défense et illustration de la langue française (Du Bellay, 1549)",
+   "L'Olive (Du Bellay, 1549)",
+   "Odes (Ronsard, 1550)",
+   "Les Amours (Ronsard, 1552)",
+   "Les Regrets (Du Bellay, 1558)",
+   "Sonnets pour Hélène (Ronsard, 1578)"
+  ]
+ },
+ {
+  "id": "baroque",
+  "nom": "Le baroque",
+  "periode": "vers 1580 - vers 1660",
+  "siecle": 17,
+  "resume": "Le baroque est une esthétique plus qu'une école : le terme, emprunté à l'histoire de l'art, a été appliqué tardivement à la littérature. Il désigne des œuvres qui expriment l'instabilité du monde, le goût du mouvement, de l'illusion et de la métamorphose.",
+  "caracteristiques": [
+   "Thèmes de l'instabilité : inconstance, fuite du temps, mort, monde comme théâtre, vie comme songe.",
+   "Goût de l'illusion et du déguisement : théâtre dans le théâtre, mensonge, faux-semblants.",
+   "Style ostentatoire : métaphores, antithèses, hyperboles, accumulations.",
+   "Liberté formelle : refus des règles strictes, mélange des tons, intrigues complexes.",
+   "Images de l'eau, du miroir, de la bulle, du feu, de la métamorphose."
+  ],
+  "contexte": "La période est marquée par les guerres de religion, puis par la Contre-Réforme catholique, qui valorise un art spectaculaire. Les découvertes scientifiques (Copernic, Galilée) bouleversent la place de l'homme dans l'univers. Le baroque coexiste avec la naissance de la préciosité et précède l'affirmation des règles classiques.",
+  "auteurs": [
+   "corneille"
+  ],
+  "oeuvresCles": [
+   "L'Astrée (Honoré d'Urfé, 1607-1627)",
+   "Les Tragiques (Agrippa d'Aubigné, 1616)",
+   "L'Illusion comique (Corneille, créée vers 1635-1636, publiée en 1639)",
+   "Le Menteur (Corneille, publié en 1644)"
+  ]
+ },
+ {
+  "id": "classicisme",
+  "nom": "Le classicisme",
+  "periode": "vers 1660 - vers 1715",
+  "siecle": 17,
+  "resume": "Le classicisme est l'esthétique dominante sous le règne personnel de Louis XIV. Il recherche l'ordre, la clarté et la mesure, en imitant les Anciens et en respectant des règles fondées sur la raison. Son idéal est de « plaire et instruire ».",
+  "caracteristiques": [
+   "Imitation des Anciens (Aristote, Horace, Sénèque, Ésope), considérés comme des modèles.",
+   "Règles du théâtre : unités de temps, de lieu et d'action, vraisemblance, bienséance.",
+   "Séparation des genres et des registres (tragédie et comédie ne se mêlent pas).",
+   "Idéal de l'« honnête homme » : mesure, politesse, raison, maîtrise des passions.",
+   "Clarté et pureté de la langue, travail du style, art de la litote et de la maxime.",
+   "Visée morale : peindre les passions et les vices pour éclairer le lecteur ou le spectateur."
+  ],
+  "contexte": "Après la Fronde, Louis XIV gouverne seul à partir de 1661 et fait des arts un instrument de prestige. L'Académie française (1635) travaille à fixer la langue, et les pensions royales encadrent la vie littéraire. La querelle des Anciens et des Modernes (à partir de 1687) ouvre la voie aux Lumières.",
+  "auteurs": [
+   "corneille",
+   "moliere",
+   "racine",
+   "la-fontaine",
+   "fontenelle"
+  ],
+  "oeuvresCles": [
+   "Maximes (La Rochefoucauld, 1665)",
+   "Le Misanthrope (Molière, 1666)",
+   "Andromaque (Racine, 1667)",
+   "Fables, livres I à VI (La Fontaine, 1668)",
+   "L'Art poétique (Boileau, 1674)",
+   "Phèdre (Racine, 1677)",
+   "La Princesse de Clèves (Madame de La Fayette, 1678)",
+   "Les Caractères (La Bruyère, 1688)"
+  ]
+ },
+ {
+  "id": "lumieres",
+  "nom": "Les Lumières",
+  "periode": "vers 1715 - 1789",
+  "siecle": 18,
+  "resume": "Mouvement philosophique et littéraire européen, les Lumières veulent éclairer les hommes par la raison et combattre les préjugés, l'intolérance et l'arbitraire. Les écrivains se font « philosophes » et mettent la littérature au service du débat d'idées.",
+  "caracteristiques": [
+   "Primauté de la raison et de l'esprit critique, contre l'autorité, la superstition et le fanatisme.",
+   "Combats : tolérance religieuse, liberté d'expression, critique de l'absolutisme, de la torture, de l'esclavage.",
+   "Foi dans le progrès, les sciences et la diffusion des connaissances (l'Encyclopédie).",
+   "Formes argumentatives variées et souvent détournées : conte philosophique, roman épistolaire, dialogue, article de dictionnaire.",
+   "Usage de l'ironie et du regard étranger (Persans, Hurons, Péruviens) pour contourner la censure.",
+   "Rôle des salons, des cafés et de la correspondance dans la circulation des idées."
+  ],
+  "contexte": "Après la mort de Louis XIV (1715), la Régence assouplit le climat, mais la censure reste forte. La bourgeoisie s'enrichit et revendique une place dans la société. Les sciences progressent (Newton) et les échanges avec l'Angleterre, admirée pour ses libertés, se multiplient. Le mouvement prépare les idées de la Révolution française.",
+  "auteurs": [
+   "fontenelle",
+   "graffigny",
+   "voltaire"
+  ],
+  "oeuvresCles": [
+   "Lettres persanes (Montesquieu, 1721)",
+   "Lettres philosophiques (Voltaire, 1734)",
+   "Lettres d'une Péruvienne (Graffigny, 1747)",
+   "De l'esprit des lois (Montesquieu, 1748)",
+   "Encyclopédie (Diderot et d'Alembert, 1751-1772)",
+   "Candide (Voltaire, 1759)",
+   "Du contrat social (Rousseau, 1762)",
+   "Traité sur la tolérance (Voltaire, 1763)"
+  ]
+ },
+ {
+  "id": "romantisme",
+  "nom": "Le romantisme",
+  "periode": "vers 1820 - vers 1850",
+  "siecle": 19,
+  "resume": "Le romantisme est un mouvement européen qui rompt avec les règles classiques et donne la première place à la sensibilité, à l'imagination et à l'expression du moi. En France, il s'affirme surtout entre 1820 et 1850, autour de Hugo.",
+  "caracteristiques": [
+   "Expression des sentiments personnels : lyrisme, mélancolie, « mal du siècle ».",
+   "Nature confidente et miroir des émotions.",
+   "Drame romantique : refus des unités de temps et de lieu, mélange du sublime et du grotesque, des registres et des classes sociales.",
+   "Goût de l'histoire (Moyen Âge, Renaissance), de l'exotisme et du rêve.",
+   "Figure du poète inspiré, solitaire, parfois guide du peuple.",
+   "Engagement politique et social (peine de mort, misère, liberté)."
+  ],
+  "contexte": "Après la Révolution et l'Empire, la jeunesse née au début du siècle se sent privée d'avenir héroïque sous la Restauration. Les influences étrangères (Goethe, Byron, Shakespeare) et des précurseurs comme Rousseau et Chateaubriand préparent le mouvement. La révolution de 1830 et celle de 1848 nourrissent l'engagement des écrivains.",
+  "auteurs": [
+   "hugo",
+   "musset"
+  ],
+  "oeuvresCles": [
+   "René (Chateaubriand, 1802)",
+   "Méditations poétiques (Lamartine, 1820)",
+   "Préface de Cromwell (Hugo, 1827)",
+   "Hernani (Hugo, 1830)",
+   "Lorenzaccio (Musset, publié en 1834, créé en 1896)",
+   "On ne badine pas avec l'amour (Musset, publié en 1834)",
+   "Ruy Blas (Hugo, 1838)",
+   "Les Contemplations (Hugo, 1856)"
+  ]
+ },
+ {
+  "id": "realisme",
+  "nom": "Le réalisme",
+  "periode": "vers 1830 - vers 1880",
+  "siecle": 19,
+  "resume": "Le réalisme cherche à représenter fidèlement la réalité contemporaine, y compris dans ses aspects ordinaires ou laids. Le terme s'impose dans les années 1850 (notamment en peinture avec Courbet), mais on rattache au mouvement Balzac et Stendhal, puis Flaubert et Maupassant.",
+  "caracteristiques": [
+   "Sujets pris dans la société contemporaine, toutes classes sociales confondues.",
+   "Documentation et observation ; descriptions précises des lieux, des objets, des corps.",
+   "Personnages expliqués par leur milieu, leur argent, leur métier.",
+   "Thèmes de l'ambition, de l'argent, de l'ascension et de l'échec social.",
+   "Effacement ou retenue du narrateur ; recherche de l'« effet de réel ».",
+   "Refus de l'idéalisation romantique."
+  ],
+  "contexte": "La révolution industrielle, l'urbanisation et l'essor de la bourgeoisie transforment la société. Les sciences et la presse se développent, et le roman, souvent publié en feuilleton, devient le genre dominant. Le procès de Madame Bovary (1857) montre la méfiance des autorités envers ce réalisme.",
+  "auteurs": [
+   "balzac",
+   "maupassant"
+  ],
+  "oeuvresCles": [
+   "Le Rouge et le Noir (Stendhal, 1830)",
+   "Eugénie Grandet (Balzac, 1833)",
+   "Le Père Goriot (Balzac, 1835)",
+   "Madame Bovary (Flaubert, 1857)",
+   "L'Éducation sentimentale (Flaubert, 1869)",
+   "Une vie (Maupassant, 1883)",
+   "Bel-Ami (Maupassant, 1885)"
+  ]
+ },
+ {
+  "id": "parnasse",
+  "nom": "Le Parnasse",
+  "periode": "vers 1866 - vers 1880",
+  "siecle": 19,
+  "resume": "Le Parnasse réunit des poètes qui réagissent contre les épanchements romantiques et défendent une poésie impersonnelle, travaillée comme une œuvre d'art. Son nom vient de l'anthologie Le Parnasse contemporain (1866, 1871, 1876).",
+  "caracteristiques": [
+   "« L'art pour l'art » (idée popularisée par Théophile Gautier) : la poésie n'a pas à être utile ni engagée.",
+   "Culte de la forme parfaite : versification rigoureuse, rimes riches, sonnet.",
+   "Impersonnalité : refus de l'expression directe des sentiments.",
+   "Goût de l'Antiquité, de l'exotisme, des objets d'art, de la description plastique.",
+   "Travail du poète comparé à celui du sculpteur ou de l'orfèvre."
+  ],
+  "contexte": "Sous le Second Empire, une partie des poètes se détourne de l'engagement politique des romantiques. Gautier, dès la préface de Mademoiselle de Maupin (1835), puis Leconte de Lisle sont les maîtres du mouvement. Le jeune Rimbaud envoie ses premiers vers à Banville en 1870 dans l'espoir d'être publié dans Le Parnasse contemporain, avant de rompre avec cette esthétique.",
+  "auteurs": [
+   "rimbaud"
+  ],
+  "oeuvresCles": [
+   "Poèmes antiques (Leconte de Lisle, 1852)",
+   "Émaux et Camées (Gautier, 1852)",
+   "Le Parnasse contemporain (anthologie collective, 1866)",
+   "Les Trophées (Heredia, 1893)"
+  ]
+ },
+ {
+  "id": "naturalisme",
+  "nom": "Le naturalisme",
+  "periode": "vers 1865 - vers 1890",
+  "siecle": 19,
+  "resume": "Le naturalisme prolonge le réalisme en lui donnant une ambition scientifique : le romancier observe et expérimente comme un savant pour montrer comment l'hérédité et le milieu déterminent les individus. Zola en est le théoricien et le chef de file.",
+  "caracteristiques": [
+   "Méthode inspirée des sciences (Claude Bernard, théories de l'hérédité) : le roman comme expérience.",
+   "Enquête documentaire préalable (carnets, visites de lieux, mines, grands magasins…).",
+   "Déterminisme : le personnage est façonné par son tempérament, son hérédité et son milieu.",
+   "Représentation des milieux populaires, du travail, de la misère, de l'alcool, de la sexualité.",
+   "Refus de l'idéalisation et des tabous, au risque du scandale.",
+   "Critique sociale de l'hypocrisie bourgeoise."
+  ],
+  "contexte": "Sous le Second Empire puis au début de la IIIe République, la révolution industrielle crée un prolétariat urbain et des inégalités criantes. Le positivisme et le prestige des sciences influencent la littérature. En 1880, Les Soirées de Médan, recueil collectif autour de Zola, marquent l'apogée du groupe, qui se disperse ensuite.",
+  "auteurs": [
+   "zola",
+   "maupassant"
+  ],
+  "oeuvresCles": [
+   "Germinie Lacerteux (Edmond et Jules de Goncourt, 1865)",
+   "Thérèse Raquin (Zola, 1867)",
+   "L'Assommoir (Zola, 1877)",
+   "Les Soirées de Médan (ouvrage collectif, 1880)",
+   "Le Roman expérimental (Zola, 1880)",
+   "Pot-Bouille (Zola, 1882)",
+   "Germinal (Zola, 1885)"
+  ]
+ },
+ {
+  "id": "symbolisme",
+  "nom": "Le symbolisme",
+  "periode": "vers 1880 - vers 1900",
+  "siecle": 19,
+  "resume": "Le symbolisme cherche à suggérer, par les images et la musique des mots, une réalité cachée derrière les apparences. Le terme est fixé par le manifeste de Jean Moréas en 1886, mais le mouvement se réclame de Baudelaire, de Verlaine, de Rimbaud et de Mallarmé.",
+  "caracteristiques": [
+   "Suggestion plutôt que description : le symbole relie le monde sensible à une réalité spirituelle.",
+   "Correspondances entre les sensations (synesthésies).",
+   "Musicalité du vers ; assouplissement de la versification (vers impair, vers libre).",
+   "Goût du rêve, du mystère, de l'étrange ; poésie souvent hermétique.",
+   "Refus du réalisme et du naturalisme.",
+   "Figure du « poète maudit », en marge de la société."
+  ],
+  "contexte": "À la fin du siècle, une partie de la jeunesse littéraire réagit contre le positivisme et le roman naturaliste. Verlaine révèle Rimbaud au public dans Les Poètes maudits (1884), et les Illuminations sont publiées en 1886. Les petites revues et le salon de Mallarmé (les « mardis ») animent le mouvement.",
+  "auteurs": [
+   "rimbaud"
+  ],
+  "oeuvresCles": [
+   "Les Fleurs du mal (Baudelaire, 1857), œuvre précurseur",
+   "Romances sans paroles (Verlaine, 1874)",
+   "Les Poètes maudits (Verlaine, 1884)",
+   "Illuminations (Rimbaud, 1886)",
+   "« Le Symbolisme », manifeste de Jean Moréas (Le Figaro, 1886)",
+   "Pelléas et Mélisande (Maeterlinck, 1892)"
+  ]
+ },
+ {
+  "id": "surrealisme",
+  "nom": "Le surréalisme",
+  "periode": "vers 1919 - vers 1945",
+  "siecle": 20,
+  "resume": "Né après la Première Guerre mondiale, le surréalisme veut libérer l'imagination et l'inconscient de tout contrôle de la raison et de la morale. Mené par André Breton, il touche la poésie, le roman, la peinture et le cinéma, et se veut aussi une révolte politique.",
+  "caracteristiques": [
+   "Écriture automatique : écrire sans contrôle de la raison pour laisser parler l'inconscient.",
+   "Importance du rêve, du hasard (« hasard objectif ») et de la folie.",
+   "Image poétique fondée sur le rapprochement de réalités éloignées.",
+   "Révolte contre la logique, la morale bourgeoise, la religion et la guerre.",
+   "Jeux collectifs (cadavre exquis) et collaboration avec les peintres (Ernst, Magritte, Dalí).",
+   "Amour fou et figure de la femme médiatrice."
+  ],
+  "contexte": "Le mouvement naît du traumatisme de la Grande Guerre et prolonge la provocation du mouvement Dada. Il est nourri par la découverte de Freud et de la psychanalyse. Dans les années 1930, la question de l'engagement communiste divise le groupe.",
+  "auteurs": [],
+  "oeuvresCles": [
+   "Les Champs magnétiques (Breton et Soupault, 1920)",
+   "Manifeste du surréalisme (Breton, 1924)",
+   "Capitale de la douleur (Éluard, 1926)",
+   "Le Paysan de Paris (Aragon, 1926)",
+   "Nadja (Breton, 1928)",
+   "Corps et biens (Desnos, 1930)"
+  ]
+ },
+ {
+  "id": "litterature-antillaise",
+  "nom": "Les littératures antillaises d'expression française",
+  "periode": "depuis les années 1930",
+  "siecle": 20,
+  "resume": "Il s'agit moins d'un mouvement unique que d'un ensemble d'œuvres venues de Martinique, de Guadeloupe et d'Haïti, qui affirment une identité caribéenne marquée par l'histoire de l'esclavage et de la colonisation. Plusieurs courants s'y succèdent : la négritude, l'antillanité, la créolité.",
+  "caracteristiques": [
+   "Mémoire de l'esclavage, de la traite et de la colonisation.",
+   "Négritude (Césaire, Senghor, Damas) : revendication de la culture et de la dignité noires.",
+   "Antillanité (Glissant) puis créolité (Bernabé, Chamoiseau, Confiant) : identité plurielle, métissée, ancrée dans la Caraïbe.",
+   "Langue française travaillée par le créole, l'oralité, le conte, le proverbe.",
+   "Place des paysages, de la terre, de la mer et de la communauté villageoise.",
+   "Figures de femmes fortes, transmission entre générations."
+  ],
+  "contexte": "La négritude naît dans les années 1930 chez des étudiants antillais et africains à Paris. La départementalisation de la Martinique et de la Guadeloupe (1946) et les décolonisations posent la question de l'identité antillaise. À partir des années 1970-1980, le roman antillais connaît un fort rayonnement.",
+  "auteurs": [
+   "schwarz-bart"
+  ],
+  "oeuvresCles": [
+   "Cahier d'un retour au pays natal (Césaire, 1939)",
+   "Peau noire, masques blancs (Fanon, 1952)",
+   "Pluie et vent sur Télumée Miracle (Simone Schwarz-Bart, 1972)",
+   "Le Discours antillais (Glissant, 1981)",
+   "Moi, Tituba sorcière… (Maryse Condé, 1986)",
+   "Éloge de la créolité (Bernabé, Chamoiseau, Confiant, 1989)",
+   "Texaco (Chamoiseau, 1992)"
+  ]
+ },
+ {
+  "id": "existentialisme",
+  "nom": "L'existentialisme et la littérature engagée",
+  "periode": "vers 1938 - vers 1960",
+  "siecle": 20,
+  "resume": "L'existentialisme est une philosophie, principalement associée à Sartre et à Simone de Beauvoir, selon laquelle l'homme n'a pas d'essence fixée d'avance : il se définit par ses actes et est responsable de sa liberté. En littérature, il s'accompagne de l'idée que l'écrivain doit s'engager dans les combats de son temps.",
+  "caracteristiques": [
+   "« L'existence précède l'essence » : l'homme se construit par ses choix.",
+   "Liberté, responsabilité, angoisse ; refus de la « mauvaise foi ».",
+   "Absurdité de l'existence, réflexion proche de celle de Camus (qui refusait pourtant l'étiquette d'existentialiste).",
+   "Engagement de l'écrivain dans l'histoire (Résistance, guerre d'Algérie, décolonisation).",
+   "Romans et pièces à thèse, essais, articles dans la revue Les Temps modernes."
+  ],
+  "contexte": "La Seconde Guerre mondiale, l'Occupation et la Résistance placent chacun face à des choix moraux décisifs. Après 1945, Saint-Germain-des-Prés devient le centre de la vie intellectuelle, et la guerre froide puis les guerres coloniales prolongent le débat sur l'engagement.",
+  "auteurs": [],
+  "oeuvresCles": [
+   "La Nausée (Sartre, 1938)",
+   "L'Étranger (Camus, 1942)",
+   "Huis clos (Sartre, 1944)",
+   "L'existentialisme est un humanisme (Sartre, 1946)",
+   "Qu'est-ce que la littérature ? (Sartre, 1948)",
+   "Le Deuxième Sexe (Simone de Beauvoir, 1949)"
+  ]
+ },
+ {
+  "id": "poesie-contemporaine",
+  "nom": "La poésie contemporaine",
+  "periode": "années 1940 à nos jours",
+  "siecle": 20,
+  "resume": "Cette étiquette ne désigne pas une école mais une période, qui commence autour de la Seconde Guerre mondiale, où coexistent des démarches très diverses. Une tendance forte consiste à se défier du lyrisme traditionnel pour revenir aux choses, au langage et à l'expérience du monde.",
+  "caracteristiques": [
+   "Vers libre dominant, poème en prose, formes fragmentaires ou hybrides.",
+   "Attention aux objets et au monde concret (Ponge, Guillevic), à la présence et au lieu (Bonnefoy, Jaccottet).",
+   "Réflexion sur le langage et sur le travail d'écriture lui-même.",
+   "Retour, chez beaucoup de poètes, d'un lyrisme plus sobre, attentif à la nature et au vivant.",
+   "Place du blanc, du silence, de la typographie.",
+   "Dimension écologique dans les œuvres récentes."
+  ],
+  "contexte": "Après la guerre et la fin du surréalisme comme groupe actif, les poètes cherchent de nouvelles voies, parfois en lien avec la peinture ou la philosophie. La poésie francophone (Québec, Afrique, Caraïbe) enrichit le paysage. Au XXIe siècle, la crise écologique renouvelle le thème de la nature.",
+  "auteurs": [
+   "ponge",
+   "dorion"
+  ],
+  "oeuvresCles": [
+   "Le Parti pris des choses (Ponge, 1942)",
+   "Feuillets d'Hypnos (René Char, 1946)",
+   "Paroles (Prévert, 1946)",
+   "La Rage de l'expression (Ponge, 1952)",
+   "Du mouvement et de l'immobilité de Douve (Bonnefoy, 1953)",
+   "L'Homme rapaillé (Gaston Miron, 1970)",
+   "Mes forêts (Hélène Dorion, 2021)"
+  ]
+ },
+ {
+  "id": "theatre-absurde",
+  "nom": "Le théâtre de l'absurde",
+  "periode": "vers 1950 - vers 1965",
+  "siecle": 20,
+  "resume": "L'expression, popularisée par le critique Martin Esslin en 1961, regroupe des dramaturges qui montrent sur scène l'absurdité de la condition humaine. Ils ne forment pas une école, mais partagent la destruction des conventions théâtrales traditionnelles.",
+  "caracteristiques": [
+   "Absence d'intrigue progressive ; structure souvent circulaire.",
+   "Personnages sans identité stable ni psychologie, souvent en attente.",
+   "Langage vidé de sens : clichés, répétitions, dialogues qui tournent à vide.",
+   "Mélange de comique grinçant et de tragique : le rire face au néant.",
+   "Décors dépouillés et objets symboliques (l'arbre de Godot, les chaises d'Ionesco)."
+  ],
+  "contexte": "Après la Seconde Guerre mondiale, les horreurs du siècle et la menace nucléaire ébranlent la confiance dans la raison et le langage. Les petits théâtres de la rive gauche à Paris accueillent ces pièces d'avant-garde, qui ont d'abord choqué le public.",
+  "auteurs": [],
+  "oeuvresCles": [
+   "La Cantatrice chauve (Ionesco, 1950)",
+   "Les Chaises (Ionesco, 1952)",
+   "En attendant Godot (Beckett, créé en 1953)",
+   "Fin de partie (Beckett, 1957)",
+   "Rhinocéros (Ionesco, 1959)",
+   "Le roi se meurt (Ionesco, 1962)"
+  ]
+ },
+ {
+  "id": "nouveau-roman",
+  "nom": "Le Nouveau Roman",
+  "periode": "vers 1953 - vers 1970",
+  "siecle": 20,
+  "resume": "Le Nouveau Roman désigne des romanciers, souvent publiés aux éditions de Minuit, qui remettent en cause les conventions du roman traditionnel hérité de Balzac. Ils ne forment pas une école au sens strict, mais partagent une même méfiance envers le personnage, l'intrigue et le narrateur omniscient.",
+  "caracteristiques": [
+   "Remise en cause du personnage (sans nom, sans passé, sans psychologie stable).",
+   "Intrigue déconstruite : chronologie bouleversée, répétitions, variations.",
+   "Descriptions minutieuses et objectives des objets (Robbe-Grillet).",
+   "Exploration des mouvements intérieurs infimes : tropismes et sous-conversation (Sarraute).",
+   "Expériences narratives : narration au « vous » (Butor), points de vue multiples.",
+   "Réflexion sur l'écriture elle-même : le roman comme recherche."
+  ],
+  "contexte": "Après la Seconde Guerre mondiale, les écrivains doutent de la capacité du roman traditionnel à rendre compte d'un monde bouleversé. L'éditeur Jérôme Lindon (éditions de Minuit) rassemble ces auteurs, et des essais théoriques (L'Ère du soupçon, Pour un nouveau roman) en définissent les principes.",
+  "auteurs": [
+   "sarraute"
+  ],
+  "oeuvresCles": [
+   "Tropismes (Sarraute, 1939)",
+   "Les Gommes (Robbe-Grillet, 1953)",
+   "L'Ère du soupçon (Sarraute, 1956)",
+   "La Modification (Butor, 1957)",
+   "La Jalousie (Robbe-Grillet, 1957)",
+   "Moderato cantabile (Duras, 1958)",
+   "Pour un nouveau roman (Robbe-Grillet, 1963)"
+  ]
+ },
+ {
+  "id": "oulipo",
+  "nom": "L'Oulipo",
+  "periode": "depuis 1960",
+  "siecle": 20,
+  "resume": "L'Ouvroir de littérature potentielle (Oulipo) est un groupe fondé en 1960 par Raymond Queneau et le mathématicien François Le Lionnais. Il invente et explore des contraintes formelles pour stimuler la création littéraire.",
+  "caracteristiques": [
+   "La contrainte comme moteur de l'écriture (lipogramme, palindrome, méthode S+7…).",
+   "Rapprochement entre littérature et mathématiques.",
+   "Jeu et humour, sans renoncer à la gravité.",
+   "Réécriture et variation à partir d'un même texte.",
+   "Groupe toujours actif, qui se renouvelle par cooptation."
+  ],
+  "contexte": "Le groupe naît dans un contexte d'intérêt pour les structures du langage. Contrairement au surréalisme, qui privilégiait le hasard et l'inconscient, l'Oulipo revendique une écriture consciente et maîtrisée.",
+  "auteurs": [],
+  "oeuvresCles": [
+   "Exercices de style (Queneau, 1947), œuvre précurseur",
+   "Cent mille milliards de poèmes (Queneau, 1961)",
+   "La Disparition (Perec, 1969)",
+   "La Vie mode d'emploi (Perec, 1978)",
+   "Si par une nuit d'hiver un voyageur (Calvino, 1979)"
+  ]
+ }
+]
